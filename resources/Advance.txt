@@ -1,0 +1,425 @@
+
+// question: 0  name: Switch category to $course$/UK Advance/GA Licensing Conditions
+$CATEGORY: $course$/UK Advance/GA Licensing Conditions
+
+
+// question: 46  name: GA-2a.1-01 MM1ABC, decides to sail to Douglas on the Isle Of Man. During the sailing which callsign should he use?
+::GA-2a.1-01 MM1ABC, decides to sail to Douglas on the Isle Of Man. During the sailing which callsign should he use?::[html]GA-2a.1-01 MM1ABC, decides to sail to Douglas on the Isle Of Man. During the sailing which callsign should he use?{
+	=[moodle]MM1ABC/MM
+	~[moodle]MD1ABC/MM
+	~[moodle]M1ABC/MM
+	~[moodle]MM1ABC/M
+}
+
+
+// question: 101  name: GA-2a.1-02 Which one of the following is not a valid UK callsign?
+::GA-2a.1-02 Which one of the following is not a valid UK callsign?::[html]GA-2a.1-02 Which one of the following is not a valid UK callsign?{
+	~[moodle]MM1ABC/MM
+	~[moodle]2D1ABC/P
+	~[moodle]G5AB/M
+	=[moodle]M2ABC/MM
+}
+
+
+// question: 105  name: GA-2a.1-03 Which one of the following is forbidden by the licence?
+::GA-2a.1-03 Which one of the following is forbidden by the licence?::[html]GA-2a.1-03 Which one of the following is forbidden by the licence?{
+	~[moodle]Listening to amateurs on frequencies not allocated to UK amateurs.
+	=[moodle]Operating whilst in an aircraft.
+	~[moodle]Operating whilst driving.
+	~[moodle]Sending messages using codes.
+}
+
+
+// question: 1068  name: GA-2a.1-04 The callsign GI0xxx belongs to an amateur in
+::GA-2a.1-04 The callsign GI0xxx belongs to an amateur in::[html]GA-2a.1-04 The callsign GI0xxx belongs to an amateur in{
+	~[moodle]Wales
+	~[moodle]Guernsey
+	=[moodle]Northern Ireland
+	~[moodle]England
+}
+
+
+// question: 1071  name: GA-2a.1-05 When operating from a car it is recommended that you use the suffix
+::GA-2a.1-05 When operating from a car it is recommended that you use the suffix::[html]GA-2a.1-05 When operating from a car it is recommended that you use the suffix{
+	~[moodle]/P
+	~[moodle]/A
+	=[moodle]/M
+	~[moodle]/MM
+	####In the licence from Ofcom, the use of Suffixes are only recommended and are not an actual requirement. It does however also aid the receiving station in knowing for example that your in a car and you signal will likely change.
+}
+
+
+// question: 1168  name: GA-2a.1-06 When the station is operated from a temporary premises in the same country of the main station the call given on the first page of the licence will be used with
+::GA-2a.1-06 When the station is operated from a temporary premises in the same country of the main station the call given on the first page of the licence will be used with::[html]GA-2a.1-06 When the station is operated from a temporary premises in the same country of the main station the call given on the first page of the licence will be used with{
+	~[moodle]No suffix
+	~[moodle]The suffix /M
+	=[moodle]The suffix /P
+	~[moodle]The suffix /MM
+}
+
+
+// question: 1229  name: GA-2a.1-07 An amateur station may not be established and used
+::GA-2a.1-07 An amateur station may not be established and used::[html]GA-2a.1-07 An amateur station may not be established and used{
+	~[moodle]In a moving vessel on a canal or a non-tidal waterway
+	=[moodle]In an aircraft
+	~[moodle]On a public service vehicle with the written permission of the owner of the vehicle
+	~[moodle]On the sea, provided it is within territorial waters
+}
+
+
+// question: 1159  name: GA-2b.1-01 May a member of the UK Police Force operate an established amateur radio station?
+::GA-2b.1-01 May a member of the UK Police Force operate an established amateur radio station?::[html]GA-2b.1-01 May a member of the UK Police Force operate an established amateur radio station?{
+	~[moodle]Yes, for the purpose of passing messages on behalf of the UK Police Force during an operation or excercise coducted by the Police Force
+	=[moodle]No, but the Licensee may permit the use of the station in order to pass messages on the Officer's behalf
+	~[moodle]No, unless the Officer holds a current United Kingdom Amateur Radio License
+	~[moodle]Yes, the Officer may use the amateur radio station to pass any message
+}
+
+
+// question: 1232  name: GA-2b.1-02 An amateur radio station may be used in times of e
+::GA-2b.1-02 An amateur radio station may be used in times of e::[html]GA-2b.1-02 An amateur radio station may be used in times of emergency for sending messages{
+	=[moodle]On behalf of User Services services
+	~[moodle]For any social occasion
+	~[moodle]Relating to the Armed Forces
+	~[moodle]On behlaf of the British Red Cross Society
+}
+
+
+// question: 48  name: GA-2c.1-01 Who may operate, unsupervised, the Station of a Full licence holder?
+::GA-2c.1-01 Who may operate, unsupervised, the Station of a Full licence holder?::[html]GA-2c.1-01 Who may operate, unsupervised, the Station of a Full licence holder?{
+	=[moodle]The licensee only.
+	~[moodle]Any licensed radio amateur from the UK.
+	~[moodle]Any licensed radio amateur from the UK and any other country.
+	~[moodle]The licensee, and any representative of a User Service.
+}
+
+
+// question: 1231  name: GA-2c.1-03 Apart from the Licensee, an amateur radio station
+::GA-2c.1-03 Apart from the Licensee, an amateur radio station::[html]GA-2c.1-03 Apart from the Licensee, an amateur radio station may be operated by{
+	~[moodle]The Emergency County Planning Officer
+	=[moodle]A person who holds an Amateur Radio Certificate issued by the Secretary of State
+	~[moodle]An officer of the British Red Cross society
+	~[moodle]An officer delgated by the local Chief Constable
+}
+
+
+// question: 1171  name: GA-2d.1-01 When operating maritime mobile the use of the radio equipment must cease when instructed by
+::GA-2d.1-01 When operating maritime mobile the use of the radio equipment must cease when instructed by::[html]GA-2d.1-01When operating maritime mobile the use of the radio equipment must cease when instructed by{
+	~[moodle]the Coast Guard
+	~[moodle]the vessel’s communication officer
+	=[moodle]the vessel’s master
+	~[moodle]none of the above
+}
+
+
+// question: 102  name: GA-2d.1-01 Where would you use your UK callsign and the suffix /MM?
+::GA-2d.1-01 Where would you use your UK callsign and the suffix /MM?::[html]GA-2d.1-01 Where would you use your UK callsign and the suffix /MM?{
+	~[moodle]On board a barge on the Leeds Liverpool canal.
+	=[moodle]In the middle of the Atlantic Ocean.
+	~[moodle]On board a ferry on Lake Geneva.
+	~[moodle]Mobile in Scotland.
+}
+
+
+// question: 1156  name: GA-2d.1-02 On board a ship within coastal waters the suffix to be added to the callsign is
+::GA-2d.1-02 On board a ship within coastal waters the suffix to be added to the callsign is::[html]GA-2d.1-02 On board a ship within coastal waters the suffix to be added to the callsign is{
+	~[moodle]/A
+	~[moodle]/M
+	=[moodle]/MM
+	~[moodle]None required 
+}
+
+
+// question: 49  name: GA-2e.1-01 You are operating using your own callsign and appropriate prefix under CEPT licensing in a Region 2 host country. You may:
+::GA-2e.1-01 You are operating using your own callsign and appropriate prefix under CEPT licensing in a Region 2 host country. You may\:::[html]GA-2e.1-01 You are operating using your own callsign and appropriate prefix under CEPT licensing in a Region 2 host country. You may\:{
+	~[moodle]operate only within the frequencies specified in the UK Schedule
+	~[moodle]transmit only within the frequencies specified in the UK Schedule, but listen on others permitted in Region 2
+	=[moodle]operate within the frequencies allowed to Region 2 licensed amateurs
+	~[moodle]only operate under the supervision of a host country licensed amateur
+	####The key point is that the operating privileges for the visitor operating under the CEPT Licence are defined by the COUNTRY BEING VISITED, NOT THE PRIVILEGES IN HIS OWN COUNTRY.
+}
+
+
+// question: 1170  name: GA-2e.1-02 When operating in other countries which have signed CEPT Recommendation T/R 61-01 you must
+::GA-2e.1-02 When operating in other countries which have signed CEPT Recommendation T/R 61-01 you must::[html]GA-2e.1-02 When operating in other countries which have signed CEPT Recommendation T/R 61-01 you must{
+	~[moodle]Have a Reciprocal Licence
+	=[moodle]Be a temporary visitor and non-resident in the host country
+	~[moodle]Have an authorisation document from the host country
+	~[moodle]Have a supplementary document issued by your own Licensing Authority
+}
+
+
+// question: 1166  name: GA-2f.1-01 The Amateur Licence authorises the Licensee to use a station for certain purposes. For which of the following is the licensee NOT authorised
+::GA-2f.1-01 The Amateur Licence authorises the Licensee to use a station for certain purposes. For which of the following is the licensee NOT authorised::[html]GA-2f.1-01 The Amateur Licence authorises the Licensee to use a station for certain purposes. For which of the following is the licensee NOT authorised{
+	~[moodle]Taking part in disaster relief exercises conducted by the British Red Cross
+	~[moodle]Taking part in disaster exercises conducted by any United Kingdom Fire and Rescue Service
+	=[moodle]Receiving lawful transmissions within the framework of the United Kingdom Frequency Allocation Table which the Amateur is not licensed to receive# <span style\="font-style\: italic;"></span><br /> 
+	~[moodle]Publicising the meetings of the local Church Youth Club, which is of interest to both parties#<span style\="font-style\: italic;">11(1) The Licensee shall be permitted to use the Radio Equipment to discuss any topics ofmutual interest with other Amateurs, and to seek to receive and impart any information and any ideas.</span> (The Licensee is also referred to note 7 which stipulates that such messages must not be of a menacing, gross and/or indecent or illegal character) 
+}
+
+
+// question: 1160  name: GA-2f.1-02 Is the holder of an Amateur Radio Licence permitted to use a secret code when communicating with another amateur station?
+::GA-2f.1-02 Is the holder of an Amateur Radio Licence permitted to use a secret code when communicating with another amateur station?::[html]GA-2f.1-02 Is the holder of an Amateur Radio Licence permitted to use a secret code when communicating with another amateur station?{
+	~[moodle]Yes, when helping in disaster relief
+	=[moodle]No, only recognised codes may be used and then only if they do not obscure the meaning of the Message
+	~[moodle]Yes, providing the callsigns are not sent in code
+	~[moodle]Yes, if the details are entered clearly in the log
+}
+
+
+// question: 50  name: GA-2f.1-03 Without specific authorisation, you may NOT record and retransmit Messages:
+::GA-2f.1-03 Without specific authorisation, you may NOT record and retransmit Messages\:::[html]GA-2f.1-03 Without specific authorisation, you may NOT record and retransmit Messages\:{
+	=[moodle]addressed to you from other amateurs, excluding their callsigns
+	~[moodle]addressed to you from other amateurs, including their callsigns
+	~[moodle]as part of the intermediate relaying of Messages to other licensed amateurs
+	~[moodle]using a mailbox or bulletin board run by you
+}
+
+
+// question: 1172  name: GA-2f.1-04 A broadcast may be made to amateur stations in general provided that
+::GA-2f.1-04 A broadcast may be made to amateur stations in general provided that::[html]GA-2f.1-04 A broadcast may be made to amateur stations in general provided that{
+	=[moodle]It is an initial call
+	~[moodle]Communication is not established with any station
+	~[moodle]The information sent is of general interest
+	~[moodle]The information is intended for disaster relief purposes
+}
+
+
+// question: 1235  name: GA-2f.1-05 The recordings which a radio amateur may not transmit include
+::GA-2f.1-05 The recordings which a radio amateur may not transmit include::[html]GA-2f.1-05 The recordings which a radio amateur may not transmit include{
+	=[moodle]Messages which are grossly indecent, of menacing or illegal character and/or are of pecuniary interest
+	~[moodle]Recordings of the station with which the radio amateur is in contact, callsigns having been deleted
+	~[moodle]Recordings of messages which are addressed to a specific station by the originating station but from which the originating station callsign has been deleted
+	~[moodle]Recordings of communications carried out in disaster relief operations by the authorities
+}
+
+
+// question: 1293  name: GA-2f.1-06 The language used in messages exchanged between amateur radio stations
+::GA-2f.1-06 The language used in messages exchanged between amateur radio stations::[html]GA-2f.1-06 The language used in messages exchanged between amateur radio stations{
+	~[moodle]Must be in the National Language of the licensee
+	=[moodle]Must not be offensive, osbscene or indecent in any way
+	~[moodle]Can be in cipher, code or secret language provided the General Manager of the Local Post Office area has been notified
+	~[moodle]Must be spoken slowly and clearly using the recognised phonetic alphabet
+}
+
+
+// question: 1247  name: GA-2h.1-01 If a Full Licensee whose callsign is M0QRZ is operating from temporary premises in Wales, it is suggested that at intervals of 15 minutes or more frequently during radio communication the operator should send
+::GA-2h.1-01 If a Full Licensee whose callsign is M0QRZ is operating from temporary premises in Wales, it is suggested that at intervals of 15 minutes or more frequently during radio communication the operator should send::[html]GA-2h.1-01 If a Full Licensee whose callsign is M0QRZ is operating from temporary premises in Wales, it is suggested that at intervals of 15 minutes or more frequently during radio communication the operator should send{
+	~[moodle]M0QRZ/A and adhering to the conditions of location as set out in the licence
+	=[moodle]MW0QRZ/A and adhering to the conditions of location as set out in the licence
+	~[moodle]MW/M0QRZ/P and adhering to the conditions of location as set out in the licence
+	~[moodle]M0QRZ/Wales and adhering to the conditions of location as set out in the licence
+}
+
+
+// question: 1236  name: GA-2i.1-01 An Amateur Station log should be kept, if requested by the UK Licensing Authority. The log should be made available for inspection, at any reasonable time, by a person acting under the authority of
+::GA-2i.1-01 An Amateur Station log should be kept, if requested by the UK Licensing Authority. The log should be made available for inspection, at any reasonable time, by a person acting under the authority of::[html]GA-2i.1-01 An Amateur Station log should be kept, if requested by the UK Licensing Authority. The log should be made available for inspection, at any reasonable time, by a person acting under the authority of{
+	=[moodle]Ofcom
+	~[moodle]Home Office
+	~[moodle]Local Police Constabulary
+	~[moodle]Radiocommunications Agency
+}
+
+
+// question: 1165  name: GA-2i.1-01 Any amateur station can be closed down at any time on the demand of any person acting on behalf of
+::GA-2i.1-01 Any amateur station can be closed down at any time on the demand of any person acting on behalf of::[html]GA-2i.1-01 Any amateur station can be closed down at any time on the demand of any person acting on behalf of{
+	~[moodle]The Police
+	=[moodle]The Secretary of State
+	~[moodle]Ministry of Defence
+	~[moodle]The County or local District Councils
+}
+
+
+// question: 1169  name: GA-2i.1-02 The radio station established and used by the holder of an amateur radio licence MUST be equipped for reception on
+::GA-2i.1-02 The radio station established and used by the holder of an amateur radio licence MUST be equipped for reception on::[html]GA-2i.1-02 The radio station established and used by the holder of an amateur radio licence MUST be equipped for reception on{
+	~[moodle]The Frequency bands used in the schedule to the licence
+	=[moodle]The frequency or frequencies which are currently in use for sending
+	~[moodle]Frequencies used in disaster relief by the Red Cross, St John Ambulance Brigade and Police
+	~[moodle]At least one band in the frequency band 3 to 30MHz
+}
+
+
+// question: 1180  name: GA-2i.1-03 If demanded by a person authorised by the Secretary of State to close down or restrict operation the licensee must comply
+::GA-2i.1-03 If demanded by a person authorised by the Secretary of State to close down or restrict operation the licensee must comply::[html]GA-2i.1-03 If demanded by a person authorised by the Secretary of State to close down or restrict operation the licensee must comply{
+	=[moodle]Immediately
+	~[moodle]Within 24 hours
+	~[moodle]Within 7 days
+	~[moodle]Within 28 days
+}
+
+
+// question: 1228  name: GA-2i.1-04 The period of validity  of an amateur transmitting
+::GA-2i.1-04 The period of validity  of an amateur transmitting::[html]GA-2i.1-04 The period of validity of an amateur transmitting licence is (current answer different from answer given on mark grid){
+	~[moodle]Six months
+	~[moodle]One year
+	=[moodle]Five years
+	~[moodle]Until it is revoked
+}
+
+
+// question: 47  name: GA-600 Which one of the following frequency bands may not be used for international disaster communications?
+::GA-600 Which one of the following frequency bands may not be used for international disaster communications?::[html]GA-600 Which one of the following frequency bands may not be used for international disaster communications?{
+	=[moodle]One which is not specifically mentioned (i.e. permitted) on their Licence Certificate/Document
+	~[moodle]3.5 to 3.8 MHz.
+	~[moodle]7.0 to 7.1 MHz.
+	~[moodle]10.10 to 10.15 MHz.
+}
+
+
+// question: 0  name: Switch category to $course$/UK Advance/GA Operating Practices and Procedures
+$CATEGORY: $course$/UK Advance/GA Operating Practices and Procedures
+
+
+// question: 97  name: GA-602 You have a real-time QSO on 2 metres with another Packet station which is out of range. This is made possible through:
+::GA-602 You have a real-time QSO on 2 metres with another Packet station which is out of range. This is made possible through\:::[html]GA-602 You have a real-time QSO on 2 metres with another Packet station which is out of range. This is made possible through\:{
+	=[moodle]Digipeating
+	~[moodle]Mailboxes
+	~[moodle]Bulletin Boards
+	~[moodle]Voice Repeater
+}
+
+
+// question: 98  name: GA-603 Under the IARU band plans which one of the following is true?
+::GA-603 Under the IARU band plans which one of the following is true?::[html]GA-603 Under the IARU band plans which one of the following is true?{
+	~[moodle]SSB operation is permitted on all HF bands.
+	~[moodle]Contests are permitted on all HF bands.
+	=[moodle]Transmissions on satellite frequencies should be avoided for terrestrial contacts.
+	~[moodle]Transmission on beacon frequencies is permitted during contests.
+}
+
+
+// question: 55  name: GA-605 Which one of the following is NOT true?
+::GA-605 Which one of the following is NOT true?::[html]GA-605 Which one of the following is NOT true?{
+	=[moodle]You can get a Special Event Station callsign to celebrate your birthday.
+	~[moodle]You can get a Special Event Station callsign to celebrate Marconi's birthday.
+	~[moodle]You could get a Special Event Station callsign to celebrate the 80th anniversary of the RSGB.
+	~[moodle]Some organisations have permanent Special Event Station callsigns.
+}
+
+
+// question: 104  name: GA-606 Which of the following recommends that wideband modes should NOT be used on the 30m band?
+::GA-606 Which of the following recommends that wideband modes should NOT be used on the 30m band?::[html]GA-606 Which of the following recommends that wideband modes should NOT be used on the 30m band?{
+	~[moodle]RSGB
+	=[moodle]IARU
+	~[moodle]OFCOM
+	~[moodle]RAYNET
+}
+
+
+// question: 119  name: GA-608 You wish to experiment listening to PSK31 transmissions on the 20 metre band, but don't have a copy of the band plan handy. Where would you expect to find PSK31 transmissions?
+::GA-608 You wish to experiment listening to PSK31 transmissions on the 20 metre band, but don't have a copy of the band plan handy. Where would you expect to find PSK31 transmissions?::[html]GA-608 You wish to experiment listening to PSK31 transmissions on the 20 metre band, but don't have a copy of the band plan handy. Where would you expect to find PSK31 transmissions?{
+	=[moodle]In the lower portion of the band.
+	~[moodle]In the mid-portion of the band.
+	~[moodle]In the higher portion of the band.
+	~[moodle]Anywhere within the band.
+}
+
+
+// question: 1158  name: GA-610 The frequency stability of a transmitter
+::GA-610 The frequency stability of a transmitter::[html]GA-610 The frequency stability of a transmitter{
+	~[moodle]Must remain within 1% over a period of 1 hour
+	~[moodle]Is not specified
+	~[moodle]Must remain within 1% over the period the transmitter is operating
+	=[moodle]Must be as good as the state of technical radio reasonably permits
+}
+
+
+// question: 1161  name: GA-611 Which of the following frequency bands is allocated to the amateur service on an exclusive basis?
+::GA-611 Which of the following frequency bands is allocated to the amateur service on an exclusive basis?::[html]GA-611 Which of the following frequency bands is allocated to the amateur service on an exclusive basis?{
+	~[moodle]1.81-2.0MHz
+	~[moodle]3.5-3.8MHz
+	=[moodle]28.0-29.7MHz
+	~[moodle]70.025-70.5MHz
+}
+
+
+// question: 1181  name: GA-612 The main purpose of the "Q" codes is to
+::GA-612 The main purpose of the "Q" codes is to::[html]GA-612 The main purpose of the &quot;Q&quot; codes is to{
+	~[moodle]Save time on telephony
+	=[moodle]Save time on telegraphy
+	~[moodle]Use in the station log
+	~[moodle]Use on station confirmation cards
+}
+
+
+// question: 1182  name: GA-613 When sending a CQ call in Morse the callsign of the station should be sent at a speed
+::GA-613 When sending a CQ call in Morse the callsign of the station should be sent at a speed::[html]GA-613 When sending a CQ call in Morse the callsign of the station should be sent at a speed{
+	=[moodle]At which the sender is prepared to receive a reply
+	~[moodle]Of 20 words per minute
+	~[moodle]At which the sender is prepared to receive a reply but not more tan 20 words per minute
+	~[moodle]Of 15 words per minute
+}
+
+
+// question: 1183  name: GA-614 The "Q" code to ask "who is calling me?" is
+::GA-614 The "Q" code to ask "who is calling me?" is::[html]GA-614 The &quot;Q&quot; code to ask &quot;who is calling me?&quot; is{
+	~[moodle]QSP
+	~[moodle]QRM
+	~[moodle]QSL
+	=[moodle]QRZ
+}
+
+
+// question: 1184  name: GA-615 The spelling of the word LIBRA using the recommended phonetic alphabet is
+::GA-615 The spelling of the word LIBRA using the recommended phonetic alphabet is::[html]GA-615 The spelling of the word LIBRA using the recommended phonetic alphabet is{
+	~[moodle]Love India Baker Roger Alpha
+	=[moodle]Lima India Bravo Romeo Alpha
+	~[moodle]Love India Bravo Roger Able
+	~[moodle]Lima Item Bravo Radio Alpha
+}
+
+
+// question: 1233  name: GA-616 Morse telegraphy by on-off keying without the use
+::GA-616 Morse telegraphy by on-off keying without the use::[html]GA-616 Morse telegraphy by on-off keying without the use of a modulating frequency is designated by the symbols{
+	=[moodle]A1A
+	~[moodle]F3E
+	~[moodle]A2A
+	~[moodle]F1A
+}
+
+
+// question: 54  name: GA-8a.1-01 DX Cluster networks:
+::GA-8a.1-01 DX Cluster networks\:::[html]GA-8a.1-01 DX Cluster networks\:{
+	~[moodle]occur when DX stations group together to make it easier for amateurs to collect multiple rare countries
+	=[moodle]is a system using Packet radio (or Internet) for spreading DX information to amateurs who are logged on
+	~[moodle]is a system using Packet radio similar to a 'net' on telephony
+	~[moodle]are not permitted without a Notice of Variation
+}
+
+
+// question: 106  name: GA-8b.1-01 The 'offset' of a 2 m repeater is:
+::GA-8b.1-01 The 'offset' of a 2 m repeater is\:::[html]GA-8b.1-01 The 'offset' of a 2 m repeater is\:{
+	~[moodle]the distance (in km) your station is from the repeater
+	~[moodle]the height (in metres) of the repeater's antenna
+	=[moodle]the difference between its transmit and receive frequencies
+	~[moodle]the frequency of its CTCSS tone, if any
+}
+
+
+// question: 96  name: GA-8b.1-02 You are listening to another amateur through a repeater, when the repeater goes silent for a minute or so, but you can still hear the amateur on the input frequency. This is most likely because:
+::GA-8b.1-02 You are listening to another amateur through a repeater, when the repeater goes silent for a minute or so, but you can still hear the amateur on the input frequency. This is most likely because\:::[html]GA-8b.1-02 You are listening to another amateur through a repeater, when the repeater goes silent for a minute or so, but you can still hear the amateur on the input frequency. This is most likely because\:{
+	=[moodle]the amateur has talked for too long and the repeater has 'timed out'
+	~[moodle]the repeater keeper is doing maintenance
+	~[moodle]the repeater needs a tone burst
+	~[moodle]the repeater needs a CTCSS tone
+}
+
+
+// question: 1248  name: GA-8b.1-03 The purpose of a 2 metre repeater is to
+::GA-8b.1-03 The purpose of a 2 metre repeater is to::[html]GA-8b.1-03 The purpose of a 2 metre repeater is to{
+	~[moodle]Permit amateur operation without the use of callsigns
+	~[moodle]Provide communication for emergency purposes
+	=[moodle]Make possible VHF contacts over longer distances
+	~[moodle]Experiment with frequency shift techniques
+}
+
+
+// question: 1157  name: GA-8e.1-01 The holder of an amateur radio licence wishes to make radio contactwith a station in another IARU region who is permitted to transmit on7.25MHz. The licensee is allowed to
+::GA-8e.1-01 The holder of an amateur radio licence wishes to make radio contactwith a station in another IARU region who is permitted to transmit on7.25MHz. The licensee is allowed to::[html]GA-8e.1-01 The holder of an amateur radio licence wishes to make radio contactwith a station in another IARU region who is permitted to transmit on7.25MHz. The licensee is allowed to{
+	~[moodle]Transmit and receive on 7.25MHz
+	~[moodle]Transmit briefly on 7.25MHz to request the station to move to a permitted part of the band
+	=[moodle]Listen to the station on 7.25MHz and transmit only within the permitted band
+	~[moodle]Transmit and receive only within the permitted band
+}
+
+

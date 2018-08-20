@@ -1,0 +1,3124 @@
+
+// question: 0  name: Switch category to $course$/Foundation/Q01/2a.1
+$CATEGORY: $course$/Foundation/Q01/2a.1
+
+
+// question: 5030  name: GF-2A1-001 Which of the following is NOT a class o
+::GF-2A1-001 Which of the following is NOT a class o::GF-2A1-001 Which of the following is NOT a class of UK Amateur Radio Licence?{
+	~[html]Foundation
+	=[html]Novice
+	~[html]Intermediate
+	~[html]Full
+}
+
+
+// question: 5034  name: GF-2A1-002 Where can you NOT use your Foundation L
+::GF-2A1-002 Where can you NOT use your Foundation L::GF-2A1-002 Where can you NOT use your Foundation Licence?{
+	~[html]Isle of Man
+	~[html]Isle of Wight
+	=[html]Eire Ireland
+	~[html]Guernsey
+}
+
+
+// question: 5035  name: GF-2A1-003 What are the next obtainable Licences i
+::GF-2A1-003 What are the next obtainable Licences i::GF-2A1-003 What are the next obtainable Licences in sequential order after passing your Foundation Radio Communications Examination?{
+	=[html]Intermediate and Advanced
+	~[html]Novice and Full
+	~[html]Intermediate and Class A
+	~[html]Novice and General
+}
+
+
+// question: 5036  name: GF-2A1-004 You hold a Foundation Licence with call
+::GF-2A1-004 You hold a Foundation Licence with call::GF-2A1-004 You hold a Foundation Licence with callsign M6QRZ and you are intending to go on a two week holiday to France.  While there, you wish to use your portable hand-held radio.  What callsign should you use?{
+	~[html]F/M6QRZ
+	~[html]FR/M6QRZ
+	~[html]F6QRZ
+	=[html]It is not permitted under the terms of your licence
+}
+
+
+// question: 5038  name: GF-2A1-005 A Foundation Licensee callsign M6QRZ tr
+::GF-2A1-005 A Foundation Licensee callsign M6QRZ tr::GF-2A1-005 A Foundation Licensee callsign M6QRZ travels from Dover to Calais by ferry. While on board{
+	~[html]They are authorised to use their Radio Equipment during the voyage, providing that the ship is registered in a port of the United Kingdom, the Channel Islands or the Isle of Man.
+	~[html]They are authorised to use their Radio Equipment upon seeking the permission of the ship's master.
+	=[html]They are not authorised to use their Radio Equipment until they return to Dover, and have disembarked.
+	~[html]They are authorised to operate their Radio Equipment upon seeking permission from Ofcom and the Ferry operators.
+}
+
+
+// question: 5039  name: GF-2A1-006 The names in order of attainment of the
+::GF-2A1-006 The names in order of attainment of the::GF-2A1-006 The names in order of attainment of the three Amateur Radio licences in the UK are{
+	~[html]Foundation, Novice and Full
+	~[html]Novice, Intermediate and Advanced
+	~[html]Foundation, Intermediate and Class A
+	=[html]Foundation, Intermediate and Advanced/Full
+}
+
+
+// question: 5040  name: GF-2A1-007 Foundation Licensees shall ensure that 
+::GF-2A1-007 Foundation Licensees shall ensure that ::GF-2A1-007 Foundation Licensees shall ensure that they shall only use{
+	=[html]Equipment either standard Radio Equipment or commercially available kits which satisfy IR 2028
+	~[html]Equipment of personal design
+	~[html]Equipment of personal design which has been approved by the Regional Ofcom Office
+	~[html]Equipment which does not come in kit form
+}
+
+
+// question: 5042  name: GF-2A1-009 Foundation Licensees are only permitted
+::GF-2A1-009 Foundation Licensees are only permitted::GF-2A1-009 Foundation Licensees are only permitted to use{
+	~[html]Equipment which is not commercially available but still satisfies IR 2028
+	~[html]Equipment which is of personal design
+	=[html]Equipment which is commercially available either as pre-assembled or in kit form and satisfies IR 2028
+	~[html]Equipment which has been bought by an Advanced Class Licensee
+}
+
+
+// question: 5043  name: GF-2A1-010 The more advanced the class of UK Amate
+::GF-2A1-010 The more advanced the class of UK Amate::GF-2A1-010 The more advanced the class of UK Amateur Radio Licence{
+	=[html]The greater the facilities are for increased power output and the designing of equipment
+	~[html]The greater the facilities are for power output
+	~[html]The less leniency Ofcom will show in a case of contravention of the terms of the Licence
+	~[html]The greater the leniency Ofcom will show in a case of contravention of the terms of the Licence
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q01/2b.1
+$CATEGORY: $course$/Foundation/Q01/2b.1
+
+
+// question: 5045  name: GF-2B1-001 Your callsign is M6QRZ. You are holiday
+::GF-2B1-001 Your callsign is M6QRZ. You are holiday::GF-2B1-001 Your callsign is M6QRZ. You are holidaying on the Isle of Wight, which of the following callsigns would you use?{
+	~[html]MV6QRZ
+	~[html]MW6QRZ
+	~[html]ME6QRZ
+	=[html]M6QRZ
+}
+
+
+// question: 5046  name: GF-2B1-002 You meet someone at a rally with the ca
+::GF-2B1-002 You meet someone at a rally with the ca::GF-2B1-002 You meet someone at a rally with the callsign MI6QRZ. Where are they from?{
+	~[html]Isle of Man
+	~[html]Isle of Skye
+	=[html]Northern Ireland
+	~[html]Wales
+}
+
+
+// question: 5047  name: GF-2B1-003 2E0QRZ travels to Scotland to visit his
+::GF-2B1-003 2E0QRZ travels to Scotland to visit his::GF-2B1-003 2E0QRZ travels to Scotland to visit his relatives. When in Scotland, his callsign would be?{
+	=[html]2M0QRZ
+	~[html]MM0QRZ
+	~[html]2E0QRZ/m
+	~[html]2W0QRZ
+}
+
+
+// question: 5048  name: GF-2B1-004 MW1QRZ travels to London for work, and 
+::GF-2B1-004 MW1QRZ travels to London for work, and ::GF-2B1-004 MW1QRZ travels to London for work, and uses their Radio whilst there. What callsign should he use?{
+	~[html]ME1QRZ
+	=[html]M1QRZ
+	~[html]MM1QRZ
+	~[html]G/MW1QRZ
+}
+
+
+// question: 5049  name: GF-2B1-005 Which of these is NOT operating from Gu
+::GF-2B1-005 Which of these is NOT operating from Gu::GF-2B1-005 Which of these is NOT operating from Guernsey?{
+	~[html]2U0QRZ
+	~[html]MU1QRZ
+	~[html]MU/F1QRZ
+	=[html]MM6QRZ
+}
+
+
+// question: 5050  name: GF-2B1-006 MJ6QRZ is operating from which island?
+::GF-2B1-006 MJ6QRZ is operating from which island?::GF-2B1-006 MJ6QRZ is operating from which island?{
+	~[html]Guernsey
+	~[html]Isle of Wight
+	~[html]Alderney
+	=[html]Jersey
+}
+
+
+// question: 5051  name: GF-2B1-007 While listening on HF you hear 4 callsi
+::GF-2B1-007 While listening on HF you hear 4 callsi::GF-2B1-007 While listening on HF you hear 4 callsigns. Which one was from the Isle of Man?{
+	~[html]F1QRZ
+	~[html]WA1QRZ
+	=[html]MD6QRZ
+	~[html]DL6QRZ
+}
+
+
+// question: 5052  name: GF-2B1-008 A Foundation Amateur Radio Licence perm
+::GF-2B1-008 A Foundation Amateur Radio Licence perm::GF-2B1-008 A Foundation Amateur Radio Licence permits the Licensee to transmit{
+	~[html]Only in the UK Region where it is licensed
+	~[html]Throughout the UK and the Crown Dependencies, including on their tidal and non-tidal waterways
+	~[html]In other countries, where bilateral agreements are in place between HM Government and the respective Foreign Governments
+	=[html]Only on the Territory and non-tidal waterways of England, Northern Ireland, Scotland, Wales, the Isle of Man and the Channel Islands
+}
+
+
+// question: 5053  name: GF-2B1-009 A Foundation Licensee (callsign MI6QRZ)
+::GF-2B1-009 A Foundation Licensee (callsign MI6QRZ)::GF-2B1-009 A Foundation Licensee (callsign MI6QRZ) travels to Cardiff from Belfast. While transmitting from Wales they must ensure{
+	=[html]They replace their usual Secondary Regional Identifier (I) in their callsign with the appropriate one (W).
+	~[html]They replace their usual Secondary Regional Identifier (I) in their callsign with the appropriate one (C).
+	~[html]They replace their usual Secondary Regional Identifier (I) in their callsign with the appropriate one (N).
+	~[html]They replace their usual Secondary Regional Identifier (I) in their callsign with the appropriate one (M).
+}
+
+
+// question: 5054  name: GF-2B1-010 A Foundation Licence is identifiable by
+::GF-2B1-010 A Foundation Licence is identifiable by::GF-2B1-010 A Foundation Licence is identifiable by{
+	~[html]Its 2*0 callsign (where * represents a Regional Secondary Identifier, if appropriate)
+	=[html]Its M*3/M*6 prefixed callsign (where * represents a Regional Secondary Identifier, if appropriate)
+	~[html]Its M*5 prefixed callsign (where * represents a Regional Secondary Identifier, if appropriate)
+	~[html]Its G*0 prefixed callsign (where * represents a Regional Secondary Identifier, if appropriate)
+}
+
+
+// question: 5055  name: GF-2B1-011 An Advanced (Full) Licensee is currentl
+::GF-2B1-011 An Advanced (Full) Licensee is currentl::GF-2B1-011 An Advanced (Full) Licensee is currently transmitting on 14.250MHz and calling &quot;CQ&quot;.  A Foreign station has trouble making out his callsign. Which of the following could it be?{
+	~[html]2J1QRZ
+	=[html]GI4QRZ
+	~[html]MU6QRZ
+	~[html]M3QRZ
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q02/2c.1
+$CATEGORY: $course$/Foundation/Q02/2c.1
+
+
+// question: 5056  name: GF-2C1-001 The Licensee shall transmit the callsig
+::GF-2C1-001 The Licensee shall transmit the callsig::GF-2C1-001 The Licensee shall transmit the callsign associated with the Licence{
+	~[html]As is cited in the Licence Renewal Document accompanying BR68F
+	~[html]In truncated form until the station with whom the licensee wishes to communicate acknowledges
+	~[html]Solely using the International Radiotelephony Spelling Alphabet (Alpha, Bravo, Charlie etc.)
+	=[html]In full at all times, as shown in Section 1 of the Licence "Terms, Conditions and Limitations"
+}
+
+
+// question: 5057  name: GF-2C1-002 The station callsign
+::GF-2C1-002 The station callsign::GF-2C1-002 The station callsign{
+	=[html]Must be transmitted in full as shown in the Licence "Terms, Conditions and Limitations" Booklet
+	~[html]Must be transmitted in both Morse Code and in the same type of communication as the contact
+	~[html]Is only to be transmitted in Morse Code, at a speed not lower than 12 words per minute
+	~[html]Is to be transmitted at regular intervals of  20 minutes
+}
+
+
+// question: 5058  name: GF-2C1-003 A Foundation licensee is transmitting o
+::GF-2C1-003 A Foundation licensee is transmitting o::GF-2C1-003 A Foundation licensee is transmitting on 3.740MHz. They change frequency to 14.230MHz.  They{
+	~[html]Are not required to transmit their callsign upon starting to transmit on 14.230MHz
+	=[html]Must immediately transmit  their callsign upon starting to transmit on 14.230MHz
+	~[html]Are required to transmit their callsign upon ceasing transmission on 3.740MHz and commencing transmission on 14.230MHz
+	~[html]Must transmit their callsign when the interval of transmitting it reaches 15 minutes
+}
+
+
+// question: 5059  name: GF-2C1-004 The Licensee must transmit the station 
+::GF-2C1-004 The Licensee must transmit the station ::GF-2C1-004 The Licensee must transmit the station callsign{
+	~[html]On a frequency not exceeding -/+500kHz either side of the original frequency used
+	~[html]On the assigned Standard Identification frequency of each frequency band
+	=[html]On the exact frequency used for the communication
+	~[html]On the exact frequency of communication, and in Morse code of 15 w.p.m at all times.
+}
+
+
+// question: 5060  name: GF-2C1-005 During initial CQ calls, the Licensee m
+::GF-2C1-005 During initial CQ calls, the Licensee m::GF-2C1-005 During initial CQ calls, the Licensee must transmit{
+	=[html]The station callsign in full, as shown in the Terms, Conditions and Limitations booklet
+	~[html]The station callsign prefix, followed by Country designator and any territory designation
+	~[html]The station callsign in truncated form, comprising of "6" and 3 letter prefix
+	~[html]The station callsign, followed by a "/foundation" suffix
+}
+
+
+// question: 5061  name: GF-2C1-006 The Station callsign should be transmit
+::GF-2C1-006 The Station callsign should be transmit::GF-2C1-006 The Station callsign should be transmitted{
+	~[html]In full, at the beginning of communications, and at least once every 20 minutes when the period of communication is longer than 20 minutes
+	=[html]In full, at the beginning of communications, and at least once every 15 minutes when the period of communication is longer than 15 minutes
+	~[html]In full, at the beginning of communications, and at least once every 10 minutes when the period of communication is longer than 10 minutes
+	~[html]In full, at the beginning of communications, and at least once every 30 minutes when the period of communication is longer than 30 minutes
+}
+
+
+// question: 5062  name: GF-2C1-007 It is not permitted under the terms of 
+::GF-2C1-007 It is not permitted under the terms of ::GF-2C1-007 It is not permitted under the terms of the Foundation Licence (any any amendments) to{
+	~[html]Willfully not transmit the station callsign as is shown in BR68/F
+	~[html]Willfully withhold or transmit a false callsign which is not attributed to you (or the licensee)
+	~[html]Willfully encrypt the callsign so as to make it unintelligible to any person(s) listening
+	=[html]Willfully or unintentionally not transmit the station callsign as shown in section 1 of the Terms, Conditions and Limitations booklet
+}
+
+
+// question: 5063  name: GF-2C1-008 During periods of extended communicatio
+::GF-2C1-008 During periods of extended communicatio::GF-2C1-008 During periods of extended communication, the station callsign must be transmitted{
+	~[html]Every 10 minutes
+	~[html]At regular intervals, not exceeding 5 minutes
+	=[html]At regular intervals, not exceeding 15 minutes
+	~[html]Every 20 minutes
+}
+
+
+// question: 5064  name: GF-2C1-009 A Foundation Licensee identifies themse
+::GF-2C1-009 A Foundation Licensee identifies themse::GF-2C1-009 A Foundation Licensee identifies themselves via the GB3UL (Belfast) Repeater as &quot;6QRZ/A&quot;.  They should have identified themselves as{
+	~[html]GI6QRZ/A
+	~[html]M6QRZ/A
+	=[html]MI6QRZ/A
+	~[html]MI6QRZ/A/foundation
+}
+
+
+// question: 5065  name: GF-2C1-010 A Foundation Licensee must
+::GF-2C1-010 A Foundation Licensee must::GF-2C1-010 A Foundation Licensee must{
+	~[html]Identify their station using the callsign assigned to them, along with a "/foundation" suffix
+	~[html]Identify their station using the callsign only as is stipulated in Section 1 of the Licence Terms booklet
+	~[html]Identify their station using the callsign of a Full Licence under their supervision
+	=[html]Identify their station using the callsign stipulated in Section 1 and subject to the Section 2 of the Terms, Conditions and Limitations Booklet
+}
+
+
+// question: 5066  name: GF-2C1-011 A Licensee must identify his station wi
+::GF-2C1-011 A Licensee must identify his station wi::GF-2C1-011 A Licensee must identify his station with the callsign specified in the Licence{
+	~[html]At beginning of each contact
+	~[html]At the beginning and end of each contact
+	=[html]At the beginning and end of each contact, and every 15 minutes during the contact
+	~[html]At the beginning and end of each contact, and every 30 minutes during the contact
+}
+
+
+// question: 827  name: GF-2C1-012 You must transmit your callsign:
+::GF-2C1-012 You must transmit your callsign\:::[html]<p>GF-2C1-012 You must transmit your callsign\:</p>{
+	=when you call CQ
+	~at the end of every over
+	~ever 10 minutes
+	~at least every 30 minutes
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q03/2c.2
+$CATEGORY: $course$/Foundation/Q03/2c.2
+
+
+// question: 5067  name: GF-2C2-001 The Licence is obliged to
+::GF-2C2-001 The Licence is obliged to::GF-2C2-001 The Licence is obliged to{
+	~[html]Never send messages for general reception by other amateurs, unless a Notice of Variation (NoV) is granted by Ofcom for this purpose.
+	=[html]Address messages only to amateurs with whom the licensee is in communication, with the exception of "CQ" calls, "nets" and via mailboxes/bulletin boards
+	~[html]Only send messages to other Amateurs licensed by Ofcom (i.e. from the UK, Channel Islands or Isle of Man)
+	~[html]only transmit messages for general reception when there exists a state of national emergency
+}
+
+
+// question: 5068  name: GF-2C2-002 The Licensee may transmit messages
+::GF-2C2-002 The Licensee may transmit messages::GF-2C2-002 The Licensee may transmit messages{
+	=[html]To other amateurs irrespective of country/nation or class of licence.
+	~[html]To the Emergency Services
+	~[html]On behalf of the Civil Aviation Service
+	~[html]On Behalf of all radio services
+}
+
+
+// question: 5069  name: GF-2C2-003 Amateur Radio Licensees are permitted t
+::GF-2C2-003 Amateur Radio Licensees are permitted t::GF-2C2-003 Amateur Radio Licensees are permitted to transmit messages{
+	=[html]Only to other Radio Amateurs
+	~[html]Other Radio Amateurs and Police services
+	~[html]Other Radio Amateurs and the Defence Forces
+	~[html]No other person or group of persons
+}
+
+
+// question: 5070  name: GF-2C2-004 Messages may be transmitted
+::GF-2C2-004 Messages may be transmitted::GF-2C2-004 Messages may be transmitted{
+	~[html]For general reception
+	=[html]Only to other Amateurs with whom the licensee is in communication
+	~[html]For general reception by prior advertisement in not less than 3 national newspapers
+	~[html]For general reception by prior written permission from the Office of Communications
+}
+
+
+// question: 5071  name: GF-2C2-005 Complete the following: &quot;The Licensee m
+::GF-2C2-005 Complete the following\: &quot;The Licensee m::GF-2C2-005 Complete the following\: &quot;The Licensee may transmit messages...&quot;{
+	=[html]Specifically to other Amateur Licence holders
+	~[html]Which are general in nature and intended for general reception by Amateur Licence holders
+	~[html]Which are pecuniary in nature and intended for closed reception by other Radio service users
+	~[html]Which are grossly offensive, indecent, menacing or otherwise illegal in nature
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q03/2c.3
+$CATEGORY: $course$/Foundation/Q03/2c.3
+
+
+// question: 5072  name: GF-2C3-001 Codes are permitted so long as
+::GF-2C3-001 Codes are permitted so long as::GF-2C3-001 Codes are permitted so long as{
+	=[html]They do not willfully encrypt the meaning of the message so as to render the message unintelligible to any other person(s) listening to the transmission
+	~[html]They are the "Q" Codes
+	~[html]They are only used when transmissions are made using Morse Code
+	~[html]They have been approved by Ofcom prior to their transmission.
+}
+
+
+// question: 5073  name: GF-2C3-002 A Foundation Licensee may only use code
+::GF-2C3-002 A Foundation Licensee may only use code::GF-2C3-002 A Foundation Licensee may only use codes{
+	~[html]To encrypt the meaning of a message sent by wireless telegraphy
+	~[html]To aid in the transmission of a message, whilst not encrypting it so as to render it unintelligible to others listening
+	~[html]To aid in the transmission of encrypted disaster communications messages
+	=[html]To aid the transmission of communications, using standard, universally known abbreviations.
+}
+
+
+// question: 5074  name: GF-2C3-003 &quot;Q&quot; Codes exist
+::GF-2C3-003 &quot;Q&quot; Codes exist::GF-2C3-003 &quot;Q&quot; Codes exist{
+	~[html]To be used solely when transmitting Morse Code
+	=[html]To facilitate communications by using standard abbreviations
+	~[html]To facilitate communications on Community Radio
+	~[html]To encrypt messages beyond intelligibility of a person/persons listening
+}
+
+
+// question: 5075  name: GF-2C3-004 Which of the following is false?
+::GF-2C3-004 Which of the following is false?::GF-2C3-004 Which of the following is false?{
+	=[html]Codes which are private between 2 licensees are permitted, providing Ofcom has been informed
+	~[html]Codes which aid communications, but do not encrypt the message beyond the intelligibility of others listening are permitted
+	~[html]Codes (including Morse Code and the Q Codes) are permitted for regular use
+	~[html]Messages intended for general reception are not permitted
+}
+
+
+// question: 5076  name: GF-2C3-005 Codes and abbreviations are
+::GF-2C3-005 Codes and abbreviations are::GF-2C3-005 Codes and abbreviations are{
+	~[html]Permitted so long as they do not confuse the message between the 2 (or more) in communication
+	=[html]Permitted so long as they do not confuse the meaning of message for others listening
+	~[html]Permitted so long as Ofcom have approved them
+	~[html]Permitted so long as they are publicly published, on instruction of Ofcom
+}
+
+
+// question: 1000  name: GF-2C3-006 In amateur radio jargon ‘73’ means
+::GF-2C3-006 In amateur radio jargon ‘73’ means::[html]<p>GF-2C3-006 In amateur radio jargon ‘73’ means\:</p>{
+	~your signals are readable
+	=best wishes
+	~please stop transmitting
+	~please change frequency by 73kHz
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q03/2c.4
+$CATEGORY: $course$/Foundation/Q03/2c.4
+
+
+// question: 5077  name: GF-2C4-001 Amateurs may
+::GF-2C4-001 Amateurs may::GF-2C4-001 Amateurs may{
+	~[html]Use their radio equipment for political purposes
+	~[html]Use their radio equipment to broadcast music
+	=[html]Not broadcast messages intended for general reception of any kind (except for CQ calls)
+	~[html]Not broadcast messages, without obtaining the prior written permission of Ofcom
+}
+
+
+// question: 5078  name: GF-2C4-002 A Foundation Licensee is only permitted
+::GF-2C4-002 A Foundation Licensee is only permitted::GF-2C4-002 A Foundation Licensee is only permitted to broadcast{
+	=[html]CQ calls
+	~[html]Flood warnings on behalf of the Emergency Services
+	~[html]Party Political information in the 14 days prior to a General Election
+	~[html]A regular community based news service
+}
+
+
+// question: 5079  name: GF-2C4-003 Radio Amateurs are allowed to broadcast
+::GF-2C4-003 Radio Amateurs are allowed to broadcast::GF-2C4-003 Radio Amateurs are allowed to broadcast{
+	~[html]Music they have written, performed and recorded themselves
+	=[html]CQ calls
+	~[html]News for other radio service users
+	~[html]Providing it does not cause undue interference
+}
+
+
+// question: 5080  name: GF-2C4-004 Calling CQ, and communicating via bulle
+::GF-2C4-004 Calling CQ, and communicating via bulle::GF-2C4-004 Calling CQ, and communicating via bulletin boards/mailboxes and &quot;nets&quot; are{
+	~[html]The solely permitted activities of a Foundation Licensee
+	~[html]permitted, so long as the Licensee has obtained the prior written permission of Ofcom
+	=[html]The only 2 things Foundation Licensees are permitted to do, in terms of addressing general messages
+	~[html]Not permitted for Foundation Licensees
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q03/2c.5
+$CATEGORY: $course$/Foundation/Q03/2c.5
+
+
+// question: 5081  name: GF-2C5-001 If an Advanced Licensee (M0QRZ) wishes 
+::GF-2C5-001 If an Advanced Licensee (M0QRZ) wishes ::GF-2C5-001 If an Advanced Licensee (M0QRZ) wishes to use your Radio Equipment using their Licence, they are bound by{
+	=[html]The terms of their own licence
+	~[html]The terms of your licence
+	~[html]Modified terms of their licence
+	~[html]Modified terms of your licence
+}
+
+
+// question: 5082  name: GF-2C5-002 Which of the following statements is fa
+::GF-2C5-002 Which of the following statements is fa::GF-2C5-002 Which of the following statements is false?{
+	~[html]The Foundation Licence allows the Licensee to pass or permit the passage of messages on behalf of/by User Services
+	=[html]The Foundation Licence does not allow the Licensee to pass or permit the passage of messages on behalf of/by User Services
+	~[html]Permission to pass messages on behalf of User Services is granted to all UK Amateur Licence Classes
+	~[html]The Foundation Licence has the same terms, as the Intermediate and Advanced Licences in terms of User Service usage of Radio Equipment
+}
+
+
+// question: 5083  name: GF-2C5-003 If a Foundation Licensee is a member of
+::GF-2C5-003 If a Foundation Licensee is a member of::GF-2C5-003 If a Foundation Licensee is a member of an Amateur Radio Club/Society they are permitted to transmit the club/society's callsign and associated licence privileges{
+	~[html]Without the need to be supervised at all
+	~[html]Until such times as they receive the written permission of the Licence holder
+	=[html]Under supervision from an Advanced class licensee
+	~[html]When they upgrade their licence to an Intermediate one
+}
+
+
+// question: 5084  name: GF-2C5-004 If a Foundation Licensee (M6QRZ) wishes
+::GF-2C5-004 If a Foundation Licensee (M6QRZ) wishes::GF-2C5-004 If a Foundation Licensee (M6QRZ) wishes to use the callsign of an Advanced Class licensee (M5QRZ){
+	=[html]They are permitted to do so using the Advanced Licence terms, providing M5QRZ is directly supervising M6QRZ
+	~[html]They are not permitted to do so under any circumstances
+	~[html]They are permitted to use M5QRZ's Radio Equipment but not their callsign, until M6QRZ passes the Intermediate Exam
+	~[html]M6QRZ is permitted to use M5QRZ's Radio Equipment, under their Foundation Licence callsign, with additional power permissions
+}
+
+
+// question: 5085  name: GF-2C5-005 Foundation Licensees
+::GF-2C5-005 Foundation Licensees::GF-2C5-005 Foundation Licensees{
+	~[html]Are not permitted to pass/allow User Services to pass messages using their Radio Equipment
+	~[html]Are permitted to pass/allow User Services to pass messages using their Radio Equipment, only under the supervision of an Advanced licensee
+	~[html]Are not permitted to pass messages on behalf of User Services, but are permitted to allow members of User Services to use their Radio Equipment for the purposes of passing messages
+	=[html]Are permitted to pass/allow User Services to pass messages using their Radio Equipment
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q04/2c.6
+$CATEGORY: $course$/Foundation/Q04/2c.6
+
+
+// question: 5197  name: GF-2C6-001 You should give immediate notice to Ofc
+::GF-2C6-001 You should give immediate notice to Ofc::GF-2C6-001 You should give immediate notice to Ofcom of any change of{
+	=[html]Your Station and/or Postal Addresses
+	~[html]Your Transmitting and Receiving equipment
+	~[html]Your marital status
+	~[html]The power output of your transceiver
+}
+
+
+// question: 5198  name: GF-2C6-002 When moving house, you must
+::GF-2C6-002 When moving house, you must::GF-2C6-002 When moving house, you must{
+	~[html]Inform Ofcom of the change of telephone number
+	=[html]Inform Ofcom of the change of station and mailing address
+	~[html]Inform Ofcom of the date of moving
+	~[html]Inform Ofcom of the new 6 digit grid reference of your new house
+}
+
+
+// question: 5199  name: GF-2C6-003 Ofcom must receive confirmation of vali
+::GF-2C6-003 Ofcom must receive confirmation of vali::GF-2C6-003 Ofcom must receive confirmation of validity of your licence details{
+	~[html]Every year, either in writing (using form Of346a) or via the Online Licensing Centre
+	~[html]Every two years, either in writing (using form Of346a) or via the Online Licensing Centre
+	=[html]Every five years, either in writing (using form Of346a) or via the Online Licensing Centre
+	~[html]Every ten years, either in writing (using form Of346a) or via the Online Licensing Centre
+}
+
+
+// question: 5200  name: GF-2C6-004 Unless your licence details are confirm
+::GF-2C6-004 Unless your licence details are confirm::GF-2C6-004 Unless your licence details are confirmed with Ofcom as being valid at least every ___ years, your licence will be revoked.{
+	~[html]2
+	=[html]5
+	~[html]15
+	~[html]20
+}
+
+
+// question: 5201  name: GF-2C6-005 Ofcom will revoke your licence without 
+::GF-2C6-005 Ofcom will revoke your licence without ::GF-2C6-005 Ofcom will revoke your licence without warning if{
+	=[html]You do not confirm the details on it as being valid at least every 5 years
+	~[html]You do not confirm the details on it as being valid at least every 2 years
+	~[html]You do not confirm the details on it as being valid at least every 18 months
+	~[html]You do not conform the details on it as being valid at least every 7 years
+}
+
+
+// question: 5202  name: GF-2C6-006 When moving house, you must notify Ofco
+::GF-2C6-006 When moving house, you must notify Ofco::GF-2C6-006 When moving house, you must notify Ofcom of the change of address and phone number{
+	=[html]Immediately
+	~[html]No later than 3 weeks after you moved
+	~[html]At least 2 weeks before you move
+	~[html]Up to 6 months after you move
+}
+
+
+// question: 5203  name: GF-2C6-007 You must notify Ofcom
+::GF-2C6-007 You must notify Ofcom::GF-2C6-007 You must notify Ofcom{
+	=[html]Of any changes to your postal and/or station address
+	~[html]Of any changes to your Radio Equipment
+	~[html]Of any changes to the power level you use whilst transmitting
+	~[html]Of any changes to the number of aerials (antennae) you possess.
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q04/2c.7
+$CATEGORY: $course$/Foundation/Q04/2c.7
+
+
+// question: 5204  name: GF-2C7-001 You must permit access to your Radio Eq
+::GF-2C7-001 You must permit access to your Radio Eq::GF-2C7-001 You must permit access to your Radio Equipment by{
+	~[html]A member of the local Police Constabulary
+	=[html]An individual duly authorised and acting on behalf of Ofcom
+	~[html]A member of HM Armed Forces
+	~[html]Any elected member of the local district council, devolved legislature or House of Commons
+}
+
+
+// question: 5205  name: GF-2C7-002 Which one of the following has the righ
+::GF-2C7-002 Which one of the following has the righ::GF-2C7-002 Which one of the following has the right to inspect your station?{
+	~[html]The Attorney General
+	=[html]Any person duly authorised and acting on behalf of Ofcom
+	~[html]A member of any UK (or Crown Dependency) Police Service of the rank Constable or above
+	~[html]A Civil Servant of HM Government or the Devolved Governments of the Nations
+}
+
+
+// question: 5206  name: GF-2C7-003 If a person duly authorised by Ofcom or
+::GF-2C7-003 If a person duly authorised by Ofcom or::GF-2C7-003 If a person duly authorised by Ofcom orders that you close down, modify or otherwise restrict your transmissions, the restrictions shall apply until such times as{
+	~[html]You pay a fine to your local Ofcom Office
+	=[html]You are notified in writing that the restrictions are no longer applicable
+	~[html]You upgrade to a higher class licence
+	~[html]You seek a judicial review of the restrictions at the United Kingdom Supreme Court
+}
+
+
+// question: 5207  name: GF-2C7-004 You must permit access to and inspectio
+::GF-2C7-004 You must permit access to and inspectio::GF-2C7-004 You must permit access to and inspection of your Radio Equipment by{
+	~[html]Any person duly authorised and acting on behalf of the Radiocommunications Agency
+	~[html]Any person duly authorised and acting on behalf of the Department of Trade and Industry
+	=[html]Any person duly authorised and acting on behalf of the Office of Communications
+	~[html]Any person duly authorised and acting on behalf of the Home Office
+}
+
+
+// question: 5208  name: GF-2C7-005 It is against the terms of the Licence 
+::GF-2C7-005 It is against the terms of the Licence ::GF-2C7-005 It is against the terms of the Licence to deny{
+	~[html]Anyone duly authorised by the local Police Constabulary to inspect your Radio Equipment
+	~[html]Anyone duly authorised by the local District Council to inspect your Radio Equipment
+	~[html]Anyone duly authorised by the Radiocommunications Agency to inspect your Radio Equipment.
+	=[html]Anyone duly authorised by the Office of Communications to inspect your Radio Equipment
+}
+
+
+// question: 5209  name: GF-2C7-006 The obligation and right to inspect or 
+::GF-2C7-006 The obligation and right to inspect or ::GF-2C7-006 The obligation and right to inspect or otherwise order the restriction, ceasing or modification of transmissions from an Amateur Radio Station in the United Kingdom, is held by{
+	~[html]The Radiocommunications Agency
+	~[html]The Commission for Communications Regulation
+	=[html]The Office of Communications
+	~[html]The Department for Business, Innovation and Skills
+}
+
+
+// question: 5210  name: GF-2C7-007 Any Amateur Radio Licensee of the UK or
+::GF-2C7-007 Any Amateur Radio Licensee of the UK or::GF-2C7-007 Any Amateur Radio Licensee of the UK or the Crown Dependencies, shall make their station available for inspection{
+	=[html]Upon the request of any person acting on behalf of the Office of Communications
+	~[html]Upon the request of any person acting on behalf of the Department of Trade and Industry
+	~[html]Upon the request of any devolved legislature or Executive Agency thereof
+	~[html]Upon the request of a majority of the District/County Council sitting in plenary session
+}
+
+
+// question: 5211  name: GF-2C7-008 Sanctions imposed on a Licensee by Ofco
+::GF-2C7-008 Sanctions imposed on a Licensee by Ofco::GF-2C7-008 Sanctions imposed on a Licensee by Ofcom shall continue to be in force until{
+	~[html]The Licensee is notified in writing that they are to appear before a County Court
+	=[html]The Licensee is notified in writing that the sanctions/variation of the licence are no longer in force
+	~[html]The Licensee is notified in writing that they are to appear before the Executive Board of Ofcom
+	~[html]The Licensee is notified in writing of the outcome of the tests conducted on their Radio Equipment
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q05/2c.8
+$CATEGORY: $course$/Foundation/Q05/2c.8
+
+
+// question: 5213  name: GF-2C8-001 The maximum permitted power on 145.300M
+::GF-2C8-001 The maximum permitted power on 145.300M::GF-2C8-001 The maximum permitted power on 145.300MHz is{
+	=[html]10dBW
+	~[html]7dBW
+	~[html]5dBW
+	~[html]1dBW
+}
+
+
+// question: 5214  name: GF-2C8-002 If a repeater’s output frequency is 145.7375MHz, on what frequency must you transmit?
+::GF-2C8-002 If a repeater’s output frequency is 145.7375MHz, on what frequency must you transmit?::[html]<p><span id\="internal-source-marker_0.061990350954527096" style\="font-size\: 10pt; font-family\: Arial; color\: \#000000; background-color\: transparent; font-weight\: normal; font-style\: normal; text-decoration\: none; vertical-align\: baseline;">GF-2C8-002 If a repeater’s output frequency is 145.7375MHz, on what frequency must you transmit?</span></p>{
+	~145.0375MHz
+	=145.1375MHz
+	~145.2375MHz
+	~144.1375MHz
+}
+
+
+// question: 5215  name: GF-2C8-003 You hear a station calling CQ on 145.50
+::GF-2C8-003 You hear a station calling CQ on 145.50::GF-2C8-003 You hear a station calling CQ on 145.5000MHz and you wish to respond.  On what frequency must you transmit?{
+	~[html]144.9000MHz
+	~[html]144.5000MHz
+	~[html]146.1000MHz
+	=[html]145.5000MHz
+}
+
+
+// question: 5216  name: GF-2C8-004 You hear some Morse code being transmit
+::GF-2C8-004 You hear some Morse code being transmit::[html]<p>GF-2C8-004 You hear some Morse code being transmitted on 145.650MHz.  It is probably</p>{
+	~A maritime distress signal
+	=A Repeater
+	~Someone practising their sending of Morse Code
+	~A Beacon
+}
+
+
+// question: 5217  name: GF-2C8-005 Which of the following is the most appropriate frequency to send slow Morse code?
+::GF-2C8-005 Which of the following is the most appropriate frequency to send slow Morse code?::[html]<p>GF-2C8-005 Which of the following is the most appropriate frequency to send slow Morse code?</p>{
+	~<p><span>144.8250</span>MHz</p>
+	=<p>145.250MHz</p>
+	~<p>144.800MHz</p>
+	~<p>145.800MHz</p>
+}
+
+
+// question: 5218  name: GF-2C8-006 The recommended power needed to establish communications on the 144-146MHz is
+::GF-2C8-006 The recommended power needed to establish communications on the 144-146MHz is::[html]<p>GF-2C8-006 The recommended power needed to establish communications on the 144-146MHz is</p>{
+	~10dBW
+	~1W
+	~5W
+	=The lowest possible
+}
+
+
+// question: 5219  name: GF-2C8-007 Whilst scanning the 144-146MHz band, you hear a foreign station on 144.8375MHz. This is probably due to
+::GF-2C8-007 Whilst scanning the 144-146MHz band, you hear a foreign station on 144.8375MHz. This is probably due to::[html]<p>GF-2C8-007 Whilst scanning the 144-146MHz band, you hear a foreign station on 144.8375MHz. This is probably due to</p>{
+	=An Internet Gateway operating on this frequency
+	~Tropospheric Propagation occuring
+	~F-layer propagation occuring
+	~The foreign station transmitting in close proximity to your station
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q06/2c.9
+$CATEGORY: $course$/Foundation/Q06/2c.9
+
+
+// question: 5220  name: GF-2C9-001 The maximum permitted power on the 14MH
+::GF-2C9-001 The maximum permitted power on the 14MH::GF-2C9-001 The maximum permitted power on the 14MHz frequency band is{
+	~[html]17dBW
+	=[html]10dBW
+	~[html]22dBW
+	~[html]26dBW
+}
+
+
+// question: 5221  name: GF-2C9-002 The recommended power for transmitting 
+::GF-2C9-002 The recommended power for transmitting ::GF-2C9-002 The recommended power for transmitting on 14.250MHz is{
+	~[html]10W
+	~[html]17dBW
+	=[html]The least needed to establish and maintain communications (the maximum permitted or less)
+	~[html]22dBW
+}
+
+
+// question: 5222  name: GF-2C9-003 It is not recommended for Foundation li
+::GF-2C9-003 It is not recommended for Foundation li::GF-2C9-003 It is not recommended for Foundation licensees to transmit{
+	=[html]In the segment 14.099-14.101MHz
+	~[html]Above 14.300MHz
+	~[html]Below 14.060MHz
+	~[html]In the segment 14.112-14.125MHz
+}
+
+
+// question: 5223  name: GF-2C9-004 You start transmitting Morse code on 14
+::GF-2C9-004 You start transmitting Morse code on 14::[html]<p>GF-2C9-004 You start transmitting Morse code on 14.200MHz. This is</p>{
+	~Permitted, on the condition that the Morse code is at a speed not less than 30 words per minute
+	~Not permitted under any circumstances
+	~Not permitted, unless for “mayday” distress messages
+	=Permitted, as it falls within the “all modes” section of the band plan, but not recommended
+}
+
+
+// question: 5224  name: GF-2C9-005 You hear an amateur station calling CQ 
+::GF-2C9-005 You hear an amateur station calling CQ ::GF-2C9-005 You hear an amateur station calling CQ on 14.370MHz and you wish to reply. You should{
+	~[html]Call them on that frequency and request that they change frequency to below 14.350MHz
+	~[html]Call them on that frequency and continue the contact there
+	=[html]Not respond, and ignore their call
+	~[html]Not respond immediately, but wait and see if someone else responds.  If nobody does, then you may call
+}
+
+
+// question: 5225  name: GF-2C9-006 You wish to call CQ using BPSK-31 on th
+::GF-2C9-006 You wish to call CQ using BPSK-31 on th::GF-2C9-006 You wish to call CQ using BPSK-31 on the 14,000kHz frequency band. Where is the most appropriate frequency/range of frequencies to transmit using BPSK-31?{
+	~[html]14.050MHz
+	=[html]14,070-14,089kHz
+	~[html]14.230MHz
+	~[html]14,240-14,260kHz
+}
+
+
+// question: 5226  name: GF-2C9-007 When taking part in a Morse code lesson
+::GF-2C9-007 When taking part in a Morse code lesson::GF-2C9-007 When taking part in a Morse code lesson on the 14,000kHz band, the best place where you should transmit the Morse code is on ____ kHz and read back the text received via SSB _____.{
+	~[html]14,055kHz; on 14,230kHz
+	~[html]14,045kHz; anywhere between 14,089-14,099kHz
+	=[html]14,055kHz; anywhere above 14,112kHz
+	~[html]14,050kHz; on 14,050kHz
+}
+
+
+// question: 5227  name: GF-2C9-008 During times of national/international 
+::GF-2C9-008 During times of national/international ::GF-2C9-008 During times of national/international emergency, you should not transmit on ______.{
+	=[html]14.300MHz
+	~[html]14.285MHz
+	~[html]14.050MHz
+	~[html]14.060MHz
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q07/3a.1
+$CATEGORY: $course$/Foundation/Q07/3a.1
+
+
+// question: 5098  name: GF-3A1-001 Which of the following is a measure of 
+::GF-3A1-001 Which of the following is a measure of ::GF-3A1-001 Which of the following is a measure of the opposition to an electrical current?{
+	~[html]Volts
+	~[html]Amps
+	=[html]Ohms
+	~[html]Watts
+}
+
+
+// question: 5099  name: GF-3A1-002 Which of the following is a measure of 
+::GF-3A1-002 Which of the following is a measure of ::GF-3A1-002 Which of the following is a measure of &quot;electrical pressure&quot; or &quot;potential difference&quot;?{
+	=[html]Volts
+	~[html]Amps
+	~[html]Ohms
+	~[html]Watts
+}
+
+
+// question: 5100  name: GF-3A1-003 The units of electrical pressure, curre
+::GF-3A1-003 The units of electrical pressure, curre::[html]<p>GF-3A1-003 The units of electrical pressure, current and resistance are</p>{
+	~Watts, Volts and Ohms
+	=Volts, Amps and Ohms
+	~Volts, Amps and Watts
+	~Hertz, Volts and Watts
+}
+
+
+// question: 5101  name: GF-3A1-004 1MW means:
+::GF-3A1-004 1MW means\:::GF-3A1-004 1MW means\:{
+	~[html]1 thousandth of a Watt
+	~[html]1 metric Watt
+	~[html]1 thousand Watts
+	=[html]1 million Watts
+}
+
+
+// question: 5102  name: GF-3A1-005 What is the unit of resistance?
+::GF-3A1-005 What is the unit of resistance?::GF-3A1-005 What is the unit of resistance?{
+	~[html]Watt
+	~[html]Volt
+	~[html]Amp
+	=[html]Ohm
+}
+
+
+// question: 5103  name: GF-3A1-006 Another way to express 1,500mV is:
+::GF-3A1-006 Another way to express 1,500mV is\:::GF-3A1-006 Another way to express 1,500mV is\:{
+	~[html]1,500mA
+	=[html]1.5V
+	~[html]1.5million A
+	~[html]15,000V
+}
+
+
+// question: 5104  name: GF-3A1-007 Which of the following is the greater?
+::GF-3A1-007 Which of the following is the greater?::GF-3A1-007 Which of the following is the greater?{
+	~[html]1mW
+	~[html]1W
+	~[html]1kW
+	=[html]1MW
+}
+
+
+// question: 5105  name: GF-3A1-008 &quot;A potential difference of 1 MV causes 
+::GF-3A1-008 &quot;A potential difference of 1 MV causes ::GF-3A1-008 &quot;A potential difference of 1 MV causes a current of 1 mA&quot; is another way of writing\:{
+	=[html]A p.d. of one million volts causes a current of one thousandth of an amp
+	~[html]A p.d. of one thousandth of a volt causes a current of one million amps
+	~[html]A p.d. of one millionth of a volt causes a current of one million amps
+	~[html]None of the above
+}
+
+
+// question: 5106  name: GF-3A1-009 The Unit of Current is the
+::GF-3A1-009 The Unit of Current is the::GF-3A1-009 The Unit of Current is the{
+	=[html]Ampere
+	~[html]Hertz
+	~[html]Ampersand
+	~[html]Ampule
+}
+
+
+// question: 5107  name: GF-3A1-010 10MV is the equivalent of:
+::GF-3A1-010 10MV is the equivalent of\:::GF-3A1-010 10MV is the equivalent of\:{
+	~[html]10,000,000,000V
+	~[html]1,000V
+	=[html]10,000,000V
+	~[html]0.1V
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q07/3b.1
+$CATEGORY: $course$/Foundation/Q07/3b.1
+
+
+// question: 5108  name: GF-3B1-001 Which of the following makes a good con
+::GF-3B1-001 Which of the following makes a good con::GF-3B1-001 Which of the following makes a good conductor{
+	=[html]Copper
+	~[html]Wood
+	~[html]Glass
+	~[html]Foam
+}
+
+
+// question: 5109  name: GF-3B1-002 Poor conductors stop electrons flowing 
+::GF-3B1-002 Poor conductors stop electrons flowing ::GF-3B1-002 Poor conductors stop electrons flowing efficiently. Which of the following shouldn't be used?{
+	~[html]Rubber
+	~[html]Ceramics
+	=[html]Brass
+	~[html]Plastic
+}
+
+
+// question: 5110  name: GF-3B1-003 When erecting a dipole what would be be
+::GF-3B1-003 When erecting a dipole what would be be::GF-3B1-003 When erecting a dipole what would be best to use for insulating the ends of the wires.{
+	=[html]Nylon rope
+	~[html]Ceramic
+	~[html]Glass
+	~[html]Carbon
+}
+
+
+// question: 5111  name: GF-3B1-004 Carbon can be considered as a conductor
+::GF-3B1-004 Carbon can be considered as a conductor::GF-3B1-004 Carbon can be considered as a conductor because{
+	=[html]It has mobile electrons within its structure
+	~[html]It is metallic
+	~[html]It can conduct via surface water
+	~[html]It is a metalloid
+}
+
+
+// question: 5112  name: GF-3B1-005 For making the elements of a wire dipol
+::GF-3B1-005 For making the elements of a wire dipol::GF-3B1-005 For making the elements of a wire dipole for 14.250MHz, which of the following is the most suitable?{
+	~[html]Solder
+	=[html]Hard-drawn copper wire
+	~[html]3 core mains cable
+	~[html]75 Ohm coaxial cable
+}
+
+
+// question: 5113  name: GF-3B1-006 Select the most appropriate answer
+::GF-3B1-006 Select the most appropriate answer::GF-3B1-006 Select the most appropriate answer{
+	~[html]A wet wooden stick can conduct electricity as the wood acts as a conductor
+	~[html]A wet wooden stick cannot conduct electricity as neither the wood nor the water can act as a conductor
+	~[html]A wet wooden stick can conduct electricity as the impurities in the wood acts as a conductor
+	=[html]A wet wooden stick can conduct electricity as the surface water acts as a conductor
+}
+
+
+// question: 5114  name: GF-3B1-007 Which of the following are all insulato
+::GF-3B1-007 Which of the following are all insulato::GF-3B1-007 Which of the following are all insulators?{
+	~[html]Wood, mica, ceramic, tungsten
+	~[html]Steel, wood, ceramic, latex
+	=[html]Glass, mahogany, ceramic, rubber
+	~[html]Ceramic, glass, copper, brass
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q07/3b.2
+$CATEGORY: $course$/Foundation/Q07/3b.2
+
+
+// question: 5115  name: GF-3B2-001 A soldering iron draws 0.1 amps from th
+::GF-3B2-001 A soldering iron draws 0.1 amps from th::GF-3B2-001 A soldering iron draws 0.1 amps from the 230 volt mains. Its power consumption is\:{
+	~[html]23 milliwatts
+	~[html]23 Megawatts
+	=[html]23 Watts
+	~[html]23 Volts
+}
+
+
+// question: 5116  name: GF-3B2-002 Joule's Law is the equation linking cur
+::GF-3B2-002 Joule's Law is the equation linking cur::GF-3B2-002 Joule's Law is the equation linking current, potential difference and power.  What is the standard equation of this law?{
+	=[html]P \= I x V
+	~[html]P \= I x (P/I)
+	~[html]V \= I / P
+	~[html]I \= V / P
+}
+
+
+// question: 5117  name: GF-3B2-003 A transmitter drawing 2 amps from a 12 
+::GF-3B2-003 A transmitter drawing 2 amps from a 12 ::GF-3B2-003 A transmitter drawing 2 amps from a 12 volt supply is consuming how much power?{
+	~[html]6 watts
+	~[html]10 watts
+	~[html]14 watts
+	=[html]24 watts
+}
+
+
+// question: 5118  name: GF-3B2-004 A 12 volt mobile transceiver consumes 1
+::GF-3B2-004 A 12 volt mobile transceiver consumes 1::GF-3B2-004 A 12 volt mobile transceiver consumes 10 Watts on receive, and 100 Watts on transmit. Which one of the following fuses is appropriate?{
+	~[html]100mA
+	~[html]1A
+	=[html]10A
+	~[html]100A
+}
+
+
+// question: 5119  name: GF-3B2-005 The unit of power is:
+::GF-3B2-005 The unit of power is\:::GF-3B2-005 The unit of power is\:{
+	~[html]The Ohm
+	=[html]The Watt
+	~[html]The Wat
+	~[html]The Farad
+}
+
+
+// question: 5120  name: GF-3B2-006 What is the unit of power?
+::GF-3B2-006 What is the unit of power?::GF-3B2-006 What is the unit of power?{
+	=[html]Watt
+	~[html]Volt
+	~[html]Amp
+	~[html]Ohm
+}
+
+
+// question: 5121  name: GF-3B2-007 What is the current flowing through a 5
+::GF-3B2-007 What is the current flowing through a 5::GF-3B2-007 What is the current flowing through a 5W bulb in a circuit (rated at 13.8V)?{
+	=[html]362mA
+	~[html]362kA
+	~[html]362A
+	~[html]362MA
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q07/3b.3
+$CATEGORY: $course$/Foundation/Q07/3b.3
+
+
+// question: 5122  name: GF-3B3-001 If you measure 100 volts across a 50O r
+::GF-3B3-001 If you measure 100 volts across a 50O r::GF-3B3-001 If you measure 100 volts across a 50O resistor, how much current will be flowing through it?{
+	~[html]0.5 A
+	=[html]2 A
+	~[html]100 A
+	~[html]5000 A
+}
+
+
+// question: 5123  name: GF-3B3-002 The Equation &quot;V= I x R&quot; is known as
+::GF-3B3-002 The Equation &quot;V\= I x R&quot; is known as::GF-3B3-002 The Equation &quot;V\= I x R&quot; is known as{
+	~[html]Murphy's Law
+	~[html]Boyle's Law
+	=[html]Ohm's Law
+	~[html]The Voltage-Current-Resistance Law
+}
+
+
+// question: 5124  name: GF-3B3-003 In a DC circuit what is the correct equ
+::GF-3B3-003 In a DC circuit what is the correct equ::GF-3B3-003 In a DC circuit what is the correct equation for &quot;I&quot;?{
+	=[html]I \= V/R
+	~[html]I \= R/V
+	~[html]I \= VxR
+	~[html]I \= V+R
+}
+
+
+// question: 5125  name: GF-3B3-004 If a bulb is passing 2 amps from a 10vo
+::GF-3B3-004 If a bulb is passing 2 amps from a 10vo::GF-3B3-004 If a bulb is passing 2 amps from a 10volt supply, what is its resistance?{
+	~[html]20 watts
+	~[html]20 ohms
+	=[html]5 ohms
+	~[html]5 watts
+}
+
+
+// question: 5126  name: GF-3B3-005 If the voltage is 2.2 (V) and the resis
+::GF-3B3-005 If the voltage is 2.2 (V) and the resis::GF-3B3-005 If the voltage is 2.2 (V) and the resistance is 0.5 (R) what is I{
+	=[html]4.4
+	~[html]1.1
+	~[html]0.5
+	~[html]5
+}
+
+
+// question: 5127  name: GF-3B3-006 A soldering iron draws 0.1 amps from th
+::GF-3B3-006 A soldering iron draws 0.1 amps from th::GF-3B3-006 A soldering iron draws 0.1 amps from the 230 volt mains. Its resistance is{
+	~[html]23 ohms
+	~[html]230 ohms
+	=[html]2300 ohms
+	~[html]23000 watts
+}
+
+
+// question: 5128  name: GF-3B3-007 The algebraic or circuit symbols of ele
+::GF-3B3-007 The algebraic or circuit symbols of ele::[html]<p>GF-3B3-007 The algebraic or circuit symbols of electrical pressure, current and resistance are</p>{
+	=<p>V, I and R</p>
+	~<p>V, A and R</p>
+	~<p>W, I and O</p>
+	~<p>V, A and O</p>
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q08/3b.4
+$CATEGORY: $course$/Foundation/Q08/3b.4
+
+
+// question: 5129  name: GF-3B4-001 A Battery provides what at its terminal
+::GF-3B4-001 A Battery provides what at its terminal::GF-3B4-001 A Battery provides what at its terminals{
+	=[html]Potential Difference
+	~[html]Juice
+	~[html]An odd number of quarks
+	~[html]Resistance
+}
+
+
+// question: 5130  name: GF-3B4-002 A Complete Circuit is needed to allow:
+::GF-3B4-002 A Complete Circuit is needed to allow\:::GF-3B4-002 A Complete Circuit is needed to allow\:{
+	~[html]The passage of water molecules
+	~[html]Transmission of radio waves
+	=[html]Current to flow
+	~[html]Your radio to work
+}
+
+
+// question: 5131  name: GF-3B4-003 To allow potential difference to flow f
+::GF-3B4-003 To allow potential difference to flow f::GF-3B4-003 To allow potential difference to flow from a battery you need{
+	=[html]A Complete Circuit
+	~[html]A long wire
+	~[html]2 or more batteries
+	~[html]a 13A fuse
+}
+
+
+// question: 5132  name: GF-3B4-004 In an electrical torch the voltage is p
+::GF-3B4-004 In an electrical torch the voltage is p::GF-3B4-004 In an electrical torch the voltage is produced by\:{
+	=[html]the battery
+	~[html]the bulb
+	~[html]the switch
+	~[html]the connecting wires
+}
+
+
+// question: 5133  name: GF-3B4-005 Which one of the following statements i
+::GF-3B4-005 Which one of the following statements i::GF-3B4-005 Which one of the following statements is correct?{
+	~[html]A cell has several batteries and two poles
+	~[html]A battery has one cell and a north and a south pole
+	=[html]A battery consists of one or more cells and has a positive and a negative pole
+	~[html]A cell is a battery, and vice versa
+}
+
+
+// question: 5135  name: GF-3B4-006 A circuit is constructed using a 12V ba
+::GF-3B4-006 A circuit is constructed using a 12V ba::GF-3B4-006 A circuit is constructed using a 12V battery, 3 wires, a switch and a filament bulb, however when connected the bulb does not light.  The most probable cause is{
+	=[html]The filament of the bulb is broken, thus it does not provide a complete circuit
+	~[html]The wires are broken, thus it does provide a complete circuit
+	~[html]Neither the bulb nor the wires are of a suitable rating for the battery
+	~[html]The current "ring" configuration is not suitable.
+}
+
+
+// question: 5136  name: GF-3B4-007 A complete circuit is needed in order t
+::GF-3B4-007 A complete circuit is needed in order t::GF-3B4-007 A complete circuit is needed in order to{
+	~[html]Allow water molecules to flow by osmosis
+	~[html]Allow ions to pass from one area to another
+	=[html]Allow electrons to flow, thus carrying the current
+	~[html]Inhibit the passage of quark-gluon plasma
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q08/3b.5
+$CATEGORY: $course$/Foundation/Q08/3b.5
+
+
+// question: 5137  name: GF-3B5-001 If a battery is connected the wrong way
+::GF-3B5-001 If a battery is connected the wrong way::GF-3B5-001 If a battery is connected the wrong way round, which of the following would still work as expected?{
+	~[html]a transistor
+	~[html]a diode
+	~[html]a polarised capacitor
+	=[html]a bulb
+}
+
+
+// question: 5138  name: GF-3B5-002 Which of the following will work correc
+::GF-3B5-002 Which of the following will work correc::GF-3B5-002 Which of the following will work correctly if it is inserted incorrectly into an electronic circuit?{
+	~[html]Integrated circuit
+	~[html]Diode
+	=[html]Fuse
+	~[html]Electrolytic capacitor
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation
+$CATEGORY: $course$/Foundation
+
+
+// question: 5139  name: GF-3B5-003 An electrolytic capacitor was inserted 
+::GF-3B5-003 An electrolytic capacitor was inserted ::GF-3B5-003 An electrolytic capacitor was inserted incorrectly into an electronic circuit (with voltage applied). It{
+	=[html]Will not work, as it is damaged beyond repair
+	~[html]Will not work at the moment, but will do so after 4 hours have elapsed
+	~[html]Will work and function as normal without any problems
+	~[html]Will work but will need replaced sooner than would normally be expected
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q08/3b.5
+$CATEGORY: $course$/Foundation/Q08/3b.5
+
+
+// question: 5140  name: GF-3B5-004 Along with a filament bulb, which of th
+::GF-3B5-004 Along with a filament bulb, which of th::GF-3B5-004 Along with a filament bulb, which of the following will work correctly if inserted incorrectly into a circuit?{
+	~[html]Integrated circuit
+	~[html]Light Emitting Diode
+	=[html]Resistor
+	~[html]Pentode valve
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q08/3b.6
+$CATEGORY: $course$/Foundation/Q08/3b.6
+
+
+// question: 5142  name: GF-3B6-001 Which line best describes AC and DC?
+::GF-3B6-001 Which line best describes AC and DC?::GF-3B6-001 Which line best describes AC and DC?{
+	~[html]AC runs in one direction and DC runs in one direction
+	=[html]AC runs in alternating directions while DC runs in one direction
+	~[html]AC runs in alternating directions as does DC
+	~[html]AC runs in one direction and DC runs in Alternating directions
+}
+
+
+// question: 5143  name: GF-3B6-002 The Abbreviation DC stands for:
+::GF-3B6-002 The Abbreviation DC stands for\:::GF-3B6-002 The Abbreviation DC stands for\:{
+	~[html]Direct Connection
+	=[html]Direct Current
+	~[html]District Chief
+	~[html]Dance Class
+}
+
+
+// question: 5144  name: GF-3B6-003 Which of the following terms best descr
+::GF-3B6-003 Which of the following terms best descr::GF-3B6-003 Which of the following terms best describes alternating current?{
+	~[html]A constant flow in one direction
+	~[html]A constant flow in two directions
+	=[html]A flow constantly changing direction
+	~[html]A flow that switches on and off at 50Hz
+}
+
+
+// question: 5145  name: GF-3B6-004 An electrical current which changes pol
+::GF-3B6-004 An electrical current which changes pol::GF-3B6-004 An electrical current which changes polarity at a given frequency is known as\:{
+	~[html]a standing wave
+	~[html]a direct current
+	~[html]a voltage
+	=[html]an alternating current
+}
+
+
+// question: 5146  name: GF-3B6-005 Domestic UK Mains Voltage is:
+::GF-3B6-005 Domestic UK Mains Voltage is\:::GF-3B6-005 Domestic UK Mains Voltage is\:{
+	=[html]230V AC
+	~[html]110V DC
+	~[html]230V DC
+	~[html]110V AC
+}
+
+
+// question: 5147  name: GF-3B6-006 An electrical current which flows in on
+::GF-3B6-006 An electrical current which flows in on::GF-3B6-006 An electrical current which flows in one direction only is known as\:{
+	~[html]a standing wave
+	=[html]a direct current
+	~[html]a voltage
+	~[html]an alternating current
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q08/3b.7
+$CATEGORY: $course$/Foundation/Q08/3b.7
+
+
+// question: 5148  name: GF-3B7-001 The following diagram shows a the circu
+::GF-3B7-001 The following diagram shows a the circu::[html]<p>GF-3B7-001 The following diagram shows a the circuit symbol of a</p>\n<p><img src\="http\://www.hamtests.co.uk/images/foundation/GF-3B7-001.gif" alt\="" width\="68" height\="21" /></p>{
+	~Resistor
+	=Fuse
+	~Quartz Crystal
+	~Capacitor
+}
+
+
+// question: 5149  name: GF-3B7-002 Identify the following symbols (in nume
+::GF-3B7-002 Identify the following symbols (in nume::[html]<p>GF-3B7-002 Identify the following symbols (in numerical order)</p>\n<p> </p>\n<p><img src\="http\://www.hamtests.co.uk/images/foundation/GF-3B7-002.gif" alt\="" width\="269" height\="54" /></p>{
+	~<p>Double pole double throw switch, speaker, cell, fuse</p>
+	~<p>Single pole single throw switch, microphone, <span>cell</span>, resistor</p>
+	=<p>Single pole single throw switch, speaker, <span>cell</span>, fuse</p>
+	~<p>Single pole single throw switch, speaker, cell, resistor</p>
+}
+
+
+// question: 5153  name: GF-3B7-004 Identify the following circuit symbols
+::GF-3B7-004 Identify the following circuit symbols::[html]<p>GF-3B7-004 Identify the following circuit symbols 1-4.</p>\n<p><img src\="http\://www.hamtests.co.uk/images/foundation/GF-3B7-004.gif" alt\="" width\="253" height\="60" /></p>{
+	~Earth, cell, microphone, speaker
+	=Earth, battery, speaker, microphone
+	~Power line, cell, microphone speaker
+	~Power line, battery, speaker, microphone
+}
+
+
+// question: 5154  name: GF-3B7-005 Identify the following symbols in numer
+::GF-3B7-005 Identify the following symbols in numer::[html]<p>GF-3B7-005 Identify the following symbols in numerical order</p>\n<p><img src\="http\://www.hamtests.co.uk/images/foundation/GF-3B7-005.gif" alt\="" width\="192" height\="58" /></p>{
+	~Aerial (antenna), microphone, lamp, battery
+	~Aerial (antenna), speaker, LED, cell
+	=Aerial (antenna), speaker, lamp, cell
+	~Aerial (antenna), speaker, LED, battery
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q09//10/3c.1
+$CATEGORY: $course$/Foundation/Q09//10/3c.1
+
+
+// question: 5156  name: GF-3C1-001 What is the minimum bandwidth for audio
+::GF-3C1-001 What is the minimum bandwidth for audio::GF-3C1-001 What is the minimum bandwidth for audio communications to take place{
+	=[html]2.7KHz
+	~[html]2.7Hz
+	~[html]2,700KHz
+	~[html]2.7MHz
+}
+
+
+// question: 5157  name: GF-3C1-002 Which control on a radio transceiver wo
+::GF-3C1-002 Which control on a radio transceiver wo::GF-3C1-002 Which control on a radio transceiver would you use to set the loudspeaker volume?{
+	=[html]AF gain
+	~[html]Squelch
+	~[html]Mode
+	~[html]Mic gain
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q09//10/3c.2
+$CATEGORY: $course$/Foundation/Q09//10/3c.2
+
+
+// question: 5180  name: GF-3C1-002 Who are allocated the 88-107MHz band
+::GF-3C1-002 Who are allocated the 88-107MHz band::GF-3C1-002 Who are allocated the 88-107MHz band{
+	~[html]Police
+	=[html]Broadcasting
+	~[html]Amateurs
+	~[html]Maritime
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q09//10/3c.1
+$CATEGORY: $course$/Foundation/Q09//10/3c.1
+
+
+// question: 5158  name: GF-3C1-003 AF stands for
+::GF-3C1-003 AF stands for::GF-3C1-003 AF stands for{
+	~[html]approximate frequency
+	~[html]axial frequency
+	=[html]audio frequency
+	~[html]annual fading
+}
+
+
+// question: 5159  name: GF-3C1-004 Sine waves are produced by
+::GF-3C1-004 Sine waves are produced by::GF-3C1-004 Sine waves are produced by{
+	=[html]oscillators
+	~[html]Sine writers
+	~[html]Square wave generators
+	~[html]Mismatched antennas
+}
+
+
+// question: 5160  name: GF-3C1-005 RF stands for:
+::GF-3C1-005 RF stands for\:::GF-3C1-005 RF stands for\:{
+	~[html]relative frequency
+	~[html]radiation frequency
+	~[html]radio fraternity
+	=[html]radio frequency
+}
+
+
+// question: 5161  name: GF-3C1-006 Frequency is measured in
+::GF-3C1-006 Frequency is measured in::GF-3C1-006 Frequency is measured in{
+	~[html]quick bursts
+	=[html]Hertz
+	~[html]Farads
+	~[html]Avis
+}
+
+
+// question: 5162  name: GF-3C1-007: Which of the following frequency range
+::GF-3C1-007\: Which of the following frequency range::GF-3C1-007\: Which of the following frequency ranges is considered sufficient for speech communication?{
+	~[html]30 - 300Hz
+	=[html]300Hz - 3kHz
+	~[html]3kHz - 30kHz
+	~[html]30kHz - 300kHz
+}
+
+
+// question: 5163  name: GF-3C1-008 Which of the following is the frequency
+::GF-3C1-008 Which of the following is the frequency::GF-3C1-008 Which of the following is the frequency of the range required for speech communication?{
+	~[html]50Hz
+	~[html]100Hz-15kHz
+	=[html]300Hz-3kHz
+	~[html]3MHz-30MHz
+}
+
+
+// question: 5164  name: GF-3C1-009 Which of the following is the frequency
+::GF-3C1-009 Which of the following is the frequency::GF-3C1-009 Which of the following is the frequency of the mains electricity supply?{
+	=[html]50Hz
+	~[html]100Hz-15kHz
+	~[html]300Hz-3kHz
+	~[html]3MHz-30MHz
+}
+
+
+// question: 5173  name: GF-3C1-010 The range required for voice communicat
+::GF-3C1-010 The range required for voice communicat::[html]<p>GF-3C1-010 The range required for voice communication is\:</p>{
+	=100Hz - 15kHz
+	=300Hz - 3kHz
+	~3MHz - 30MHz
+	~30MHz - 1GHz
+}
+
+
+// question: 5174  name: GF-3C1-011 The range of human hearing is approxima
+::GF-3C1-011 The range of human hearing is approxima::GF-3C1-011 The range of human hearing is approximately\:{
+	=[html]100Hz 	 15kHz
+	~[html]300Hz 	 3kHz
+	~[html]73kHz 	 30MHz
+	~[html]30MHz 	 1GHz
+}
+
+
+// question: 5175  name: GF-3C1-012 Which of the following frequency ranges
+::GF-3C1-012 Which of the following frequency ranges::GF-3C1-012 Which of the following frequency ranges is considered sufficient to convey speech?{
+	~[html]30 - 300Hz.
+	=[html]300Hz - 3kHz.
+	~[html]3kHz - 30kHz.
+	~[html]30kHz - 300kHz
+}
+
+
+// question: 5176  name: GF-3C1-013 The HF band range is:
+::GF-3C1-013 The HF band range is\:::GF-3C1-013 The HF band range is\:{
+	~[html]100Hz 	 15kHz
+	~[html]300Hz 	 3kHz
+	=[html]3MHz 	 30MHz
+	~[html]30MHz 	 1GHz
+}
+
+
+// question: 5177  name: GF-3C1-014 The VHF frequency band covers
+::GF-3C1-014 The VHF frequency band covers::GF-3C1-014 The VHF frequency band covers{
+	~[html]300kHz - 3MHz
+	~[html]3MHz - 30MHz
+	=[html]30MHz - 300MHz
+	~[html]300MHz - 3000MHz
+}
+
+
+// question: 5178  name: GF-3C1-015 Mains electricity is supplied at
+::GF-3C1-015 Mains electricity is supplied at::GF-3C1-015 Mains electricity is supplied at{
+	~[html]110volts AC
+	~[html]230volts DC
+	=[html]50Hz
+	~[html]50MHz
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q09//10/3c.2
+$CATEGORY: $course$/Foundation/Q09//10/3c.2
+
+
+// question: 5179  name: GF-3C2-001 Different radio users are allocated:
+::GF-3C2-001 Different radio users are allocated\:::GF-3C2-001 Different radio users are allocated\:{
+	~[html]precise spot frequencies
+	=[html]bands of frequencies
+	~[html]frequencies not used by anyone else
+	~[html]frequencies that no one else wants
+}
+
+
+// question: 5181  name: GF-3C2-003 144-146MHz is the primary allocation fo
+::GF-3C2-003 144-146MHz is the primary allocation fo::GF-3C2-003 144-146MHz is the primary allocation for{
+	=[html]Amateurs
+	~[html]Local Council
+	~[html]Broadcasting
+	~[html]Police
+}
+
+
+// question: 5182  name: GF-3C2-004 The bands 156.000-158.525MHz and 160.60
+::GF-3C2-004 The bands 156.000-158.525MHz and 160.60::GF-3C2-004 The bands 156.000-158.525MHz and 160.600-160.975MHz are reserved for{
+	=[html]Marine communications (ship to shore, ship to ship and emergency/ coastguard communications)
+	~[html]Advanced licensees who have the permission of Ofcom to operate on tidal waterways
+	~[html]Ambulance and Fire &amp; Rescue Service communications
+	~[html]Aeroplane cockpit to Air Traffic Control communications
+}
+
+
+// question: 5185  name: GF-3C2-005 On which of the following bands do aero
+::GF-3C2-005 On which of the following bands do aero::GF-3C2-005 On which of the following bands do aeroplane pilots communicate with Air Traffic Control?{
+	~[html]108.000-117.975 MHz
+	=[html]117.975-137.000 MHz
+	~[html]138.000-144.000 MHz
+	~[html]158.525-160.600 MHz
+}
+
+
+// question: 5186  name: GF-3C2-006 On which band is it permitted to transm
+::GF-3C2-006 On which band is it permitted to transm::GF-3C2-006 On which band is it permitted to transmit music?{
+	~[html]146.000-149.900MHz
+	~[html]138.000-144.000MHz
+	=[html]087.500-108.000MHz
+	~[html]144.000-145.000MHz
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q09//10/3c.3
+$CATEGORY: $course$/Foundation/Q09//10/3c.3
+
+
+// question: 5187  name: GF-3C3-001 If the frequency of a wave is increased
+::GF-3C3-001 If the frequency of a wave is increased::GF-3C3-001 If the frequency of a wave is increased, its wavelength{
+	=[html]decreases
+	~[html]increases
+	~[html]stays the same
+	~[html]varies randomly
+}
+
+
+// question: 5188  name: GF-3C3-002 Wavelength is represented by which Gree
+::GF-3C3-002 Wavelength is represented by which Gree::GF-3C3-002 Wavelength is represented by which Greek letter?{
+	~[html]u Mu
+	~[html]o Omega
+	=[html]l Lambda
+	~[html]a Alpha
+}
+
+
+// question: 5189  name: GF-3C3-003 If the frequency of a signal goes up, i
+::GF-3C3-003 If the frequency of a signal goes up, i::GF-3C3-003 If the frequency of a signal goes up, its wavelength{
+	~[html]goes up
+	~[html]stays the same
+	=[html]goes down
+	~[html]oscillates
+}
+
+
+// question: 5190  name: GF-3C3-004 If you're transmitting on 14.250MHz it 
+::GF-3C3-004 If you're transmitting on 14.250MHz it ::GF-3C3-004 If you're transmitting on 14.250MHz it is classed as{
+	=[html]20m
+	~[html]2m
+	~[html]70cms
+	~[html]160m
+}
+
+
+// question: 5191  name: GF-3C3-005 At VHF and UHF as the frequency increas
+::GF-3C3-005 At VHF and UHF as the frequency increas::GF-3C3-005 At VHF and UHF as the frequency increases{
+	~[html]the range increases
+	=[html]the range decreases
+	~[html]the range is the same
+	~[html]the range is unknown
+}
+
+
+// question: 5192  name: GF-3C3-006 A radio wave with a frequency of 300MHz
+::GF-3C3-006 A radio wave with a frequency of 300MHz::GF-3C3-006 A radio wave with a frequency of 300MHz has a wavelength of\:{
+	=[html]1m
+	~[html]600m
+	~[html]9000m
+	~[html]300m/s
+}
+
+
+// question: 5193  name: GF-3C3-007 Which frequency band does the 50MHz (6m
+::GF-3C3-007 Which frequency band does the 50MHz (6m::GF-3C3-007 Which frequency band does the 50MHz (6m) Amateur Allocation sit in?{
+	~[html]LF
+	~[html]HF
+	=[html]VHF
+	~[html]UHF
+}
+
+
+// question: 5194  name: GF-3C3-008 What is the wavelength of a radio frequ
+::GF-3C3-008 What is the wavelength of a radio frequ::GF-3C3-008 What is the wavelength of a radio frequency of 3MHz?{
+	=[html]100m
+	~[html]60m
+	~[html]30m
+	~[html]5m
+}
+
+
+// question: 5195  name: GF-3C3-009 The Amateur 2m Band covers what area in
+::GF-3C3-009 The Amateur 2m Band covers what area in::GF-3C3-009 The Amateur 2m Band covers what area in MHz{
+	=[html]144MHz to 146MHz
+	~[html]14MHz to 14.345MHz
+	~[html]7MHz to 7.200MHz
+	~[html]18MHz
+}
+
+
+// question: 5196  name: GF-3C3-010 Use the graph to find the frequency cor
+::GF-3C3-010 Use the graph to find the frequency cor::GF-3C3-010 Use the graph to find the frequency corresponding to wavelength of 15 metres{
+	~[html]10MHz
+	~[html]15MHz
+	=[html]20MHz
+	~[html]25MHz
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q11/4a.1
+$CATEGORY: $course$/Foundation/Q11/4a.1
+
+
+// question: 969  name: GF-4A1-001 A simple transmitter for audio would consist of
+::GF-4A1-001 A simple transmitter for audio would consist of::[html]<p>GF-4A1-001 A simple transmitter for audio would consist of</p>{
+	~A modulator and a power amplifier
+	~an oscillator and a modulator
+	~an oscillator and a power amplifier
+	=an oscillator, a modulator and a power amplifier
+}
+
+
+// question: 976  name: GF-4A1-002 The power amplifier is normally connected to
+::GF-4A1-002 The power amplifier is normally connected to::[html]<p>GF-4A1-002 The power amplifier is normally connected to\:</p>{
+	~the Morse key
+	=the antenna
+	~the RF generator
+	~the mains
+}
+
+
+// question: 165  name: GF-4A1-003 Which of the following is the simplest kind of transmitter?
+::GF-4A1-003 Which of the following is the simplest kind of transmitter?::[html]<p>GF-4A1-003 Which of the following is the simplest kind of transmitter?</p>{
+	~SSB
+	~FM
+	=CW
+	~AM
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q11/4b.1
+$CATEGORY: $course$/Foundation/Q11/4b.1
+
+
+// question: 883  name: GF-4B1-001 The purpose of a rf oscillator is to:
+::GF-4B1-001 The purpose of a rf oscillator is to\:::[html]<p>GF-4B1-001 The purpose of a rf oscillator is to\:</p>{
+	~amplify the audio signal from the microphone
+	~amplify the radio signal for transmission
+	=generate a radio frequency signal
+	~to superimpose the audio signal onto the radio frequency signal
+}
+
+
+// question: 942  name: GF-4B1-002 The frequency of a simple transmitter is defined by which stage?
+::GF-4B1-002 The frequency of a simple transmitter is defined by which stage?::[html]<p>GF-4B1-002 The frequency of a simple transmitter is defined by which stage?</p>{
+	~Audio stage.
+	~Modulator.
+	=Oscillator.
+	~RF Power Amplifier
+}
+
+
+// question: 925  name: GF-4B1-003 Which of the following transmitter blocks determines the frequency of the transmission?:
+::GF-4B1-003 Which of the following transmitter blocks determines the frequency of the transmission?\:::[html]<p>GF-4B1-003 Which of the following transmitter blocks determines the frequency of the transmission?\:</p>{
+	~Microphone amplifier
+	=RF Generator/Oscillator
+	~Modulator
+	~Power Amplifier
+}
+
+
+// question: 970  name: GF-4B1-004 Which part of a transmitter sets its operating frequency
+::GF-4B1-004 Which part of a transmitter sets its operating frequency::[html]<p>GF-4B1-004 Which part of a transmitter sets its operating frequency\:</p>{
+	=the RF generator
+	~the buffer amplifier
+	~the power supply
+	~the low pass filter
+}
+
+
+// question: 160  name: GF-4B1-005 The frequency of a simple transmitter is defined by which stage?
+::GF-4B1-005 The frequency of a simple transmitter is defined by which stage?::[html]<p>GF-4B1-005 The frequency of a simple transmitter is defined by which stage?</p>{
+	~Audio stage#<p>Wrong, the correct answer is "Oscillator"</p>
+	~Modulator#<p>Wrong, the correct answer is "Oscillator"</p>
+	=Oscillator#<p>Correct</p>
+	~RF Power Amplifier#<p>Wrong, the correct answer is "Oscillator"</p>
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q11/4b.2
+$CATEGORY: $course$/Foundation/Q11/4b.2
+
+
+// question: 974  name: GF-4B2-001 Which of the following is not a speech mode?
+::GF-4B2-001 Which of the following is not a speech mode?::[html]<p>GF-4B2-001 Which of the following is not a speech mode?</p>{
+	~AM
+	~FM
+	~SSB
+	=RTTY
+}
+
+
+// question: 973  name: GF-4B2-002 A modulator that changes the frequency of the transmission is known as
+::GF-4B2-002 A modulator that changes the frequency of the transmission is known as::[html]<p>GF-4B2-002 A modulator that changes the frequency of the transmission is known as\:</p>{
+	~a balanced modulator
+	~an amplitude modulator
+	=a frequency modulator
+	~an exam moderator
+}
+
+
+// question: 972  name: GF-4B2-003 The modulator stage
+::GF-4B2-003 The modulator stage::[html]<p>GF-4B2-003 The modulator stage\:</p>{
+	~produces the carrier
+	~amplifies the carrier
+	=adds information to the carrier
+	~cuts out interference
+}
+
+
+// question: 821  name: GF-4B2-004 The purpose of a modulator is to:
+::GF-4B2-004 The purpose of a modulator is to\:::[html]<p>GF-4B2-004 The purpose of a modulator is to\:</p>{
+	~amplify the audio signal from the microphone
+	~amplify the radio signal for transmission
+	~generate a radio frequency signal
+	=to superimpose the audio signal onto the radio frequency signal
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q11/4b.3
+$CATEGORY: $course$/Foundation/Q11/4b.3
+
+
+// question: 879  name: GF-4B3-001 The waveform shown above is:
+::GF-4B3-001 The waveform shown above is\:::[html]<p>GF-4B3-001</p>\n<p><img src\="@@PLUGINFILE@@/GF-112.gif" alt\="" /></p>\n<p> The waveform shown above is\:</p>{
+	~<p>am</p>
+	=<p>fm</p>
+	~<p>ssb</p>
+	~<p>cw</p>
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q12/4b.4
+$CATEGORY: $course$/Foundation/Q12/4b.4
+
+
+// question: 975  name: GF-4B4-001 The output power of a transmitter is mainly dependant on
+::GF-4B4-001 The output power of a transmitter is mainly dependant on::[html]<p>GF-4B4-001 The output power of a transmitter is mainly dependant on</p>{
+	~the frequency amplifier
+	~the audio amplifier
+	~the buffer amplifier
+	=the power amplifier
+}
+
+
+// question: 5332  name: GF-4B4-002 The RF Power Amplifier:
+::GF-4B4-002 The RF Power Amplifier\:::[html]<p>GF-4B4-002 The RF Power Amplifier\:</p>{
+	=<p>sets the level of ouput power for the transmitter</p>
+	~<p>modulates the waves produced within the transmitter</p>
+	~<p>converts the RF signal into AF signal so it can be heard through the loudspeaker</p>
+	~<p>changes the impedance of the transmitter to match that of the feeder-antenna system</p>
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q12/4b.5
+$CATEGORY: $course$/Foundation/Q12/4b.5
+
+
+// question: 977  name: GF-4B5-001 If the power amplifier does not work into a correctly matched load
+::GF-4B5-001 If the power amplifier does not work into a correctly matched load::[html]<p>GF-4B5-001 If the power amplifier does not work into a correctly matched load\:</p>{
+	~it will not work
+	=it may be damaged
+	~it will produce harmonics
+	~it will modulate
+}
+
+
+// question: 5333  name: GF-4B5-002 The RF power amplifier can be damaged
+::GF-4B5-002 The RF power amplifier can be damaged::[html]<p>GF-4B5-002 The RF power amplifier can be damaged</p>{
+	=<p>If the antenna system is not matched correctly to the transceiver</p>
+	~<p>If the licensee transmits beyond their licence terms and conditions.</p>
+	~<p>If less than 10W are used to transmit</p>
+	~<p>If a suitably qualified person performs work to reduce carbon emissions from the transceiver</p>
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q12/4b.6
+$CATEGORY: $course$/Foundation/Q12/4b.6
+
+
+// question: 978  name: GF-4B6-001 Too much audio (mic) gain will cause a transmitter to
+::GF-4B6-001 Too much audio (mic) gain will cause a transmitter to::[html]<p>GF-4B6-001 Too much audio (mic) gain will cause a transmitter to\:</p>{
+	~stop working
+	~cause interference on other bands
+	=cause interference on adjacent channels
+	~explode
+}
+
+
+// question: 5334  name: GF-4B6-002 Adjacent channels can suffer interference
+::GF-4B6-002 Adjacent channels can suffer interference::[html]<p>GF-4B6-002 Adjacent channels can suffer interference</p>{
+	=<p>Due to excessive frequency deviation</p>
+	~<p>Due to precipitation on the feeder-antenna system</p>
+	~<p>Due to too much background noise in the room in which the transmitter is located</p>
+	~<p>Due to faulty earthing of the premises</p>
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q13/4c.1
+$CATEGORY: $course$/Foundation/Q13/4c.1
+
+
+// question: 979  name: GF-4C1-001 A simple receiver would consist of
+::GF-4C1-001 A simple receiver would consist of::[html]<p>GF-4C1-001 A simple receiver would consist of\:</p>{
+	~a detector
+	~a detector and an audio amplifier
+	=a tuned circuit, a detector and an audio amplifier
+	~an antenna and a pair of headphones
+}
+
+
+// question: 981  name: GF-4C1-002 Which receiver stage would normally be connected to the loudspeaker
+::GF-4C1-002 Which receiver stage would normally be connected to the loudspeaker::[html]<p>GF-4C1-002 Which receiver stage would normally be connected to the loudspeaker\:</p>{
+	~the tuning stage
+	~the detector
+	~the RF amp
+	=the AF amp
+}
+
+
+// question: 858  name: GF-4C1-003 In the receiver shown above tuning and rf amplification occur in which stage?
+::GF-4C1-003 In the receiver shown above tuning and rf amplification occur in which stage?::[html]<p>GF-4C1-003 In the receiver shown above tuning and rf amplification occur in which stage? <img src\="http\://www.hamtests.co.uk/file.php?file\=%2F3%2FGF-056.gif" alt\="" width\="250" height\="114" /></p>{
+	=1
+	~2
+	~3
+	~4
+}
+
+
+// question: 173  name: GF-4C1-004 Which one of the following would not be found in a receiver?
+::GF-4C1-004 Which one of the following would not be found in a receiver?::[html]<p>GF-4C1-004 Which one of the following would not be found in a receiver?</p>{
+	~Audio amplifier.
+	~Tuning and RF amplifier.
+	~Detection (demodulation).
+	=RF Power Amplifier.
+}
+
+
+// question: 842  name: GF-4C1-005 Setting the mode switch of a receiver will select:
+::GF-4C1-005 Setting the mode switch of a receiver will select\:::[html]<p>GF-4C1-005 Setting the mode switch of a receiver will select\:</p>{
+	~the rf tuning circuits
+	=the type of detector
+	~the type of audio amplifier
+	~headphones or loudspeaker
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q13/4d.1
+$CATEGORY: $course$/Foundation/Q13/4d.1
+
+
+// question: 5320  name: GF-4D1-001 Where in a receiver is the tuning carried out?
+::GF-4D1-001 Where in a receiver is the tuning carried out?::[html]<p>GF-4D1-001 Where in a receiver is the tuning carried out?</p>\n<p><img src\="@@PLUGINFILE@@/GF-4D1-001_new.jpg" alt\="" width\="533" height\="125" /></p>{
+	~A
+	=B
+	~C
+	~D
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q13/4d.2
+$CATEGORY: $course$/Foundation/Q13/4d.2
+
+
+// question: 980  name: GF-4D2-001 A receiver selects the wanted signal in
+::GF-4D2-001 A receiver selects the wanted signal in::[html]<p>GF-4D2-001 A receiver selects the wanted signal in\:</p>{
+	=the tuning stage
+	~the detector
+	~the RF amplifier
+	~the loudspeaker
+}
+
+
+// question: 166  name: GF-4D2-002 Which part of a receiver selects the wanted frequency from all the others available?
+::GF-4D2-002 Which part of a receiver selects the wanted frequency from all the others available?::[html]<p>GF-4D2-002 Which part of a receiver selects the wanted frequency from all the others available?</p>{
+	=The RF stage
+	~The demodulator/detector
+	~The Audio Frequency (AF) Amplifier
+	~The Speaker/Headphones
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q14/5a.1
+$CATEGORY: $course$/Foundation/Q14/5a.1
+
+
+// question: 167  name: GF-5A1-001 The two most commonly used cables for r.f. signals are:
+::GF-5A1-001 The two most commonly used cables for r.f. signals are\:::[html]<p>GF-5A1-001 The two most commonly used cables for r.f. signals are\:</p>{
+	~Coaxial and three core mains
+	=Twin feeder and coaxial
+	~Twin feeder and three core mains
+	~Twin feeder and speaker cable
+}
+
+
+// question: 822  name: GF-5A1-002 A feeder is used to carry:
+::GF-5A1-002 A feeder is used to carry\:::[html]<p>GF-5A1-002 A feeder is used to carry\:</p>{
+	~AF from the mic to the transmitter
+	~mains voltage to the power supply unit
+	~DC voltage from the power supply to the transmitter
+	=RF from the transmitter to the antenna
+}
+
+
+// question: 843  name: GF-5A1-003 Coaxial cable prevents radiation of the rf by:
+::GF-5A1-003 Coaxial cable prevents radiation of the rf by\:::[html]<p>GF-5A1-003 Coaxial cable prevents radiation of the rf by\:</p>{
+	~being insulated by PVC
+	=having one conductor inside the other
+	~being terminated by the correct plug
+	~being connected to a dipole
+}
+
+
+// question: 982  name: GF-5A1-004 Which of the following is the best for connecting RF signals to an antenna
+::GF-5A1-004 Which of the following is the best for connecting RF signals to an antenna::[html]<p>GF-5A1-004 Which of the following is the best for connecting RF signals to an antenna\:</p>{
+	~mains cable
+	~speaker cable
+	=co-axial cable
+	~enamelled copper wire
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q14/5a.2
+$CATEGORY: $course$/Foundation/Q14/5a.2
+
+
+// question: 864  name: GF-5A2-001 The braid/screen in coaxial cable must be connected to the outer of a PL259 or BNC plug to:
+::GF-5A2-001 The braid/screen in coaxial cable must be connected to the outer of a PL259 or BNC plug to\:::[html]<p>GF-5A2-001 The braid/screen in coaxial cable must be connected to the outer of a PL259 or BNC plug to\:</p>{
+	~keep out moisture
+	~prevent rf burns
+	~ensure radiation
+	=ensure continuous rf screening
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q15/5b.1
+$CATEGORY: $course$/Foundation/Q15/5b.1
+
+
+// question: 983  name: GF-5B1-001 The purpose of the antenna is
+::GF-5B1-001 The purpose of the antenna is::[html]<p>GF-5B1-001 The purpose of the antenna is\:</p>{
+	~to convert the RF into AF
+	~to convert radio waves into electrical signals
+	~to annoy the neighbours
+	=to convert radio waves to electrical signals and to convert electrical signals to radio waves
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q15/5b.2
+$CATEGORY: $course$/Foundation/Q15/5b.2
+
+
+// question: 168  name: GF-5B2-001 Two characteristics of horizontal half-wave dipoles are:
+::GF-5B2-001 Two characteristics of horizontal half-wave dipoles are\:::[html]<p>GF-5B2-001 Two characteristics of horizontal half-wave dipoles are\:</p>{
+	~They are omnidirectional and vertically polarised
+	~They are not omnidirectional and are vertically polarised
+	~They are omnidirectional and horizontally polarised
+	=They are not omnidirectional and are horizontally polarised
+}
+
+
+// question: 844  name: GF-5B2-002 The antenna shown is a:
+::GF-5B2-002 The antenna shown is a\:::[html]<p>GF-5B2-002 The antenna shown is a\:</p>\n<p><img src\="@@PLUGINFILE@@/GF-078.gif" alt\="" /></p>{
+	~dipole
+	~1/4 wave groundplane
+	~5/8 wave vertical
+	=end-fed long wire
+}
+
+
+// question: 984  name: GF-5B2-003 An antenna consisting of a dipole mounted on a boom in between two similar metal rods is
+::GF-5B2-003 An antenna consisting of a dipole mounted on a boom in between two similar metal rods is::[html]<p>GF-5B2-003 An antenna consisting of a dipole mounted on a boom in between two similar metal rods is</p>{
+	~never going to work
+	~a trapped dipole
+	=a yagi
+	~a long wire
+}
+
+
+// question: 985  name: GF-5B2-004 The best length of a tuned dipole antenna is determined by
+::GF-5B2-004 The best length of a tuned dipole antenna is determined by::[html]<p>GF-5B2-004 The best length of a tuned dipole antenna is determined by</p>{
+	=the wavelength of the frequency in use
+	~the materials available
+	~the power being fed into it
+	~the height above ground
+}
+
+
+// question: 1020  name: GF-5B2-005 Which of the following antennas would give best performance:
+::GF-5B2-005 Which of the following antennas would give best performance\:::[html]<p>GF-5B2-005 Which of the following antennas would give best performance\:</p>{
+	~a handheld whip indoors
+	~a handheld whip outdoors
+	~an indoor dipole
+	=an outdoor dipole
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q15/5c.1	
+$CATEGORY: $course$/Foundation/Q15/5c.1	
+
+
+// question: 5321  name: GF-5C1-001 A Vertically mounted half-wave diplole radiates...
+::GF-5C1-001 A Vertically mounted half-wave diplole radiates...::[html]<p>GF-5C1-001 A Vertically mounted half-wave diplole radiates...</p>{
+	~Polarised
+	~One single direction
+	~Isotropically
+	=Omni-directional
+}
+
+
+// question: 5322  name: GF-5C1-002 A Vertically mounted 5/8λ antenna radiates...
+::GF-5C1-002 A Vertically mounted 5/8λ antenna radiates...::[html]<p>GF-5C1-002 A Vertically mounted 5/8λ antenna radiates...</p>{
+	~Isotropically
+	=Omni-directional
+	~Polarised
+	~One single direction
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q15/5c.2
+$CATEGORY: $course$/Foundation/Q15/5c.2
+
+
+// question: 169  name: GF-5C2-001 Which one of the following statements is the most accurate?
+::GF-5C2-001 Which one of the following statements is the most accurate?::[html]<p>GF-5C2-001 Which one of the following statements is the most accurate?</p>{
+	=A Yagi antenna receives and transmits signals in a single direction.
+	~A Yagi antenna receives signals from one direction, but is omnidirectional when transmitting.
+	~A Yagi antenna is horizontally polarised.
+	~Another name for a Yagi antenna is a 5/8 antenna.
+}
+
+
+// question: 175  name: GF-5C2-002 The polarisation of a Yagi antenna:
+::GF-5C2-002 The polarisation of a Yagi antenna\:::[html]<p>GF-5C2-002 The polarisation of a Yagi antenna\:</p>{
+	~is horizontal
+	~is vertical
+	~is omnidirectional
+	=depends on how it is mounted
+}
+
+
+// question: 187  name: GF-5C2-003 What type of antenna is shown?
+::GF-5C2-003 What type of antenna is shown?::[html]<p>GF-5C2-003 What type of antenna is shown? <img src\="http\://www.hamtests.co.uk/file.php?file\=%2F3%2Fgf051.gif" alt\="" width\="200" height\="174" /></p>{
+	=Yagi
+	~1/2 wave dipole
+	~1/4 ground plane
+	~End-fed
+}
+
+
+// question: 986  name: GF-5C2-004 Which of the following would not radiate in all directions
+::GF-5C2-004 Which of the following would not radiate in all directions::[html]<p>GF-5C2-004 Which of the following would not radiate in all directions\:</p>{
+	~a vertical dipole
+	~a vertical quarter wave
+	=a vertical yagi
+	~a vertical 5/8
+}
+
+
+// question: 987  name: GF-5C2-005 A Yagi antenna
+::GF-5C2-005 A Yagi antenna::[html]<p>GF-5C2-005 A Yagi antenna\:</p>{
+	~generates more power in one direction
+	=focuses power in one direction
+	~reduces power in one direction
+	~should not be used by Foundation licence holders
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q15/5c.3
+$CATEGORY: $course$/Foundation/Q15/5c.3
+
+
+// question: 170  name: GF-5C3-001 Your antenna has a gain of 2, and you feed it with 6 watts of r.f. power. The e.r.p is:
+::GF-5C3-001 Your antenna has a gain of 2, and you feed it with 6 watts of r.f. power. The e.r.p is\:::[html]<p>GF-5C3-001 Your antenna has a gain of 2, and you feed it with 6 watts of r.f. power. The e.r.p is\:</p>{
+	~3 Watts
+	~1/3 Watt
+	=12 Watts
+	~8 Watts
+}
+
+
+// question: 988  name: GF-5C3-002 The ERP is equal to
+::GF-5C3-002 The ERP is equal to::[html]<p>GF-5C3-002 The ERP is equal to\:</p>{
+	~the power fed into the coax
+	~the power arriving at the antenna
+	=the output power multiplied by the antenna’s gain
+	~the ratio of the forward and reflected power
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q16/5c.4
+$CATEGORY: $course$/Foundation/Q16/5c.4
+
+
+// question: 926  name: GF-5C4-001 All transmitters must be operated into:
+::GF-5C4-001 All transmitters must be operated into\:::[html]<p>GF-5C4-001 All transmitters must be operated into\:</p>{
+	~An antenna tuning unit
+	=The correct load
+	~An SWR meter
+	~An EMC filter
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q16/5c.5
+$CATEGORY: $course$/Foundation/Q16/5c.5
+
+
+// question: 823  name: GF-5C5-001 A wire antenna shorter than 1/2 Wavelength  will accept power from a transmitter if you use
+::GF-5C5-001 A wire antenna shorter than 1/2 Wavelength  will accept power from a transmitter if you use::[html]<p>GF-5C5-001 A wire antenna shorter than 1/2 Wavelength will accept power from a transmitter if you use</p>{
+	~a balun
+	=an ATU
+	~PL259
+	~an antenna insulator
+}
+
+
+// question: 989  name: GF-5C5-002 A badly matched antenna will
+::GF-5C5-002 A badly matched antenna will::[html]<p>GF-5C5-002 A badly matched antenna will</p>{
+	~have a high voltage on it
+	~result in a high voltage on the coax
+	=cause a significant power reflected back towards the transmitter
+	~cause a low SWR reading at the transmitter
+}
+
+
+// question: 990  name: GF-5C5-003 A high SWR can be solved by
+::GF-5C5-003 A high SWR can be solved by::[html]<p>GF-5C5-003 A high SWR can be solved by\:</p>{
+	=adjusting the ATU
+	~increasing power
+	~fitting a low pass filter
+	~using CW
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q16/5d.1
+$CATEGORY: $course$/Foundation/Q16/5d.1
+
+
+// question: 884  name: GF-5D1-001 A balun is used to:
+::GF-5D1-001 A balun is used to\:::[html]<p>GF-5D1-001 A balun is used to\:</p>{
+	~insulate the dipole from the mast
+	~support the dipole
+	=convert signal inside the coaxial cable to two signals on the dipole
+	~ensure that rf currents flow back down the feeder
+}
+
+
+// question: 991  name: GF-5D1-002 What should be fitted between a balanced antenna, such as a dipole, and unbalance coaxial feeder?
+::GF-5D1-002 What should be fitted between a balanced antenna, such as a dipole, and unbalance coaxial feeder?::[html]<p>GF-5D1-002 What should be fitted between a balanced antenna, such as a dipole, and unbalance coaxial feeder?</p>{
+	~a low pass filter
+	~a high pass filter
+	~a mains transformer
+	=a balun transformer
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q16/5e.1
+$CATEGORY: $course$/Foundation/Q16/5e.1
+
+
+// question: 171  name: GF-5E1-001 When adjusting your Antenna Tuning Unit (ATU) you should always:
+::GF-5E1-001 When adjusting your Antenna Tuning Unit (ATU) you should always\:::[html]<p>GF-5E1-001 When adjusting your Antenna Tuning Unit (ATU) you should always\:</p>{
+	=Tune for minimum standing wave ratio
+	~Tune for maximum standing wave ratio
+	~To be safe, first switch the transmitter off, and unplug it
+	~Ensure that the antenna is cut for the right wavelength
+}
+
+
+// question: 992  name: GF-5E1-002 Before transmitting the SWR meter should show
+::GF-5E1-002 Before transmitting the SWR meter should show::[html]<p>GF-5E1-002 Before transmitting the SWR meter should show\:</p>{
+	~maximum forward power and maximum reflected power
+	~minimum forward power and minimum reflected power
+	~minimum forward power and maximum reflected power
+	=maximum forward power and minimum reflected power
+}
+
+
+// question: 993  name: GF-5E1-003 Which of these would be an acceptable SWR reading
+::GF-5E1-003 Which of these would be an acceptable SWR reading::[html]<p>GF-5E1-003 Which of these would be an acceptable SWR reading\:</p>{
+	=1.5\:1
+	~3\:1
+	~5\:1
+	~15\:1
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q16/5e.2
+$CATEGORY: $course$/Foundation/Q16/5e.2
+
+
+// question: 928  name: GF-5E2-001 A high SWR reading would indicate:
+::GF-5E2-001 A high SWR reading would indicate\:::[html]<p>GF-5E2-001 A high SWR reading would indicate\:</p>{
+	~A faulty transmitter
+	=A fault in the antenna system
+	~An over modulated transmitter
+	~A well matched antenna system
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q16/5f.1
+$CATEGORY: $course$/Foundation/Q16/5f.1
+
+
+// question: 172  name: GF-5F1-001 A "dummy load" is:
+::GF-5F1-001 A "dummy load" is\:::[html]<p>GF-5F1-001 A "dummy load" is\:</p>{
+	~A large block of concrete or stone used to guy an antenna mast.
+	~A large block of concrete used as a counterbalance when tilting a heavy antenna mast.
+	~The coil in the middle of a 5/8λ antenna
+	=A screened resistor connected instead of an antenna when making adjustments to a transmitter.
+}
+
+
+// question: 994  name: GF-5F1-002 Which of the following is not a desirable property of a dummy load
+::GF-5F1-002 Which of the following is not a desirable property of a dummy load::[html]<p>GF-5F1-002 Which of the following is not a desirable property of a dummy load\:</p>{
+	=Should radiate a good signal
+	~Should be the correct impedance
+	~Should be able to absorb power
+	~Should be in a screened enclosure
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q17/6a.1
+$CATEGORY: $course$/Foundation/Q17/6a.1
+
+
+// question: 5329  name: GF-6A1-001 Radio waves travel in
+::GF-6A1-001 Radio waves travel in::[html]<p>GF-6A1-001 Radio waves travel in</p>{
+	=Straight lines unless diffracted or reflected
+	~Wavy lines unless diffracted or reflected
+	~Wavy lines
+	~straight lines in all conditions
+}
+
+
+// question: 5330  name: GF-6A1-002 Radio waves
+::GF-6A1-002 Radio waves::[html]<p>GF-6A1-002 Radio waves</p>{
+	~Do not travel unless diffracted or reflected.
+	=Travel in straight lines unless diffracted or reflected.
+	~Travel in wavy lines
+	~Travel in wavy lines when reflected.
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q17/6a.2
+$CATEGORY: $course$/Foundation/Q17/6a.2
+
+
+// question: 845  name: GF-6A2-001 As a portable receiver is moved further from a transmitting antenna the signals will:
+::GF-6A2-001 As a portable receiver is moved further from a transmitting antenna the signals will\:::[html]<p>GF-6A2-001 As a portable receiver is moved further from a transmitting antenna the signals will\:</p>{
+	~become stronger
+	=become weaker
+	~stay the same
+	~change frequency
+}
+
+
+// question: 1016  name: GF-6A2-002 The further you are from a transmitter the signals will be:
+::GF-6A2-002 The further you are from a transmitter the signals will be\:::[html]<p>GF-6A2-002 The further you are from a transmitter the signals will be\:</p>{
+	~stronger
+	=weaker
+	~more polarised
+	~less polarised
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q17/6a.3
+$CATEGORY: $course$/Foundation/Q17/6a.3
+
+
+// question: 866  name: GF-6A3-001 UHF radio waves do not penetrate buildings because:
+::GF-6A3-001 UHF radio waves do not penetrate buildings because\:::[html]<p>GF-6A3-001 UHF radio waves do not penetrate buildings because\:</p>{
+	~the wavelengths are long compared to the building
+	=the wavelengths are short compared to the building
+	~radio waves will not propagate through windows
+	~the building casts a shadow at sunrise
+}
+
+
+// question: 1017  name: GF-6A3-002 VHF and UHF signal will best pass through:
+::GF-6A3-002 VHF and UHF signal will best pass through\:::[html]<p>GF-6A3-002 VHF and UHF signal will best pass through\:</p>{
+	=glass
+	~bricks
+	~concrete
+	~natural hills
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q17/6a.4
+$CATEGORY: $course$/Foundation/Q17/6a.4
+
+
+// question: 174  name: GF-6A4-001 The best place for a v.h.f. antenna is:
+::GF-6A4-001 The best place for a v.h.f. antenna is\:::[html]<p>GF-6A4-001 The best place for a v.h.f. antenna is\:</p>{
+	~indoors, protected from the rain, wind and sun.
+	=outdoors, as high as practicable to avoid obstructions.
+	~close to the transmitter so that you can easily trim it to the correct length.
+	~on the roof of your car.
+}
+
+
+// question: 824  name: GF-6A4-002 The strongest UHF signals will be received when the antenna is located:
+::GF-6A4-002 The strongest UHF signals will be received when the antenna is located\:::[html]<p>GF-6A4-002 The strongest UHF signals will be received when the antenna is located\:</p>{
+	=on the roof
+	~indoors on the first floor
+	~indoors in the basement
+	~on the side of the building away from the transmitter
+}
+
+
+// question: 145  name: GF-6A4-003 The range of UHF signals are normally
+::GF-6A4-003 The range of UHF signals are normally::[html]<p>GF-6A4-003 The range of UHF signals are normally\:</p>{
+	~received via satellites
+	=typically less than HF signals
+	~much weaker close to the antenna
+	~refracted back to Earth via the ionosphere
+}
+
+
+// question: 1018  name: GF-6A4-004 Which of the following would not affect the range of a VHF signal:
+::GF-6A4-004 Which of the following would not affect the range of a VHF signal\:::[html]<p>GF-6A4-004 Which of the following would not affect the range of a VHF signal\:</p>{
+	~height of the antenna
+	~power fed to antenna
+	~hills in the signal path
+	=using batteries rather than mains
+}
+
+
+// question: 1022  name: GF-6A4-005 Whatever the frequency, the range at VHF and UHF is frequently not much beyond
+::GF-6A4-005 Whatever the frequency, the range at VHF and UHF is frequently not much beyond::[html]<p>GF-6A4-005 Whatever the frequency, the range at VHF and UHF is frequently not much beyond</p>{
+	=the line of sight
+	~the line of latitude
+	~the line of longitude
+	~the line of least resistance
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q17/6a.5
+$CATEGORY: $course$/Foundation/Q17/6a.5
+
+
+// question: 5323  name: GF-6A5-001 What is the range that your signals on 144MHz will approxiamatly travel?
+::GF-6A5-001 What is the range that your signals on 144MHz will approxiamatly travel?::[html]<p>GF-6A5-001 What is the range that your signals on 144MHz will approxiamatly travel?</p>{
+	~To the end of your street
+	=To just beyond Line of sight
+	~about 100miles
+	~To the nearest repeater
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q18/6b.1
+$CATEGORY: $course$/Foundation/Q18/6b.1
+
+
+// question: 144  name: GF-6B1-001 The ionosphere is
+::GF-6B1-001 The ionosphere is::[html]<p>GF-6B1-001 The ionosphere is\:</p>{
+	~sphere of radiation that surrounds an antenna.
+	~a layer of ionisation located above the Moon.
+	~a cloud of gas that surrounds the Sun.
+	=a layer of gas located between 70 and 400km above the Earth.
+}
+
+
+// question: 1023  name: GF-6B1-002 The ionosphere is:
+::GF-6B1-002 The ionosphere is\:::[html]<p>GF-6B1-002 The ionosphere is\:</p>{
+	~the air that we breathe
+	~a layer of particles in the atmosphere
+	=a layer of conductive gases
+	~a fear of ions
+}
+
+
+// question: 1289  name: GF-6B1-003 The ionosphere is a layer of gas surrounding surro
+::GF-6B1-003 The ionosphere is a layer of gas surrounding surro::[html]<p>GF-6B1-003 The ionosphere is a layer of gas surrounding surrounding the earth and extends to approximately what height?</p>{
+	~70 kilometers
+	=400 kilometers
+	~700 kilometers
+	~4000 kilometers
+}
+
+
+// question: 1290  name: GF-6B1-004 The ionosphere is a layer of gas surrounding surro
+::GF-6B1-004 The ionosphere is a layer of gas surrounding surro::[html]<p>GF-6B1-004 The ionosphere is a layer of gas surrounding surrounding the earth and begins at approximately what height?</p>{
+	~7 kilometers
+	~40 kilometers
+	=70 kilometers
+	~400 kilometers
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q18/6b.2
+$CATEGORY: $course$/Foundation/Q18/6b.2
+
+
+// question: 825  name: GF-6B2-001 Which of the following is the highest frequency likely to be affected by the ionosphere?
+::GF-6B2-001 Which of the following is the highest frequency likely to be affected by the ionosphere?::[html]<p>GF-6B2-001 Which of the following is the highest frequency likely to be affected by the ionosphere?</p>{
+	~3.5MHz
+	~10.1MHz
+	=30MHz
+	~433MHz
+}
+
+
+// question: 846  name: GF-6B2-002 The ionosphere is affected by:
+::GF-6B2-002 The ionosphere is affected by\:::[html]<p>GF-6B2-002 The ionosphere is affected by\:</p>{
+	=UV light from the sun
+	~Sunlight reflected from the moon
+	~The weather
+	~The height of the antenna above ground level
+}
+
+
+// question: 867  name: GF-6B2-003 The main factor affecting HF propagation is:
+::GF-6B2-003 The main factor affecting HF propagation is\:::[html]<p>GF-6B2-003 The main factor affecting HF propagation is\:</p>{
+	~the transmitter power
+	~the gain of the antenna
+	~the frequency band
+	=the state of the ionosphere
+}
+
+
+// question: 930  name: GF-6B2-004 HF propagation relies on:
+::GF-6B2-004 HF propagation relies on\:::[html]<p>GF-6B2-004 HF propagation relies on\:</p>{
+	~The Ozone layer
+	~Good weather conditions
+	~The position of the moon
+	=Ionisation caused by the sun
+}
+
+
+// question: 1024  name: GF-6B2-005 International HF radio waves mainly travel:
+::GF-6B2-005 International HF radio waves mainly travel\:::[html]<p>GF-6B2-005 International HF radio waves mainly travel\:</p>{
+	~via ground wave
+	~by reflecting from the atmosphere
+	=by reflecting from the ionosphere
+	~via repeaters
+}
+
+
+// question: 1025  name: GF-6B2-006 The maximum distance for HF depends on:
+::GF-6B2-006 The maximum distance for HF depends on\:::[html]<p>GF-6B2-006 The maximum distance for HF depends on\:</p>{
+	~a clear line of sight
+	~the resistance of the ground
+	=how well the ionosphere reflects
+	~the access tone for the repeater
+}
+
+
+// question: 1026  name: GF-6B2-007 HF propagation is NOT affected by:
+::GF-6B2-007 HF propagation is NOT affected by\:::[html]<p>GF-6B2-007 HF propagation is NOT affected by\:</p>{
+	~the sun
+	~the frequency used
+	~the time of day
+	=the day of the week
+}
+
+
+// question: 1291  name: GF-6B2-008 HF radio waves can propogate world wide by:
+::GF-6B2-008 HF radio waves can propogate world wide by\:::[html]<p>GF-6B2-008 HF radio waves can propogate world wide by\:</p>{
+	=reflecting off of the ionosphere
+	~tunneling through conduits in the earth
+	~using repeaters
+	~tunneling across the Internet
+}
+
+
+// question: 1292  name: GF-6B2-009 At HF frequencies, the ionosphere:
+::GF-6B2-009 At HF frequencies, the ionosphere\:::[html]<p>GF-6B2-009 At HF frequencies, the ionosphere\:</p>{
+	~emits radio waves
+	=reflects radio waves
+	~absorbs radio waves
+	~amplifies radio waves
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q19/7a.1
+$CATEGORY: $course$/Foundation/Q19/7a.1
+
+
+// question: 5317  name: GF-7A1-001 Electromagnetic Compatability is:
+::GF-7A1-001 Electromagnetic Compatability is\:::[html]<p>GF-7A1-001 Electromagnetic Compatability is\:</p>{
+	=The avoidance of interference between various pieces of electronic equipment
+	~The interference between various pieces of electronic equipment.
+	~The avoidance of interference between pieces of electronic equipment which do not bear a CE mark
+	~The name given to the process of ensuring that Radio Equipment is certified for use in the UK
+}
+
+
+// question: 5331  name: GF-7A1-002 What is referred to as 'the avoidance of interference between various pieces of electronic equipment'?
+::GF-7A1-002 What is referred to as 'the avoidance of interference between various pieces of electronic equipment'?::[html]<p>GF-7A1-002 What is referred to as '<em>the avoidance of interference between various pieces of electronic equipment</em>'?</p>{
+	~Electro-mechanical Compatibility (EMC)
+	~Electrical Compatibility (EMC)
+	=Electromagnetic Compatibility (EMC)
+	~Electronic Compatibility (EMC)
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q20/7b.2
+$CATEGORY: $course$/Foundation/Q20/7b.2
+
+
+// question: 998  name: GF-7B2-001 Morse code is
+::GF-7B2-001 Morse code is::[html]<p>GF-7B2-001 Morse code is\:</p>{
+	=able to maintain contact when other modes fail
+	~able to maintain contact when there is no propagation
+	~not used any more
+	~only used in emergencies
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q21/7d.1
+$CATEGORY: $course$/Foundation/Q21/7d.1
+
+
+// question: 5318  name: GF-7D1-001 Your neighbours new Plasma 50" TV is wiping out the radio for you during the evening when he's at home. What do you do?
+::GF-7D1-001 Your neighbours new Plasma 50" TV is wiping out the radio for you during the evening when he's at home. What do you do?::[html]<p>GF-7D1-001 Your neighbour's new Plasma 50" TV is wiping out the radio for you during the evening when they're at home. What do you do?</p>{
+	~Pack radio away as it's not worth hassle now you can't use it
+	~Phone Ofcom, RSGB, BBC, SkyTV to sort this guy out
+	=Suggest he contacts the manufacturer of TV as could be issue with the set
+	~Threaten him with police action
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q22/8a.1
+$CATEGORY: $course$/Foundation/Q22/8a.1
+
+
+// question: 1043  name: GF-8A1-001 Before transmitting you should:
+::GF-8A1-001 Before transmitting you should\:::[html]<p>GF-8A1-001 Before transmitting you should\:</p>{
+	=listen then ask if the frequency is in use
+	~listen then call CQ
+	~call CQ twice with your callsign three times
+	~Shout 
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q22/8a.2
+$CATEGORY: $course$/Foundation/Q22/8a.2
+
+
+// question: 1044  name: GF-8A2-001 A correct HF CQ call would be:
+::GF-8A2-001 A correct HF CQ call would be\:::[html]<p>GF-8A2-001 A correct HF CQ call would be\:</p>{
+	~CQ all stations, M3ABC here, over
+	~CQ CQ CQ this is M3ABC looking for a copy, over
+	=CQ CQ CQ this is M3ABC, Mike three alpha bravo charlie calling CQ and standing by for any calls
+	~CQ CQ CQ CQ CQ CQ CQ CQ CQ from M3ABC CQ CQ CQ CQ CQ
+}
+
+
+// question: 853  name: GF-8A2-002 The best initial call on VHF FM would be:
+::GF-8A2-002 The best initial call on VHF FM would be\:::[html]<p>GF-8A2-002 The best initial call on VHF FM would be\:</p>{
+	~CQ CQ CQ this is amateur radio station Mike Three Queen Queen Queen over
+	~CQ CQ CQ CQ CQ CQ from M3QQQ CQ CQ CQ CQ CQ CQ
+	=CQ CQ CQ this is M3QQQ calling CQ and listening for any calls
+	~CQ CQ CQ this is M3QQQ M3QQQ calling, CQ CQ CQ from Mike Three Quebec Quebec Quebec calling CQ and standing by
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q22/8a.3
+$CATEGORY: $course$/Foundation/Q22/8a.3
+
+
+// question: 1045  name: GF-8A3-001 Once you have contacted another station on a VHF calling channel you should:
+::GF-8A3-001 Once you have contacted another station on a VHF calling channel you should\:::[html]<p>GF-8A3-001 Once you have contacted another station on a VHF calling channel you should\:</p>{
+	~remain on the frequency until another station wishes to use it
+	~remain on the frequency as long as the contact takes
+	~change frequency to the next channel
+	=change frequency to the next clear channel
+}
+
+
+// question: 893  name: GF-8A3-002 Having made contact with another station on the UHF FM calling frequency you should
+::GF-8A3-002 Having made contact with another station on the UHF FM calling frequency you should::[html]<p>GF-8A3-002 Having made contact with another station on the UHF FM calling frequency you should</p>{
+	~only speak to them for up to 4 minutes
+	~give your callsign on every over
+	=change to another channel
+	~thank them for the contact and ask for a QSL card
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q22/8a.4
+$CATEGORY: $course$/Foundation/Q22/8a.4
+
+
+// question: 999  name: GF-8A4-001 The correct phonetic spelling of the word ‘Morse’ would be
+::GF-8A4-001 The correct phonetic spelling of the word ‘Morse’ would be::[html]<p>GF-8A4-001 The correct phonetic spelling of the word ‘Morse’ would be\:</p>{
+	~Mike Ontario Romeo Sugar Echo
+	~Mexico Oscar Rome Sierra England
+	~Mexico Oscar Roger Sierra England
+	=Mike Oscar Romeo Sierra Echo
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q24/8a.5
+$CATEGORY: $course$/Foundation/Q24/8a.5
+
+
+// question: 5327  name: GF-8A5-001 Which of the following is acceptable on Amateur Radio?
+::GF-8A5-001 Which of the following is acceptable on Amateur Radio?::GF-8A5-001 Which of the following is acceptable on Amateur Radio?{
+	~[html]Threatening language
+	=[html]Talking about weather
+	~[html]Offensive language
+	~[html]Music
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q22/8b.1
+$CATEGORY: $course$/Foundation/Q22/8b.1
+
+
+// question: 1046  name: GF-8B1-001 Repeaters are intended:
+::GF-8B1-001 Repeaters are intended\:::[html]<p>GF-8B1-001 Repeaters are intended\:</p>{
+	~For base stations to increase their range
+	~to allow local nets
+	=to help mobile operators maintain contacts
+	~to pass on traffic reports
+}
+
+
+// question: 1048  name: GF-8B1-002 Repeaters receive and transmit on different frequencies because:
+::GF-8B1-002 Repeaters receive and transmit on different frequencies because\:::[html]<p>GF-8B1-002 Repeaters receive and transmit on different frequencies because\:</p>{
+	~repeater offset is a legal requirement
+	~there are plenty of channels spare
+	=the repeater cannot transmit and receive on the same frequency without causing interference
+	~all of the above
+}
+
+
+// question: 1047  name: GF-8B1-003 To access a repeater you can:
+::GF-8B1-003 To access a repeater you can\:::[html]<p>GF-8B1-003 To access a repeater you can\:</p>{
+	~send a blank carrier and wait for a bleep 
+	~send a 1750Hz tone
+	~mix your voice with a sub-audible tone (CTCSS)
+	=either b or c
+}
+
+
+// question: 934  name: GF-8B1-004 Repeaters re-transmit signals they receive:
+::GF-8B1-004 Repeaters re-transmit signals they receive\:::[html]<p>GF-8B1-004 Repeaters re-transmit signals they receive\:</p>{
+	~On the same frequency as the received signal (to conserve spectrum usage).
+	=At a fixed offset frequency from the received signal.
+	~On 1750Hz.
+	~On a frequency between 70 and 250Hz
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q22/8c.1
+$CATEGORY: $course$/Foundation/Q22/8c.1
+
+
+// question: 139  name: GF-8C1-001 Use the Schedule / Band Plan to determine any frequency bands between 1MHz and 2MHz where you must not cause interference to other services outside the UK
+::GF-8C1-001 Use the Schedule / Band Plan to determine any frequency bands between 1MHz and 2MHz where you must not cause interference to other services outside the UK::[html]<p>GF-8C1-001 Use the Schedule / Band Plan to determine any frequency bands between 1MHz and 2MHz where you must not cause interference to other services outside the UK\:</p>{
+	~1.810 - 1.830 MHz
+	~1.830 - 1.850 MHz
+	=1.810 - 1.830 MHz and 1.850 - 2.000 MHz
+	~1.830 - 1.850 MHz and 1.850 - 2.000 MHz
+}
+
+
+// question: 935  name: GF-8C1-002 Band plans are:
+::GF-8C1-002 Band plans are\:::[html]<p>GF-8C1-002 Band plans are\:</p>{
+	~rules on band usage for Foundation Licence holders only.
+	~rules on band usage laid down by the licensing authorities.
+	=gentlemen's agreements on frequency allocation within each amateur band. 
+	~another name for the Schedule.
+}
+
+
+// question: 892  name: GF-8C1-003 The bandplans used by radio amateurs:
+::GF-8C1-003 The bandplans used by radio amateurs\:::[html]<p>GF-8C1-003 The bandplans used by radio amateurs\:</p>{
+	~are part of the Licence conditions
+	~are set by the Secretary of State
+	=allow different modes to share the band
+	~state which bands are primary and secondary
+}
+
+
+// question: 1049  name: GF-8C1-004 Band plans are used:
+::GF-8C1-004 Band plans are used\:::[html]<p>GF-8C1-004 Band plans are used\:</p>{
+	~to stop illegal operators
+	~to ensure best propagation
+	=to ensure best use of the space available
+	~to restrict the numbers on any one band
+}
+
+
+// question: 921  name: GF-8C1-005 Using the Schedule, determine which of the following bands has Primary amateur status:
+::GF-8C1-005 Using the Schedule, determine which of the following bands has Primary amateur status\:::[html]<p>GF-8C1-005 Using the Schedule, determine which of the following bands has Primary amateur status\:</p>{
+	~10MHz
+	~70MHz
+	=144MHz
+	~430MHz
+}
+
+
+// question: 922  name: GF-8C1-006 What is the maximum power limit on the 135kHz band?:
+::GF-8C1-006 What is the maximum power limit on the 135kHz band?\:::[html]<p>GF-8C1-006 What is the maximum power limit on the 135kHz band?\:</p>{
+	~1W measured at the antenna
+	=1W effective radiated power
+	~10W measured at the antenna
+	~10W effective radiated power
+}
+
+
+// question: 891  name: GF-8C1-007 Which mode is NOT permitted between 144MHz and 146MHz?
+::GF-8C1-007 Which mode is NOT permitted between 144MHz and 146MHz?::[html]<p>GF-8C1-007 Which mode is NOT permitted between 144MHz and 146MHz?</p>{
+	~CW
+	~RTTY
+	~SSTV
+	=FSTV
+}
+
+
+// question: 890  name: GF-8C1-008 On which frequency does the amateur service have primary use?
+::GF-8C1-008 On which frequency does the amateur service have primary use?::[html]<p>GF-8C1-008 On which frequency does the amateur service have primary use?</p>{
+	~0.137MHz
+	=1.840MHz
+	~10.100MHz
+	~51.500MHz
+}
+
+
+// question: 873  name: GF-8C1-009 What frequency should be used for FM simplex contacts?
+::GF-8C1-009 What frequency should be used for FM simplex contacts?::[html]<p>GF-8C1-009 What frequency should be used for FM simplex contacts?</p>{
+	~144.050MHz
+	~144.300MHz
+	=145.525MHz
+	~145.900MHz
+}
+
+
+// question: 861  name: GF-8C1-010 Which of the following bands do space researchers use?
+::GF-8C1-010 Which of the following bands do space researchers use?::[html]<p>GF-8C1-010 Which of the following bands do space researchers use?</p>{
+	=137-138MHz
+	~144-146MHz
+	~149.9-150.05MHz
+	~150.05-152.00MHz
+}
+
+
+// question: 852  name: GF-8C1-011 What frequency should be used for listening for beacons?
+::GF-8C1-011 What frequency should be used for listening for beacons?::[html]<p>GF-8C1-011 What frequency should be used for listening for beacons?</p>{
+	~14.060MHz
+	=14.100MHz
+	~14.230MHz
+	~14.285MHz
+}
+
+
+// question: 851  name: GF-8C1-012 Which band is only available to amateurs on the basis of non-interference to other services outside the UK?
+::GF-8C1-012 Which band is only available to amateurs on the basis of non-interference to other services outside the UK?::[html]<p>GF-8C1-012 Which band is only available to amateurs on the basis of non-interference to other services outside the UK?</p>{
+	~7MHz
+	~14MHz
+	~21MHz
+	=50MHz
+}
+
+
+// question: 831  name: GF-8C1-013 What frequency should be used for QRP CW?
+::GF-8C1-013 What frequency should be used for QRP CW?::[html]<p>GF-8C1-013 What frequency should be used for QRP CW?</p>{
+	=14.060MHz
+	~14.100MHz
+	~14.230MHz
+	~14.285MHz
+}
+
+
+// question: 830  name: GF-8C1-014 What is the maximum transmitted power permitted on 0.136MHz?
+::GF-8C1-014 What is the maximum transmitted power permitted on 0.136MHz?::[html]<p>GF-8C1-014 What is the maximum transmitted power permitted on 0.136MHz?</p>{
+	=1W erp
+	~1W power fed to the antenna
+	~10W erp
+	~10W power fed to the antenna
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q22
+$CATEGORY: $course$/Foundation/Q22
+
+
+// question: 5319  name: GF-8C1-015 Which of the following is not available within 100Km of Charing Cross, London?
+::GF-8C1-015 Which of the following is not available within 100Km of Charing Cross, London?::[html]<p>GF-8C1-015 Which of the following is not available within 100Km of Charing Cross, London?</p>{
+	~144-145MHz
+	=431-432MHz
+	~145.800-146MHz
+	~433-434MHz
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q22/8d.1
+$CATEGORY: $course$/Foundation/Q22/8d.1
+
+
+// question: 1050  name: GF-8D1-001 Connecting data modems to a transmitter requires:
+::GF-8D1-001 Connecting data modems to a transmitter requires\:::[html]<p>GF-8D1-001 Connecting data modems to a transmitter requires\:</p>{
+	~more power
+	~less power
+	=correct AF gain setting
+	~correct RF gain setting
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q23 Practical/8e.3
+$CATEGORY: $course$/Foundation/Q23 Practical/8e.3
+
+
+// question: 874  name: GF-8E3-001 If another amateur tells you that your signals are ‘1 and 9’, that means they are
+::GF-8E3-001 If another amateur tells you that your signals are ‘1 and 9’, that means they are::[html]<p>GF-8E3-001 If another amateur tells you that your signals are ‘1 and 9’, that means they are\:</p>{
+	=very strong but unreadable
+	~very strong and fully readable
+	~very weak but fully readable
+	~very weak and unreadable
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9a.1
+$CATEGORY: $course$/Foundation/Q25/9a.1
+
+
+// question: 1051  name: GF-9A1-001 High voltages can:
+::GF-9A1-001 High voltages can\:::[html]<p>GF-9A1-001 High voltages can\:</p>{
+	~reduce the chance of interference
+	=kill you
+	~produce better modulation
+	~be earthed
+}
+
+
+// question: 1052  name: GF-9A1-002 High currents can:
+::GF-9A1-002 High currents can\:::[html]<p>GF-9A1-002 High currents can\:</p>{
+	~melt the wire insulation
+	~blow the fuse
+	~cause fires
+	=all the above
+}
+
+
+// question: 877  name: GF-9A1-003 Batteries that can supply high current pose a risk of:
+::GF-9A1-003 Batteries that can supply high current pose a risk of\:::[html]<p>GF-9A1-003 Batteries that can supply high current pose a risk of\:</p>{
+	~explosion
+	~rf burns
+	=starting fires
+	~blowing a fuse
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9a.2
+$CATEGORY: $course$/Foundation/Q25/9a.2
+
+
+// question: 1054  name: GF-9A2-001 Which earthing system can cause problems for radio amateurs:
+::GF-9A2-001 Which earthing system can cause problems for radio amateurs\:::[html]<p>GF-9A2-001 Which earthing system can cause problems for radio amateurs\:</p>{
+	~PMR
+	=PME
+	~PMP
+	~PPP
+}
+
+
+// question: 1053  name: GF-9A2-002 Mains power supplies should always be:
+::GF-9A2-002 Mains power supplies should always be\:::[html]<p>GF-9A2-002 Mains power supplies should always be\:</p>{
+	~opened to improve ventilation
+	=earthed through a mains plug
+	~submerged in water
+	~earthed through the RF earth
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9a.3
+$CATEGORY: $course$/Foundation/Q25/9a.3
+
+
+// question: 1055  name: GF-9A3-001 The fuse in a mains plug should always be:
+::GF-9A3-001 The fuse in a mains plug should always be\:::[html]<p>GF-9A3-001 The fuse in a mains plug should always be\:</p>{
+	~13amps
+	~5amps
+	=selected for the equipment in use
+	~replaced by a rusty nail
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9a.4
+$CATEGORY: $course$/Foundation/Q25/9a.4
+
+
+// question: 1056  name: GF-9A4-001 The best way to work on mains equipment is:
+::GF-9A4-001 The best way to work on mains equipment is\:::[html]<p>GF-9A4-001 The best way to work on mains equipment is\:</p>{
+	~to wear cotton socks
+	~to wear rubber shoes
+	~to put your hand in your pocket
+	=to disconnect it from the mains
+}
+
+
+// question: 835  name: GF-9A4-001 Who should repair high voltage radio equipment?
+::GF-9A4-001 Who should repair high voltage radio equipment?::[html]<p>GF-9A4-001 Who should repair high voltage radio equipment?</p>{
+	~The owner of the equipment
+	~the Foundation Licence holder
+	~a Full Licence holder
+	=a qualified person
+}
+
+
+// question: 856  name: GF-9A4-003 If work needs to be done on mains powered radio equipment you should:
+::GF-9A4-003 If work needs to be done on mains powered radio equipment you should\:::[html]<p>GF-9A4-003 If work needs to be done on mains powered radio equipment you should\:</p>{
+	~wear rubber shoes
+	~use plastic tools
+	=switch off the equipment at the mains first
+	~switch the power off at the fuse box
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9a.5
+$CATEGORY: $course$/Foundation/Q25/9a.5
+
+
+// question: 5324  name: GF-9A5-001 The Blue wire going into number 2 is...
+::GF-9A5-001 The Blue wire going into number 2 is...::[html]<p>GF-9A5-001 The Blue wire going into number 2 is...<img src\="@@PLUGINFILE@@/Three_pin_mains_plug.png" alt\="Three pin mains plug" width\="500" height\="382" /></p>{
+	=Neutral
+	~Live
+	~Earth
+	~Fuse
+}
+
+
+// question: 5325  name: GF-9A5-002 The Yellow & Green wire going into number 3 is...
+::GF-9A5-002 The Yellow & Green wire going into number 3 is...::[html]<p>GF-9A5-002 The Yellow &amp; Green wire going into number 3 is...<img src\="@@PLUGINFILE@@/Three_pin_mains_plug.png" alt\="Three pin mains plug" width\="500" height\="382" /></p>{
+	~Neutral
+	~Live
+	=Earth
+	~Fuse
+}
+
+
+// question: 5326  name: GF-9A5-003 The Brown wire going into number 4 is...
+::GF-9A5-003 The Brown wire going into number 4 is...::[html]<p>GF-9A5-003 The Brown wire going into number 4 is...<img src\="@@PLUGINFILE@@/Three_pin_mains_plug.png" alt\="Three pin mains plug" width\="500" height\="382" /></p>{
+	~Neutral
+	=Live
+	~Earth
+	~Fuse
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q26/9a.6
+$CATEGORY: $course$/Foundation/Q26/9a.6
+
+
+// question: 1057  name: GF-9A6-002 The mains power switch to the radio shack should be:
+::GF-9A6-002 The mains power switch to the radio shack should be\:::[html]<p>GF-9A6-002 The mains power switch to the radio shack should be\:</p>{
+	~hidden away to prevent tampering
+	~hidden away to prevent unauthorised use
+	=in a clearly marked position in case of emergency
+	~switched off at all times
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q26/9b.1
+$CATEGORY: $course$/Foundation/Q26/9b.1
+
+
+// question: 956  name: GF-9B1-001 If you see someone you think is electrocuted and they are still in contact with live apparatus, your first action should be
+::GF-9B1-001 If you see someone you think is electrocuted and they are still in contact with live apparatus, your first action should be::[html]<p>GF-9B1-001 If you see someone you think is electrocuted and they are still in contact with live apparatus, your first action should be\:-</p>{
+	~Call an Ambulance – 999
+	~Pull the person clear
+	=Switch off the power
+	~Earth them
+	####<p>© G1TKX</p>
+}
+
+
+// question: 1058  name: GF-9B1-002 If you discover someone in contact with live electric mains cables you should first:
+::GF-9B1-002 If you discover someone in contact with live electric mains cables you should first\:::[html]<p>GF-9B1-002 If you discover someone in contact with live electric mains cables you should first\:</p>{
+	~pour water over them
+	~pull them away from the wires
+	=switch off the mains
+	~call for an ambulance
+}
+
+
+// question: 937  name: GF-9B1-003 If you find someone in contact with electric cables your first action should be to:
+::GF-9B1-003 If you find someone in contact with electric cables your first action should be to\:::[html]<p>GF-9B1-003 If you find someone in contact with electric cables your first action should be to\:</p>{
+	~cover the victim with a blanket
+	=switch off the electricity
+	~call for an ambulance
+	~pull them away
+}
+
+
+// question: 857  name: GF-9B1-004 If you see smoke and flames coming out of your transceiver you should first:
+::GF-9B1-004 If you see smoke and flames coming out of your transceiver you should first\:::[html]<p>GF-9B1-004 If you see smoke and flames coming out of your transceiver you should first\:</p>{
+	~pour water over it
+	=switch it off
+	~escape the room
+	~call for an ambulance
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9c.1
+$CATEGORY: $course$/Foundation/Q25/9c.1
+
+
+// question: 880  name: GF-9C1-001  The correct place for long cables is:
+::GF-9C1-001  The correct place for long cables is\:::[html]<p>GF-9C1-001 The correct place for long cables is\:</p>{
+	~placed under the carpet
+	~hung across the shack well off the floor
+	~securely fixed to the wall with copper nails
+	=routed along walls and behind furniture
+}
+
+
+// question: 1059  name: GF-9C1-002 Station cables should be neatly tucked away to:
+::GF-9C1-002 Station cables should be neatly tucked away to\:::[html]<p>GF-9C1-002 Station cables should be neatly tucked away to\:</p>{
+	~stop RF leaking out
+	~stop interference being picked up
+	~keep details of antennas secret
+	=avoid tripping over them
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9c.2
+$CATEGORY: $course$/Foundation/Q25/9c.2
+
+
+// question: 1060  name: GF-9C2-001 Antenna wires and feeder should be high enough to prevent:
+::GF-9C2-001 Antenna wires and feeder should be high enough to prevent\:::[html]<p>GF-9C2-001 Antenna wires and feeder should be high enough to prevent\:</p>{
+	~RF leaking out
+	~Interference being picked up
+	=People walking into them
+	~Electrocution
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9c.3
+$CATEGORY: $course$/Foundation/Q25/9c.3
+
+
+// question: 1061  name: GF-9C3-001 Antennas should not be sited near overhead mains cables because:
+::GF-9C3-001 Antennas should not be sited near overhead mains cables because\:::[html]<p>GF-9C3-001 Antennas should not be sited near overhead mains cables because\:</p>{
+	~they will not be efficient
+	~they will attract lightning
+	~the antenna could affect the mains
+	=the antenna could touch the mains cables and kill you
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9c.4
+$CATEGORY: $course$/Foundation/Q25/9c.4
+
+
+// question: 896  name: GF-9C4-001 When erecting antennas you should NOT:
+::GF-9C4-001 When erecting antennas you should NOT\:::[html]<p>GF-9C4-001 When erecting antennas you should NOT\:</p>{
+	~ensure that the work is supervised by an adult
+	~wear hard hats
+	=stand on the top rung of the ladder
+	~have someone standing at the bottom of the ladder
+}
+
+
+// question: 1062  name: GF-9C4-002 Putting antennas up is best done:
+::GF-9C4-002 Putting antennas up is best done\:::[html]<p>GF-9C4-002 Putting antennas up is best done\:</p>{
+	~on your own
+	~up a ladder
+	~with  one person
+	=with a number of helpers, including one adult
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9c.5
+$CATEGORY: $course$/Foundation/Q25/9c.5
+
+
+// question: 1063  name: GF-9C5 -001 You should not touch an antenna whilst:
+::GF-9C5 -001 You should not touch an antenna whilst\:::[html]<p>GF-9C5 -001 You should not touch an antenna whilst\:</p>{
+	~receiving long distance signals
+	~standing on a ladder
+	~holding a screwdriver
+	=transmitting
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9c.6
+$CATEGORY: $course$/Foundation/Q25/9c.6
+
+
+// question: 1064  name: GF-9C6-001 Particularly high antennas should be protected against:
+::GF-9C6-001 Particularly high antennas should be protected against\:::[html]<p>GF-9C6-001 Particularly high antennas should be protected against\:</p>{
+	=lightning
+	~theft
+	~fire
+	~flood
+}
+
+
+// question: 836  name: GF-9C6-002 Which of the following is NOT a safety risk from antennas:
+::GF-9C6-002 Which of the following is NOT a safety risk from antennas\:::[html]<p>GF-9C6-002 Which of the following is NOT a safety risk from antennas\:</p>{
+	~rf burns caused by touching an antenna whilst transmitting
+	~vertical antennas coming into contact with overhead power lines
+	~large antennas being blown down by gales
+	=fitting appropriate lightning protection to masts
+}
+
+
+// question: 936  name: GF-9C6-003 High antennas need protection against:
+::GF-9C6-003 High antennas need protection against\:::[html]<p>GF-9C6-003 High antennas need protection against\:</p>{
+	~ice build up
+	~bird strike
+	=lightning
+	~aircraft
+}
+
+
+// question: 0  name: Switch category to $course$/Foundation/Q25/9d.1
+$CATEGORY: $course$/Foundation/Q25/9d.1
+
+
+// question: 1065  name: GF-9D1-001 Too much volume when using headphones can cause:
+::GF-9D1-001 Too much volume when using headphones can cause\:::[html]<p>GF-9D1-001 Too much volume when using headphones can cause\:</p>{
+	~interference on nearby TV sets
+	=the wearer to go deaf
+	~the audio amplifier to burn out
+	~contacts to be lost
+}
+
+
+// question: 878  name: GF-9D1-002 Wearing headphones can damage your hearing if:
+::GF-9D1-002 Wearing headphones can damage your hearing if\:::[html]<p>GF-9D1-002 Wearing headphones can damage your hearing if\:</p>{
+	~they are worn during servicing work
+	~they are not plugged in to the radio 
+	=are used at high volume
+	~are used in a noisy workshop
+}
+
+

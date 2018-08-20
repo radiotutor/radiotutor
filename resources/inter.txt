@@ -1,0 +1,1441 @@
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI Licensing Conditions
+$CATEGORY: $course$/UK Intermediate/GI Licensing Conditions
+
+
+// question: 188  name: GI-001 Which of the following is NOT a valid callsign
+::GI-001 Which of the following is NOT a valid callsign::[html]GI-001 Which of the following is NOT a valid callsign{
+	~[moodle]2E0VIN# 
+	~[moodle]M3ABC# 
+	~[moodle]MU0GJH# 
+	=[moodle]2EW0ABC# 
+}
+
+
+// question: 189  name: GI-002 Your callsign is 2D0ABC. Whilst on holiday at a friend’s house in England you should use the callsign
+::GI-002 Your callsign is 2D0ABC. Whilst on holiday at a friend’s house in England you should use the callsign::[html]GI-002 Your callsign is 2D0ABC. Whilst on holiday at a friend’s house in England you should use the callsign{
+	=[moodle]2E0ABC/A
+	~[moodle]2D0ABC/P
+	~[moodle]2E0ABC/P
+	~[moodle]M/2D0ABC/A
+}
+
+
+// question: 190  name: GI-003 Your callsign sign is 2E0XYZ and you visit a friend whose callsign is M3ABC.  Which of the following is not permitted
+::GI-003 Your callsign sign is 2E0XYZ and you visit a friend whose callsign is M3ABC.  Which of the following is not permitted::[html]GI-003 Your callsign sign is 2E0XYZ and you visit a friend whose callsign is M3ABC.  Which of the following is not permitted{
+	~[moodle]the supervision of your friend using your call sign running 50W
+	~[moodle]the use by you of your friend’s equipment using your call sign
+	=[moodle]under supervision, the use of your friend’s callsign running 50W
+	~[moodle]the use of the radio by the two of you in a local net, each using your own call sign and privileges.
+}
+
+
+// question: 191  name: GI-004 Your call sign is 2E0ABC.  You go to your friend’s house who is a Full Licence holder.  Which of the following is NOT permitted
+::GI-004 Your call sign is 2E0ABC.  You go to your friend’s house who is a Full Licence holder.  Which of the following is NOT permitted::[html]GI-004 Your call sign is 2E0ABC.  You go to your friend’s house who is a Full Licence holder.  Which of the following is NOT permitted{
+	~[moodle]you may operate his station using the callsign of and under the direct supervision of the Full Licensee running 400W# 
+	~[moodle]you may operate the station using a 2E0ABC/A callsign running 50W# 
+	=[moodle]you may operate the station using a 2E0ABC/A callsign running 100W# 
+	~[moodle]You may assist the Full Licensee complete his log# 
+}
+
+
+// question: 192  name: GI-005 You work at the local radio shop are in conversation with another licensed amateur on the radio.  Which of the following should you NOT talk about :-
+::GI-005 You work at the local radio shop are in conversation with another licensed amateur on the radio.  Which of the following should you NOT talk about \:-::[html]GI-005 You work at the local radio shop are in conversation with another licensed amateur on the radio.  Which of the following should you NOT talk about \:-{
+	~[moodle]the fact that you have been ill# 
+	~[moodle]the type of radio you are using# 
+	=[moodle]the specials offers on sale at your radio shop# 
+	~[moodle]the forthcoming lecture at your Radio Club# 
+}
+
+
+// question: 193  name: GI-006 You may allow your radio equipment to be used
+::GI-006 You may allow your radio equipment to be used::[html]GI-006 You may allow your radio equipment to be used{
+	~[moodle]by an unlicensed amateur to send a message to a friend who holds a Full Licence
+	=[moodle]by your local policeman to send a message to his local station during a police operation
+	~[moodle]to relay a message for your brother who runs a radio taxi business
+	~[moodle]to broadcast news about amateur radio
+}
+
+
+// question: 194  name: GI-007 Under the provisions relating to User Services you may pass messages on behalf of
+::GI-007 Under the provisions relating to User Services you may pass messages on behalf of::[html]GI-007 Under the provisions relating to User Services you may pass messages on behalf of{
+	~[moodle]your local Member of Parliament# 
+	~[moodle]a vet acting in an emergency# 
+	~[moodle]a hospital midwife# 
+	=[moodle]the Salvation Army# 
+}
+
+
+// question: 195  name: GI-008 It is NOT necessary to send your callsign
+::GI-008 It is NOT necessary to send your callsign::[html]GI-008 It is NOT necessary to send your callsign{
+	=[moodle]at the end of every over
+	~[moodle]at the start and finish of all periods of transmission
+	~[moodle]every 15 minutes during a long period of transmission
+	~[moodle]during a CQ call
+}
+
+
+// question: 196  name: GI-009 It is recommended that the suffix “/P” be used with your callsign whilst operating from a Temporary Location.  In which of the following circumstances would this be applicable
+::GI-009 It is recommended that the suffix “/P” be used with your callsign whilst operating from a Temporary Location.  In which of the following circumstances would this be applicable::[html]GI-009 It is recommended that the suffix “/P” be used with your callsign whilst operating from a Temporary Location.  In which of the following circumstances would this be applicable{
+	~[moodle]when operating from a friends house
+	~[moodle]when using a hand held radio in you car
+	~[moodle]when on holiday at a hotel
+	=[moodle]on Scout camp
+}
+
+
+// question: 197  name: GI-010 As an Intermediate Licence holder in which of the following circumstances are you permitted to operate
+::GI-010 As an Intermediate Licence holder in which of the following circumstances are you permitted to operate::[html]GI-010 As an Intermediate Licence holder in which of the following circumstances are you permitted to operate{
+	~[moodle]whilst taking a flight in a balloon# 
+	=[moodle]on a canal barge# 
+	~[moodle]on a cross Channel ferry# 
+	~[moodle]at anchor in the Solent# 
+}
+
+
+// question: 198  name: GI-011 For an Intermediate License holder which of the following statements is true
+::GI-011 For an Intermediate License holder which of the following statements is true::[html]GI-011 For an Intermediate License holder which of the following statements is true{
+	~[moodle]Under the CEPT arrangements you can use your licence whilst on holiday in a foreign country# 
+	~[moodle]Under the CEPT arrangements you cannot use your licence whilst on holiday in a foreign country unless your have also passed a morse exam# 
+	=[moodle]Other administrations do not routinely recognise the Intermediate Licence# 
+	~[moodle]You can apply to Ofcom for an extension to your License so that you can operate in other European Union countries# 
+}
+
+
+// question: 199  name: GI-012 Subject to the terms of your License which of the following types of Unattended Operation are NOT permitted
+::GI-012 Subject to the terms of your License which of the following types of Unattended Operation are NOT permitted::[html]GI-012 Subject to the terms of your License which of the following types of Unattended Operation are NOT permitted{
+	~[moodle]a radio link for the remote control of your station# 
+	~[moodle]a packet station# 
+	~[moodle]a beacon for a direction finding competition# 
+	=[moodle]repeater operation# 
+}
+
+
+// question: 200  name: GI-013 The Licensee may conduct Unattended Operation for remote control of the main station limited to a power of
+::GI-013 The Licensee may conduct Unattended Operation for remote control of the main station limited to a power of::[html]GI-013 The Licensee may conduct Unattended Operation for remote control of the main station limited to a power of{
+	~[moodle]50mW# 
+	=[moodle]500mW# 
+	~[moodle]1W# 
+	~[moodle]50W# 
+}
+
+
+// question: 201  name: GI-014 Which of the following statements is true
+::GI-014 Which of the following statements is true::[html]GI-014 Which of the following statements is true{
+	~[moodle]If you use a log book you must keep it for at least six months following the date of the last entry# 
+	~[moodle]Under the new Licensing arrangements you will never be required to keep a log book# 
+	~[moodle]The log book must record the names of all your contacts# 
+	=[moodle]A person authorised by Ofcom may require you to keep a log of all transmissions made over a specified period of time# 
+}
+
+
+// question: 205  name: GI-015 You should ensure that your Station does not
+::GI-015 You should ensure that your Station does not::[html]GI-015 You should ensure that your Station does not{
+	~[moodle]interfere with other electrical equipment
+	=[moodle]cause any undue interference to other radio users
+	~[moodle]set your neighbour’s burglar alarm off
+	~[moodle]notify Ofcom
+}
+
+
+// question: 206  name: GI-016 Any radio emissions from your station which do cause interference must be
+::GI-016 Any radio emissions from your station which do cause interference must be::[html]GI-016 Any radio emissions from your station which do cause interference must be{
+	~[moodle]noted in your log book# 
+	~[moodle]stopped immediately on notice of such interference from the aggrieved party# 
+	~[moodle]referred to the RSGB for guidance# 
+	=[moodle]reduced to the satisfaction of an Officer authorised by Ofcom# 
+}
+
+
+// question: 207  name: GI-017 Your Licence requires that you should carry out tests on your Station
+::GI-017 Your Licence requires that you should carry out tests on your Station::[html]GI-017 Your Licence requires that you should carry out tests on your Station{
+	=[moodle]from time to time to ensure that the Station is not causing undue interference# 
+	~[moodle]every six months to check for unwanted harmonics# 
+	~[moodle]regularly to ensure that your antenna is properly connected# 
+	~[moodle]after any severe electrical storms to ensure that the radio’s vfo remains properly aligned# 
+}
+
+
+// question: 208  name: GI-018 If an Intermediate License holder intends to move they must advise Ofcom of their change of address
+::GI-018 If an Intermediate License holder intends to move they must advise Ofcom of their change of address::[html]GI-018 If an Intermediate License holder intends to move they must advise Ofcom of their change of address{
+	~[moodle]at least seven days prior to change of address becoming effective# 
+	=[moodle]immediately on moving# 
+	~[moodle]within seven days of the change of address# 
+	~[moodle]it is not necessary to advise Ofcom if notification has been sent to the RSGB# 
+}
+
+
+// question: 209  name: GI-019 How much power may an Intermediate Licence holder use if transmitting on 430.5MHz
+::GI-019 How much power may an Intermediate Licence holder use if transmitting on 430.5MHz::[html]GI-019 How much power may an Intermediate Licence holder use if transmitting on 430.5MHz{
+	=[moodle]16 dBW erp# 
+	~[moodle]50W# 
+	~[moodle]16 dBW# 
+	~[moodle]40W# 
+}
+
+
+// question: 210  name: GI-020 If you want to put out a CQ call on top band at a frequency of 1.855 MHz the maximum power that you can use is
+::GI-020 If you want to put out a CQ call on top band at a frequency of 1.855 MHz the maximum power that you can use is::[html]GI-020 If you want to put out a CQ call on top band at a frequency of 1.855 MHz the maximum power that you can use is{
+	=[moodle]32 Watts
+	~[moodle]10 Watts
+	~[moodle]50 Watts
+	~[moodle]17 Watts
+}
+
+
+// question: 211  name: GI-021 If you are operating on a frequency of 10.125 MHz and are asked to change frequency by a station claiming that they are a primary user and have been assigned that frequency you should
+::GI-021 If you are operating on a frequency of 10.125 MHz and are asked to change frequency by a station claiming that they are a primary user and have been assigned that frequency you should::[html]GI-021 If you are operating on a frequency of 10.125 MHz and are asked to change frequency by a station claiming that they are a primary user and have been assigned that frequency you should{
+	~[moodle]politely point out to them that you were there first
+	~[moodle]change frequency but report the station to the RSGB’s Spectrum Abuse Committee
+	~[moodle]do nothing
+	=[moodle]change frequency so as not to interfere with the other station
+}
+
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI Technical Basics
+$CATEGORY: $course$/UK Intermediate/GI Technical Basics
+
+
+// question: 212  name: GI-100 You are building a circuit which calls for a 0.01 uF capacitor. Which of the following components would you choose
+::GI-100 You are building a circuit which calls for a 0.01 uF capacitor. Which of the following components would you choose::[html]GI-100 You are building a circuit which calls for a 0.01 uF capacitor. Which of the following components would you choose{
+	~[moodle]a 0.1 uH inductor
+	~[moodle]a 10 mF capacitor
+	~[moodle]a 100 nF capacitor
+	=[moodle]a 10 nF capacitor
+}
+
+
+// question: 213  name: GI-101 An electric current can best be described as
+::GI-101 An electric current can best be described as::[html]GI-101 An electric current can best be described as{
+	~[moodle]the movement of ions through a copper wire
+	~[moodle]voltage moving from once place to another
+	~[moodle]a battery discharging round a circuit
+	=[moodle]the movement of electrons in a conductor
+}
+
+
+// question: 214  name: GI-102 Which of the following materials would NOT make a good outdoor insulator
+::GI-102 Which of the following materials would NOT make a good outdoor insulator::[html]GI-102 Which of the following materials would NOT make a good outdoor insulator{
+	=[moodle]wood
+	~[moodle]glass
+	~[moodle]plastic
+	~[moodle]rubber
+}
+
+
+// question: 215  name: GI-103 A twelve volt battery and a resistor are connected in series.  60 mA flows through the resistor.  How much power does the resistor consume
+::GI-103 A twelve volt battery and a resistor are connected in series.  60 mA flows through the resistor.  How much power does the resistor consume::[html]GI-103 A twelve volt battery and a resistor are connected in series.  60 mA flows through the resistor.  How much power does the resistor consume{
+	~[moodle]720 W# 
+	~[moodle]5 W# 
+	~[moodle]20 W# 
+	=[moodle]720 mW# 
+}
+
+
+// question: 216  name: GI-104 How much current flows in the following circuit if each of the resistors is 600 ohms
+::GI-104 How much current flows in the following circuit if each of the resistors is 600 ohms::[html]<p>GI-104 How much current flows in the following circuit if each of the resistors is 600 ohms <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-104.GIF" alt\="" width\="309" height\="145" /></p>{
+	~100 mA
+	=30 mA
+	~3.33 mA
+	~0.3 A
+}
+
+
+// question: 217  name: GI-105 A primary cell is likely to have a voltage of
+::GI-105 A primary cell is likely to have a voltage of::[html]GI-105 A primary cell is likely to have a voltage of{
+	~[moodle]1.2 V and can be recharged when discharged# 
+	~[moodle]1.5 V and can be recharged when discharged# 
+	=[moodle]1.5 V and must be properly disposed of when discharged# 
+	~[moodle]1.2 V and must be properly disposed of when discharged# 
+}
+
+
+// question: 218  name: GI-106 Which one of the following statements is correct
+::GI-106 Which one of the following statements is correct::[html]GI-106 Which one of the following statements is correct{
+	~[moodle]a battery normally has a voltage of 1.5V# 
+	=[moodle]two or more cells can be connected in either series or parallel to form a battery# 
+	~[moodle]cells may only be connected in series to form a battery# 
+	~[moodle]a battery is made up of a single cell# 
+}
+
+
+// question: 219  name: GI-107 A capacitor is made of
+::GI-107 A capacitor is made of::[html]GI-107 A capacitor is made of{
+	~[moodle]a metal can with a wire coming out of each end
+	=[moodle]two metal surfaces separated by an insulator
+	~[moodle]a dielectric compound
+	~[moodle]a coil of wire sometimes wrapped around a ferrite ring
+}
+
+
+// question: 220  name: GI-108 The ability of a capacitor to store charge depends upon
+::GI-108 The ability of a capacitor to store charge depends upon::[html]GI-108 The ability of a capacitor to store charge depends upon{
+	=[moodle]the area of the plates and their separation# 
+	~[moodle]the size of the container# 
+	~[moodle]whether a DC or AC voltage is applied# 
+	~[moodle]the number of turns of wire inside the capacitor# 
+}
+
+
+// question: 221  name: GI-109 Capacitors allow alternating current to pass
+::GI-109 Capacitors allow alternating current to pass::[html]GI-109 Capacitors allow alternating current to pass{
+	~[moodle]because the dielectric breaks down at high frequency# 
+	~[moodle]because a magnetic field flows from one coil to another# 
+	~[moodle]because alternating currents flow on the surface of a conductor and can pass through the can# 
+	=[moodle]by continuously charging and discharging# 
+}
+
+
+// question: 222  name: GI-110 If an electrolytic capacitor is connected the wrong way round
+::GI-110 If an electrolytic capacitor is connected the wrong way round::[html]GI-110 If an electrolytic capacitor is connected the wrong way round{
+	~[moodle]it will make little difference# 
+	~[moodle]it can give rise to interference # 
+	=[moodle]it can explode# 
+	~[moodle]it will no longer block direct current# 
+}
+
+
+// question: 223  name: GI-111 Which of the following is likely to have the biggest inductance
+::GI-111 Which of the following is likely to have the biggest inductance::[html]GI-111 Which of the following is likely to have the biggest inductance{
+	~[moodle]10 turns of wire wound round a lead pencil# 
+	~[moodle]a 2,200 uF capacitor# 
+	=[moodle]1,000 turns of wire on a ferrite rod# 
+	~[moodle]a 10 turn coil operating at its resonant frequency# 
+}
+
+
+// question: 224  name: GI-112 A current passing through a wire
+::GI-112 A current passing through a wire::[html]GI-112 A current passing through a wire{
+	~[moodle]can act as an antenna# 
+	~[moodle]will alter its inductance# 
+	~[moodle]will build up charge on the wire’s surface and act as a capacitor# 
+	=[moodle]forms a magnetic field around the wire# 
+}
+
+
+// question: 225  name: GI-113 An inductor can store energy
+::GI-113 An inductor can store energy::[html]GI-113 An inductor can store energy{
+	~[moodle]in the current flowing through it# 
+	~[moodle]because of the capacitance between the two connections# 
+	=[moodle]in its magnetic field
+	~[moodle]because it acts like a secondary cell# 
+}
+
+
+// question: 226  name: GI-114 Which of the following statements best describes this circuit
+::GI-114 Which of the following statements best describes this circuit::[html]<p>GI-114 Which of the following statements best describes this circuit <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-114.GIF" alt\="" width\="343" height\="81" /></p>{
+	=the capacitance and inductance together form a parallel tuned circuit
+	~the circuit will not work because the coil of wire will short out the capacitor
+	~the battery will discharge through the inductor
+	~it is a series tuned circuit
+}
+
+
+// question: 227  name: GI-115 In a tuned circuit the energy in the capacitor and inductor can pass from one to another at a particular rate.  Which of the following statements is wrong.
+::GI-115 In a tuned circuit the energy in the capacitor and inductor can pass from one to another at a particular rate.  Which of the following statements is wrong.::[html]GI-115 In a tuned circuit the energy in the capacitor and inductor can pass from one to another at a particular rate.  Which of the following statements is wrong.{
+	~[moodle]The particular rate is known as the resonant frequency# 
+	~[moodle]the rate depends on the values of the capacitor and the inductor # 
+	=[moodle]in order to resonate the value of the capacitor (in Farads) has to equal the value of the inductor (in Henry’s)   # 
+	~[moodle]the reactance of the inductor equals that of the capacitor# 
+}
+
+
+// question: 228  name: GI-116 Which of the following pairs of statements are correct
+::GI-116 Which of the following pairs of statements are correct::[html]GI-116 Which of the following pairs of statements are correct{
+	~[moodle]series tuned circuits tend to accept current, parallel tuned circuits tend to accept current 
+	=[moodle]series tuned circuits tend to accept current, parallel tuned circuits tend to reject current
+	~[moodle]series tuned circuits tend to reject current, parallel tuned circuits tend to reject current
+	~[moodle]series tuned circuits tend to reject current, parallel tuned circuits tend to accept current
+}
+
+
+// question: 229  name: GI-117 A transformer is likely to consist of
+::GI-117 A transformer is likely to consist of::[html]GI-117 A transformer is likely to consist of{
+	~[moodle]a number of diodes and a smoothing capacitor to convert AC to DC
+	=[moodle]two coils of wire on an iron former to concentrate the magnetic field# 
+	~[moodle]an inductor and a capacitor in series# 
+	~[moodle]a balanced mixer to transform a modulated rf carrier to a single sideband output# 
+}
+
+
+// question: 230  name: GI-118 A transformer can be used to
+::GI-118 A transformer can be used to::[html]GI-118 A transformer can be used to{
+	~[moodle]reduce the voltage of a direct current
+	~[moodle]reduce the voltage of both a direct and an alternating current
+	~[moodle]convert alternating current to direct current
+	=[moodle]reduce the voltage of an alternating current# 
+}
+
+
+// question: 231  name: GI-119 In a mains transformer being used to power a transistor radio which of the following is true
+::GI-119 In a mains transformer being used to power a transistor radio which of the following is true::[html]GI-119 In a mains transformer being used to power a transistor radio which of the following is true{
+	=[moodle]the primary coil will have more turns than the secondary coil
+	~[moodle]the two coils will have the same number of turns but the resistances will be different
+	~[moodle]the secondary coil will have more turns than the primary coil
+	~[moodle]the DC voltage from the transformer should be the same as that needed by the radio
+}
+
+
+// question: 232  name: GI-120 Which of the following statements is wrong
+::GI-120 Which of the following statements is wrong::[html]GI-120 Which of the following statements is wrong{
+	~[moodle]a diode can be used for rectifying current
+	~[moodle]the voltage drop across a diode is about 0.6 volts
+	=[moodle]if a diode is connected the wrong way round it will explode
+	~[moodle]a diode has to be connected the right way round or it will not conduct
+}
+
+
+// question: 233  name: GI-121 In order to produce direct current from the alternating current leaving a transformer you could use
+::GI-121 In order to produce direct current from the alternating current leaving a transformer you could use::[html]GI-121 In order to produce direct current from the alternating current leaving a transformer you could use{
+	~[moodle]a capacitor# 
+	=[moodle]a diode
+	~[moodle]a resistor# 
+	~[moodle]an inductor# 
+}
+
+
+// question: 234  name: GI-122 The following oscilloscope trace represents
+::GI-122 The following oscilloscope trace represents::[html]<p>GI-122 The following oscilloscope trace represents <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-122.GIF" alt\="" width\="441" height\="191" /></p>{
+	~the output of a crystal oscillator
+	~interference from a car ignition system
+	=the output from a half wave rectifier circuit before any smoothing
+	~the output of a battery being switched on and off
+}
+
+
+// question: 235  name: GI-123 The following wave form shows the effect of
+::GI-123 The following wave form shows the effect of::[html]<p>GI-123 The following wave form shows the effect of <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-123.GIF" alt\="" width\="605" height\="200" /></p>{
+	~the output of a half wave rectifier but with a resistor placed in series with the diode which delays the drop in voltage 
+	=a capacitor placed across the output of a half wave rectifier to provide a smoothing effect
+	~a capacitor in series with a half wave rectifier to provide a smoothing effect
+	~an inductor placed in series with an AC voltage
+}
+
+
+// question: 236  name: GI-124 Which of the following statements about light emitting diodes (led) is NOT true
+::GI-124 Which of the following statements about light emitting diodes (led) is NOT true::[html]GI-124 Which of the following statements about light emitting diodes (led) is NOT true{
+	~[moodle]it is made from a material that produces light when a direct current is passed
+	~[moodle]an led has to be connected the right way round
+	~[moodle]it is more reliable than a light bulb and uses less current
+	=[moodle]a resistor should be placed in parallel with the led to limit the current through it 
+}
+
+
+// question: 237  name: GI-125 The capacitance of a variable capacitance diode can be varied by
+::GI-125 The capacitance of a variable capacitance diode can be varied by::[html]GI-125 The capacitance of a variable capacitance diode can be varied by{
+	~[moodle]adjusting the current through it
+	~[moodle]carefully adjusting the screw on the top of the diode
+	~[moodle]altering the frequency of the current flowing through it
+	=[moodle]changing the applied potential difference
+}
+
+
+// question: 238  name: GI-126 A transistor is often used
+::GI-126 A transistor is often used::[html]GI-126 A transistor is often used{
+	=[moodle]as an amplifier# 
+	~[moodle]as a rectifier
+	~[moodle]as a variable capacitance# 
+	~[moodle]for antenna matching# 
+}
+
+
+// question: 239  name: GI-127 Find meanings for (i) and (ii) to make the following statement correct.  In a transistor a small (i) current will control a larger (ii) current
+::GI-127 Find meanings for (i) and (ii) to make the following statement correct.  In a transistor a small (i) current will control a larger (ii) current::[html]GI-127 Find meanings for (i) and (ii) to make the following statement correct.  In a transistor a small (i) current will control a larger (ii) current{
+	~[moodle](i) collector (ii) base# 
+	~[moodle](i) emitter (ii) collector
+	=[moodle](i) base (ii) collector# 
+	~[moodle](i) collector (ii) emitter# 
+}
+
+
+// question: 240  name: GI-128 If the base current in a transistor is large enough the transistor will act as a
+::GI-128 If the base current in a transistor is large enough the transistor will act as a::[html]GI-128 If the base current in a transistor is large enough the transistor will act as a{
+	~[moodle]amplifier# 
+	=[moodle]switch
+	~[moodle]capacitor# 
+	~[moodle]oscillator# 
+}
+
+
+// question: 241  name: GI-129 In a transceiver you are likely to find a transistor being used
+::GI-129 In a transceiver you are likely to find a transistor being used::[html]GI-129 In a transceiver you are likely to find a transistor being used{
+	=[moodle]in an oscillator to generate radio frequencies
+	~[moodle]as a demodulator to separate speech from a rf carrier
+	~[moodle]as a variable capacitance in a tuning circuit
+	~[moodle]in a filter circuit to prevent harmonics being radiated
+}
+
+
+// question: 242  name: GI-130 What is the following circuit
+::GI-130 What is the following circuit::[html]<p>GI-130 What is the following circuit <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-130.GIF" alt\="" width\="371" height\="171" /></p>{
+	~a variable frequency oscillator
+	=a crystal controlled oscillator
+	~a basic receiver
+	~an LC tuned circuit
+}
+
+
+// question: 243  name: GI-131 Compare the following symbols and their possible descriptions.  Which component is NOT drawn?
+::GI-131 Compare the following symbols and their possible descriptions.  Which component is NOT drawn?::[html]<p>GI-131 Compare the following symbols and their possible descriptions. Which component is NOT drawn?</p>\n<p><img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-131.GIF" alt\="" width\="432" height\="104" /></p>{
+	~a transformer
+	~a crystal
+	=a variable capacitance diode
+	~a FET
+}
+
+
+// question: 244  name: GI-132 You want to use a multimeter to measure an unknown voltage.  Before connecting it to the circuit which of the following ranges do you select
+::GI-132 You want to use a multimeter to measure an unknown voltage.  Before connecting it to the circuit which of the following ranges do you select::[html]GI-132 You want to use a multimeter to measure an unknown voltage.  Before connecting it to the circuit which of the following ranges do you select{
+	=[moodle]1000 V
+	~[moodle]200 mV
+	~[moodle]10 A
+	~[moodle]200 MOhms
+}
+
+
+// question: 245  name: GI-133 When comparing digital and analogue meters which of the following statements is incorrect
+::GI-133 When comparing digital and analogue meters which of the following statements is incorrect::[html]GI-133 When comparing digital and analogue meters which of the following statements is incorrect{
+	~[moodle]analogue meters are more difficult to read accurately# 
+	~[moodle]analogue meters are good for monitoring a changing voltage# 
+	=[moodle]digital meters are usually less accurate# 
+	~[moodle]it is usually less serious if you connect a digital meter the wrong way round# 
+}
+
+
+// question: 246  name: GI-134 The most important reason for ensuring that you always connect an analogue meter the right way round is
+::GI-134 The most important reason for ensuring that you always connect an analogue meter the right way round is::[html]GI-134 The most important reason for ensuring that you always connect an analogue meter the right way round is{
+	~[moodle]to get the right reading# 
+	~[moodle]to avoid damaging the component you are measuring# 
+	~[moodle]to avoid upsetting the circuit you are measuring# 
+	=[moodle]to avoid damaging the meter# 
+}
+
+
+// question: 247  name: GI-135 If you want to measure the potential difference between two points in a circuit you should
+::GI-135 If you want to measure the potential difference between two points in a circuit you should::[html]GI-135 If you want to measure the potential difference between two points in a circuit you should{
+	~[moodle]connect a voltmeter in series with the circuit# 
+	~[moodle]connect an ammeter in parallel with the two points# 
+	~[moodle]use the ohms range and connect between the two points# 
+	=[moodle]connect a voltmeter in parallel with the circuit# 
+}
+
+
+// question: 248  name: GI-136 You are told that in the following circuit 30 mA flows through R1 and that the voltage across R2 is 2 Volts
+::GI-136 You are told that in the following circuit 30 mA flows through R1 and that the voltage across R2 is 2 Volts::[html]<p>GI-136 You are told that in the following circuit 30 mA flows through R1 and that the voltage across R2 is 2 Volts<br /><br /> What is the voltage across R3 and how much current flows through the Light Emitting Diode <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-136.GIF" alt\="" width\="359" height\="214" /></p>{
+	~4 Volts & 10 mA
+	=2 Volts & 30 mA
+	~1 Volt  & 20 mA
+	~4 Volts & 30 mA
+}
+
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI Transmitters and Receivers
+$CATEGORY: $course$/UK Intermediate/GI Transmitters and Receivers
+
+
+// question: 250  name: GI-200 In the following diagram of a cw transmitter what does the unlabeled block represent
+::GI-200 In the following diagram of a cw transmitter what does the unlabeled block represent::[html]<p>GI-200 In the following diagram of a cw transmitter what does the unlabeled block represent <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-200.GIF" alt\="" width\="404" height\="184" /></p>{
+	=an rf oscillator
+	~a balance modulator
+	~a buffer amplifier
+	~an AF amplifier
+}
+
+
+// question: 251  name: GI-201 To produce a single side band signal in a transmitter it would be usual to
+::GI-201 To produce a single side band signal in a transmitter it would be usual to::[html]GI-201 To produce a single side band signal in a transmitter it would be usual to{
+	~[moodle]modulate a carrier on the sideband frequency# 
+	~[moodle]use an am modulator and filter out the unwanted signals# 
+	=[moodle]use a balanced modulator to remove the carrier and filter out the unwanted sideband # 
+	~[moodle]tune the power amplifier to amplify the wanted sideband# 
+}
+
+
+// question: 252  name: GI-202 Which of the following statements is NOT correct
+::GI-202 Which of the following statements is NOT correct::[html]GI-202 Which of the following statements is NOT correct{
+	~[moodle]a crystal oscillator is more accurate than an LC oscillator but is not tuneable# 
+	=[moodle]an LC oscillator is tuneable and more stable than a crystal oscillator# 
+	~[moodle]crystal oscillators are less susceptible to drift# 
+	~[moodle]an LC oscillator requires both an inductance and a capacitance to function# 
+}
+
+
+// question: 253  name: GI-203 Which of the following statements is correct
+::GI-203 Which of the following statements is correct::[html]GI-203 Which of the following statements is correct{
+	=[moodle]the resonant frequency of the LC tuned circuit in a variable frequency oscillator (vfo) sets the frequency of oscillation
+	~[moodle]the specification of the crystal in an LC tuned circuit sets the frequency of oscillation
+	~[moodle]the output frequency of a vfo is set by adjusting the low-pass filter
+	~[moodle]It is usual to tune the inductor when changing the output frequency of a vfo  
+}
+
+
+// question: 254  name: GI-204 If a variable frequency oscillator had been poorly constructed, had no screening enclosure and was powered by an unregulated supply your principal concern should be that
+::GI-204 If a variable frequency oscillator had been poorly constructed, had no screening enclosure and was powered by an unregulated supply your principal concern should be that::[html]GI-204 If a variable frequency oscillator had been poorly constructed, had no screening enclosure and was powered by an unregulated supply your principal concern should be that{
+	~[moodle]the radio might not last long# 
+	~[moodle]it could be difficult to tune in other stations# 
+	~[moodle]radiation could leak from the radio# 
+	=[moodle]when transmitting your frequency could drift out of an amateur band# 
+}
+
+
+// question: 255  name: GI-205 Most modern radios use oscillators which are
+::GI-205 Most modern radios use oscillators which are::[html]GI-205 Most modern radios use oscillators which are{
+	~[moodle]based upon a well constructed and properly shielded LC circuit
+	~[moodle]driven by a crystal 
+	=[moodle]digital synthesisers and are very accurate
+	~[moodle]driven by a digital liquid crystal display
+}
+
+
+// question: 256  name: GI-206 If an rf signal at a frequency of 5 MHz was mixed with an audio signal at a frequency of 3,000 Hz in a conventional am modulator (i.e. not using a balanced mixer) the modulated output would contain signals at
+::GI-206 If an rf signal at a frequency of 5 MHz was mixed with an audio signal at a frequency of 3,000 Hz in a conventional am modulator (i.e. not using a balanced mixer) the modulated output would contain signals at::[html]GI-206 If an rf signal at a frequency of 5 MHz was mixed with an audio signal at a frequency of 3,000 Hz in a conventional am modulator (i.e. not using a balanced mixer) the modulated output would contain signals at{
+	~[moodle]4.7 MHz, 5.3 MHz and 5 Mhz# 
+	~[moodle]4.7 Mhz and 5.3 MHz# 
+	=[moodle]4.997 MHz, 5.003 Mhz and 5 MHz# 
+	~[moodle]4.997 MHz, 5.003 Mhz# 
+}
+
+
+// question: 257  name: GI-207 When frequencies are mixed the two new frequencies are called
+::GI-207 When frequencies are mixed the two new frequencies are called::[html]GI-207 When frequencies are mixed the two new frequencies are called{
+	~[moodle]side frequencies
+	~[moodle]modulation products
+	=[moodle]sum and difference frequencies
+	~[moodle]sidebands
+}
+
+
+// question: 258  name: GI-208 A radio signal that is Amplitude Modulated (am) contains
+::GI-208 A radio signal that is Amplitude Modulated (am) contains::[html]GI-208 A radio signal that is Amplitude Modulated (am) contains{
+	~[moodle]either an upper or lower sideband depending on the setting of the radio# 
+	~[moodle]both an upper and lower sideband# 
+	~[moodle]just the carrier# 
+	=[moodle]the carrier and an upper and lower sideband# 
+}
+
+
+// question: 263  name: GI-209 Advantages of a single sideband transmission (ssb) over that of am do NOT include that
+::GI-209 Advantages of a single sideband transmission (ssb) over that of am do NOT include that::[html]GI-209 Advantages of a single sideband transmission (ssb) over that of am do NOT include that{
+	=[moodle]an ssb transmission is easier to understand
+	~[moodle]the ssb transmission occupies less bandwidth
+	~[moodle]an ssb transmission is more efficient because it uses less power
+	~[moodle]in a crowded amateur band it is easier to hold an ssb QSO without interfering with neighbouring stations
+}
+
+
+// question: 259  name: GI-210 Which mode of transmission occupies least bandwidth and which most bandwidth
+::GI-210 Which mode of transmission occupies least bandwidth and which most bandwidth::[html]GI-210 Which mode of transmission occupies least bandwidth and which most bandwidth{
+	=[moodle]cw and fm respectively
+	~[moodle]data and am respectively
+	~[moodle]ssb and am respectively
+	~[moodle]am and fm respectively
+}
+
+
+// question: 260  name: GI-211 In order to modulate the carrier, data transmissions often use
+::GI-211 In order to modulate the carrier, data transmissions often use::[html]GI-211 In order to modulate the carrier, data transmissions often use{
+	~[moodle]morse code
+	=[moodle]two tones
+	~[moodle]pulses of different lengths
+	~[moodle]varying frequencies
+}
+
+
+// question: 269  name: GI-212 Frequency modulation in an oscillator is often generated by
+::GI-212 Frequency modulation in an oscillator is often generated by::[html]GI-212 Frequency modulation in an oscillator is often generated by{
+	~[moodle]a Variable Frequency Oscillator
+	~[moodle]a crystal
+	=[moodle]a variable capacitance diode
+	~[moodle]an LC tuned circuit
+}
+
+
+// question: 294  name: GI-213 Excessive audio amplitude and excessive audio bandwidth can both cause
+::GI-213 Excessive audio amplitude and excessive audio bandwidth can both cause::[html]GI-213 Excessive audio amplitude and excessive audio bandwidth can both cause{
+	~[moodle]damage to the microphone pre-amplifier
+	~[moodle]it to be difficult to receive the signal
+	~[moodle]interference to nearby television receivers 
+	=[moodle]excessive bandwidth
+}
+
+
+// question: 317  name: GI-214 If the fundamental frequency of an oscillator is 4 MHz the third harmonic will occur at
+::GI-214 If the fundamental frequency of an oscillator is 4 MHz the third harmonic will occur at::[html]GI-214 If the fundamental frequency of an oscillator is 4 MHz the third harmonic will occur at{
+	~[moodle]16 MHz
+	=[moodle]12 MHz
+	~[moodle]32 MHz
+	~[moodle]20 MHz
+}
+
+
+// question: 326  name: GI-215 Harmonics, if not properly filtered, can cause
+::GI-215 Harmonics, if not properly filtered, can cause::[html]GI-215 Harmonics, if not properly filtered, can cause{
+	~[moodle]instability in the antenna
+	~[moodle]a distorted transmission
+	~[moodle]damage to the power amplifier
+	=[moodle]interference to another radio user or service 
+}
+
+
+// question: 292  name: GI-216 The following diagram represents
+::GI-216 The following diagram represents::[html]<p>GI-216 The following diagram represents <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-216.GIF" alt\="" width\="367" height\="251" /></p>{
+	~the response of a high pass filter 
+	~the response of a band pass filter
+	=the response of a low pass filter
+	~the response of a notch filter
+}
+
+
+// question: 278  name: GI-217 The following diagram shows a carrier wave being modulated as the letter “C” is sent in morse code.  The very fast rise and fall time of the morse signal may cause
+::GI-217 The following diagram shows a carrier wave being modulated as the letter “C” is sent in morse code.  The very fast rise and fall time of the morse signal may cause::[html]<p>GI-217 The following diagram shows a carrier wave being modulated as the letter “C” is sent in morse code.  The very fast rise and fall time of the morse signal may cause <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-217.GIF" alt\="" width\="342" height\="225" /></p>{
+	~the wrong letters to be sent
+	~difficulty in reading the morse
+	~too fast a transmission
+	=excessive bandwidth
+}
+
+
+// question: 305  name: GI-218 The blank box in the following diagram of a superhet receiver should be labelled
+::GI-218 The blank box in the following diagram of a superhet receiver should be labelled::[html]<p>GI-218 The blank box in the following diagram of a superhet receiver should be labelled <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-218.GIF" alt\="" width\="452" height\="177" /></p>{
+	~RF Amplifier
+	=Demodulator
+	~Power Amplifier
+	~Low-pass Filter
+}
+
+
+// question: 273  name: GI-219 In a receiver the function of a demodulator is to
+::GI-219 In a receiver the function of a demodulator is to::[html]GI-219 In a receiver the function of a demodulator is to{
+	=[moodle]recover the audio or data signal
+	~[moodle]filter out unwanted sidebands
+	~[moodle]amplify weak signals from the antenna
+	~[moodle]produce the sum and difference frequency of the rf and local oscillator
+}
+
+
+// question: 274  name: GI-220 In a superhet receiver a received rf signal at 7.1 MHz is mixed with a 6.6 MHz signal from the local oscillator. Which of the following will NOT be produced
+::GI-220 In a superhet receiver a received rf signal at 7.1 MHz is mixed with a 6.6 MHz signal from the local oscillator. Which of the following will NOT be produced::[html]GI-220 In a superhet receiver a received rf signal at 7.1 MHz is mixed with a 6.6 MHz signal from the local oscillator. Which of the following will NOT be produced{
+	~[moodle]an intermediate frequency at 500 KHz# 
+	=[moodle]an audio cw tone at 500 Hz# 
+	~[moodle]an intermediate frequency at 13.7 MHz# 
+	~[moodle]an intermediate frequency at 0.5 MHz# 
+}
+
+
+// question: 275  name: GI-221 What is it in rf and i.f. amplifiers that selects the wanted signal
+::GI-221 What is it in rf and i.f. amplifiers that selects the wanted signal::[html]GI-221 What is it in rf and i.f. amplifiers that selects the wanted signal{
+	~[moodle]a band pass filter# 
+	=[moodle]a tuned circuit# 
+	~[moodle]a notch filter# 
+	~[moodle]the local oscillator# 
+}
+
+
+// question: 276  name: GI-222 A beat frequency oscillator is often used to recover the audio for
+::GI-222 A beat frequency oscillator is often used to recover the audio for::[html]GI-222 A beat frequency oscillator is often used to recover the audio for{
+	~[moodle]ssb signals# 
+	~[moodle]am signals# 
+	~[moodle]fm signals# 
+	=[moodle]cw signals# 
+}
+
+
+// question: 277  name: GI-223 A carrier insertion oscillator is used to recover the audio for
+::GI-223 A carrier insertion oscillator is used to recover the audio for::[html]GI-223 A carrier insertion oscillator is used to recover the audio for{
+	=[moodle]ssb signals# 
+	~[moodle]am signals# 
+	~[moodle]fm signals# 
+	~[moodle]cw signals# 
+}
+
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI Feeders and Antennas
+$CATEGORY: $course$/UK Intermediate/GI Feeders and Antennas
+
+
+// question: 279  name: GI-300 An antenna feeder made up of two parallel wires is generally called
+::GI-300 An antenna feeder made up of two parallel wires is generally called::[html]GI-300 An antenna feeder made up of two parallel wires is generally called{
+	~[moodle]coax# 
+	~[moodle]television cable# 
+	=[moodle]balanced or twin feeder# 
+	~[moodle]parallel feeder cable# 
+}
+
+
+// question: 280  name: GI-301 In a balanced feeder which of the following is NOT true
+::GI-301 In a balanced feeder which of the following is NOT true::[html]GI-301 In a balanced feeder which of the following is NOT true{
+	~[moodle]rf currents cause equal and opposite fields around the two conductors which cancel each other out
+	~[moodle]it is important to keep a balanced feeder away from walls or other objects so as not to create a short circuit
+	~[moodle]in a balanced feeder the spacing between the conductors is a deliberate part of the construction
+	=[moodle]it is important to keep a balanced feeder away from walls or other objects so as not to cause an imbalance that makes the feeder radiate rf energy
+}
+
+
+// question: 281  name: GI-302 The principal benefit of coax cable over that of twin feeder is
+::GI-302 The principal benefit of coax cable over that of twin feeder is::[html]GI-302 The principal benefit of coax cable over that of twin feeder is{
+	~[moodle]it is easier to handle# 
+	=[moodle]the outer conductor acts as a screen so objects outside the coax have little or no effect on the rf signal# 
+	~[moodle]it has an impedance of 50 ohms which will match the output impedance of the radio# 
+	~[moodle]it is much easier to fit to a uhf plug# 
+}
+
+
+// question: 282  name: GI-303 A length of feeder has a certain loss. If you double the length of the feeder the loss will
+::GI-303 A length of feeder has a certain loss. If you double the length of the feeder the loss will::[html]GI-303 A length of feeder has a certain loss. If you double the length of the feeder the loss will{
+	~[moodle]stay the same# 
+	=[moodle]double
+	~[moodle]increase fourfold# 
+	~[moodle]reduce slightly# 
+}
+
+
+// question: 261  name: GI-304 For a given length of feeder the losses in a twin feeder will be
+::GI-304 For a given length of feeder the losses in a twin feeder will be::[html]GI-304 For a given length of feeder the losses in a twin feeder will be{
+	=[moodle]less than for coax# 
+	~[moodle]much greater than for coax# 
+	~[moodle]about the same but depend on frequency# 
+	~[moodle]slightly greater than for coax# 
+}
+
+
+// question: 284  name: GI-305 If the output from a transmitter is 30Watts and feeder losses are equivalent to 3db what is the power delivered to the antenna
+::GI-305 If the output from a transmitter is 30Watts and feeder losses are equivalent to 3db what is the power delivered to the antenna::[html]GI-305 If the output from a transmitter is 30Watts and feeder losses are equivalent to 3db what is the power delivered to the antenna{
+	~[moodle]7.5 Watts# 
+	~[moodle]10 Watts
+	=[moodle]15 Watts# 
+	~[moodle]27 Watts# 
+}
+
+
+// question: 285  name: GI-306 Impedance can be thought of as a measure of
+::GI-306 Impedance can be thought of as a measure of::[html]GI-306 Impedance can be thought of as a measure of{
+	~[moodle]d.c. resistance# 
+	=[moodle]a.c. resistance
+	~[moodle]antenna voltage# 
+	~[moodle]the effectiveness of a pair of headphones# 
+}
+
+
+// question: 286  name: GI-307 The characteristic impedance of a feeder is largely determined by
+::GI-307 The characteristic impedance of a feeder is largely determined by::[html]GI-307 The characteristic impedance of a feeder is largely determined by{
+	~[moodle]the length of the wire# 
+	~[moodle]the purity of the copper in the wire
+	=[moodle]the diameter and spacing of the conductors# 
+	~[moodle]the resistance of the wire# 
+}
+
+
+// question: 287  name: GI-308 When used at its correct frequency a dipole can be expected to have a feed point impedance of approximately
+::GI-308 When used at its correct frequency a dipole can be expected to have a feed point impedance of approximately::[html]GI-308 When used at its correct frequency a dipole can be expected to have a feed point impedance of approximately{
+	~[moodle]zero# 
+	~[moodle]25 ohms
+	=[moodle]50 ohms# 
+	~[moodle]100 ohms# 
+}
+
+
+// question: 262  name: GI-309 If the impedance of an antenna does not match the impedance of the feeder some energy will be reflected back down the feeder.  This leads to standing waves which will
+::GI-309 If the impedance of an antenna does not match the impedance of the feeder some energy will be reflected back down the feeder.  This leads to standing waves which will::[html]GI-309 If the impedance of an antenna does not match the impedance of the feeder some energy will be reflected back down the feeder.  This leads to standing waves which will{
+	=[moodle]affect the impedance presented to the transmitter causing a mismatch between the transmitter and the feeder# 
+	~[moodle]lead to losses in the feeder# 
+	~[moodle]alter the frequency being radiated from the antenna# 
+	~[moodle]cause a vibration in the antenna wire# 
+}
+
+
+// question: 289  name: GI-310 An antenna matching unit (sometimes referred to as an antenna tuning unit) is used to
+::GI-310 An antenna matching unit (sometimes referred to as an antenna tuning unit) is used to::[html]GI-310 An antenna matching unit (sometimes referred to as an antenna tuning unit) is used to{
+	~[moodle]cancel out any standing waves in the antenna# 
+	~[moodle]help tune the antenna so that its resonant frequency is the same as the frequency of transmission
+	~[moodle]help resolve signals on adjacent frequencies# 
+	=[moodle]change the impedance presented to the transmitter# 
+}
+
+
+// question: 290  name: GI-311 The following polar diagram depicts the radiation pattern from a
+::GI-311 The following polar diagram depicts the radiation pattern from a::[html]<p>GI-311 The following polar diagram depicts the radiation pattern from a <img src\="http\://www.hamtests.co.uk/file.php?file\=/4/gi-311.GIF" alt\="" width\="233" height\="182" /></p>{
+	~yagi antenna
+	~a full wave antenna
+	~a loop antenna
+	=a half wave dipole
+}
+
+
+// question: 291  name: GI-312 Assume that your radio puts out 50 Watts into a four element Yagi antenna with no feeder losses. If the antenna has a gain of 6dB in the direction in which it is pointing what is your effective radiated power in that direction
+::GI-312 Assume that your radio puts out 50 Watts into a four element Yagi antenna with no feeder losses. If the antenna has a gain of 6dB in the direction in which it is pointing what is your effective radiated power in that direction::[html]GI-312 Assume that your radio puts out 50 Watts into a four element Yagi antenna with no feeder losses. If the antenna has a gain of 6dB in the direction in which it is pointing what is your effective radiated power in that direction{
+	~[moodle]300 Watts# 
+	=[moodle]200 Watts
+	~[moodle]100 Watts# 
+	~[moodle]56 Watts# 
+}
+
+
+// question: 264  name: GI-313 Working from the front, the elements of a three element yagi are known as
+::GI-313 Working from the front, the elements of a three element yagi are known as::[html]GI-313 Working from the front, the elements of a three element yagi are known as{
+	~[moodle]director, beam, reflector# 
+	~[moodle]driven element, director, reflector# 
+	=[moodle]director, driven element, reflector# 
+	~[moodle]reflector, director, driven element# 
+}
+
+
+// question: 293  name: GI-314 Electromagnetic radiation comprises both a magnetic field and an electric field at right angles to each other. Which field defines the polarisation of the wave
+::GI-314 Electromagnetic radiation comprises both a magnetic field and an electric field at right angles to each other. Which field defines the polarisation of the wave::[html]GI-314 Electromagnetic radiation comprises both a magnetic field and an electric field at right angles to each other. Which field defines the polarisation of the wave{
+	~[moodle]the magnetic field# 
+	=[moodle]the electric field
+	~[moodle]the polarisation of the wave is at right angles to both fields# 
+	~[moodle]neither, it depends on the direction of the aerial# 
+}
+
+
+// question: 265  name: GI-315 Why is it generally less important for hf antennas to be polarised the same way than it is for vhf and uhf antennas
+::GI-315 Why is it generally less important for hf antennas to be polarised the same way than it is for vhf and uhf antennas::[html]GI-315 Why is it generally less important for hf antennas to be polarised the same way than it is for vhf and uhf antennas{
+	~[moodle]because hf antennas are usually much longer# 
+	~[moodle]because the gain of vhf and uhf aerials is normally that much greater# 
+	=[moodle]because at hf reflection in the ionosphere affects the polarisation and makes it less critical# 
+	~[moodle]because at the higher frequency there is much less demand on bandwidth# 
+}
+
+
+// question: 295  name: GI-316 You want to build a dummy load to conduct some tests on your transmitter. What should you NOT do
+::GI-316 You want to build a dummy load to conduct some tests on your transmitter. What should you NOT do::[html]GI-316 You want to build a dummy load to conduct some tests on your transmitter. What should you NOT do{
+	=[moodle]use adequately rated wire wound resistors of the correct value to produce a 50 Ohm load# 
+	~[moodle]ensure that the construction is adequately shielded
+	~[moodle]make sure that the load can handle your output power without getting too hot# 
+	~[moodle]use a number of carbon resistors in parallel# 
+}
+
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI Propagation
+$CATEGORY: $course$/UK Intermediate/GI Propagation
+
+
+// question: 296  name: GI-400 Ionisation of the D, E and F layers is caused mainly by
+::GI-400 Ionisation of the D, E and F layers is caused mainly by::[html]GI-400 Ionisation of the D, E and F layers is caused mainly by{
+	~[moodle]solar flares# 
+	~[moodle]infrared radiation from the sun
+	~[moodle]solar flux# 
+	=[moodle]ultra violet rays from the sun# 
+}
+
+
+// question: 297  name: GI-401 The level of ionisation of the D, E and F layers is not affected by
+::GI-401 The level of ionisation of the D, E and F layers is not affected by::[html]GI-401 The level of ionisation of the D, E and F layers is not affected by{
+	~[moodle]the time of day# 
+	~[moodle]sunspots
+	~[moodle]the time of the year# 
+	=[moodle]the phase of the moon# 
+}
+
+
+// question: 298  name: GI-402 The main mode of hf propagation is due to reflection from
+::GI-402 The main mode of hf propagation is due to reflection from::[html]GI-402 The main mode of hf propagation is due to reflection from{
+	~[moodle]the D layer# 
+	~[moodle]sporadic E
+	~[moodle]high cirrus cloud# 
+	=[moodle]the F layer# 
+}
+
+
+// question: 299  name: GI-403 Which of the following statements is correct
+::GI-403 Which of the following statements is correct::[html]GI-403 Which of the following statements is correct{
+	=[moodle]the skip zone is a dead area which lies beyond the range of ground wave up to the skip distance# 
+	~[moodle]stations within your skip distance should be able to hear you
+	~[moodle]ground waves will normally extend up to the point where sky waves are first received# 
+	~[moodle]A station located in a chalk pit will only be able to communicate by ground wave# 
+}
+
+
+// question: 300  name: GI-404 High atmospheric pressure and highly ionised areas in the E layer can
+::GI-404 High atmospheric pressure and highly ionised areas in the E layer can::[html]GI-404 High atmospheric pressure and highly ionised areas in the E layer can{
+	~[moodle]cause radio blackouts and interference# 
+	~[moodle]cause ducting in the troposphere and reflection off the E layer giving greatly improved hf reception
+	=[moodle]extend the range of vhf and uhf signals beyond the normal line of sight# 
+	~[moodle]result in the vhf bands collapsing# 
+}
+
+
+// question: 301  name: GI-405 vhf and uhf signals
+::GI-405 vhf and uhf signals::[html]GI-405 vhf and uhf signals{
+	~[moodle]are normally reflected by the E layer# 
+	=[moodle]normally pass through the ionosphere
+	~[moodle]will generally be absorbed by the D layer# 
+	~[moodle]can be reflected off the F layer# 
+}
+
+
+// question: 302  name: GI-406 uhf and higher frequency signals can be attenuated by
+::GI-406 uhf and higher frequency signals can be attenuated by::[html]GI-406 uhf and higher frequency signals can be attenuated by{
+	~[moodle]regions of high atmospheric pressure# 
+	=[moodle]snow and ice
+	~[moodle]high winds# 
+	~[moodle]particle streams emitted by solar flares# 
+}
+
+
+// question: 303  name: GI-407 What will be the approximate wavelength of a 20 MHz radio transmission? Assume that the speed of light is 300,000,000 m/s.
+::GI-407 What will be the approximate wavelength of a 20 MHz radio transmission? Assume that the speed of light is 300,000,000 m/s.::[html]GI-407 What will be the approximate wavelength of a 20 MHz radio transmission? Assume that the speed of light is 300,000,000 m/s.{
+	~[moodle]60 metres# 
+	=[moodle]15 metres
+	~[moodle]6.66 metres# 
+	~[moodle]6.0 cm# 
+}
+
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI EMC
+$CATEGORY: $course$/UK Intermediate/GI EMC
+
+
+// question: 304  name: GI-500 The basic principle of electromagnetic compatibility is that
+::GI-500 The basic principle of electromagnetic compatibility is that::[html]GI-500 The basic principle of electromagnetic compatibility is that{
+	~[moodle]all household electrical equipment should be capable of running on the same mains voltage# 
+	~[moodle]that radio waves generated on a particular frequency should be compatible with other radios tuned to the same frequency
+	=[moodle]equipment should limit radiation below a specified level and be able to withstand a certain level of incident radiation# 
+	~[moodle]transmissions from your station must not cause undue interference to other radio users# 
+}
+
+
+// question: 266  name: GI-501 In the context of the European EMC Directive you should be aware that
+::GI-501 In the context of the European EMC Directive you should be aware that::[html]GI-501 In the context of the European EMC Directive you should be aware that{
+	~[moodle]your transmissions may be able to be overheard by other radio users# 
+	~[moodle]a separate rf earth is important to ensure that radio signals do not get into the mains supply# 
+	~[moodle]a poorly constructed radio may drift outside the amateur bands# 
+	=[moodle]your radio transmitter may give rise to fields stronger than the specified limits# 
+}
+
+
+// question: 306  name: GI-502 Your neighbour tells you that you are causing interference on his old black and white television set. You would be correct in advising him that
+::GI-502 Your neighbour tells you that you are causing interference on his old black and white television set. You would be correct in advising him that::[html]GI-502 Your neighbour tells you that you are causing interference on his old black and white television set. You would be correct in advising him that{
+	~[moodle]At 50 Watts your transmissions are below the levels set out in the EMC regulations# 
+	~[moodle]You are not responsible for the interference because old sets are not covered by the EMC regulations but that if he fits ferrite rings to his aerial lead it may stop the interference
+	~[moodle]Your Licence allows you to transmit at 50 Watts and therefore you are doing nothing wrong# 
+	=[moodle]That a new television set is likely to be less affected because it will meet the EMC immunity standards# 
+}
+
+
+// question: 307  name: GI-503 If you are setting up your shack which of the following will NOT help minimise EMC problems
+::GI-503 If you are setting up your shack which of the following will NOT help minimise EMC problems::[html]GI-503 If you are setting up your shack which of the following will NOT help minimise EMC problems{
+	=[moodle]when using a desk microphone make sure that it is not too close to the receiver's loud speaker so as to avoid feedback
+	~[moodle]keeping audio and rf leads apart
+	~[moodle]using good quality screened cable with correctly fitted plugs and sockets
+	~[moodle]make sure that you have a good rf earth
+}
+
+
+// question: 308  name: GI-504 A good way of helping prevent any rf energy from entering the mains wiring would be to
+::GI-504 A good way of helping prevent any rf energy from entering the mains wiring would be to::[html]GI-504 A good way of helping prevent any rf energy from entering the mains wiring would be to{
+	~[moodle]use a power supply that is external to the radio# 
+	~[moodle]fit a mains filter on the rf output
+	~[moodle]keep your coax feeder away from any mains wiring# 
+	=[moodle]fit filters in the leads from the power supply to the radio# 
+}
+
+
+// question: 309  name: GI-505 Which of the following would NOT assist in make a good rf earth
+::GI-505 Which of the following would NOT assist in make a good rf earth::[html]GI-505 Which of the following would NOT assist in make a good rf earth{
+	=[moodle]if possible by running a short earthing strap to the mains water supply# 
+	~[moodle]driving a copper rod into the ground
+	~[moodle]connecting a number of radials to your earthing rod# 
+	~[moodle]keeping the earth as close to the transmitter as possible# 
+}
+
+
+// question: 310  name: GI-506 What would be the most practical equipment to use to check for spurious and harmonic emissions from your station
+::GI-506 What would be the most practical equipment to use to check for spurious and harmonic emissions from your station::[html]GI-506 What would be the most practical equipment to use to check for spurious and harmonic emissions from your station{
+	~[moodle]an oscilloscope# 
+	~[moodle]a spectrum analyser
+	~[moodle]a frequency meter# 
+	=[moodle]a general coverage receiver# 
+}
+
+
+// question: 311  name: GI-507 An antenna may give rise to EMC problems if
+::GI-507 An antenna may give rise to EMC problems if::[html]GI-507 An antenna may give rise to EMC problems if{
+	~[moodle]not properly matched to the feeder by an appropriate balun# 
+	=[moodle]it is sited too close to television downleads or mains wiring
+	~[moodle]it is not earthed properly# 
+	~[moodle]it is too close to the ground# 
+}
+
+
+// question: 312  name: GI-508 Which of the following is NOT likely to be a symptom of interference caused by amateur radio
+::GI-508 Which of the following is NOT likely to be a symptom of interference caused by amateur radio::[html]GI-508 Which of the following is NOT likely to be a symptom of interference caused by amateur radio{
+	~[moodle]distorted speech breaking through on a television speaker# 
+	=[moodle]wavy patterning on a digital television
+	~[moodle]distorted voice like sounds on telephones and music systems# 
+	~[moodle]jerky pictures on a television# 
+}
+
+
+// question: 313  name: GI-509 If your neighbour complains of occasional interference on his television but you are certain that you are not at fault which of the following is most likely to be the culprit
+::GI-509 If your neighbour complains of occasional interference on his television but you are certain that you are not at fault which of the following is most likely to be the culprit::[html]GI-509 If your neighbour complains of occasional interference on his television but you are certain that you are not at fault which of the following is most likely to be the culprit{
+	~[moodle]a dirty mains supply# 
+	~[moodle]poor tuning of the television channel
+	=[moodle]a thermostat or central heating controller# 
+	~[moodle]pigeons on his television aerial# 
+}
+
+
+// question: 267  name: GI-510 Your are told that your transmissions can often be heard through your hi-fi speakers.  Which of the following symptoms would be indicative of direct pickup, i.e. being picked up within the hi-fi or the leads leading to it.
+::GI-510 Your are told that your transmissions can often be heard through your hi-fi speakers.  Which of the following symptoms would be indicative of direct pickup, i.e. being picked up within the hi-fi or the leads leading to it.::[html]GI-510 Your are told that your transmissions can often be heard through your hi-fi speakers.  Which of the following symptoms would be indicative of direct pickup, i.e. being picked up within the hi-fi or the leads leading to it.{
+	~[moodle]the interference goes away when you turn your transmitter power down# 
+	=[moodle]both A.M. and ssb signals seem to cause similar interference# 
+	~[moodle]the interference doesn’t change much with a change of transmitted frequency# 
+	~[moodle]voices can sometimes be heard# 
+}
+
+
+// question: 315  name: GI-511 Masthead television amplifiers are often a cause of problems because
+::GI-511 Masthead television amplifiers are often a cause of problems because::[html]GI-511 Masthead television amplifiers are often a cause of problems because{
+	~[moodle]they are subject to water ingress which can cause faults in the amplifier in wet weather
+	~[moodle]your transmissions can interfere with the operation of the amplifier
+	~[moodle]the amplifiers do not have any filtering so your transmissions will pass straight through the amplifier
+	=[moodle]they are often broadband amplifiers and will amplify your signal which can overload the television input stage
+}
+
+
+// question: 316  name: GI-512 Which of the following would be most likely to help prevent h.f. and vhf signals getting into your television and causing interference
+::GI-512 Which of the following would be most likely to help prevent h.f. and vhf signals getting into your television and causing interference::[html]GI-512 Which of the following would be most likely to help prevent h.f. and vhf signals getting into your television and causing interference{
+	~[moodle]fitting a low pass filter on the television aerial down lead# 
+	~[moodle]making sure that you have a good rf earth
+	=[moodle]fitting a high pass filter on the television aerial down lead# 
+	~[moodle]making sure that the television is on a separate mains circuit to that of your transmitter# 
+}
+
+
+// question: 318  name: GI-513 Your are experiencing interference on your television and want to establish if the problem is due to unwanted rf being conducted out of the transmitter along its power supply leads and into the mains.  A good suggestion would be to
+::GI-513 Your are experiencing interference on your television and want to establish if the problem is due to unwanted rf being conducted out of the transmitter along its power supply leads and into the mains.  A good suggestion would be to::[html]GI-513 Your are experiencing interference on your television and want to establish if the problem is due to unwanted rf being conducted out of the transmitter along its power supply leads and into the mains. A good suggestion would be to{
+	~[moodle]try unplugging the television
+	=[moodle]transmit into a dummy load
+	~[moodle]try different channels on the television
+	~[moodle]move your antenna further away from the house
+}
+
+
+// question: 268  name: GI-514 Your radio log can be of considerable assistance in confirming sources of interference to neighbours because
+::GI-514 Your radio log can be of considerable assistance in confirming sources of interference to neighbours because::[html]GI-514 Your radio log can be of considerable assistance in confirming sources of interference to neighbours because{
+	~[moodle]it will prove that you were operating within your legal power limits# 
+	~[moodle]it shows the frequencies that you were operating on # 
+	~[moodle]it will contain a record of checks carried out on your radio to ensure that you were not generating any spurious transmissions# 
+	=[moodle]it shows when you were on the air# 
+}
+
+
+// question: 319  name: GI-515 If a neighbour complains that you are causing interference on his television a sensible first step would be to
+::GI-515 If a neighbour complains that you are causing interference on his television a sensible first step would be to::[html]GI-515 If a neighbour complains that you are causing interference on his television a sensible first step would be to{
+	=[moodle]ask him to keep a note of the times of any interference# 
+	~[moodle]suggest that he buys a digital television
+	~[moodle]consult the RSGB# 
+	~[moodle]fit ferrite rings to his antenna lead# 
+}
+
+
+// question: 320  name: GI-516 If you have an EMC problem with a neighbour
+::GI-516 If you have an EMC problem with a neighbour::[html]GI-516 If you have an EMC problem with a neighbour{
+	~[moodle]tell your neighbour to speak to Ofcom# 
+	=[moodle]ask the RSGB’s EMC Committee for advice
+	~[moodle]stop transmitting until the problem has been resolved# 
+	~[moodle]tell your neighbour to get his television checked by a local service engineer# 
+}
+
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI Operating Practices and Procedures
+$CATEGORY: $course$/UK Intermediate/GI Operating Practices and Procedures
+
+
+// question: 321  name: GI-600 Q codes that you are likely to meet include QRL, QRM, QRT and QSY. Which of the following is NOT one of the previous four
+::GI-600 Q codes that you are likely to meet include QRL, QRM, QRT and QSY. Which of the following is NOT one of the previous four::[html]GI-600 Q codes that you are likely to meet include QRL, QRM, QRT and QSY. Which of the following is NOT one of the previous four{
+	~[moodle]change frequency# 
+	~[moodle]closing down my station
+	=[moodle]who is calling me# 
+	~[moodle]interference from other stations# 
+}
+
+
+// question: 322  name: GI-601 Abbreviations that you are likely to meet include CQ, DX, DE, UR and SIG. Which of the following is NOT one of the previous five
+::GI-601 Abbreviations that you are likely to meet include CQ, DX, DE, UR and SIG. Which of the following is NOT one of the previous five::[html]GI-601 Abbreviations that you are likely to meet include CQ, DX, DE, UR and SIG. Which of the following is NOT one of the previous five{
+	~[moodle]long distance# 
+	~[moodle]signals
+	=[moodle]weather# 
+	~[moodle]from# 
+}
+
+
+// question: 323  name: GI-602 Which of the following does the RST code represent
+::GI-602 Which of the following does the RST code represent::[html]GI-602 Which of the following does the RST code represent{
+	~[moodle]radio, sounds, transmission# 
+	=[moodle]readability, signal strength, tone
+	~[moodle]really, strong, transmission# 
+	~[moodle]readability, S-meter, timing (of morse signal)# 
+}
+
+
+// question: 324  name: GI-603 In talking about the relative operational advantages of cw, ssb and fm which of the following statements is incorrect
+::GI-603 In talking about the relative operational advantages of cw, ssb and fm which of the following statements is incorrect::[html]GI-603 In talking about the relative operational advantages of cw, ssb and fm which of the following statements is incorrect{
+	~[moodle]fm has the shortage range# 
+	~[moodle]s.s.b uses less bandwidth than fm
+	~[moodle]cw has the narrowest bandwidth and greatest range for a given power# 
+	=[moodle]ssb offers the highest quality speech# 
+}
+
+
+// question: 325  name: GI-604 Which of the following modes would NOT normally be generated by using a personal computer and appropriate interface
+::GI-604 Which of the following modes would NOT normally be generated by using a personal computer and appropriate interface::[html]GI-604 Which of the following modes would NOT normally be generated by using a personal computer and appropriate interface{
+	=[moodle]cw# 
+	~[moodle]RTTY
+	~[moodle]Slow Scan Television (SSTV)# 
+	~[moodle]Packet# 
+}
+
+
+// question: 249  name: GI-605 Which of the following would NOT help in finding out the location or address of a station with whom you have had a QSO
+::GI-605 Which of the following would NOT help in finding out the location or address of a station with whom you have had a QSO::[html]GI-605 Which of the following would NOT help in finding out the location or address of a station with whom you have had a QSO{
+	~[moodle]the RSGB year book
+	~[moodle]a call sign database on the internet, e.g. qrz.com
+	=[moodle]The "Lifetime Licence" Document
+	~[moodle]a call book on cd-rom
+}
+
+
+// question: 327  name: GI-606 QSL cards may often be required
+::GI-606 QSL cards may often be required::[html]GI-606 QSL cards may often be required{
+	=[moodle]for the issuance of awards# 
+	~[moodle]by Ofcom to confirm entries in a log book
+	~[moodle]the RSGB for confirming competition results# 
+	~[moodle]Ofcom in order to demonstrate that you have been exercising you licence privileges# 
+}
+
+
+// question: 328  name: GI-607 The international call sign prefixes for Canada, Australia and New Zealand are
+::GI-607 The international call sign prefixes for Canada, Australia and New Zealand are::[html]GI-607 The international call sign prefixes for Canada, Australia and New Zealand are{
+	~[moodle]VK, VE and ZL respectively# 
+	~[moodle]VE, VK and NZ respectively
+	=[moodle]VE, VK and ZL respectively# 
+	~[moodle]VE, VH and NZ respectively# 
+}
+
+
+// question: 329  name: GI-608 Which of the following statements about amateur satellites is NOT true
+::GI-608 Which of the following statements about amateur satellites is NOT true::[html]GI-608 Which of the following statements about amateur satellites is NOT true{
+	=[moodle]amateur satellites use a combination of frequencies (one for the up-link and one for the down link) known as modes with each frequency being in a different part of the same amateur band# 
+	~[moodle]when working through a satellite you should use the minimum power necessary to maintain effective communication
+	~[moodle]amateur satellites can only be used when they are above the horizon# 
+	~[moodle]the relative movement of the satellite can cause a variation in frequency on the received signal known as Doppler Shift# 
+}
+
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI Safety
+$CATEGORY: $course$/UK Intermediate/GI Safety
+
+
+// question: 330  name: GI-700 It is important that a workbench should always be well ventilated because the fumes from soldering can cause
+::GI-700 It is important that a workbench should always be well ventilated because the fumes from soldering can cause::[html]GI-700 It is important that a workbench should always be well ventilated because the fumes from soldering can cause{
+	~[moodle]irritation to the eyes# 
+	=[moodle]asthma
+	~[moodle]light headedness# 
+	~[moodle]a loss of concentration# 
+}
+
+
+// question: 331  name: GI-701 Of the following which is the most important. Care must be taken with hand tools to avoid
+::GI-701 Of the following which is the most important. Care must be taken with hand tools to avoid::[html]GI-701 Of the following which is the most important. Care must be taken with hand tools to avoid{
+	~[moodle]damaging the workbench# 
+	~[moodle]damaging the circuit
+	~[moodle]losing them# 
+	=[moodle]cutting yourself# 
+}
+
+
+// question: 332  name: GI-702 It is most important that any item which is to be sawn or drilled should be
+::GI-702 It is most important that any item which is to be sawn or drilled should be::[html]GI-702 It is most important that any item which is to be sawn or drilled should be{
+	~[moodle]marked carefully to ensure that it is cut or drilled in the right place
+	~[moodle]securely held to enable an accurate cut or hole to be made
+	~[moodle]securely held to ensure that the item doesn't slip and get damaged
+	=[moodle]securely held to ensure that the item doesn't slip or rotate and injure you
+}
+
+
+// question: 333  name: GI-703 To avoid injury it is most important that before starting to drill you ensure that
+::GI-703 To avoid injury it is most important that before starting to drill you ensure that::[html]GI-703 To avoid injury it is most important that before starting to drill you ensure that{
+	~[moodle]the drill is in an upright position# 
+	=[moodle]the chuck key has been removed
+	~[moodle]the drill has been plugged in# 
+	~[moodle]you are standing on a rubber mat# 
+}
+
+
+// question: 334  name: GI-704 To stop the drill slipping when drilling holes in a piece of aluminium it is advisable to
+::GI-704 To stop the drill slipping when drilling holes in a piece of aluminium it is advisable to::[html]GI-704 To stop the drill slipping when drilling holes in a piece of aluminium it is advisable to{
+	~[moodle]mark the holes with an indelible marker# 
+	=[moodle]first make a small indentation with a centre punch
+	~[moodle]hold the aluminium in a vice# 
+	~[moodle]make sure that the right size drill bit is being used# 
+}
+
+
+// question: 335  name: GI-705 The principal reason for wearing eye protection when drilling or sawing is to
+::GI-705 The principal reason for wearing eye protection when drilling or sawing is to::[html]GI-705 The principal reason for wearing eye protection when drilling or sawing is to{
+	~[moodle]avoid poking yourself in the eye# 
+	~[moodle]in case the drill or saw breaks
+	=[moodle]to prevent any bits of metal or swarf which may be thrown up from getting in your eye# 
+	~[moodle]to comply with the workshop rules# 
+}
+
+
+// question: 336  name: GI-706 You have to drill some holes in a small aluminium box using a bench mounted pillar drill. Which of the following statements is NOT true
+::GI-706 You have to drill some holes in a small aluminium box using a bench mounted pillar drill. Which of the following statements is NOT true::[html]GI-706 You have to drill some holes in a small aluminium box using a bench mounted pillar drill. Which of the following statements is NOT true{
+	~[moodle]when using a pillar drill the drill bit can only move vertically up and down and is less likely to slip off the work# 
+	~[moodle]the drill is less likely to suffer from shaking or wobble than would a hand drill
+	=[moodle]because the pillar drill has a firm surface on which to rest the box it is not necessary to clamp it down# 
+	~[moodle]a pillar drill is likely to drill a more accurate hole than a hand drill# 
+}
+
+
+// question: 337  name: GI-707 The correct angle for a ladder is
+::GI-707 The correct angle for a ladder is::[html]GI-707 The correct angle for a ladder is{
+	~[moodle]4 \: 1 (base to height)# 
+	~[moodle]3 \: 1 (height to base)
+	~[moodle]4 \: 1 (length of ladder to distance from the wall)# 
+	=[moodle]4 \: 1 (height to base)# 
+}
+
+
+// question: 338  name: GI-708 To stop a ladder slipping it must be
+::GI-708 To stop a ladder slipping it must be::[html]GI-708 To stop a ladder slipping it must be{
+	~[moodle]long enough to reach# 
+	~[moodle]in good condition
+	~[moodle]be tied to ground# 
+	=[moodle]secured at the top or held at the bottom by an adult# 
+}
+
+
+// question: 339  name: GI-709 It is important not to overreach at the top of a ladder because to do so can
+::GI-709 It is important not to overreach at the top of a ladder because to do so can::[html]GI-709 It is important not to overreach at the top of a ladder because to do so can{
+	=[moodle]cause the ladder to slip or you to fall off# 
+	~[moodle]make it difficult to undertake the work
+	~[moodle]cause you to drop your tools# 
+	~[moodle]only leave you one hand to work with# 
+}
+
+
+// question: 340  name: GI-710 The following two items should be worn when working up a ladder or at height (and, in the case of the second, when others are working above you)
+::GI-710 The following two items should be worn when working up a ladder or at height (and, in the case of the second, when others are working above you)::[html]GI-710 The following two items should be worn when working up a ladder or at height (and, in the case of the second, when others are working above you){
+	~[moodle]warm clothing and stout shoes# 
+	=[moodle]a tool belt and a hard hat
+	~[moodle]a tool belt and eye protection# 
+	~[moodle]eye protection and a hard hat# 
+}
+
+
+// question: 341  name: GI-711 When erecting antennas or moving ladders it is vitally important to ensure that
+::GI-711 When erecting antennas or moving ladders it is vitally important to ensure that::[html]GI-711 When erecting antennas or moving ladders it is vitally important to ensure that{
+	=[moodle]nothing can come into contact with overhead power lines# 
+	~[moodle]you have someone to help you
+	~[moodle]nothing can fall and damage your property# 
+	~[moodle]your neighbour is out# 
+}
+
+
+// question: 342  name: GI-712 You want to put a mains plug on a new power supply that you have purchased. You note from back of the power supply that at maximum output it is rated at 600 Watts from a 230 Volt supply. What fuse should you put into the 13 Amp plug.
+::GI-712 You want to put a mains plug on a new power supply that you have purchased. You note from back of the power supply that at maximum output it is rated at 600 Watts from a 230 Volt supply. What fuse should you put into the 13 Amp plug.::[html]GI-712 You want to put a mains plug on a new power supply that you have purchased. You note from back of the power supply that at maximum output it is rated at 600 Watts from a 230 Volt supply. What fuse should you put into the 13 Amp plug.{
+	~[moodle]2 Amp# 
+	=[moodle]5 Amp
+	~[moodle]7 Amp# 
+	~[moodle]13 Amp# 
+}
+
+
+// question: 343  name: GI-713 In order to get the best possible protection against shock the electrical supply to your shack should
+::GI-713 In order to get the best possible protection against shock the electrical supply to your shack should::[html]GI-713 In order to get the best possible protection against shock the electrical supply to your shack should{
+	=[moodle]include a residual current device# 
+	~[moodle]come from a dedicated circuit in your household fuse box (or consumer unit) protected by an appropriately sized fuse
+	~[moodle]come from a dedicated circuit in a modern fuse box (or consumer unit) which has an appropriately valued circuit breaker# 
+	~[moodle]include switches on all the mains sockets# 
+}
+
+
+// question: 344  name: GI-714 You want to undertake some repairs on a valve radio you have been experimenting with. You unplug the radio from the mains and carefully remove the casing. Before touching any components it is important that you should
+::GI-714 You want to undertake some repairs on a valve radio you have been experimenting with. You unplug the radio from the mains and carefully remove the casing. Before touching any components it is important that you should::[html]GI-714 You want to undertake some repairs on a valve radio you have been experimenting with. You unplug the radio from the mains and carefully remove the casing. Before touching any components it is important that you should{
+	~[moodle]put one hand behind your back# 
+	~[moodle]disconnect the antenna
+	=[moodle]carefully make sure that any large capacitors are fully discharged# 
+	~[moodle]allow the radio to cool down# 
+}
+
+
+// question: 345  name: GI-715 The main health risk from electromagnetic radiation in or around the shack is
+::GI-715 The main health risk from electromagnetic radiation in or around the shack is::[html]GI-715 The main health risk from electromagnetic radiation in or around the shack is{
+	~[moodle]cancer# 
+	~[moodle]electric shock
+	=[moodle]rf burns# 
+	~[moodle]none. There are no health risks as the maximum power levels used by radio amateurs are not high enough to do any damage# 
+}
+
+
+// question: 346  name: GI-716 If you are concerned about safe levels of rf radiation further information is available from
+::GI-716 If you are concerned about safe levels of rf radiation further information is available from::[html]GI-716 If you are concerned about safe levels of rf radiation further information is available from{
+	~[moodle]the RSGB# 
+	=[moodle]government and international bodies (NRPB and ICNIRP)
+	~[moodle]Ofcom# 
+	~[moodle]your local radio club# 
+}
+
+
+// question: 347  name: GI-717 If you go to a club field day and are uncertain what equipment is working which of the following is likely to present most danger
+::GI-717 If you go to a club field day and are uncertain what equipment is working which of the following is likely to present most danger::[html]GI-717 If you go to a club field day and are uncertain what equipment is working which of the following is likely to present most danger{
+	=[moodle]looking down wave guides or standing in front of high gain antennas# 
+	~[moodle]walking underneath hf antennas
+	~[moodle]standing too close to the portable generator# 
+	~[moodle]standing underneath a YAGI antenna# 
+}
+
+
+// question: 0  name: Switch category to $course$/UK Intermediate/GI Contruction
+$CATEGORY: $course$/UK Intermediate/GI Contruction
+
+
+// question: 348  name: GI-800 When soldering what is the principle purpose of the flux which normally runs through the solder
+::GI-800 When soldering what is the principle purpose of the flux which normally runs through the solder::[html]GI-800 When soldering what is the principle purpose of the flux which normally runs through the solder{
+	~[moodle]to help the solder melt# 
+	~[moodle]to keep the soldering iron clean
+	~[moodle]to help the solder stick to the wires# 
+	=[moodle]to help the solder flow and remove the layer of oxide on the surfaces to be joined# 
+}
+
+
+// question: 349  name: GI-801 Which of the following metals are hard to solder by normal means:
+::GI-801 Which of the following metals are hard to solder by normal means\:::[html]GI-801 Which of the following metals are hard to solder by normal means\:{
+	~[moodle]tin# 
+	~[moodle]brass
+	~[moodle]copper# 
+	=[moodle]aluminium# 
+}
+
+
+// question: 350  name: GI-802 When soldering there are a number of reasons it is important to clean the tip and “tin” it before use.  Which of the following is NOT a valid reason
+::GI-802 When soldering there are a number of reasons it is important to clean the tip and “tin” it before use.  Which of the following is NOT a valid reason::[html]GI-802 When soldering there are a number of reasons it is important to clean the tip and “tin” it before use.  Which of the following is NOT a valid reason{
+	=[moodle]to ensure the soldering iron has heated up properly# 
+	~[moodle]to remove traces of oxide
+	~[moodle]to improve the conduction of heat to the joint# 
+	~[moodle]to enable solder to flow on the tip of the iron# 
+}
+
+
+// question: 351  name: GI-803 There are a number of things to bear in mind when making a solder joint. Which of the following is NOT a valid concern?
+::GI-803 There are a number of things to bear in mind when making a solder joint. Which of the following is NOT a valid concern?::[html]GI-803 There are a number of things to bear in mind when making a solder joint. Which of the following is NOT a valid concern?{
+	~[moodle]joints should be made reasonably quickly to avoid damaging the components# 
+	~[moodle]the solder should flow over both surfaces to be joined so as to avoid dry joints
+	=[moodle]if the flux starts to smoke the joint is too hot# 
+	~[moodle]the tip should ideally be placed in contact with both surfaces to be soldered# 
+}
+
+
+// question: 352  name: GI-804 A resistor has four colour bands; blue, red, yellow and gold. What is its value
+::GI-804 A resistor has four colour bands; blue, red, yellow and gold. What is its value::[html]GI-804 A resistor has four colour bands; blue, red, yellow and gold. What is its value{
+	~[moodle]5.1 K, 10% tolerance# 
+	=[moodle]620 K, 5% tolerance
+	~[moodle]6.1 M, 10% tolerance# 
+	~[moodle]72 K, 5% tolerance# 
+}
+
+
