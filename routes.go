@@ -1,7 +1,7 @@
 package main
 
 import (
-	p "github.com/abaft/radiotutor/pages"
+	p "github.com/pe5er/radiotutor/pages"
 	"github.com/gin-gonic/gin"
 )
 
