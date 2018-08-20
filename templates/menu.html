@@ -1,28 +1,56 @@
 <!--menu.html-->
+<!-- template responsible for the navbar and not a lot else -->
 
-<nav class="navbar navbar-default">
-  <div class="container">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="/">
-        Home
-      </a>
-    </div>
-    <ul class="nav navbar-nav">
-      {{ if .is_logged_in }}
-        <!--Display this link only when the user is logged in-->
-        <li><a href="/article/create">Create Article</a></li>
+<style>
+	.dropdown:hover>.dropdown-menu{
+		display: block;
+	}
+</style>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+	<a class="navbar-brand" href="/">Home</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+	<span class="navbar-toggler-icon"></span>
+	</button>
+
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+
+    <ul class="navbar-nav">
+		<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="/c/courses" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Courses</a>
+				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<a class="dropdown-item" href="/c/foundation">Foundation</a>
+				<a class="dropdown-item" href="/c/intermediate">Intermediate</a>
+				<a class="dropdown-item" href="/c/advanced">Advanced</a>
+			</div>
+		</li>
+	  
+	  	<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="/t/tests" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mock Tests</a>
+				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<a class="dropdown-item" href="/t/foundation">Foundation</a>
+				<a class="dropdown-item" href="/t/intermediate">Intermediate</a>
+				<a class="dropdown-item" href="/t/advanced">Advanced</a>
+			</div>
+		</li>
+	  
+	    <li class="nav-item"><a class="nav-link" href="/news">News</a></li>
+	  {{ if .is_logged_in }}
+		<li class="nav-item"><a class="nav-link" href="/u/progress">My Progress</a></li>
+	  {{end}} 
+		<li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
+		<li class="nav-item"><a class="nav-link" href="/contact">Contact Us</a></li>
+    </ul>
+	  
+	<ul class="nav navbar-nav ml-auto justify-content-end">
+	  {{ if not .is_logged_in }}
+        <li class="nav-item"><a class="nav-link" href="/u/register">Register</a></li>
       {{end}} 
       {{ if not .is_logged_in }}
-        <!--Display this link only when the user is not logged in-->
-        <li><a href="/u/register">Register</a></li>
-      {{end}} 
-      {{ if not .is_logged_in }}
-        <!--Display this link only when the user is not logged in-->
-        <li><a href="/u/login">Login</a></li>
+        <li class="nav-item"><a class="nav-link" href="/u/login">Login</a></li>
       {{end}} 
       {{ if .is_logged_in }}
-        <!--Display this link only when the user is logged in-->
-        <li><a href="/u/logout">Logout</a></li>
+        <li class="nav-item"><a class="nav-link" href="/u/logout">Logout</a></li>
       {{end}}
     </ul>
   </div>
