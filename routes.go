@@ -1,26 +1,29 @@
-// routes.go
-
 package main
 
-func initializeRoutes() {
+import (
+	p "github.com/abaft/radiotutor/pages"
+	"github.com/gin-gonic/gin"
+)
 
-	router.Use(setUserStatus())
-	router.GET("/", showIndexPage)
+func routes() *gin.Engine {
+	e := gin.Default()
+	e.NoRoute(func(c *gin.Context) {
+		c.Redirect(302, "/")
+	})
 
-	userRoutes := router.Group("/u")
+	// Homepage
+	e.GET("/", p.Home)
+
+	// Licences
+	e.GET("/licence", p.Licences)
+
+	// Denominations
+	licence := e.Group("/licence/:licenceType", p.LicenceSpec)
 	{
-
-		userRoutes.GET("/login", ensureNotLoggedIn(), showLoginPage)
-		userRoutes.POST("/login", ensureNotLoggedIn(), performLogin)
-		userRoutes.GET("/logout", ensureLoggedIn(), logout)
-		userRoutes.GET("/register", ensureNotLoggedIn(), showRegistrationPage)
-		userRoutes.POST("/register", ensureNotLoggedIn(), register)
+		licence.GET("exam", p.ExamGen)
 	}
 
-	courseRoutes := router.Group("/c")
-	{
-		courseRoutes.GET("/foundation", showFoundationCourse)
-		courseRoutes.GET("/intermediate", showIntermediateCourse)
-		courseRoutes.GET("/advanced", showAdvancedCourse)
-	}
+	// Resource loading
+	e.Static("/resources", "./resources")
+	return e
 }
