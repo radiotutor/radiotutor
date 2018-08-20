@@ -1,8 +1,11 @@
 package main
 
 import (
-	p "github.com/pe5er/radiotutor/pages"
+	"github.com/gin-contrib/cache"
+	"github.com/gin-contrib/cache/persistence"
 	"github.com/gin-gonic/gin"
+	p "github.com/pe5er/radiotutor/pages"
+	"time"
 )
 
 func routes() *gin.Engine {
@@ -11,19 +14,23 @@ func routes() *gin.Engine {
 		c.Redirect(302, "/")
 	})
 
+	store := persistence.NewInMemoryStore(time.Second)
+
 	// Homepage
-	e.GET("/", p.Home)
+	e.GET("/", cache.CachePage(store, time.Hour, p.Home))
 
 	// Licences
-	e.GET("/licence", p.Licences)
+	e.GET("/l", p.Licences)
 
 	// Denominations
-	licence := e.Group("/licence/:licenceType", p.LicenceSpec)
+	licence := e.Group("/l/:licenceType", p.LicenceSpec)
 	{
-		licence.GET("exam", p.ExamGen)
+		licence.GET("exam", cache.CachePage(store, time.Hour, p.ExamGen))
+		licence.GET("course", cache.CachePage(store, time.Hour, p.Courses))
 	}
 
 	// Resource loading
 	e.Static("/resources", "./resources")
+
 	return e
 }
