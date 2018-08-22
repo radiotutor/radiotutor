@@ -1,9 +1,5 @@
 package main
 
-import (
-	"fmt"
-)
-
 func main() {
 	r := routes()
 	r.LoadHTMLGlob("templates/*")
