@@ -1,0 +1,48 @@
+<!--question.html-->
+
+
+{{ template "header.html" .}}
+
+<div class="container" style="margin-top:30px">
+
+	<div class="row clearfix">
+	</div>
+
+	<div class="col-md-1 column">
+	</div>
+
+	<div class="col-md-10 column">
+	
+	<p class="lead">{{.TestProgress}}</p>
+	
+    <div class="progress">
+      <div class="progress-bar" role="progressbar" style="width: "{{.TestPercentage}}">
+        <span class="sr-only">{{.TestProgress}}</span>
+      </div>
+    </div>
+	
+    <div class="panel panel-primary">
+	
+      <div class="panel-heading"><h3 class="panel-title">{{.Question}}</h3></div>
+	  
+      <div class="panel-body">
+        <div class="radio"><label><input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">{{.Answer1}}</label></div>
+		<div class="radio"><label><input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">{{.Answer2}}</label></div>
+        <div class="radio"><label><input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">{{.Answer3}}</label></div>
+        <div class="radio"><label><input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">{{.Answer4}}</label></div>
+      </div>
+	  
+    </div>
+	
+		<div class="col-md-1 column">
+		</div>
+	
+	</div>
+	
+</div>
+
+
+<br><br>
+    
+<!--Embed the footer.html template at this location-->
+{{ template "footer.html" .}}
