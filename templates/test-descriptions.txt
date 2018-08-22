@@ -1,0 +1,14 @@
+.QuizName
+Foundation Quiz
+.QuizDescription
+This test will allow you to experience taking your foundation exam. You have 55 minutes to answer 26 multiple choice questions based on the topics you have learned. The pass mark is 19 / 26, good luck!
+
+.QuizName
+Intermediate Quiz
+.QuizDescription
+This test will allow you to experience taking your intermediate exam. You have 1 hour and 25 minutes to answer 45 multiple choice 
+questions based on the topics you have learned. The pass mark is 27 / 45, good luck!
+
+Advanced Quiz
+This test will allow you to experience taking your advanced exam. You have 2 hours to answer 62 multiple choice questions based on the topics
+ you have learned. The pass mark is 37 / 62, good luck!
