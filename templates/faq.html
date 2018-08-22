@@ -1,0 +1,55 @@
+<!--index.html-->
+
+{{ template "header.html" .}}
+
+<div class="container" style="margin-top:30px">
+
+<div class="panel-group" id="faqAccordion">
+
+        <div class="panel panel-default ">
+            <div class="panel-heading accordion-toggle question-toggle collapsed" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question0">
+				<h4 class="panel-title"><a href="#" class="ing">Who Runs RadioTutor?</a></h4>
+            </div>
+			<div id="question0" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                    <p>Radio Tutor is run by Peter Barnes, M0SWN and Ben Chalmers, M0NBA</p>
+                </div>
+            </div>
+        </div>
+		
+        <div class="panel panel-default ">
+            <div class="panel-heading accordion-toggle collapsed question-toggle" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question1">
+				<h4 class="panel-title"><a href="#" class="ing">How is RadioTutor funded?</a></h4>
+            </div>
+            <div id="question1" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                    <p>We are funded by donations, but are looking for sponsors to provide a reliable source of income</p>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default ">
+            <div class="panel-heading accordion-toggle collapsed question-toggle" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question2">
+                 <h4 class="panel-title"><a href="#" class="ing">What happened to Hamtests?</a></h4>
+            </div>
+            <div id="question2" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                    <p>The HamTests admins decided to close down the site in September 2018. When the site closed, they released their question bank to the public, which is what we use at RadioTutor</p>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default ">
+            <div class="panel-heading accordion-toggle collapsed question-toggle" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question3">
+                 <h4 class="panel-title"><a href="#" class="ing">Can I help?</a></h4>
+            </div>
+            <div id="question3" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                    <p>Sure, if you're a tutor, potential sponsor, or would like to help in any way, please feel free to <a href="/contact.html">get in touch</a></p>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+</div>
+  
+{{ template "footer.html" .}}
