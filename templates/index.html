@@ -1,15 +1,27 @@
 <!--index.html-->
 
-{{ $title := "Home"}}
 {{ template "header.html" .}}
 
 <div class="container" style="margin-top:30px">
-	<h1>Articles</h1><br>
+	<h1>Welcome to RadioTutor</h1>
+	<p>This website will help you to pass your foundation, intermediate and advances amateur radio exams, through the help of online learning
+	and realistic mock tests. Even better, the whole site is completely free to use. Have a look at the following courses we offer,
+	and if you get stuck take a look at our <a href="/faq">FAQ</a> or <a href="/contact">get in touch</a> with the team.</p>
 
-  {{range .payload }}
-    <h2>{{.Title}}</h2>
-    <p>{{.Content}}</p>
-  {{end}}
+	<br><br>
+	<h2>Latest Updates from RadioTutor</h2><br>
+	
+	<h3>New Courses</h3>
+	<p>Hello all, I have started to write brand new courses for RadioTutor! At first I will be focusing on the Intermediate licence,
+	followed by Foundation and then Advanced. Hopefully over the coming weeks you should see lots of content filling up the courses,
+	including videos and quizzes.</p>
+	<p>Peter Barnes<br>MØSWN<br>President – Swansea Radio Society (GW3UWS)</p>
+	
+	<h3>New Site</h3>
+	<p>Welcome to RadioTutor, a new site to help you study for your UK Foundation, Intermediate and Advanced exams.
+	This website has been made possible by the authors of hamtests.co.uk, who generously provided their pool of questions
+	for use on this site. We are currently still actively developing this site, so please be patient as changes and updates roll out.</p>
+	<p>Peter Barnes<br>MØSWN<br>President – Swansea Radio Society (GW3UWS)</p>
 
 </div>
   
