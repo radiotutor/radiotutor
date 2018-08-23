@@ -54,3 +54,12 @@ func ReturnQuestion(t string, n int) Question {
 	}
 	return Question{}
 }
+
+func ReturnQuiz(t string, n int, num int) []Question {
+	rtn := make([]Question, num)
+	for i := 0; i < num; i++ {
+		rtn[i] = ReturnQuestion(t, n+i)
+	}
+	return rtn
+
+}

@@ -1,10 +1,14 @@
 package main
 
 import (
+	"encoding/gob"
 	"github.com/gin-contrib/cache"
 	"github.com/gin-contrib/cache/persistence"
+	"github.com/gin-contrib/sessions"
+	"github.com/gin-contrib/sessions/memstore"
 	"github.com/gin-gonic/gin"
 	p "github.com/pe5er/radiotutor/pages"
+	"github.com/pe5er/radiotutor/quiz"
 	"time"
 )
 
@@ -14,10 +18,13 @@ func routes() *gin.Engine {
 		c.Redirect(302, "/")
 	})
 
-	store := persistence.NewInMemoryStore(time.Second)
+	cacheStore := persistence.NewInMemoryStore(time.Second)
+	gob.Register([]quiz.Question{})
+
+	cookiesSessionStore := memstore.NewStore([]byte("HANGE_IN_PRODUCTION"))
 
 	// Homepage
-	e.GET("/", cache.CachePage(store, time.Hour, p.Home))
+	e.GET("/", cache.CachePage(cacheStore, time.Hour, p.Home))
 
 	// Licences
 	e.GET("/l", p.Licences)
@@ -25,8 +32,9 @@ func routes() *gin.Engine {
 	// Denominations
 	licence := e.Group("/l/:licenceType", p.LicenceSpec)
 	{
-		licence.GET("exam", cache.CachePage(store, time.Hour, p.ExamGen))
-		licence.GET("course", cache.CachePage(store, time.Hour, p.Courses))
+		licence.GET("exam", sessions.Sessions("quiz", cookiesSessionStore), p.QuizGet)
+		licence.POST("exam", sessions.Sessions("quiz", cookiesSessionStore), p.QuizPost)
+		licence.GET("course", cache.CachePage(cacheStore, time.Hour, p.Courses))
 	}
 
 	// Resource loading
