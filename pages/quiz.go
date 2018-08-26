@@ -1,7 +1,6 @@
 package pages
 
 import (
-	"fmt"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
 	"github.com/pe5er/radiotutor/quiz"
@@ -51,6 +50,12 @@ func QuizPost(c *gin.Context) {
 	}
 
 	v := session.Get(l + "Current")
+
+	// Check Proper Post
+	if session.Get(l+"Started") == nil {
+		c.Redirect(302, c.Params[0].Value)
+		return
+	}
 	if v == nil {
 		// Setup
 		session.Set(l+"Current", int(0))
@@ -71,19 +76,14 @@ func QuizPost(c *gin.Context) {
 				break
 			}
 		}
-
-		fmt.Println(correctIndex)
 		ans, _ := c.GetPostForm("answer")
 		if i, _ := strconv.Atoi(ans); i == correctIndex {
-			fmt.Println("Correct")
 			correct[current] = true
 		} else {
-			fmt.Println("Wrong")
 			correct[current] = false
 		}
 
 		session.Set(l+"QuizCorrect", correct)
-		fmt.Println(ans)
 
 		if (len - 1) == current {
 			score := int(0)
@@ -92,8 +92,12 @@ func QuizPost(c *gin.Context) {
 					score++
 				}
 			}
+			session.Delete(l + "Started")
+			session.Delete(l + "Current")
+			session.Delete(l + "Quiz")
+			session.Delete(l + "QuizCorrect")
+			session.Save()
 			c.String(200, strconv.Itoa(score)+"/"+strconv.Itoa(len))
-			session.Clear()
 			return
 		} else {
 			current++

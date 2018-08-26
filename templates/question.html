@@ -22,19 +22,26 @@
 	
       <div class="panel-heading"><h3 class="panel-title">{{.Question}}</h3></div>
 	  <form method="POST">
-      <div class="panel-body">
-        <div class="radio"><label><input type="radio" name="answer" value="0">{{.Answer1}}</label></div>
-        <div class="radio"><label><input type="radio" name="answer" value="1">{{.Answer2}}</label></div>
-        <div class="radio"><label><input type="radio" name="answer" value="2">{{.Answer3}}</label></div>
-        <div class="radio"><label><input type="radio" name="answer" value="3">{{.Answer4}}</label></div>
+      <div class="panel-body form-group">
+				<div class="custom-control custom-radio">
+  				<input type="radio" value="0" id="answer0" name="answer" class="custom-control-input">
+  				<label class="custom-control-label" for="answer0">{{.Answer1}}</label>
+				</div>
+				<div class="custom-control custom-radio">
+	 				<input type="radio" value="1" id="answer1" name="answer" class="custom-control-input">
+  				<label class="custom-control-label" for="answer0">{{.Answer2}}</label>
+				</div>
+				<div class="custom-control custom-radio">
+  				<input type="radio" value="2" id="answer2" name="answer" class="custom-control-input">
+  				<label class="custom-control-label" for="answer2">{{.Answer3}}</label>
+				</div>
+				<div class="custom-control custom-radio">
+  				<input type="radio" value="3" id="answer3" name="answer" class="custom-control-input">
+  				<label class="custom-control-label" for="answer3">{{.Answer4}}</label>
+				</div>
       </div>
-	  
     </div>
-	
-		<div class="col-md-1 column">
-    <input type="submit" value="submit" /></form>
-		</div>
-	
+	  <button class="btn btn-primary" type="submit">Submit Answer</button>
 	</div>
 	
 </div>
