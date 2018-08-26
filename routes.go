@@ -18,6 +18,8 @@ func routes() *gin.Engine {
 		c.Redirect(302, "/")
 	})
 
+	quiz.QuestionsInit()
+
 	cacheStore := persistence.NewInMemoryStore(time.Second)
 	gob.Register([]quiz.Question{})
 

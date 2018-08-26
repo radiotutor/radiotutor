@@ -34,7 +34,6 @@ func QuizGet(c *gin.Context) {
 }
 
 func QuizPost(c *gin.Context) {
-	quiz.QuestionsInit()
 	session := sessions.Default(c)
 	l := c.Param("licenceType")
 
@@ -42,7 +41,7 @@ func QuizPost(c *gin.Context) {
 	if numberOfQuizS, ok := c.GetPostForm("number"); ok {
 		numberOfQuiz, err := strconv.Atoi(numberOfQuizS)
 		if err != nil {
-			c.Redirect(302, c.Params[0].Value)
+			QuizGet(c)
 			return
 		}
 		session.Set(l+"Started", numberOfQuiz)
@@ -53,7 +52,13 @@ func QuizPost(c *gin.Context) {
 
 	// Check Proper Post
 	if session.Get(l+"Started") == nil {
-		c.Redirect(302, c.Params[0].Value)
+		QuizGet(c)
+		return
+	}
+	if session.Get(l+"Started").(int) < 0 || session.Get(l+"Started").(int) > 40 {
+		session.Delete(l + "Started")
+		QuizGet(c)
+		session.Save()
 		return
 	}
 	if v == nil {
@@ -63,6 +68,7 @@ func QuizPost(c *gin.Context) {
 		session.Set(l+"Quiz", quiz.ReturnQuiz(l, 1, session.Get(l+"Started").(int)))
 		session.Set(l+"QuizCorrect", correct)
 	} else {
+
 		// Change question
 		q := session.Get(l + "Quiz").([]quiz.Question)
 		len := session.Get(l + "Started").(int)
@@ -92,6 +98,7 @@ func QuizPost(c *gin.Context) {
 					score++
 				}
 			}
+
 			session.Delete(l + "Started")
 			session.Delete(l + "Current")
 			session.Delete(l + "Quiz")
@@ -106,7 +113,7 @@ func QuizPost(c *gin.Context) {
 	}
 
 	session.Save()
-	c.Redirect(302, "exam")
+	QuizGet(c)
 
 	//c.JSON(200, gin.H{"number": numberOfQuiz})
 }

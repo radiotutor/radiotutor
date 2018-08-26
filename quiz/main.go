@@ -3,6 +3,8 @@ package quiz
 import (
 	"encoding/json"
 	"io/ioutil"
+	"math/rand"
+	"time"
 )
 
 type Question struct {
@@ -57,8 +59,25 @@ func ReturnQuestion(t string, n int) Question {
 
 func ReturnQuiz(t string, n int, num int) []Question {
 	rtn := make([]Question, num)
+	copy := make([]int64, num)
+	for i, _ := range copy {
+		copy[i] = -1
+	}
+
+	source := rand.NewSource(time.Now().UnixNano())
+	r := rand.New(source)
+OUTER:
 	for i := 0; i < num; i++ {
-		rtn[i] = ReturnQuestion(t, n+i)
+		z := r.Intn(1000)
+		q := ReturnQuestion(t, z)
+		for _, c := range copy {
+			if q.Number == c {
+				i--
+				continue OUTER
+			}
+		}
+		rtn[i] = q
+		copy[i] = q.Number
 	}
 	return rtn
 
