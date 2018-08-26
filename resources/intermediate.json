@@ -1,0 +1,1562 @@
+[
+{
+  "number":188,
+  "question":"Which of the following is NOT a valid callsign",
+  "answers": [
+    {"correct":false, "answer":"2E0VIN "},
+    {"correct":false, "answer":"M3ABC "},
+    {"correct":false, "answer":"MU0GJH "},
+    {"correct":true, "answer":"2EW0ABC "}
+  ]
+},
+{
+  "number":189,
+  "question":"Your callsign is 2D0ABC. Whilst on holiday at a friend’s house in England you should use the callsign",
+  "answers": [
+    {"correct":true, "answer":"2E0ABC/A"},
+    {"correct":false, "answer":"2D0ABC/P"},
+    {"correct":false, "answer":"2E0ABC/P"},
+    {"correct":false, "answer":"M/2D0ABC/A"}
+  ]
+},
+{
+  "number":190,
+  "question":"Your callsign sign is 2E0XYZ and you visit a friend whose callsign is M3ABC.  Which of the following is not permitted",
+  "answers": [
+    {"correct":false, "answer":"the supervision of your friend using your call sign running 50W"},
+    {"correct":false, "answer":"the use by you of your friend’s equipment using your call sign"},
+    {"correct":true, "answer":"under supervision, the use of your friend’s callsign running 50W"},
+    {"correct":false, "answer":"the use of the radio by the two of you in a local net, each using your own call sign and privileges."}
+  ]
+},
+{
+  "number":191,
+  "question":"Your call sign is 2E0ABC.  You go to your friend’s house who is a Full Licence holder.  Which of the following is NOT permitted",
+  "answers": [
+    {"correct":false, "answer":"you may operate his station using the callsign of and under the direct supervision of the Full Licensee running 400W "},
+    {"correct":false, "answer":"you may operate the station using a 2E0ABC/A callsign running 50W "},
+    {"correct":true, "answer":"you may operate the station using a 2E0ABC/A callsign running 100W "},
+    {"correct":false, "answer":"You may assist the Full Licensee complete his log "}
+  ]
+},
+{
+  "number":192,
+  "question":"You work at the local radio shop are in conversation with another licensed amateur on the radio.  Which of the following should you NOT talk about :-",
+  "answers": [
+    {"correct":false, "answer":"the fact that you have been ill "},
+    {"correct":false, "answer":"the type of radio you are using "},
+    {"correct":true, "answer":"the specials offers on sale at your radio shop "},
+    {"correct":false, "answer":"the forthcoming lecture at your Radio Club "}
+  ]
+},
+{
+  "number":193,
+  "question":"You may allow your radio equipment to be used",
+  "answers": [
+    {"correct":false, "answer":"by an unlicensed amateur to send a message to a friend who holds a Full Licence"},
+    {"correct":true, "answer":"by your local policeman to send a message to his local station during a police operation"},
+    {"correct":false, "answer":"to relay a message for your brother who runs a radio taxi business"},
+    {"correct":false, "answer":"to broadcast news about amateur radio"}
+  ]
+},
+{
+  "number":194,
+  "question":"Under the provisions relating to User Services you may pass messages on behalf of",
+  "answers": [
+    {"correct":false, "answer":"your local Member of Parliament "},
+    {"correct":false, "answer":"a vet acting in an emergency "},
+    {"correct":false, "answer":"a hospital midwife "},
+    {"correct":true, "answer":"the Salvation Army "}
+  ]
+},
+{
+  "number":195,
+  "question":"It is NOT necessary to send your callsign",
+  "answers": [
+    {"correct":true, "answer":"at the end of every over"},
+    {"correct":false, "answer":"at the start and finish of all periods of transmission"},
+    {"correct":false, "answer":"every 15 minutes during a long period of transmission"},
+    {"correct":false, "answer":"during a CQ call"}
+  ]
+},
+{
+  "number":196,
+  "question":"It is recommended that the suffix “/P” be used with your callsign whilst operating from a Temporary Location.  In which of the following circumstances would this be applicable",
+  "answers": [
+    {"correct":false, "answer":"when operating from a friends house"},
+    {"correct":false, "answer":"when using a hand held radio in you car"},
+    {"correct":false, "answer":"when on holiday at a hotel"},
+    {"correct":true, "answer":"on Scout camp"}
+  ]
+},
+{
+  "number":197,
+  "question":"As an Intermediate Licence holder in which of the following circumstances are you permitted to operate",
+  "answers": [
+    {"correct":false, "answer":"whilst taking a flight in a balloon "},
+    {"correct":true, "answer":"on a canal barge "},
+    {"correct":false, "answer":"on a cross Channel ferry "},
+    {"correct":false, "answer":"at anchor in the Solent "}
+  ]
+},
+{
+  "number":198,
+  "question":"For an Intermediate License holder which of the following statements is true",
+  "answers": [
+    {"correct":false, "answer":"Under the CEPT arrangements you can use your licence whilst on holiday in a foreign country "},
+    {"correct":false, "answer":"Under the CEPT arrangements you cannot use your licence whilst on holiday in a foreign country unless your have also passed a morse exam "},
+    {"correct":true, "answer":"Other administrations do not routinely recognise the Intermediate Licence "},
+    {"correct":false, "answer":"You can apply to Ofcom for an extension to your License so that you can operate in other European Union countries "}
+  ]
+},
+{
+  "number":199,
+  "question":"Subject to the terms of your License which of the following types of Unattended Operation are NOT permitted",
+  "answers": [
+    {"correct":false, "answer":"a radio link for the remote control of your station "},
+    {"correct":false, "answer":"a packet station "},
+    {"correct":false, "answer":"a beacon for a direction finding competition "},
+    {"correct":true, "answer":"repeater operation "}
+  ]
+},
+{
+  "number":200,
+  "question":"The Licensee may conduct Unattended Operation for remote control of the main station limited to a power of",
+  "answers": [
+    {"correct":false, "answer":"50mW "},
+    {"correct":true, "answer":"500mW "},
+    {"correct":false, "answer":"1W "},
+    {"correct":false, "answer":"50W "}
+  ]
+},
+{
+  "number":201,
+  "question":"Which of the following statements is true",
+  "answers": [
+    {"correct":false, "answer":"If you use a log book you must keep it for at least six months following the date of the last entry "},
+    {"correct":false, "answer":"Under the new Licensing arrangements you will never be required to keep a log book "},
+    {"correct":false, "answer":"The log book must record the names of all your contacts "},
+    {"correct":true, "answer":"A person authorised by Ofcom may require you to keep a log of all transmissions made over a specified period of time "}
+  ]
+},
+{
+  "number":205,
+  "question":"You should ensure that your Station does not",
+  "answers": [
+    {"correct":false, "answer":"interfere with other electrical equipment"},
+    {"correct":true, "answer":"cause any undue interference to other radio users"},
+    {"correct":false, "answer":"set your neighbour’s burglar alarm off"},
+    {"correct":false, "answer":"notify Ofcom"}
+  ]
+},
+{
+  "number":206,
+  "question":"Any radio emissions from your station which do cause interference must be",
+  "answers": [
+    {"correct":false, "answer":"noted in your log book "},
+    {"correct":false, "answer":"stopped immediately on notice of such interference from the aggrieved party "},
+    {"correct":false, "answer":"referred to the RSGB for guidance "},
+    {"correct":true, "answer":"reduced to the satisfaction of an Officer authorised by Ofcom "}
+  ]
+},
+{
+  "number":207,
+  "question":"Your Licence requires that you should carry out tests on your Station",
+  "answers": [
+    {"correct":true, "answer":"from time to time to ensure that the Station is not causing undue interference "},
+    {"correct":false, "answer":"every six months to check for unwanted harmonics "},
+    {"correct":false, "answer":"regularly to ensure that your antenna is properly connected "},
+    {"correct":false, "answer":"after any severe electrical storms to ensure that the radio’s vfo remains properly aligned "}
+  ]
+},
+{
+  "number":208,
+  "question":"If an Intermediate License holder intends to move they must advise Ofcom of their change of address",
+  "answers": [
+    {"correct":false, "answer":"at least seven days prior to change of address becoming effective "},
+    {"correct":true, "answer":"immediately on moving "},
+    {"correct":false, "answer":"within seven days of the change of address "},
+    {"correct":false, "answer":"it is not necessary to advise Ofcom if notification has been sent to the RSGB "}
+  ]
+},
+{
+  "number":209,
+  "question":"How much power may an Intermediate Licence holder use if transmitting on 430.5MHz",
+  "answers": [
+    {"correct":true, "answer":"16 dBW erp "},
+    {"correct":false, "answer":"50W "},
+    {"correct":false, "answer":"16 dBW "},
+    {"correct":false, "answer":"40W "}
+  ]
+},
+{
+  "number":210,
+  "question":"If you want to put out a CQ call on top band at a frequency of 1.855 MHz the maximum power that you can use is",
+  "answers": [
+    {"correct":true, "answer":"32 Watts"},
+    {"correct":false, "answer":"10 Watts"},
+    {"correct":false, "answer":"50 Watts"},
+    {"correct":false, "answer":"17 Watts"}
+  ]
+},
+{
+  "number":211,
+  "question":"If you are operating on a frequency of 10.125 MHz and are asked to change frequency by a station claiming that they are a primary user and have been assigned that frequency you should",
+  "answers": [
+    {"correct":false, "answer":"politely point out to them that you were there first"},
+    {"correct":false, "answer":"change frequency but report the station to the RSGB’s Spectrum Abuse Committee"},
+    {"correct":false, "answer":"do nothing"},
+    {"correct":true, "answer":"change frequency so as not to interfere with the other station"}
+  ]
+},
+{
+  "number":212,
+  "question":"You are building a circuit which calls for a 0.01 uF capacitor. Which of the following components would you choose",
+  "answers": [
+    {"correct":false, "answer":"a 0.1 uH inductor"},
+    {"correct":false, "answer":"a 10 mF capacitor"},
+    {"correct":false, "answer":"a 100 nF capacitor"},
+    {"correct":true, "answer":"a 10 nF capacitor"}
+  ]
+},
+{
+  "number":213,
+  "question":"An electric current can best be described as",
+  "answers": [
+    {"correct":false, "answer":"the movement of ions through a copper wire"},
+    {"correct":false, "answer":"voltage moving from once place to another"},
+    {"correct":false, "answer":"a battery discharging round a circuit"},
+    {"correct":true, "answer":"the movement of electrons in a conductor"}
+  ]
+},
+{
+  "number":214,
+  "question":"Which of the following materials would NOT make a good outdoor insulator",
+  "answers": [
+    {"correct":true, "answer":"wood"},
+    {"correct":false, "answer":"glass"},
+    {"correct":false, "answer":"plastic"},
+    {"correct":false, "answer":"rubber"}
+  ]
+},
+{
+  "number":215,
+  "question":"A twelve volt battery and a resistor are connected in series.  60 mA flows through the resistor.  How much power does the resistor consume",
+  "answers": [
+    {"correct":false, "answer":"720 W "},
+    {"correct":false, "answer":"5 W "},
+    {"correct":false, "answer":"20 W "},
+    {"correct":true, "answer":"720 mW "}
+  ]
+},
+{
+  "number":216,
+  "question":"How much current flows in the following circuit if each of the resistors is 600 ohms IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"100 mA"},
+    {"correct":true, "answer":"30 mA"},
+    {"correct":false, "answer":"3.33 mA"},
+    {"correct":false, "answer":"0.3 A"}
+  ]
+},
+{
+  "number":217,
+  "question":"A primary cell is likely to have a voltage of",
+  "answers": [
+    {"correct":false, "answer":"1.2 V and can be recharged when discharged "},
+    {"correct":false, "answer":"1.5 V and can be recharged when discharged "},
+    {"correct":true, "answer":"1.5 V and must be properly disposed of when discharged "},
+    {"correct":false, "answer":"1.2 V and must be properly disposed of when discharged "}
+  ]
+},
+{
+  "number":218,
+  "question":"Which one of the following statements is correct",
+  "answers": [
+    {"correct":false, "answer":"a battery normally has a voltage of 1.5V "},
+    {"correct":true, "answer":"two or more cells can be connected in either series or parallel to form a battery "},
+    {"correct":false, "answer":"cells may only be connected in series to form a battery "},
+    {"correct":false, "answer":"a battery is made up of a single cell "}
+  ]
+},
+{
+  "number":219,
+  "question":"A capacitor is made of",
+  "answers": [
+    {"correct":false, "answer":"a metal can with a wire coming out of each end"},
+    {"correct":true, "answer":"two metal surfaces separated by an insulator"},
+    {"correct":false, "answer":"a dielectric compound"},
+    {"correct":false, "answer":"a coil of wire sometimes wrapped around a ferrite ring"}
+  ]
+},
+{
+  "number":220,
+  "question":"The ability of a capacitor to store charge depends upon",
+  "answers": [
+    {"correct":true, "answer":"the area of the plates and their separation "},
+    {"correct":false, "answer":"the size of the container "},
+    {"correct":false, "answer":"whether a DC or AC voltage is applied "},
+    {"correct":false, "answer":"the number of turns of wire inside the capacitor "}
+  ]
+},
+{
+  "number":221,
+  "question":"Capacitors allow alternating current to pass",
+  "answers": [
+    {"correct":false, "answer":"because the dielectric breaks down at high frequency "},
+    {"correct":false, "answer":"because a magnetic field flows from one coil to another "},
+    {"correct":false, "answer":"because alternating currents flow on the surface of a conductor and can pass through the can "},
+    {"correct":true, "answer":"by continuously charging and discharging "}
+  ]
+},
+{
+  "number":222,
+  "question":"If an electrolytic capacitor is connected the wrong way round",
+  "answers": [
+    {"correct":false, "answer":"it will make little difference "},
+    {"correct":false, "answer":"it can give rise to interference  "},
+    {"correct":true, "answer":"it can explode "},
+    {"correct":false, "answer":"it will no longer block direct current "}
+  ]
+},
+{
+  "number":223,
+  "question":"Which of the following is likely to have the biggest inductance",
+  "answers": [
+    {"correct":false, "answer":"10 turns of wire wound round a lead pencil "},
+    {"correct":false, "answer":"a 2,200 uF capacitor "},
+    {"correct":true, "answer":"1,000 turns of wire on a ferrite rod "},
+    {"correct":false, "answer":"a 10 turn coil operating at its resonant frequency "}
+  ]
+},
+{
+  "number":224,
+  "question":"A current passing through a wire",
+  "answers": [
+    {"correct":false, "answer":"can act as an antenna "},
+    {"correct":false, "answer":"will alter its inductance "},
+    {"correct":false, "answer":"will build up charge on the wire’s surface and act as a capacitor "},
+    {"correct":true, "answer":"forms a magnetic field around the wire "}
+  ]
+},
+{
+  "number":225,
+  "question":"An inductor can store energy",
+  "answers": [
+    {"correct":false, "answer":"in the current flowing through it "},
+    {"correct":false, "answer":"because of the capacitance between the two connections "},
+    {"correct":true, "answer":"in its magnetic field"},
+    {"correct":false, "answer":"because it acts like a secondary cell "}
+  ]
+},
+{
+  "number":226,
+  "question":"Which of the following statements best describes this circuit IMG_NEEDED",
+  "answers": [
+    {"correct":true, "answer":"the capacitance and inductance together form a parallel tuned circuit"},
+    {"correct":false, "answer":"the circuit will not work because the coil of wire will short out the capacitor"},
+    {"correct":false, "answer":"the battery will discharge through the inductor"},
+    {"correct":false, "answer":"it is a series tuned circuit"}
+  ]
+},
+{
+  "number":227,
+  "question":"In a tuned circuit the energy in the capacitor and inductor can pass from one to another at a particular rate.  Which of the following statements is wrong.",
+  "answers": [
+    {"correct":false, "answer":"The particular rate is known as the resonant frequency "},
+    {"correct":false, "answer":"the rate depends on the values of the capacitor and the inductor  "},
+    {"correct":true, "answer":"in order to resonate the value of the capacitor (in Farads) has to equal the value of the inductor (in Henry’s)    "},
+    {"correct":false, "answer":"the reactance of the inductor equals that of the capacitor "}
+  ]
+},
+{
+  "number":228,
+  "question":"Which of the following pairs of statements are correct",
+  "answers": [
+    {"correct":false, "answer":"series tuned circuits tend to accept current, parallel tuned circuits tend to accept current "},
+    {"correct":true, "answer":"series tuned circuits tend to accept current, parallel tuned circuits tend to reject current"},
+    {"correct":false, "answer":"series tuned circuits tend to reject current, parallel tuned circuits tend to reject current"},
+    {"correct":false, "answer":"series tuned circuits tend to reject current, parallel tuned circuits tend to accept current"}
+  ]
+},
+{
+  "number":229,
+  "question":"A transformer is likely to consist of",
+  "answers": [
+    {"correct":false, "answer":"a number of diodes and a smoothing capacitor to convert AC to DC"},
+    {"correct":true, "answer":"two coils of wire on an iron former to concentrate the magnetic field "},
+    {"correct":false, "answer":"an inductor and a capacitor in series "},
+    {"correct":false, "answer":"a balanced mixer to transform a modulated rf carrier to a single sideband output "}
+  ]
+},
+{
+  "number":230,
+  "question":"A transformer can be used to",
+  "answers": [
+    {"correct":false, "answer":"reduce the voltage of a direct current"},
+    {"correct":false, "answer":"reduce the voltage of both a direct and an alternating current"},
+    {"correct":false, "answer":"convert alternating current to direct current"},
+    {"correct":true, "answer":"reduce the voltage of an alternating current "}
+  ]
+},
+{
+  "number":231,
+  "question":"In a mains transformer being used to power a transistor radio which of the following is true",
+  "answers": [
+    {"correct":true, "answer":"the primary coil will have more turns than the secondary coil"},
+    {"correct":false, "answer":"the two coils will have the same number of turns but the resistances will be different"},
+    {"correct":false, "answer":"the secondary coil will have more turns than the primary coil"},
+    {"correct":false, "answer":"the DC voltage from the transformer should be the same as that needed by the radio"}
+  ]
+},
+{
+  "number":232,
+  "question":"Which of the following statements is wrong",
+  "answers": [
+    {"correct":false, "answer":"a diode can be used for rectifying current"},
+    {"correct":false, "answer":"the voltage drop across a diode is about 0.6 volts"},
+    {"correct":true, "answer":"if a diode is connected the wrong way round it will explode"},
+    {"correct":false, "answer":"a diode has to be connected the right way round or it will not conduct"}
+  ]
+},
+{
+  "number":233,
+  "question":"In order to produce direct current from the alternating current leaving a transformer you could use",
+  "answers": [
+    {"correct":false, "answer":"a capacitor "},
+    {"correct":true, "answer":"a diode"},
+    {"correct":false, "answer":"a resistor "},
+    {"correct":false, "answer":"an inductor "}
+  ]
+},
+{
+  "number":234,
+  "question":"The following oscilloscope trace represents IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"the output of a crystal oscillator"},
+    {"correct":false, "answer":"interference from a car ignition system"},
+    {"correct":true, "answer":"the output from a half wave rectifier circuit before any smoothing"},
+    {"correct":false, "answer":"the output of a battery being switched on and off"}
+  ]
+},
+{
+  "number":235,
+  "question":"The following wave form shows the effect of IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"the output of a half wave rectifier but with a resistor placed in series with the diode which delays the drop in voltage "},
+    {"correct":true, "answer":"a capacitor placed across the output of a half wave rectifier to provide a smoothing effect"},
+    {"correct":false, "answer":"a capacitor in series with a half wave rectifier to provide a smoothing effect"},
+    {"correct":false, "answer":"an inductor placed in series with an AC voltage"}
+  ]
+},
+{
+  "number":236,
+  "question":"Which of the following statements about light emitting diodes (led) is NOT true",
+  "answers": [
+    {"correct":false, "answer":"it is made from a material that produces light when a direct current is passed"},
+    {"correct":false, "answer":"an led has to be connected the right way round"},
+    {"correct":false, "answer":"it is more reliable than a light bulb and uses less current"},
+    {"correct":true, "answer":"a resistor should be placed in parallel with the led to limit the current through it "}
+  ]
+},
+{
+  "number":237,
+  "question":"The capacitance of a variable capacitance diode can be varied by",
+  "answers": [
+    {"correct":false, "answer":"adjusting the current through it"},
+    {"correct":false, "answer":"carefully adjusting the screw on the top of the diode"},
+    {"correct":false, "answer":"altering the frequency of the current flowing through it"},
+    {"correct":true, "answer":"changing the applied potential difference"}
+  ]
+},
+{
+  "number":238,
+  "question":"A transistor is often used",
+  "answers": [
+    {"correct":true, "answer":"as an amplifier "},
+    {"correct":false, "answer":"as a rectifier"},
+    {"correct":false, "answer":"as a variable capacitance "},
+    {"correct":false, "answer":"for antenna matching "}
+  ]
+},
+{
+  "number":239,
+  "question":"Find meanings for (i) and (ii) to make the following statement correct.  In a transistor a small (i) current will control a larger (ii) current",
+  "answers": [
+    {"correct":false, "answer":"(i) collector (ii) base "},
+    {"correct":false, "answer":"(i) emitter (ii) collector"},
+    {"correct":true, "answer":"(i) base (ii) collector "},
+    {"correct":false, "answer":"(i) collector (ii) emitter "}
+  ]
+},
+{
+  "number":240,
+  "question":"If the base current in a transistor is large enough the transistor will act as a",
+  "answers": [
+    {"correct":false, "answer":"amplifier "},
+    {"correct":true, "answer":"switch"},
+    {"correct":false, "answer":"capacitor "},
+    {"correct":false, "answer":"oscillator "}
+  ]
+},
+{
+  "number":241,
+  "question":"In a transceiver you are likely to find a transistor being used",
+  "answers": [
+    {"correct":true, "answer":"in an oscillator to generate radio frequencies"},
+    {"correct":false, "answer":"as a demodulator to separate speech from a rf carrier"},
+    {"correct":false, "answer":"as a variable capacitance in a tuning circuit"},
+    {"correct":false, "answer":"in a filter circuit to prevent harmonics being radiated"}
+  ]
+},
+{
+  "number":242,
+  "question":"What is the following circuit IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"a variable frequency oscillator"},
+    {"correct":true, "answer":"a crystal controlled oscillator"},
+    {"correct":false, "answer":"a basic receiver"},
+    {"correct":false, "answer":"an LC tuned circuit"}
+  ]
+},
+{
+  "number":243,
+  "question":"Compare the following symbols and their possible descriptions. Which component is NOT drawn?nIMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"a transformer"},
+    {"correct":false, "answer":"a crystal"},
+    {"correct":true, "answer":"a variable capacitance diode"},
+    {"correct":false, "answer":"a FET"}
+  ]
+},
+{
+  "number":244,
+  "question":"You want to use a multimeter to measure an unknown voltage.  Before connecting it to the circuit which of the following ranges do you select",
+  "answers": [
+    {"correct":true, "answer":"1000 V"},
+    {"correct":false, "answer":"200 mV"},
+    {"correct":false, "answer":"10 A"},
+    {"correct":false, "answer":"200 MOhms"}
+  ]
+},
+{
+  "number":245,
+  "question":"When comparing digital and analogue meters which of the following statements is incorrect",
+  "answers": [
+    {"correct":false, "answer":"analogue meters are more difficult to read accurately "},
+    {"correct":false, "answer":"analogue meters are good for monitoring a changing voltage "},
+    {"correct":true, "answer":"digital meters are usually less accurate "},
+    {"correct":false, "answer":"it is usually less serious if you connect a digital meter the wrong way round "}
+  ]
+},
+{
+  "number":246,
+  "question":"The most important reason for ensuring that you always connect an analogue meter the right way round is",
+  "answers": [
+    {"correct":false, "answer":"to get the right reading "},
+    {"correct":false, "answer":"to avoid damaging the component you are measuring "},
+    {"correct":false, "answer":"to avoid upsetting the circuit you are measuring "},
+    {"correct":true, "answer":"to avoid damaging the meter "}
+  ]
+},
+{
+  "number":247,
+  "question":"If you want to measure the potential difference between two points in a circuit you should",
+  "answers": [
+    {"correct":false, "answer":"connect a voltmeter in series with the circuit "},
+    {"correct":false, "answer":"connect an ammeter in parallel with the two points "},
+    {"correct":false, "answer":"use the ohms range and connect between the two points "},
+    {"correct":true, "answer":"connect a voltmeter in parallel with the circuit "}
+  ]
+},
+{
+  "number":248,
+  "question":"You are told that in the following circuit 30 mA flows through R1 and that the voltage across R2 is 2 Volts What is the voltage across R3 and how much current flows through the Light Emitting Diode IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"4 Volts & 10 mA"},
+    {"correct":true, "answer":"2 Volts & 30 mA"},
+    {"correct":false, "answer":"1 Volt  & 20 mA"},
+    {"correct":false, "answer":"4 Volts & 30 mA"}
+  ]
+},
+{
+  "number":250,
+  "question":"In the following diagram of a cw transmitter what does the unlabeled block represent IMG_NEEDED",
+  "answers": [
+    {"correct":true, "answer":"an rf oscillator"},
+    {"correct":false, "answer":"a balance modulator"},
+    {"correct":false, "answer":"a buffer amplifier"},
+    {"correct":false, "answer":"an AF amplifier"}
+  ]
+},
+{
+  "number":251,
+  "question":"To produce a single side band signal in a transmitter it would be usual to",
+  "answers": [
+    {"correct":false, "answer":"modulate a carrier on the sideband frequency "},
+    {"correct":false, "answer":"use an am modulator and filter out the unwanted signals "},
+    {"correct":true, "answer":"use a balanced modulator to remove the carrier and filter out the unwanted sideband  "},
+    {"correct":false, "answer":"tune the power amplifier to amplify the wanted sideband "}
+  ]
+},
+{
+  "number":252,
+  "question":"Which of the following statements is NOT correct",
+  "answers": [
+    {"correct":false, "answer":"a crystal oscillator is more accurate than an LC oscillator but is not tuneable "},
+    {"correct":true, "answer":"an LC oscillator is tuneable and more stable than a crystal oscillator "},
+    {"correct":false, "answer":"crystal oscillators are less susceptible to drift "},
+    {"correct":false, "answer":"an LC oscillator requires both an inductance and a capacitance to function "}
+  ]
+},
+{
+  "number":253,
+  "question":"Which of the following statements is correct",
+  "answers": [
+    {"correct":true, "answer":"the resonant frequency of the LC tuned circuit in a variable frequency oscillator (vfo) sets the frequency of oscillation"},
+    {"correct":false, "answer":"the specification of the crystal in an LC tuned circuit sets the frequency of oscillation"},
+    {"correct":false, "answer":"the output frequency of a vfo is set by adjusting the low-pass filter"},
+    {"correct":false, "answer":"It is usual to tune the inductor when changing the output frequency of a vfo  "}
+  ]
+},
+{
+  "number":254,
+  "question":"If a variable frequency oscillator had been poorly constructed, had no screening enclosure and was powered by an unregulated supply your principal concern should be that",
+  "answers": [
+    {"correct":false, "answer":"the radio might not last long "},
+    {"correct":false, "answer":"it could be difficult to tune in other stations "},
+    {"correct":false, "answer":"radiation could leak from the radio "},
+    {"correct":true, "answer":"when transmitting your frequency could drift out of an amateur band "}
+  ]
+},
+{
+  "number":255,
+  "question":"Most modern radios use oscillators which are",
+  "answers": [
+    {"correct":false, "answer":"based upon a well constructed and properly shielded LC circuit"},
+    {"correct":false, "answer":"driven by a crystal "},
+    {"correct":true, "answer":"digital synthesisers and are very accurate"},
+    {"correct":false, "answer":"driven by a digital liquid crystal display"}
+  ]
+},
+{
+  "number":256,
+  "question":"If an rf signal at a frequency of 5 MHz was mixed with an audio signal at a frequency of 3,000 Hz in a conventional am modulator (i.e. not using a balanced mixer) the modulated output would contain signals at",
+  "answers": [
+    {"correct":false, "answer":"4.7 MHz, 5.3 MHz and 5 Mhz "},
+    {"correct":false, "answer":"4.7 Mhz and 5.3 MHz "},
+    {"correct":true, "answer":"4.997 MHz, 5.003 Mhz and 5 MHz "},
+    {"correct":false, "answer":"4.997 MHz, 5.003 Mhz "}
+  ]
+},
+{
+  "number":257,
+  "question":"When frequencies are mixed the two new frequencies are called",
+  "answers": [
+    {"correct":false, "answer":"side frequencies"},
+    {"correct":false, "answer":"modulation products"},
+    {"correct":true, "answer":"sum and difference frequencies"},
+    {"correct":false, "answer":"sidebands"}
+  ]
+},
+{
+  "number":258,
+  "question":"A radio signal that is Amplitude Modulated (am) contains",
+  "answers": [
+    {"correct":false, "answer":"either an upper or lower sideband depending on the setting of the radio "},
+    {"correct":false, "answer":"both an upper and lower sideband "},
+    {"correct":false, "answer":"just the carrier "},
+    {"correct":true, "answer":"the carrier and an upper and lower sideband "}
+  ]
+},
+{
+  "number":263,
+  "question":"Advantages of a single sideband transmission (ssb) over that of am do NOT include that",
+  "answers": [
+    {"correct":true, "answer":"an ssb transmission is easier to understand"},
+    {"correct":false, "answer":"the ssb transmission occupies less bandwidth"},
+    {"correct":false, "answer":"an ssb transmission is more efficient because it uses less power"},
+    {"correct":false, "answer":"in a crowded amateur band it is easier to hold an ssb QSO without interfering with neighbouring stations"}
+  ]
+},
+{
+  "number":259,
+  "question":"Which mode of transmission occupies least bandwidth and which most bandwidth",
+  "answers": [
+    {"correct":true, "answer":"cw and fm respectively"},
+    {"correct":false, "answer":"data and am respectively"},
+    {"correct":false, "answer":"ssb and am respectively"},
+    {"correct":false, "answer":"am and fm respectively"}
+  ]
+},
+{
+  "number":260,
+  "question":"In order to modulate the carrier, data transmissions often use",
+  "answers": [
+    {"correct":false, "answer":"morse code"},
+    {"correct":true, "answer":"two tones"},
+    {"correct":false, "answer":"pulses of different lengths"},
+    {"correct":false, "answer":"varying frequencies"}
+  ]
+},
+{
+  "number":269,
+  "question":"Frequency modulation in an oscillator is often generated by",
+  "answers": [
+    {"correct":false, "answer":"a Variable Frequency Oscillator"},
+    {"correct":false, "answer":"a crystal"},
+    {"correct":true, "answer":"a variable capacitance diode"},
+    {"correct":false, "answer":"an LC tuned circuit"}
+  ]
+},
+{
+  "number":294,
+  "question":"Excessive audio amplitude and excessive audio bandwidth can both cause",
+  "answers": [
+    {"correct":false, "answer":"damage to the microphone pre-amplifier"},
+    {"correct":false, "answer":"it to be difficult to receive the signal"},
+    {"correct":false, "answer":"interference to nearby television receivers "},
+    {"correct":true, "answer":"excessive bandwidth"}
+  ]
+},
+{
+  "number":317,
+  "question":"If the fundamental frequency of an oscillator is 4 MHz the third harmonic will occur at",
+  "answers": [
+    {"correct":false, "answer":"16 MHz"},
+    {"correct":true, "answer":"12 MHz"},
+    {"correct":false, "answer":"32 MHz"},
+    {"correct":false, "answer":"20 MHz"}
+  ]
+},
+{
+  "number":326,
+  "question":"Harmonics, if not properly filtered, can cause",
+  "answers": [
+    {"correct":false, "answer":"instability in the antenna"},
+    {"correct":false, "answer":"a distorted transmission"},
+    {"correct":false, "answer":"damage to the power amplifier"},
+    {"correct":true, "answer":"interference to another radio user or service "}
+  ]
+},
+{
+  "number":292,
+  "question":"The following diagram represents IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"the response of a high pass filter "},
+    {"correct":false, "answer":"the response of a band pass filter"},
+    {"correct":true, "answer":"the response of a low pass filter"},
+    {"correct":false, "answer":"the response of a notch filter"}
+  ]
+},
+{
+  "number":278,
+  "question":"The following diagram shows a carrier wave being modulated as the letter “C” is sent in morse code.  The very fast rise and fall time of the morse signal may cause IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"the wrong letters to be sent"},
+    {"correct":false, "answer":"difficulty in reading the morse"},
+    {"correct":false, "answer":"too fast a transmission"},
+    {"correct":true, "answer":"excessive bandwidth"}
+  ]
+},
+{
+  "number":305,
+  "question":"The blank box in the following diagram of a superhet receiver should be labelled IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"RF Amplifier"},
+    {"correct":true, "answer":"Demodulator"},
+    {"correct":false, "answer":"Power Amplifier"},
+    {"correct":false, "answer":"Low-pass Filter"}
+  ]
+},
+{
+  "number":273,
+  "question":"In a receiver the function of a demodulator is to",
+  "answers": [
+    {"correct":true, "answer":"recover the audio or data signal"},
+    {"correct":false, "answer":"filter out unwanted sidebands"},
+    {"correct":false, "answer":"amplify weak signals from the antenna"},
+    {"correct":false, "answer":"produce the sum and difference frequency of the rf and local oscillator"}
+  ]
+},
+{
+  "number":274,
+  "question":"In a superhet receiver a received rf signal at 7.1 MHz is mixed with a 6.6 MHz signal from the local oscillator. Which of the following will NOT be produced",
+  "answers": [
+    {"correct":false, "answer":"an intermediate frequency at 500 KHz "},
+    {"correct":true, "answer":"an audio cw tone at 500 Hz "},
+    {"correct":false, "answer":"an intermediate frequency at 13.7 MHz "},
+    {"correct":false, "answer":"an intermediate frequency at 0.5 MHz "}
+  ]
+},
+{
+  "number":275,
+  "question":"What is it in rf and i.f. amplifiers that selects the wanted signal",
+  "answers": [
+    {"correct":false, "answer":"a band pass filter "},
+    {"correct":true, "answer":"a tuned circuit "},
+    {"correct":false, "answer":"a notch filter "},
+    {"correct":false, "answer":"the local oscillator "}
+  ]
+},
+{
+  "number":276,
+  "question":"A beat frequency oscillator is often used to recover the audio for",
+  "answers": [
+    {"correct":false, "answer":"ssb signals "},
+    {"correct":false, "answer":"am signals "},
+    {"correct":false, "answer":"fm signals "},
+    {"correct":true, "answer":"cw signals "}
+  ]
+},
+{
+  "number":277,
+  "question":"A carrier insertion oscillator is used to recover the audio for",
+  "answers": [
+    {"correct":true, "answer":"ssb signals "},
+    {"correct":false, "answer":"am signals "},
+    {"correct":false, "answer":"fm signals "},
+    {"correct":false, "answer":"cw signals "}
+  ]
+},
+{
+  "number":279,
+  "question":"An antenna feeder made up of two parallel wires is generally called",
+  "answers": [
+    {"correct":false, "answer":"coax "},
+    {"correct":false, "answer":"television cable "},
+    {"correct":true, "answer":"balanced or twin feeder "},
+    {"correct":false, "answer":"parallel feeder cable "}
+  ]
+},
+{
+  "number":280,
+  "question":"In a balanced feeder which of the following is NOT true",
+  "answers": [
+    {"correct":false, "answer":"rf currents cause equal and opposite fields around the two conductors which cancel each other out"},
+    {"correct":false, "answer":"it is important to keep a balanced feeder away from walls or other objects so as not to create a short circuit"},
+    {"correct":false, "answer":"in a balanced feeder the spacing between the conductors is a deliberate part of the construction"},
+    {"correct":true, "answer":"it is important to keep a balanced feeder away from walls or other objects so as not to cause an imbalance that makes the feeder radiate rf energy"}
+  ]
+},
+{
+  "number":281,
+  "question":"The principal benefit of coax cable over that of twin feeder is",
+  "answers": [
+    {"correct":false, "answer":"it is easier to handle "},
+    {"correct":true, "answer":"the outer conductor acts as a screen so objects outside the coax have little or no effect on the rf signal "},
+    {"correct":false, "answer":"it has an impedance of 50 ohms which will match the output impedance of the radio "},
+    {"correct":false, "answer":"it is much easier to fit to a uhf plug "}
+  ]
+},
+{
+  "number":282,
+  "question":"A length of feeder has a certain loss. If you double the length of the feeder the loss will",
+  "answers": [
+    {"correct":false, "answer":"stay the same "},
+    {"correct":true, "answer":"double"},
+    {"correct":false, "answer":"increase fourfold "},
+    {"correct":false, "answer":"reduce slightly "}
+  ]
+},
+{
+  "number":261,
+  "question":"For a given length of feeder the losses in a twin feeder will be",
+  "answers": [
+    {"correct":true, "answer":"less than for coax "},
+    {"correct":false, "answer":"much greater than for coax "},
+    {"correct":false, "answer":"about the same but depend on frequency "},
+    {"correct":false, "answer":"slightly greater than for coax "}
+  ]
+},
+{
+  "number":284,
+  "question":"If the output from a transmitter is 30Watts and feeder losses are equivalent to 3db what is the power delivered to the antenna",
+  "answers": [
+    {"correct":false, "answer":"7.5 Watts "},
+    {"correct":false, "answer":"10 Watts"},
+    {"correct":true, "answer":"15 Watts "},
+    {"correct":false, "answer":"27 Watts "}
+  ]
+},
+{
+  "number":285,
+  "question":"Impedance can be thought of as a measure of",
+  "answers": [
+    {"correct":false, "answer":"d.c. resistance "},
+    {"correct":true, "answer":"a.c. resistance"},
+    {"correct":false, "answer":"antenna voltage "},
+    {"correct":false, "answer":"the effectiveness of a pair of headphones "}
+  ]
+},
+{
+  "number":286,
+  "question":"The characteristic impedance of a feeder is largely determined by",
+  "answers": [
+    {"correct":false, "answer":"the length of the wire "},
+    {"correct":false, "answer":"the purity of the copper in the wire"},
+    {"correct":true, "answer":"the diameter and spacing of the conductors "},
+    {"correct":false, "answer":"the resistance of the wire "}
+  ]
+},
+{
+  "number":287,
+  "question":"When used at its correct frequency a dipole can be expected to have a feed point impedance of approximately",
+  "answers": [
+    {"correct":false, "answer":"zero "},
+    {"correct":false, "answer":"25 ohms"},
+    {"correct":true, "answer":"50 ohms "},
+    {"correct":false, "answer":"100 ohms "}
+  ]
+},
+{
+  "number":262,
+  "question":"If the impedance of an antenna does not match the impedance of the feeder some energy will be reflected back down the feeder.  This leads to standing waves which will",
+  "answers": [
+    {"correct":true, "answer":"affect the impedance presented to the transmitter causing a mismatch between the transmitter and the feeder "},
+    {"correct":false, "answer":"lead to losses in the feeder "},
+    {"correct":false, "answer":"alter the frequency being radiated from the antenna "},
+    {"correct":false, "answer":"cause a vibration in the antenna wire "}
+  ]
+},
+{
+  "number":289,
+  "question":"An antenna matching unit (sometimes referred to as an antenna tuning unit) is used to",
+  "answers": [
+    {"correct":false, "answer":"cancel out any standing waves in the antenna "},
+    {"correct":false, "answer":"help tune the antenna so that its resonant frequency is the same as the frequency of transmission"},
+    {"correct":false, "answer":"help resolve signals on adjacent frequencies "},
+    {"correct":true, "answer":"change the impedance presented to the transmitter "}
+  ]
+},
+{
+  "number":290,
+  "question":"The following polar diagram depicts the radiation pattern from a IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"yagi antenna"},
+    {"correct":false, "answer":"a full wave antenna"},
+    {"correct":false, "answer":"a loop antenna"},
+    {"correct":true, "answer":"a half wave dipole"}
+  ]
+},
+{
+  "number":291,
+  "question":"Assume that your radio puts out 50 Watts into a four element Yagi antenna with no feeder losses. If the antenna has a gain of 6dB in the direction in which it is pointing what is your effective radiated power in that direction",
+  "answers": [
+    {"correct":false, "answer":"300 Watts "},
+    {"correct":true, "answer":"200 Watts"},
+    {"correct":false, "answer":"100 Watts "},
+    {"correct":false, "answer":"56 Watts "}
+  ]
+},
+{
+  "number":264,
+  "question":"Working from the front, the elements of a three element yagi are known as",
+  "answers": [
+    {"correct":false, "answer":"director, beam, reflector "},
+    {"correct":false, "answer":"driven element, director, reflector "},
+    {"correct":true, "answer":"director, driven element, reflector "},
+    {"correct":false, "answer":"reflector, director, driven element "}
+  ]
+},
+{
+  "number":293,
+  "question":"Electromagnetic radiation comprises both a magnetic field and an electric field at right angles to each other. Which field defines the polarisation of the wave",
+  "answers": [
+    {"correct":false, "answer":"the magnetic field "},
+    {"correct":true, "answer":"the electric field"},
+    {"correct":false, "answer":"the polarisation of the wave is at right angles to both fields "},
+    {"correct":false, "answer":"neither, it depends on the direction of the aerial "}
+  ]
+},
+{
+  "number":265,
+  "question":"Why is it generally less important for hf antennas to be polarised the same way than it is for vhf and uhf antennas",
+  "answers": [
+    {"correct":false, "answer":"because hf antennas are usually much longer "},
+    {"correct":false, "answer":"because the gain of vhf and uhf aerials is normally that much greater "},
+    {"correct":true, "answer":"because at hf reflection in the ionosphere affects the polarisation and makes it less critical "},
+    {"correct":false, "answer":"because at the higher frequency there is much less demand on bandwidth "}
+  ]
+},
+{
+  "number":295,
+  "question":"You want to build a dummy load to conduct some tests on your transmitter. What should you NOT do",
+  "answers": [
+    {"correct":true, "answer":"use adequately rated wire wound resistors of the correct value to produce a 50 Ohm load "},
+    {"correct":false, "answer":"ensure that the construction is adequately shielded"},
+    {"correct":false, "answer":"make sure that the load can handle your output power without getting too hot "},
+    {"correct":false, "answer":"use a number of carbon resistors in parallel "}
+  ]
+},
+{
+  "number":296,
+  "question":"Ionisation of the D, E and F layers is caused mainly by",
+  "answers": [
+    {"correct":false, "answer":"solar flares "},
+    {"correct":false, "answer":"infrared radiation from the sun"},
+    {"correct":false, "answer":"solar flux "},
+    {"correct":true, "answer":"ultra violet rays from the sun "}
+  ]
+},
+{
+  "number":297,
+  "question":"The level of ionisation of the D, E and F layers is not affected by",
+  "answers": [
+    {"correct":false, "answer":"the time of day "},
+    {"correct":false, "answer":"sunspots"},
+    {"correct":false, "answer":"the time of the year "},
+    {"correct":true, "answer":"the phase of the moon "}
+  ]
+},
+{
+  "number":298,
+  "question":"The main mode of hf propagation is due to reflection from",
+  "answers": [
+    {"correct":false, "answer":"the D layer "},
+    {"correct":false, "answer":"sporadic E"},
+    {"correct":false, "answer":"high cirrus cloud "},
+    {"correct":true, "answer":"the F layer "}
+  ]
+},
+{
+  "number":299,
+  "question":"Which of the following statements is correct",
+  "answers": [
+    {"correct":true, "answer":"the skip zone is a dead area which lies beyond the range of ground wave up to the skip distance "},
+    {"correct":false, "answer":"stations within your skip distance should be able to hear you"},
+    {"correct":false, "answer":"ground waves will normally extend up to the point where sky waves are first received "},
+    {"correct":false, "answer":"A station located in a chalk pit will only be able to communicate by ground wave "}
+  ]
+},
+{
+  "number":300,
+  "question":"High atmospheric pressure and highly ionised areas in the E layer can",
+  "answers": [
+    {"correct":false, "answer":"cause radio blackouts and interference "},
+    {"correct":false, "answer":"cause ducting in the troposphere and reflection off the E layer giving greatly improved hf reception"},
+    {"correct":true, "answer":"extend the range of vhf and uhf signals beyond the normal line of sight "},
+    {"correct":false, "answer":"result in the vhf bands collapsing "}
+  ]
+},
+{
+  "number":301,
+  "question":"vhf and uhf signals",
+  "answers": [
+    {"correct":false, "answer":"are normally reflected by the E layer "},
+    {"correct":true, "answer":"normally pass through the ionosphere"},
+    {"correct":false, "answer":"will generally be absorbed by the D layer "},
+    {"correct":false, "answer":"can be reflected off the F layer "}
+  ]
+},
+{
+  "number":302,
+  "question":"uhf and higher frequency signals can be attenuated by",
+  "answers": [
+    {"correct":false, "answer":"regions of high atmospheric pressure "},
+    {"correct":true, "answer":"snow and ice"},
+    {"correct":false, "answer":"high winds "},
+    {"correct":false, "answer":"particle streams emitted by solar flares "}
+  ]
+},
+{
+  "number":303,
+  "question":"What will be the approximate wavelength of a 20 MHz radio transmission? Assume that the speed of light is 300,000,000 m/s.",
+  "answers": [
+    {"correct":false, "answer":"60 metres "},
+    {"correct":true, "answer":"15 metres"},
+    {"correct":false, "answer":"6.66 metres "},
+    {"correct":false, "answer":"6.0 cm "}
+  ]
+},
+{
+  "number":304,
+  "question":"The basic principle of electromagnetic compatibility is that",
+  "answers": [
+    {"correct":false, "answer":"all household electrical equipment should be capable of running on the same mains voltage "},
+    {"correct":false, "answer":"that radio waves generated on a particular frequency should be compatible with other radios tuned to the same frequency"},
+    {"correct":true, "answer":"equipment should limit radiation below a specified level and be able to withstand a certain level of incident radiation "},
+    {"correct":false, "answer":"transmissions from your station must not cause undue interference to other radio users "}
+  ]
+},
+{
+  "number":266,
+  "question":"In the context of the European EMC Directive you should be aware that",
+  "answers": [
+    {"correct":false, "answer":"your transmissions may be able to be overheard by other radio users "},
+    {"correct":false, "answer":"a separate rf earth is important to ensure that radio signals do not get into the mains supply "},
+    {"correct":false, "answer":"a poorly constructed radio may drift outside the amateur bands "},
+    {"correct":true, "answer":"your radio transmitter may give rise to fields stronger than the specified limits "}
+  ]
+},
+{
+  "number":306,
+  "question":"Your neighbour tells you that you are causing interference on his old black and white television set. You would be correct in advising him that",
+  "answers": [
+    {"correct":false, "answer":"At 50 Watts your transmissions are below the levels set out in the EMC regulations "},
+    {"correct":false, "answer":"You are not responsible for the interference because old sets are not covered by the EMC regulations but that if he fits ferrite rings to his aerial lead it may stop the interference"},
+    {"correct":false, "answer":"Your Licence allows you to transmit at 50 Watts and therefore you are doing nothing wrong "},
+    {"correct":true, "answer":"That a new television set is likely to be less affected because it will meet the EMC immunity standards "}
+  ]
+},
+{
+  "number":307,
+  "question":"If you are setting up your shack which of the following will NOT help minimise EMC problems",
+  "answers": [
+    {"correct":true, "answer":"when using a desk microphone make sure that it is not too close to the receiver's loud speaker so as to avoid feedback"},
+    {"correct":false, "answer":"keeping audio and rf leads apart"},
+    {"correct":false, "answer":"using good quality screened cable with correctly fitted plugs and sockets"},
+    {"correct":false, "answer":"make sure that you have a good rf earth"}
+  ]
+},
+{
+  "number":308,
+  "question":"A good way of helping prevent any rf energy from entering the mains wiring would be to",
+  "answers": [
+    {"correct":false, "answer":"use a power supply that is external to the radio "},
+    {"correct":false, "answer":"fit a mains filter on the rf output"},
+    {"correct":false, "answer":"keep your coax feeder away from any mains wiring "},
+    {"correct":true, "answer":"fit filters in the leads from the power supply to the radio "}
+  ]
+},
+{
+  "number":309,
+  "question":"Which of the following would NOT assist in make a good rf earth",
+  "answers": [
+    {"correct":true, "answer":"if possible by running a short earthing strap to the mains water supply "},
+    {"correct":false, "answer":"driving a copper rod into the ground"},
+    {"correct":false, "answer":"connecting a number of radials to your earthing rod "},
+    {"correct":false, "answer":"keeping the earth as close to the transmitter as possible "}
+  ]
+},
+{
+  "number":310,
+  "question":"What would be the most practical equipment to use to check for spurious and harmonic emissions from your station",
+  "answers": [
+    {"correct":false, "answer":"an oscilloscope "},
+    {"correct":false, "answer":"a spectrum analyser"},
+    {"correct":false, "answer":"a frequency meter "},
+    {"correct":true, "answer":"a general coverage receiver "}
+  ]
+},
+{
+  "number":311,
+  "question":"An antenna may give rise to EMC problems if",
+  "answers": [
+    {"correct":false, "answer":"not properly matched to the feeder by an appropriate balun "},
+    {"correct":true, "answer":"it is sited too close to television downleads or mains wiring"},
+    {"correct":false, "answer":"it is not earthed properly "},
+    {"correct":false, "answer":"it is too close to the ground "}
+  ]
+},
+{
+  "number":312,
+  "question":"Which of the following is NOT likely to be a symptom of interference caused by amateur radio",
+  "answers": [
+    {"correct":false, "answer":"distorted speech breaking through on a television speaker "},
+    {"correct":true, "answer":"wavy patterning on a digital television"},
+    {"correct":false, "answer":"distorted voice like sounds on telephones and music systems "},
+    {"correct":false, "answer":"jerky pictures on a television "}
+  ]
+},
+{
+  "number":313,
+  "question":"If your neighbour complains of occasional interference on his television but you are certain that you are not at fault which of the following is most likely to be the culprit",
+  "answers": [
+    {"correct":false, "answer":"a dirty mains supply "},
+    {"correct":false, "answer":"poor tuning of the television channel"},
+    {"correct":true, "answer":"a thermostat or central heating controller "},
+    {"correct":false, "answer":"pigeons on his television aerial "}
+  ]
+},
+{
+  "number":267,
+  "question":"Your are told that your transmissions can often be heard through your hi-fi speakers.  Which of the following symptoms would be indicative of direct pickup, i.e. being picked up within the hi-fi or the leads leading to it.",
+  "answers": [
+    {"correct":false, "answer":"the interference goes away when you turn your transmitter power down "},
+    {"correct":true, "answer":"both A.M. and ssb signals seem to cause similar interference "},
+    {"correct":false, "answer":"the interference doesn’t change much with a change of transmitted frequency "},
+    {"correct":false, "answer":"voices can sometimes be heard "}
+  ]
+},
+{
+  "number":315,
+  "question":"Masthead television amplifiers are often a cause of problems because",
+  "answers": [
+    {"correct":false, "answer":"they are subject to water ingress which can cause faults in the amplifier in wet weather"},
+    {"correct":false, "answer":"your transmissions can interfere with the operation of the amplifier"},
+    {"correct":false, "answer":"the amplifiers do not have any filtering so your transmissions will pass straight through the amplifier"},
+    {"correct":true, "answer":"they are often broadband amplifiers and will amplify your signal which can overload the television input stage"}
+  ]
+},
+{
+  "number":316,
+  "question":"Which of the following would be most likely to help prevent h.f. and vhf signals getting into your television and causing interference",
+  "answers": [
+    {"correct":false, "answer":"fitting a low pass filter on the television aerial down lead "},
+    {"correct":false, "answer":"making sure that you have a good rf earth"},
+    {"correct":true, "answer":"fitting a high pass filter on the television aerial down lead "},
+    {"correct":false, "answer":"making sure that the television is on a separate mains circuit to that of your transmitter "}
+  ]
+},
+{
+  "number":318,
+  "question":"Your are experiencing interference on your television and want to establish if the problem is due to unwanted rf being conducted out of the transmitter along its power supply leads and into the mains. A good suggestion would be to",
+  "answers": [
+    {"correct":false, "answer":"try unplugging the television"},
+    {"correct":true, "answer":"transmit into a dummy load"},
+    {"correct":false, "answer":"try different channels on the television"},
+    {"correct":false, "answer":"move your antenna further away from the house"}
+  ]
+},
+{
+  "number":268,
+  "question":"Your radio log can be of considerable assistance in confirming sources of interference to neighbours because",
+  "answers": [
+    {"correct":false, "answer":"it will prove that you were operating within your legal power limits "},
+    {"correct":false, "answer":"it shows the frequencies that you were operating on  "},
+    {"correct":false, "answer":"it will contain a record of checks carried out on your radio to ensure that you were not generating any spurious transmissions "},
+    {"correct":true, "answer":"it shows when you were on the air "}
+  ]
+},
+{
+  "number":319,
+  "question":"If a neighbour complains that you are causing interference on his television a sensible first step would be to",
+  "answers": [
+    {"correct":true, "answer":"ask him to keep a note of the times of any interference "},
+    {"correct":false, "answer":"suggest that he buys a digital television"},
+    {"correct":false, "answer":"consult the RSGB "},
+    {"correct":false, "answer":"fit ferrite rings to his antenna lead "}
+  ]
+},
+{
+  "number":320,
+  "question":"If you have an EMC problem with a neighbour",
+  "answers": [
+    {"correct":false, "answer":"tell your neighbour to speak to Ofcom "},
+    {"correct":true, "answer":"ask the RSGB’s EMC Committee for advice"},
+    {"correct":false, "answer":"stop transmitting until the problem has been resolved "},
+    {"correct":false, "answer":"tell your neighbour to get his television checked by a local service engineer "}
+  ]
+},
+{
+  "number":321,
+  "question":"Q codes that you are likely to meet include QRL, QRM, QRT and QSY. Which of the following is NOT one of the previous four",
+  "answers": [
+    {"correct":false, "answer":"change frequency "},
+    {"correct":false, "answer":"closing down my station"},
+    {"correct":true, "answer":"who is calling me "},
+    {"correct":false, "answer":"interference from other stations "}
+  ]
+},
+{
+  "number":322,
+  "question":"Abbreviations that you are likely to meet include CQ, DX, DE, UR and SIG. Which of the following is NOT one of the previous five",
+  "answers": [
+    {"correct":false, "answer":"long distance "},
+    {"correct":false, "answer":"signals"},
+    {"correct":true, "answer":"weather "},
+    {"correct":false, "answer":"from "}
+  ]
+},
+{
+  "number":323,
+  "question":"Which of the following does the RST code represent",
+  "answers": [
+    {"correct":false, "answer":"radio, sounds, transmission "},
+    {"correct":true, "answer":"readability, signal strength, tone"},
+    {"correct":false, "answer":"really, strong, transmission "},
+    {"correct":false, "answer":"readability, S-meter, timing (of morse signal) "}
+  ]
+},
+{
+  "number":324,
+  "question":"In talking about the relative operational advantages of cw, ssb and fm which of the following statements is incorrect",
+  "answers": [
+    {"correct":false, "answer":"fm has the shortage range "},
+    {"correct":false, "answer":"s.s.b uses less bandwidth than fm"},
+    {"correct":false, "answer":"cw has the narrowest bandwidth and greatest range for a given power "},
+    {"correct":true, "answer":"ssb offers the highest quality speech "}
+  ]
+},
+{
+  "number":325,
+  "question":"Which of the following modes would NOT normally be generated by using a personal computer and appropriate interface",
+  "answers": [
+    {"correct":true, "answer":"cw "},
+    {"correct":false, "answer":"RTTY"},
+    {"correct":false, "answer":"Slow Scan Television (SSTV) "},
+    {"correct":false, "answer":"Packet "}
+  ]
+},
+{
+  "number":249,
+  "question":"Which of the following would NOT help in finding out the location or address of a station with whom you have had a QSO",
+  "answers": [
+    {"correct":false, "answer":"the RSGB year book"},
+    {"correct":false, "answer":"a call sign database on the internet, e.g. qrz.com"},
+    {"correct":true, "answer":"The \"Lifetime Licence\" Document"},
+    {"correct":false, "answer":"a call book on cd-rom"}
+  ]
+},
+{
+  "number":327,
+  "question":"QSL cards may often be required",
+  "answers": [
+    {"correct":true, "answer":"for the issuance of awards "},
+    {"correct":false, "answer":"by Ofcom to confirm entries in a log book"},
+    {"correct":false, "answer":"the RSGB for confirming competition results "},
+    {"correct":false, "answer":"Ofcom in order to demonstrate that you have been exercising you licence privileges "}
+  ]
+},
+{
+  "number":328,
+  "question":"The international call sign prefixes for Canada, Australia and New Zealand are",
+  "answers": [
+    {"correct":false, "answer":"VK, VE and ZL respectively "},
+    {"correct":false, "answer":"VE, VK and NZ respectively"},
+    {"correct":true, "answer":"VE, VK and ZL respectively "},
+    {"correct":false, "answer":"VE, VH and NZ respectively "}
+  ]
+},
+{
+  "number":329,
+  "question":"Which of the following statements about amateur satellites is NOT true",
+  "answers": [
+    {"correct":true, "answer":"amateur satellites use a combination of frequencies (one for the up-link and one for the down link) known as modes with each frequency being in a different part of the same amateur band "},
+    {"correct":false, "answer":"when working through a satellite you should use the minimum power necessary to maintain effective communication"},
+    {"correct":false, "answer":"amateur satellites can only be used when they are above the horizon "},
+    {"correct":false, "answer":"the relative movement of the satellite can cause a variation in frequency on the received signal known as Doppler Shift "}
+  ]
+},
+{
+  "number":330,
+  "question":"It is important that a workbench should always be well ventilated because the fumes from soldering can cause",
+  "answers": [
+    {"correct":false, "answer":"irritation to the eyes "},
+    {"correct":true, "answer":"asthma"},
+    {"correct":false, "answer":"light headedness "},
+    {"correct":false, "answer":"a loss of concentration "}
+  ]
+},
+{
+  "number":331,
+  "question":"Of the following which is the most important. Care must be taken with hand tools to avoid",
+  "answers": [
+    {"correct":false, "answer":"damaging the workbench "},
+    {"correct":false, "answer":"damaging the circuit"},
+    {"correct":false, "answer":"losing them "},
+    {"correct":true, "answer":"cutting yourself "}
+  ]
+},
+{
+  "number":332,
+  "question":"It is most important that any item which is to be sawn or drilled should be",
+  "answers": [
+    {"correct":false, "answer":"marked carefully to ensure that it is cut or drilled in the right place"},
+    {"correct":false, "answer":"securely held to enable an accurate cut or hole to be made"},
+    {"correct":false, "answer":"securely held to ensure that the item doesn't slip and get damaged"},
+    {"correct":true, "answer":"securely held to ensure that the item doesn't slip or rotate and injure you"}
+  ]
+},
+{
+  "number":333,
+  "question":"To avoid injury it is most important that before starting to drill you ensure that",
+  "answers": [
+    {"correct":false, "answer":"the drill is in an upright position "},
+    {"correct":true, "answer":"the chuck key has been removed"},
+    {"correct":false, "answer":"the drill has been plugged in "},
+    {"correct":false, "answer":"you are standing on a rubber mat "}
+  ]
+},
+{
+  "number":334,
+  "question":"To stop the drill slipping when drilling holes in a piece of aluminium it is advisable to",
+  "answers": [
+    {"correct":false, "answer":"mark the holes with an indelible marker "},
+    {"correct":true, "answer":"first make a small indentation with a centre punch"},
+    {"correct":false, "answer":"hold the aluminium in a vice "},
+    {"correct":false, "answer":"make sure that the right size drill bit is being used "}
+  ]
+},
+{
+  "number":335,
+  "question":"The principal reason for wearing eye protection when drilling or sawing is to",
+  "answers": [
+    {"correct":false, "answer":"avoid poking yourself in the eye "},
+    {"correct":false, "answer":"in case the drill or saw breaks"},
+    {"correct":true, "answer":"to prevent any bits of metal or swarf which may be thrown up from getting in your eye "},
+    {"correct":false, "answer":"to comply with the workshop rules "}
+  ]
+},
+{
+  "number":336,
+  "question":"You have to drill some holes in a small aluminium box using a bench mounted pillar drill. Which of the following statements is NOT true",
+  "answers": [
+    {"correct":false, "answer":"when using a pillar drill the drill bit can only move vertically up and down and is less likely to slip off the work "},
+    {"correct":false, "answer":"the drill is less likely to suffer from shaking or wobble than would a hand drill"},
+    {"correct":true, "answer":"because the pillar drill has a firm surface on which to rest the box it is not necessary to clamp it down "},
+    {"correct":false, "answer":"a pillar drill is likely to drill a more accurate hole than a hand drill "}
+  ]
+},
+{
+  "number":337,
+  "question":"The correct angle for a ladder is",
+  "answers": [
+    {"correct":false, "answer":"4 : 1 (base to height) "},
+    {"correct":false, "answer":"3 : 1 (height to base)"},
+    {"correct":false, "answer":"4 : 1 (length of ladder to distance from the wall) "},
+    {"correct":true, "answer":"4 : 1 (height to base) "}
+  ]
+},
+{
+  "number":338,
+  "question":"To stop a ladder slipping it must be",
+  "answers": [
+    {"correct":false, "answer":"long enough to reach "},
+    {"correct":false, "answer":"in good condition"},
+    {"correct":false, "answer":"be tied to ground "},
+    {"correct":true, "answer":"secured at the top or held at the bottom by an adult "}
+  ]
+},
+{
+  "number":339,
+  "question":"It is important not to overreach at the top of a ladder because to do so can",
+  "answers": [
+    {"correct":true, "answer":"cause the ladder to slip or you to fall off "},
+    {"correct":false, "answer":"make it difficult to undertake the work"},
+    {"correct":false, "answer":"cause you to drop your tools "},
+    {"correct":false, "answer":"only leave you one hand to work with "}
+  ]
+},
+{
+  "number":340,
+  "question":"The following two items should be worn when working up a ladder or at height (and, in the case of the second, when others are working above you)",
+  "answers": [
+    {"correct":false, "answer":"warm clothing and stout shoes "},
+    {"correct":true, "answer":"a tool belt and a hard hat"},
+    {"correct":false, "answer":"a tool belt and eye protection "},
+    {"correct":false, "answer":"eye protection and a hard hat "}
+  ]
+},
+{
+  "number":341,
+  "question":"When erecting antennas or moving ladders it is vitally important to ensure that",
+  "answers": [
+    {"correct":true, "answer":"nothing can come into contact with overhead power lines "},
+    {"correct":false, "answer":"you have someone to help you"},
+    {"correct":false, "answer":"nothing can fall and damage your property "},
+    {"correct":false, "answer":"your neighbour is out "}
+  ]
+},
+{
+  "number":342,
+  "question":"You want to put a mains plug on a new power supply that you have purchased. You note from back of the power supply that at maximum output it is rated at 600 Watts from a 230 Volt supply. What fuse should you put into the 13 Amp plug.",
+  "answers": [
+    {"correct":false, "answer":"2 Amp "},
+    {"correct":true, "answer":"5 Amp"},
+    {"correct":false, "answer":"7 Amp "},
+    {"correct":false, "answer":"13 Amp "}
+  ]
+},
+{
+  "number":343,
+  "question":"In order to get the best possible protection against shock the electrical supply to your shack should",
+  "answers": [
+    {"correct":true, "answer":"include a residual current device "},
+    {"correct":false, "answer":"come from a dedicated circuit in your household fuse box (or consumer unit) protected by an appropriately sized fuse"},
+    {"correct":false, "answer":"come from a dedicated circuit in a modern fuse box (or consumer unit) which has an appropriately valued circuit breaker "},
+    {"correct":false, "answer":"include switches on all the mains sockets "}
+  ]
+},
+{
+  "number":344,
+  "question":"You want to undertake some repairs on a valve radio you have been experimenting with. You unplug the radio from the mains and carefully remove the casing. Before touching any components it is important that you should",
+  "answers": [
+    {"correct":false, "answer":"put one hand behind your back "},
+    {"correct":false, "answer":"disconnect the antenna"},
+    {"correct":true, "answer":"carefully make sure that any large capacitors are fully discharged "},
+    {"correct":false, "answer":"allow the radio to cool down "}
+  ]
+},
+{
+  "number":345,
+  "question":"The main health risk from electromagnetic radiation in or around the shack is",
+  "answers": [
+    {"correct":false, "answer":"cancer "},
+    {"correct":false, "answer":"electric shock"},
+    {"correct":true, "answer":"rf burns "},
+    {"correct":false, "answer":"none. There are no health risks as the maximum power levels used by radio amateurs are not high enough to do any damage "}
+  ]
+},
+{
+  "number":346,
+  "question":"If you are concerned about safe levels of rf radiation further information is available from",
+  "answers": [
+    {"correct":false, "answer":"the RSGB "},
+    {"correct":true, "answer":"government and international bodies (NRPB and ICNIRP)"},
+    {"correct":false, "answer":"Ofcom "},
+    {"correct":false, "answer":"your local radio club "}
+  ]
+},
+{
+  "number":347,
+  "question":"If you go to a club field day and are uncertain what equipment is working which of the following is likely to present most danger",
+  "answers": [
+    {"correct":true, "answer":"looking down wave guides or standing in front of high gain antennas "},
+    {"correct":false, "answer":"walking underneath hf antennas"},
+    {"correct":false, "answer":"standing too close to the portable generator "},
+    {"correct":false, "answer":"standing underneath a YAGI antenna "}
+  ]
+},
+{
+  "number":348,
+  "question":"When soldering what is the principle purpose of the flux which normally runs through the solder",
+  "answers": [
+    {"correct":false, "answer":"to help the solder melt "},
+    {"correct":false, "answer":"to keep the soldering iron clean"},
+    {"correct":false, "answer":"to help the solder stick to the wires "},
+    {"correct":true, "answer":"to help the solder flow and remove the layer of oxide on the surfaces to be joined "}
+  ]
+},
+{
+  "number":349,
+  "question":"Which of the following metals are hard to solder by normal means:",
+  "answers": [
+    {"correct":false, "answer":"tin "},
+    {"correct":false, "answer":"brass"},
+    {"correct":false, "answer":"copper "},
+    {"correct":true, "answer":"aluminium "}
+  ]
+},
+{
+  "number":350,
+  "question":"When soldering there are a number of reasons it is important to clean the tip and “tin” it before use.  Which of the following is NOT a valid reason",
+  "answers": [
+    {"correct":true, "answer":"to ensure the soldering iron has heated up properly "},
+    {"correct":false, "answer":"to remove traces of oxide"},
+    {"correct":false, "answer":"to improve the conduction of heat to the joint "},
+    {"correct":false, "answer":"to enable solder to flow on the tip of the iron "}
+  ]
+},
+{
+  "number":351,
+  "question":"There are a number of things to bear in mind when making a solder joint. Which of the following is NOT a valid concern?",
+  "answers": [
+    {"correct":false, "answer":"joints should be made reasonably quickly to avoid damaging the components "},
+    {"correct":false, "answer":"the solder should flow over both surfaces to be joined so as to avoid dry joints"},
+    {"correct":true, "answer":"if the flux starts to smoke the joint is too hot "},
+    {"correct":false, "answer":"the tip should ideally be placed in contact with both surfaces to be soldered "}
+  ]
+},
+{
+  "number":352,
+  "question":"A resistor has four colour bands; blue, red, yellow and gold. What is its value",
+  "answers": [
+    {"correct":false, "answer":"5.1 K, 10% tolerance "},
+    {"correct":true, "answer":"620 K, 5% tolerance"},
+    {"correct":false, "answer":"6.1 M, 10% tolerance "},
+    {"correct":false, "answer":"72 K, 5% tolerance "}
+  ]
+}
+]

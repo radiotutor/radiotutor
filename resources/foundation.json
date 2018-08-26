@@ -1,0 +1,3103 @@
+[
+{
+  "number":5030,
+  "question":"Which of the following is NOT a class of UK Amateur Radio Licence?",
+  "answers": [
+    {"correct":false, "answer":"Foundation"},
+    {"correct":true, "answer":"Novice"},
+    {"correct":false, "answer":"Intermediate"},
+    {"correct":false, "answer":"Full"}
+  ]
+},
+{
+  "number":5034,
+  "question":"Where can you NOT use your Foundation Licence?",
+  "answers": [
+    {"correct":false, "answer":"Isle of Man"},
+    {"correct":false, "answer":"Isle of Wight"},
+    {"correct":true, "answer":"Eire Ireland"},
+    {"correct":false, "answer":"Guernsey"}
+  ]
+},
+{
+  "number":5035,
+  "question":"What are the next obtainable Licences in sequential order after passing your Foundation Radio Communications Examination?",
+  "answers": [
+    {"correct":true, "answer":"Intermediate and Advanced"},
+    {"correct":false, "answer":"Novice and Full"},
+    {"correct":false, "answer":"Intermediate and Class A"},
+    {"correct":false, "answer":"Novice and General"}
+  ]
+},
+{
+  "number":5036,
+  "question":"You hold a Foundation Licence with callsign M6QRZ and you are intending to go on a two week holiday to France.  While there, you wish to use your portable hand-held radio.  What callsign should you use?",
+  "answers": [
+    {"correct":false, "answer":"F/M6QRZ"},
+    {"correct":false, "answer":"FR/M6QRZ"},
+    {"correct":false, "answer":"F6QRZ"},
+    {"correct":true, "answer":"It is not permitted under the terms of your licence"}
+  ]
+},
+{
+  "number":5038,
+  "question":"A Foundation Licensee callsign M6QRZ travels from Dover to Calais by ferry. While on board",
+  "answers": [
+    {"correct":false, "answer":"They are authorised to use their Radio Equipment during the voyage, providing that the ship is registered in a port of the United Kingdom, the Channel Islands or the Isle of Man."},
+    {"correct":false, "answer":"They are authorised to use their Radio Equipment upon seeking the permission of the ship's master."},
+    {"correct":true, "answer":"They are not authorised to use their Radio Equipment until they return to Dover, and have disembarked."},
+    {"correct":false, "answer":"They are authorised to operate their Radio Equipment upon seeking permission from Ofcom and the Ferry operators."}
+  ]
+},
+{
+  "number":5039,
+  "question":"The names in order of attainment of the three Amateur Radio licences in the UK are",
+  "answers": [
+    {"correct":false, "answer":"Foundation, Novice and Full"},
+    {"correct":false, "answer":"Novice, Intermediate and Advanced"},
+    {"correct":false, "answer":"Foundation, Intermediate and Class A"},
+    {"correct":true, "answer":"Foundation, Intermediate and Advanced/Full"}
+  ]
+},
+{
+  "number":5040,
+  "question":"Foundation Licensees shall ensure that they shall only use",
+  "answers": [
+    {"correct":true, "answer":"Equipment either standard Radio Equipment or commercially available kits which satisfy IR 2028"},
+    {"correct":false, "answer":"Equipment of personal design"},
+    {"correct":false, "answer":"Equipment of personal design which has been approved by the Regional Ofcom Office"},
+    {"correct":false, "answer":"Equipment which does not come in kit form"}
+  ]
+},
+{
+  "number":5042,
+  "question":"Foundation Licensees are only permitted to use",
+  "answers": [
+    {"correct":false, "answer":"Equipment which is not commercially available but still satisfies IR 2028"},
+    {"correct":false, "answer":"Equipment which is of personal design"},
+    {"correct":true, "answer":"Equipment which is commercially available either as pre-assembled or in kit form and satisfies IR 2028"},
+    {"correct":false, "answer":"Equipment which has been bought by an Advanced Class Licensee"}
+  ]
+},
+{
+  "number":5043,
+  "question":"The more advanced the class of UK Amateur Radio Licence",
+  "answers": [
+    {"correct":true, "answer":"The greater the facilities are for increased power output and the designing of equipment"},
+    {"correct":false, "answer":"The greater the facilities are for power output"},
+    {"correct":false, "answer":"The less leniency Ofcom will show in a case of contravention of the terms of the Licence"},
+    {"correct":false, "answer":"The greater the leniency Ofcom will show in a case of contravention of the terms of the Licence"}
+  ]
+},
+{
+  "number":5045,
+  "question":"Your callsign is M6QRZ. You are holidaying on the Isle of Wight, which of the following callsigns would you use?",
+  "answers": [
+    {"correct":false, "answer":"MV6QRZ"},
+    {"correct":false, "answer":"MW6QRZ"},
+    {"correct":false, "answer":"ME6QRZ"},
+    {"correct":true, "answer":"M6QRZ"}
+  ]
+},
+{
+  "number":5046,
+  "question":"You meet someone at a rally with the callsign MI6QRZ. Where are they from?",
+  "answers": [
+    {"correct":false, "answer":"Isle of Man"},
+    {"correct":false, "answer":"Isle of Skye"},
+    {"correct":true, "answer":"Northern Ireland"},
+    {"correct":false, "answer":"Wales"}
+  ]
+},
+{
+  "number":5047,
+  "question":"2E0QRZ travels to Scotland to visit his relatives. When in Scotland, his callsign would be?",
+  "answers": [
+    {"correct":true, "answer":"2M0QRZ"},
+    {"correct":false, "answer":"MM0QRZ"},
+    {"correct":false, "answer":"2E0QRZ/m"},
+    {"correct":false, "answer":"2W0QRZ"}
+  ]
+},
+{
+  "number":5048,
+  "question":"MW1QRZ travels to London for work, and uses their Radio whilst there. What callsign should he use?",
+  "answers": [
+    {"correct":false, "answer":"ME1QRZ"},
+    {"correct":true, "answer":"M1QRZ"},
+    {"correct":false, "answer":"MM1QRZ"},
+    {"correct":false, "answer":"G/MW1QRZ"}
+  ]
+},
+{
+  "number":5049,
+  "question":"Which of these is NOT operating from Guernsey?",
+  "answers": [
+    {"correct":false, "answer":"2U0QRZ"},
+    {"correct":false, "answer":"MU1QRZ"},
+    {"correct":false, "answer":"MU/F1QRZ"},
+    {"correct":true, "answer":"MM6QRZ"}
+  ]
+},
+{
+  "number":5050,
+  "question":"MJ6QRZ is operating from which island?",
+  "answers": [
+    {"correct":false, "answer":"Guernsey"},
+    {"correct":false, "answer":"Isle of Wight"},
+    {"correct":false, "answer":"Alderney"},
+    {"correct":true, "answer":"Jersey"}
+  ]
+},
+{
+  "number":5051,
+  "question":"While listening on HF you hear 4 callsigns. Which one was from the Isle of Man?",
+  "answers": [
+    {"correct":false, "answer":"F1QRZ"},
+    {"correct":false, "answer":"WA1QRZ"},
+    {"correct":true, "answer":"MD6QRZ"},
+    {"correct":false, "answer":"DL6QRZ"}
+  ]
+},
+{
+  "number":5052,
+  "question":"A Foundation Amateur Radio Licence permits the Licensee to transmit",
+  "answers": [
+    {"correct":false, "answer":"Only in the UK Region where it is licensed"},
+    {"correct":false, "answer":"Throughout the UK and the Crown Dependencies, including on their tidal and non-tidal waterways"},
+    {"correct":false, "answer":"In other countries, where bilateral agreements are in place between HM Government and the respective Foreign Governments"},
+    {"correct":true, "answer":"Only on the Territory and non-tidal waterways of England, Northern Ireland, Scotland, Wales, the Isle of Man and the Channel Islands"}
+  ]
+},
+{
+  "number":5053,
+  "question":"A Foundation Licensee (callsign MI6QRZ) travels to Cardiff from Belfast. While transmitting from Wales they must ensure",
+  "answers": [
+    {"correct":true, "answer":"They replace their usual Secondary Regional Identifier (I) in their callsign with the appropriate one (W)."},
+    {"correct":false, "answer":"They replace their usual Secondary Regional Identifier (I) in their callsign with the appropriate one (C)."},
+    {"correct":false, "answer":"They replace their usual Secondary Regional Identifier (I) in their callsign with the appropriate one (N)."},
+    {"correct":false, "answer":"They replace their usual Secondary Regional Identifier (I) in their callsign with the appropriate one (M)."}
+  ]
+},
+{
+  "number":5054,
+  "question":"A Foundation Licence is identifiable by",
+  "answers": [
+    {"correct":false, "answer":"Its 2*0 callsign (where * represents a Regional Secondary Identifier, if appropriate)"},
+    {"correct":true, "answer":"Its M*3/M*6 prefixed callsign (where * represents a Regional Secondary Identifier, if appropriate)"},
+    {"correct":false, "answer":"Its M*5 prefixed callsign (where * represents a Regional Secondary Identifier, if appropriate)"},
+    {"correct":false, "answer":"Its G*0 prefixed callsign (where * represents a Regional Secondary Identifier, if appropriate)"}
+  ]
+},
+{
+  "number":5055,
+  "question":"An Advanced (Full) Licensee is currently transmitting on 14.250MHz and calling &quot;CQ&quot;.  A Foreign station has trouble making out his callsign. Which of the following could it be?",
+  "answers": [
+    {"correct":false, "answer":"2J1QRZ"},
+    {"correct":true, "answer":"GI4QRZ"},
+    {"correct":false, "answer":"MU6QRZ"},
+    {"correct":false, "answer":"M3QRZ"}
+  ]
+},
+{
+  "number":5056,
+  "question":"The Licensee shall transmit the callsign associated with the Licence",
+  "answers": [
+    {"correct":false, "answer":"As is cited in the Licence Renewal Document accompanying BR68F"},
+    {"correct":false, "answer":"In truncated form until the station with whom the licensee wishes to communicate acknowledges"},
+    {"correct":false, "answer":"Solely using the International Radiotelephony Spelling Alphabet (Alpha, Bravo, Charlie etc.)"},
+    {"correct":true, "answer":"In full at all times, as shown in Section 1 of the Licence \"Terms, Conditions and Limitations\""}
+  ]
+},
+{
+  "number":5057,
+  "question":"The station callsign",
+  "answers": [
+    {"correct":true, "answer":"Must be transmitted in full as shown in the Licence \"Terms, Conditions and Limitations\" Booklet"},
+    {"correct":false, "answer":"Must be transmitted in both Morse Code and in the same type of communication as the contact"},
+    {"correct":false, "answer":"Is only to be transmitted in Morse Code, at a speed not lower than 12 words per minute"},
+    {"correct":false, "answer":"Is to be transmitted at regular intervals of  20 minutes"}
+  ]
+},
+{
+  "number":5058,
+  "question":"A Foundation licensee is transmitting on 3.740MHz. They change frequency to 14.230MHz.  They",
+  "answers": [
+    {"correct":false, "answer":"Are not required to transmit their callsign upon starting to transmit on 14.230MHz"},
+    {"correct":true, "answer":"Must immediately transmit  their callsign upon starting to transmit on 14.230MHz"},
+    {"correct":false, "answer":"Are required to transmit their callsign upon ceasing transmission on 3.740MHz and commencing transmission on 14.230MHz"},
+    {"correct":false, "answer":"Must transmit their callsign when the interval of transmitting it reaches 15 minutes"}
+  ]
+},
+{
+  "number":5059,
+  "question":"The Licensee must transmit the station callsign",
+  "answers": [
+    {"correct":false, "answer":"On a frequency not exceeding -/+500kHz either side of the original frequency used"},
+    {"correct":false, "answer":"On the assigned Standard Identification frequency of each frequency band"},
+    {"correct":true, "answer":"On the exact frequency used for the communication"},
+    {"correct":false, "answer":"On the exact frequency of communication, and in Morse code of 15 w.p.m at all times."}
+  ]
+},
+{
+  "number":5060,
+  "question":"During initial CQ calls, the Licensee must transmit",
+  "answers": [
+    {"correct":true, "answer":"The station callsign in full, as shown in the Terms, Conditions and Limitations booklet"},
+    {"correct":false, "answer":"The station callsign prefix, followed by Country designator and any territory designation"},
+    {"correct":false, "answer":"The station callsign in truncated form, comprising of \"6\" and 3 letter prefix"},
+    {"correct":false, "answer":"The station callsign, followed by a \"/foundation\" suffix"}
+  ]
+},
+{
+  "number":5061,
+  "question":"The Station callsign should be transmitted",
+  "answers": [
+    {"correct":false, "answer":"In full, at the beginning of communications, and at least once every 20 minutes when the period of communication is longer than 20 minutes"},
+    {"correct":true, "answer":"In full, at the beginning of communications, and at least once every 15 minutes when the period of communication is longer than 15 minutes"},
+    {"correct":false, "answer":"In full, at the beginning of communications, and at least once every 10 minutes when the period of communication is longer than 10 minutes"},
+    {"correct":false, "answer":"In full, at the beginning of communications, and at least once every 30 minutes when the period of communication is longer than 30 minutes"}
+  ]
+},
+{
+  "number":5062,
+  "question":"It is not permitted under the terms of the Foundation Licence (any any amendments) to",
+  "answers": [
+    {"correct":false, "answer":"Willfully not transmit the station callsign as is shown in BR68/F"},
+    {"correct":false, "answer":"Willfully withhold or transmit a false callsign which is not attributed to you (or the licensee)"},
+    {"correct":false, "answer":"Willfully encrypt the callsign so as to make it unintelligible to any person(s) listening"},
+    {"correct":true, "answer":"Willfully or unintentionally not transmit the station callsign as shown in section 1 of the Terms, Conditions and Limitations booklet"}
+  ]
+},
+{
+  "number":5063,
+  "question":"During periods of extended communication, the station callsign must be transmitted",
+  "answers": [
+    {"correct":false, "answer":"Every 10 minutes"},
+    {"correct":false, "answer":"At regular intervals, not exceeding 5 minutes"},
+    {"correct":true, "answer":"At regular intervals, not exceeding 15 minutes"},
+    {"correct":false, "answer":"Every 20 minutes"}
+  ]
+},
+{
+  "number":5064,
+  "question":"A Foundation Licensee identifies themselves via the GB3UL (Belfast) Repeater as &quot;6QRZ/A&quot;.  They should have identified themselves as",
+  "answers": [
+    {"correct":false, "answer":"GI6QRZ/A"},
+    {"correct":false, "answer":"M6QRZ/A"},
+    {"correct":true, "answer":"MI6QRZ/A"},
+    {"correct":false, "answer":"MI6QRZ/A/foundation"}
+  ]
+},
+{
+  "number":5065,
+  "question":"A Foundation Licensee must",
+  "answers": [
+    {"correct":false, "answer":"Identify their station using the callsign assigned to them, along with a \"/foundation\" suffix"},
+    {"correct":false, "answer":"Identify their station using the callsign only as is stipulated in Section 1 of the Licence Terms booklet"},
+    {"correct":false, "answer":"Identify their station using the callsign of a Full Licence under their supervision"},
+    {"correct":true, "answer":"Identify their station using the callsign stipulated in Section 1 and subject to the Section 2 of the Terms, Conditions and Limitations Booklet"}
+  ]
+},
+{
+  "number":5066,
+  "question":"A Licensee must identify his station with the callsign specified in the Licence",
+  "answers": [
+    {"correct":false, "answer":"At beginning of each contact"},
+    {"correct":false, "answer":"At the beginning and end of each contact"},
+    {"correct":true, "answer":"At the beginning and end of each contact, and every 15 minutes during the contact"},
+    {"correct":false, "answer":"At the beginning and end of each contact, and every 30 minutes during the contact"}
+  ]
+},
+{
+  "number":827,
+  "question":"You must transmit your callsign:",
+  "answers": [
+    {"correct":true, "answer":"when you call CQ"},
+    {"correct":false, "answer":"at the end of every over"},
+    {"correct":false, "answer":"ever 10 minutes"},
+    {"correct":false, "answer":"at least every 30 minutes"}
+  ]
+},
+{
+  "number":5067,
+  "question":"The Licence is obliged to",
+  "answers": [
+    {"correct":false, "answer":"Never send messages for general reception by other amateurs, unless a Notice of Variation (NoV) is granted by Ofcom for this purpose."},
+    {"correct":true, "answer":"Address messages only to amateurs with whom the licensee is in communication, with the exception of \"CQ\" calls, \"nets\" and via mailboxes/bulletin boards"},
+    {"correct":false, "answer":"Only send messages to other Amateurs licensed by Ofcom (i.e. from the UK, Channel Islands or Isle of Man)"},
+    {"correct":false, "answer":"only transmit messages for general reception when there exists a state of national emergency"}
+  ]
+},
+{
+  "number":5068,
+  "question":"The Licensee may transmit messages",
+  "answers": [
+    {"correct":true, "answer":"To other amateurs irrespective of country/nation or class of licence."},
+    {"correct":false, "answer":"To the Emergency Services"},
+    {"correct":false, "answer":"On behalf of the Civil Aviation Service"},
+    {"correct":false, "answer":"On Behalf of all radio services"}
+  ]
+},
+{
+  "number":5069,
+  "question":"Amateur Radio Licensees are permitted to transmit messages",
+  "answers": [
+    {"correct":true, "answer":"Only to other Radio Amateurs"},
+    {"correct":false, "answer":"Other Radio Amateurs and Police services"},
+    {"correct":false, "answer":"Other Radio Amateurs and the Defence Forces"},
+    {"correct":false, "answer":"No other person or group of persons"}
+  ]
+},
+{
+  "number":5070,
+  "question":"Messages may be transmitted",
+  "answers": [
+    {"correct":false, "answer":"For general reception"},
+    {"correct":true, "answer":"Only to other Amateurs with whom the licensee is in communication"},
+    {"correct":false, "answer":"For general reception by prior advertisement in not less than 3 national newspapers"},
+    {"correct":false, "answer":"For general reception by prior written permission from the Office of Communications"}
+  ]
+},
+{
+  "number":5071,
+  "question":"Complete the following: &quot;The Licensee may transmit messages...&quot;",
+  "answers": [
+    {"correct":true, "answer":"Specifically to other Amateur Licence holders"},
+    {"correct":false, "answer":"Which are general in nature and intended for general reception by Amateur Licence holders"},
+    {"correct":false, "answer":"Which are pecuniary in nature and intended for closed reception by other Radio service users"},
+    {"correct":false, "answer":"Which are grossly offensive, indecent, menacing or otherwise illegal in nature"}
+  ]
+},
+{
+  "number":5072,
+  "question":"Codes are permitted so long as",
+  "answers": [
+    {"correct":true, "answer":"They do not willfully encrypt the meaning of the message so as to render the message unintelligible to any other person(s) listening to the transmission"},
+    {"correct":false, "answer":"They are the \"Q\" Codes"},
+    {"correct":false, "answer":"They are only used when transmissions are made using Morse Code"},
+    {"correct":false, "answer":"They have been approved by Ofcom prior to their transmission."}
+  ]
+},
+{
+  "number":5073,
+  "question":"A Foundation Licensee may only use codes",
+  "answers": [
+    {"correct":false, "answer":"To encrypt the meaning of a message sent by wireless telegraphy"},
+    {"correct":false, "answer":"To aid in the transmission of a message, whilst not encrypting it so as to render it unintelligible to others listening"},
+    {"correct":false, "answer":"To aid in the transmission of encrypted disaster communications messages"},
+    {"correct":true, "answer":"To aid the transmission of communications, using standard, universally known abbreviations."}
+  ]
+},
+{
+  "number":5074,
+  "question":"&quot;Q&quot; Codes exist",
+  "answers": [
+    {"correct":false, "answer":"To be used solely when transmitting Morse Code"},
+    {"correct":true, "answer":"To facilitate communications by using standard abbreviations"},
+    {"correct":false, "answer":"To facilitate communications on Community Radio"},
+    {"correct":false, "answer":"To encrypt messages beyond intelligibility of a person/persons listening"}
+  ]
+},
+{
+  "number":5075,
+  "question":"Which of the following is false?",
+  "answers": [
+    {"correct":true, "answer":"Codes which are private between 2 licensees are permitted, providing Ofcom has been informed"},
+    {"correct":false, "answer":"Codes which aid communications, but do not encrypt the message beyond the intelligibility of others listening are permitted"},
+    {"correct":false, "answer":"Codes (including Morse Code and the Q Codes) are permitted for regular use"},
+    {"correct":false, "answer":"Messages intended for general reception are not permitted"}
+  ]
+},
+{
+  "number":5076,
+  "question":"Codes and abbreviations are",
+  "answers": [
+    {"correct":false, "answer":"Permitted so long as they do not confuse the message between the 2 (or more) in communication"},
+    {"correct":true, "answer":"Permitted so long as they do not confuse the meaning of message for others listening"},
+    {"correct":false, "answer":"Permitted so long as Ofcom have approved them"},
+    {"correct":false, "answer":"Permitted so long as they are publicly published, on instruction of Ofcom"}
+  ]
+},
+{
+  "number":1000,
+  "question":"In amateur radio jargon ‘73’ means:",
+  "answers": [
+    {"correct":false, "answer":"your signals are readable"},
+    {"correct":true, "answer":"best wishes"},
+    {"correct":false, "answer":"please stop transmitting"},
+    {"correct":false, "answer":"please change frequency by 73kHz"}
+  ]
+},
+{
+  "number":5077,
+  "question":"Amateurs may",
+  "answers": [
+    {"correct":false, "answer":"Use their radio equipment for political purposes"},
+    {"correct":false, "answer":"Use their radio equipment to broadcast music"},
+    {"correct":true, "answer":"Not broadcast messages intended for general reception of any kind (except for CQ calls)"},
+    {"correct":false, "answer":"Not broadcast messages, without obtaining the prior written permission of Ofcom"}
+  ]
+},
+{
+  "number":5078,
+  "question":"A Foundation Licensee is only permitted to broadcast",
+  "answers": [
+    {"correct":true, "answer":"CQ calls"},
+    {"correct":false, "answer":"Flood warnings on behalf of the Emergency Services"},
+    {"correct":false, "answer":"Party Political information in the 14 days prior to a General Election"},
+    {"correct":false, "answer":"A regular community based news service"}
+  ]
+},
+{
+  "number":5079,
+  "question":"Radio Amateurs are allowed to broadcast",
+  "answers": [
+    {"correct":false, "answer":"Music they have written, performed and recorded themselves"},
+    {"correct":true, "answer":"CQ calls"},
+    {"correct":false, "answer":"News for other radio service users"},
+    {"correct":false, "answer":"Providing it does not cause undue interference"}
+  ]
+},
+{
+  "number":5080,
+  "question":"Calling CQ, and communicating via bulletin boards/mailboxes and &quot;nets&quot; are",
+  "answers": [
+    {"correct":false, "answer":"The solely permitted activities of a Foundation Licensee"},
+    {"correct":false, "answer":"permitted, so long as the Licensee has obtained the prior written permission of Ofcom"},
+    {"correct":true, "answer":"The only 2 things Foundation Licensees are permitted to do, in terms of addressing general messages"},
+    {"correct":false, "answer":"Not permitted for Foundation Licensees"}
+  ]
+},
+{
+  "number":5081,
+  "question":"If an Advanced Licensee (M0QRZ) wishes to use your Radio Equipment using their Licence, they are bound by",
+  "answers": [
+    {"correct":true, "answer":"The terms of their own licence"},
+    {"correct":false, "answer":"The terms of your licence"},
+    {"correct":false, "answer":"Modified terms of their licence"},
+    {"correct":false, "answer":"Modified terms of your licence"}
+  ]
+},
+{
+  "number":5082,
+  "question":"Which of the following statements is false?",
+  "answers": [
+    {"correct":false, "answer":"The Foundation Licence allows the Licensee to pass or permit the passage of messages on behalf of/by User Services"},
+    {"correct":true, "answer":"The Foundation Licence does not allow the Licensee to pass or permit the passage of messages on behalf of/by User Services"},
+    {"correct":false, "answer":"Permission to pass messages on behalf of User Services is granted to all UK Amateur Licence Classes"},
+    {"correct":false, "answer":"The Foundation Licence has the same terms, as the Intermediate and Advanced Licences in terms of User Service usage of Radio Equipment"}
+  ]
+},
+{
+  "number":5083,
+  "question":"If a Foundation Licensee is a member of an Amateur Radio Club/Society they are permitted to transmit the club/society's callsign and associated licence privileges",
+  "answers": [
+    {"correct":false, "answer":"Without the need to be supervised at all"},
+    {"correct":false, "answer":"Until such times as they receive the written permission of the Licence holder"},
+    {"correct":true, "answer":"Under supervision from an Advanced class licensee"},
+    {"correct":false, "answer":"When they upgrade their licence to an Intermediate one"}
+  ]
+},
+{
+  "number":5084,
+  "question":"If a Foundation Licensee (M6QRZ) wishes to use the callsign of an Advanced Class licensee (M5QRZ)",
+  "answers": [
+    {"correct":true, "answer":"They are permitted to do so using the Advanced Licence terms, providing M5QRZ is directly supervising M6QRZ"},
+    {"correct":false, "answer":"They are not permitted to do so under any circumstances"},
+    {"correct":false, "answer":"They are permitted to use M5QRZ's Radio Equipment but not their callsign, until M6QRZ passes the Intermediate Exam"},
+    {"correct":false, "answer":"M6QRZ is permitted to use M5QRZ's Radio Equipment, under their Foundation Licence callsign, with additional power permissions"}
+  ]
+},
+{
+  "number":5085,
+  "question":"Foundation Licensees",
+  "answers": [
+    {"correct":false, "answer":"Are not permitted to pass/allow User Services to pass messages using their Radio Equipment"},
+    {"correct":false, "answer":"Are permitted to pass/allow User Services to pass messages using their Radio Equipment, only under the supervision of an Advanced licensee"},
+    {"correct":false, "answer":"Are not permitted to pass messages on behalf of User Services, but are permitted to allow members of User Services to use their Radio Equipment for the purposes of passing messages"},
+    {"correct":true, "answer":"Are permitted to pass/allow User Services to pass messages using their Radio Equipment"}
+  ]
+},
+{
+  "number":5197,
+  "question":"You should give immediate notice to Ofcom of any change of",
+  "answers": [
+    {"correct":true, "answer":"Your Station and/or Postal Addresses"},
+    {"correct":false, "answer":"Your Transmitting and Receiving equipment"},
+    {"correct":false, "answer":"Your marital status"},
+    {"correct":false, "answer":"The power output of your transceiver"}
+  ]
+},
+{
+  "number":5198,
+  "question":"When moving house, you must",
+  "answers": [
+    {"correct":false, "answer":"Inform Ofcom of the change of telephone number"},
+    {"correct":true, "answer":"Inform Ofcom of the change of station and mailing address"},
+    {"correct":false, "answer":"Inform Ofcom of the date of moving"},
+    {"correct":false, "answer":"Inform Ofcom of the new 6 digit grid reference of your new house"}
+  ]
+},
+{
+  "number":5199,
+  "question":"Ofcom must receive confirmation of validity of your licence details",
+  "answers": [
+    {"correct":false, "answer":"Every year, either in writing (using form Of346a) or via the Online Licensing Centre"},
+    {"correct":false, "answer":"Every two years, either in writing (using form Of346a) or via the Online Licensing Centre"},
+    {"correct":true, "answer":"Every five years, either in writing (using form Of346a) or via the Online Licensing Centre"},
+    {"correct":false, "answer":"Every ten years, either in writing (using form Of346a) or via the Online Licensing Centre"}
+  ]
+},
+{
+  "number":5200,
+  "question":"Unless your licence details are confirmed with Ofcom as being valid at least every ___ years, your licence will be revoked.",
+  "answers": [
+    {"correct":false, "answer":"2"},
+    {"correct":true, "answer":"5"},
+    {"correct":false, "answer":"15"},
+    {"correct":false, "answer":"20"}
+  ]
+},
+{
+  "number":5201,
+  "question":"Ofcom will revoke your licence without warning if",
+  "answers": [
+    {"correct":true, "answer":"You do not confirm the details on it as being valid at least every 5 years"},
+    {"correct":false, "answer":"You do not confirm the details on it as being valid at least every 2 years"},
+    {"correct":false, "answer":"You do not confirm the details on it as being valid at least every 18 months"},
+    {"correct":false, "answer":"You do not conform the details on it as being valid at least every 7 years"}
+  ]
+},
+{
+  "number":5202,
+  "question":"When moving house, you must notify Ofcom of the change of address and phone number",
+  "answers": [
+    {"correct":true, "answer":"Immediately"},
+    {"correct":false, "answer":"No later than 3 weeks after you moved"},
+    {"correct":false, "answer":"At least 2 weeks before you move"},
+    {"correct":false, "answer":"Up to 6 months after you move"}
+  ]
+},
+{
+  "number":5203,
+  "question":"You must notify Ofcom",
+  "answers": [
+    {"correct":true, "answer":"Of any changes to your postal and/or station address"},
+    {"correct":false, "answer":"Of any changes to your Radio Equipment"},
+    {"correct":false, "answer":"Of any changes to the power level you use whilst transmitting"},
+    {"correct":false, "answer":"Of any changes to the number of aerials (antennae) you possess."}
+  ]
+},
+{
+  "number":5204,
+  "question":"You must permit access to your Radio Equipment by",
+  "answers": [
+    {"correct":false, "answer":"A member of the local Police Constabulary"},
+    {"correct":true, "answer":"An individual duly authorised and acting on behalf of Ofcom"},
+    {"correct":false, "answer":"A member of HM Armed Forces"},
+    {"correct":false, "answer":"Any elected member of the local district council, devolved legislature or House of Commons"}
+  ]
+},
+{
+  "number":5205,
+  "question":"Which one of the following has the right to inspect your station?",
+  "answers": [
+    {"correct":false, "answer":"The Attorney General"},
+    {"correct":true, "answer":"Any person duly authorised and acting on behalf of Ofcom"},
+    {"correct":false, "answer":"A member of any UK (or Crown Dependency) Police Service of the rank Constable or above"},
+    {"correct":false, "answer":"A Civil Servant of HM Government or the Devolved Governments of the Nations"}
+  ]
+},
+{
+  "number":5206,
+  "question":"If a person duly authorised by Ofcom orders that you close down, modify or otherwise restrict your transmissions, the restrictions shall apply until such times as",
+  "answers": [
+    {"correct":false, "answer":"You pay a fine to your local Ofcom Office"},
+    {"correct":true, "answer":"You are notified in writing that the restrictions are no longer applicable"},
+    {"correct":false, "answer":"You upgrade to a higher class licence"},
+    {"correct":false, "answer":"You seek a judicial review of the restrictions at the United Kingdom Supreme Court"}
+  ]
+},
+{
+  "number":5207,
+  "question":"You must permit access to and inspection of your Radio Equipment by",
+  "answers": [
+    {"correct":false, "answer":"Any person duly authorised and acting on behalf of the Radiocommunications Agency"},
+    {"correct":false, "answer":"Any person duly authorised and acting on behalf of the Department of Trade and Industry"},
+    {"correct":true, "answer":"Any person duly authorised and acting on behalf of the Office of Communications"},
+    {"correct":false, "answer":"Any person duly authorised and acting on behalf of the Home Office"}
+  ]
+},
+{
+  "number":5208,
+  "question":"It is against the terms of the Licence to deny",
+  "answers": [
+    {"correct":false, "answer":"Anyone duly authorised by the local Police Constabulary to inspect your Radio Equipment"},
+    {"correct":false, "answer":"Anyone duly authorised by the local District Council to inspect your Radio Equipment"},
+    {"correct":false, "answer":"Anyone duly authorised by the Radiocommunications Agency to inspect your Radio Equipment."},
+    {"correct":true, "answer":"Anyone duly authorised by the Office of Communications to inspect your Radio Equipment"}
+  ]
+},
+{
+  "number":5209,
+  "question":"The obligation and right to inspect or otherwise order the restriction, ceasing or modification of transmissions from an Amateur Radio Station in the United Kingdom, is held by",
+  "answers": [
+    {"correct":false, "answer":"The Radiocommunications Agency"},
+    {"correct":false, "answer":"The Commission for Communications Regulation"},
+    {"correct":true, "answer":"The Office of Communications"},
+    {"correct":false, "answer":"The Department for Business, Innovation and Skills"}
+  ]
+},
+{
+  "number":5210,
+  "question":"Any Amateur Radio Licensee of the UK or the Crown Dependencies, shall make their station available for inspection",
+  "answers": [
+    {"correct":true, "answer":"Upon the request of any person acting on behalf of the Office of Communications"},
+    {"correct":false, "answer":"Upon the request of any person acting on behalf of the Department of Trade and Industry"},
+    {"correct":false, "answer":"Upon the request of any devolved legislature or Executive Agency thereof"},
+    {"correct":false, "answer":"Upon the request of a majority of the District/County Council sitting in plenary session"}
+  ]
+},
+{
+  "number":5211,
+  "question":"Sanctions imposed on a Licensee by Ofcom shall continue to be in force until",
+  "answers": [
+    {"correct":false, "answer":"The Licensee is notified in writing that they are to appear before a County Court"},
+    {"correct":true, "answer":"The Licensee is notified in writing that the sanctions/variation of the licence are no longer in force"},
+    {"correct":false, "answer":"The Licensee is notified in writing that they are to appear before the Executive Board of Ofcom"},
+    {"correct":false, "answer":"The Licensee is notified in writing of the outcome of the tests conducted on their Radio Equipment"}
+  ]
+},
+{
+  "number":5213,
+  "question":"The maximum permitted power on 145.300MHz is",
+  "answers": [
+    {"correct":true, "answer":"10dBW"},
+    {"correct":false, "answer":"7dBW"},
+    {"correct":false, "answer":"5dBW"},
+    {"correct":false, "answer":"1dBW"}
+  ]
+},
+{
+  "number":5214,
+  "question":"If a repeater’s output frequency is 145.7375MHz, on what frequency must you transmit?",
+  "answers": [
+    {"correct":false, "answer":"145.0375MHz"},
+    {"correct":true, "answer":"145.1375MHz"},
+    {"correct":false, "answer":"145.2375MHz"},
+    {"correct":false, "answer":"144.1375MHz"}
+  ]
+},
+{
+  "number":5215,
+  "question":"You hear a station calling CQ on 145.5000MHz and you wish to respond.  On what frequency must you transmit?",
+  "answers": [
+    {"correct":false, "answer":"144.9000MHz"},
+    {"correct":false, "answer":"144.5000MHz"},
+    {"correct":false, "answer":"146.1000MHz"},
+    {"correct":true, "answer":"145.5000MHz"}
+  ]
+},
+{
+  "number":5216,
+  "question":"You hear some Morse code being transmitted on 145.650MHz.  It is probably",
+  "answers": [
+    {"correct":false, "answer":"A maritime distress signal"},
+    {"correct":true, "answer":"A Repeater"},
+    {"correct":false, "answer":"Someone practising their sending of Morse Code"},
+    {"correct":false, "answer":"A Beacon"}
+  ]
+},
+{
+  "number":5217,
+  "question":"Which of the following is the most appropriate frequency to send slow Morse code?",
+  "answers": [
+    {"correct":false, "answer":"144.8250MHz"},
+    {"correct":true, "answer":"145.250MHz"},
+    {"correct":false, "answer":"144.800MHz"},
+    {"correct":false, "answer":"145.800MHz"}
+  ]
+},
+{
+  "number":5218,
+  "question":"The recommended power needed to establish communications on the 144-146MHz is",
+  "answers": [
+    {"correct":false, "answer":"10dBW"},
+    {"correct":false, "answer":"1W"},
+    {"correct":false, "answer":"5W"},
+    {"correct":true, "answer":"The lowest possible"}
+  ]
+},
+{
+  "number":5219,
+  "question":"Whilst scanning the 144-146MHz band, you hear a foreign station on 144.8375MHz. This is probably due to",
+  "answers": [
+    {"correct":true, "answer":"An Internet Gateway operating on this frequency"},
+    {"correct":false, "answer":"Tropospheric Propagation occuring"},
+    {"correct":false, "answer":"F-layer propagation occuring"},
+    {"correct":false, "answer":"The foreign station transmitting in close proximity to your station"}
+  ]
+},
+{
+  "number":5220,
+  "question":"The maximum permitted power on the 14MHz frequency band is",
+  "answers": [
+    {"correct":false, "answer":"17dBW"},
+    {"correct":true, "answer":"10dBW"},
+    {"correct":false, "answer":"22dBW"},
+    {"correct":false, "answer":"26dBW"}
+  ]
+},
+{
+  "number":5221,
+  "question":"The recommended power for transmitting on 14.250MHz is",
+  "answers": [
+    {"correct":false, "answer":"10W"},
+    {"correct":false, "answer":"17dBW"},
+    {"correct":true, "answer":"The least needed to establish and maintain communications (the maximum permitted or less)"},
+    {"correct":false, "answer":"22dBW"}
+  ]
+},
+{
+  "number":5222,
+  "question":"It is not recommended for Foundation licensees to transmit",
+  "answers": [
+    {"correct":true, "answer":"In the segment 14.099-14.101MHz"},
+    {"correct":false, "answer":"Above 14.300MHz"},
+    {"correct":false, "answer":"Below 14.060MHz"},
+    {"correct":false, "answer":"In the segment 14.112-14.125MHz"}
+  ]
+},
+{
+  "number":5223,
+  "question":"You start transmitting Morse code on 14.200MHz. This is",
+  "answers": [
+    {"correct":false, "answer":"Permitted, on the condition that the Morse code is at a speed not less than 30 words per minute"},
+    {"correct":false, "answer":"Not permitted under any circumstances"},
+    {"correct":false, "answer":"Not permitted, unless for “mayday” distress messages"},
+    {"correct":true, "answer":"Permitted, as it falls within the “all modes” section of the band plan, but not recommended"}
+  ]
+},
+{
+  "number":5224,
+  "question":"You hear an amateur station calling CQ on 14.370MHz and you wish to reply. You should",
+  "answers": [
+    {"correct":false, "answer":"Call them on that frequency and request that they change frequency to below 14.350MHz"},
+    {"correct":false, "answer":"Call them on that frequency and continue the contact there"},
+    {"correct":true, "answer":"Not respond, and ignore their call"},
+    {"correct":false, "answer":"Not respond immediately, but wait and see if someone else responds.  If nobody does, then you may call"}
+  ]
+},
+{
+  "number":5225,
+  "question":"You wish to call CQ using BPSK-31 on the 14,000kHz frequency band. Where is the most appropriate frequency/range of frequencies to transmit using BPSK-31?",
+  "answers": [
+    {"correct":false, "answer":"14.050MHz"},
+    {"correct":true, "answer":"14,070-14,089kHz"},
+    {"correct":false, "answer":"14.230MHz"},
+    {"correct":false, "answer":"14,240-14,260kHz"}
+  ]
+},
+{
+  "number":5226,
+  "question":"When taking part in a Morse code lesson on the 14,000kHz band, the best place where you should transmit the Morse code is on ____ kHz and read back the text received via SSB _____.",
+  "answers": [
+    {"correct":false, "answer":"14,055kHz; on 14,230kHz"},
+    {"correct":false, "answer":"14,045kHz; anywhere between 14,089-14,099kHz"},
+    {"correct":true, "answer":"14,055kHz; anywhere above 14,112kHz"},
+    {"correct":false, "answer":"14,050kHz; on 14,050kHz"}
+  ]
+},
+{
+  "number":5227,
+  "question":"During times of national/international emergency, you should not transmit on ______.",
+  "answers": [
+    {"correct":true, "answer":"14.300MHz"},
+    {"correct":false, "answer":"14.285MHz"},
+    {"correct":false, "answer":"14.050MHz"},
+    {"correct":false, "answer":"14.060MHz"}
+  ]
+},
+{
+  "number":5098,
+  "question":"Which of the following is a measure of the opposition to an electrical current?",
+  "answers": [
+    {"correct":false, "answer":"Volts"},
+    {"correct":false, "answer":"Amps"},
+    {"correct":true, "answer":"Ohms"},
+    {"correct":false, "answer":"Watts"}
+  ]
+},
+{
+  "number":5099,
+  "question":"Which of the following is a measure of &quot;electrical pressure&quot; or &quot;potential difference&quot;?",
+  "answers": [
+    {"correct":true, "answer":"Volts"},
+    {"correct":false, "answer":"Amps"},
+    {"correct":false, "answer":"Ohms"},
+    {"correct":false, "answer":"Watts"}
+  ]
+},
+{
+  "number":5100,
+  "question":"The units of electrical pressure, current and resistance are",
+  "answers": [
+    {"correct":false, "answer":"Watts, Volts and Ohms"},
+    {"correct":true, "answer":"Volts, Amps and Ohms"},
+    {"correct":false, "answer":"Volts, Amps and Watts"},
+    {"correct":false, "answer":"Hertz, Volts and Watts"}
+  ]
+},
+{
+  "number":5101,
+  "question":"1MW means:",
+  "answers": [
+    {"correct":false, "answer":"1 thousandth of a Watt"},
+    {"correct":false, "answer":"1 metric Watt"},
+    {"correct":false, "answer":"1 thousand Watts"},
+    {"correct":true, "answer":"1 million Watts"}
+  ]
+},
+{
+  "number":5102,
+  "question":"What is the unit of resistance?",
+  "answers": [
+    {"correct":false, "answer":"Watt"},
+    {"correct":false, "answer":"Volt"},
+    {"correct":false, "answer":"Amp"},
+    {"correct":true, "answer":"Ohm"}
+  ]
+},
+{
+  "number":5103,
+  "question":"Another way to express 1,500mV is:",
+  "answers": [
+    {"correct":false, "answer":"1,500mA"},
+    {"correct":true, "answer":"1.5V"},
+    {"correct":false, "answer":"1.5million A"},
+    {"correct":false, "answer":"15,000V"}
+  ]
+},
+{
+  "number":5104,
+  "question":"Which of the following is the greater?",
+  "answers": [
+    {"correct":false, "answer":"1mW"},
+    {"correct":false, "answer":"1W"},
+    {"correct":false, "answer":"1kW"},
+    {"correct":true, "answer":"1MW"}
+  ]
+},
+{
+  "number":5105,
+  "question":"&quot;A potential difference of 1 MV causes a current of 1 mA&quot; is another way of writing:",
+  "answers": [
+    {"correct":true, "answer":"A p.d. of one million volts causes a current of one thousandth of an amp"},
+    {"correct":false, "answer":"A p.d. of one thousandth of a volt causes a current of one million amps"},
+    {"correct":false, "answer":"A p.d. of one millionth of a volt causes a current of one million amps"},
+    {"correct":false, "answer":"None of the above"}
+  ]
+},
+{
+  "number":5106,
+  "question":"The Unit of Current is the",
+  "answers": [
+    {"correct":true, "answer":"Ampere"},
+    {"correct":false, "answer":"Hertz"},
+    {"correct":false, "answer":"Ampersand"},
+    {"correct":false, "answer":"Ampule"}
+  ]
+},
+{
+  "number":5107,
+  "question":"10MV is the equivalent of:",
+  "answers": [
+    {"correct":false, "answer":"10,000,000,000V"},
+    {"correct":false, "answer":"1,000V"},
+    {"correct":true, "answer":"10,000,000V"},
+    {"correct":false, "answer":"0.1V"}
+  ]
+},
+{
+  "number":5108,
+  "question":"Which of the following makes a good conductor",
+  "answers": [
+    {"correct":true, "answer":"Copper"},
+    {"correct":false, "answer":"Wood"},
+    {"correct":false, "answer":"Glass"},
+    {"correct":false, "answer":"Foam"}
+  ]
+},
+{
+  "number":5109,
+  "question":"Poor conductors stop electrons flowing efficiently. Which of the following shouldn't be used?",
+  "answers": [
+    {"correct":false, "answer":"Rubber"},
+    {"correct":false, "answer":"Ceramics"},
+    {"correct":true, "answer":"Brass"},
+    {"correct":false, "answer":"Plastic"}
+  ]
+},
+{
+  "number":5110,
+  "question":"When erecting a dipole what would be best to use for insulating the ends of the wires.",
+  "answers": [
+    {"correct":true, "answer":"Nylon rope"},
+    {"correct":false, "answer":"Ceramic"},
+    {"correct":false, "answer":"Glass"},
+    {"correct":false, "answer":"Carbon"}
+  ]
+},
+{
+  "number":5111,
+  "question":"Carbon can be considered as a conductor because",
+  "answers": [
+    {"correct":true, "answer":"It has mobile electrons within its structure"},
+    {"correct":false, "answer":"It is metallic"},
+    {"correct":false, "answer":"It can conduct via surface water"},
+    {"correct":false, "answer":"It is a metalloid"}
+  ]
+},
+{
+  "number":5112,
+  "question":"For making the elements of a wire dipole for 14.250MHz, which of the following is the most suitable?",
+  "answers": [
+    {"correct":false, "answer":"Solder"},
+    {"correct":true, "answer":"Hard-drawn copper wire"},
+    {"correct":false, "answer":"3 core mains cable"},
+    {"correct":false, "answer":"75 Ohm coaxial cable"}
+  ]
+},
+{
+  "number":5113,
+  "question":"Select the most appropriate answer",
+  "answers": [
+    {"correct":false, "answer":"A wet wooden stick can conduct electricity as the wood acts as a conductor"},
+    {"correct":false, "answer":"A wet wooden stick cannot conduct electricity as neither the wood nor the water can act as a conductor"},
+    {"correct":false, "answer":"A wet wooden stick can conduct electricity as the impurities in the wood acts as a conductor"},
+    {"correct":true, "answer":"A wet wooden stick can conduct electricity as the surface water acts as a conductor"}
+  ]
+},
+{
+  "number":5114,
+  "question":"Which of the following are all insulators?",
+  "answers": [
+    {"correct":false, "answer":"Wood, mica, ceramic, tungsten"},
+    {"correct":false, "answer":"Steel, wood, ceramic, latex"},
+    {"correct":true, "answer":"Glass, mahogany, ceramic, rubber"},
+    {"correct":false, "answer":"Ceramic, glass, copper, brass"}
+  ]
+},
+{
+  "number":5115,
+  "question":"A soldering iron draws 0.1 amps from the 230 volt mains. Its power consumption is:",
+  "answers": [
+    {"correct":false, "answer":"23 milliwatts"},
+    {"correct":false, "answer":"23 Megawatts"},
+    {"correct":true, "answer":"23 Watts"},
+    {"correct":false, "answer":"23 Volts"}
+  ]
+},
+{
+  "number":5116,
+  "question":"Joule's Law is the equation linking current, potential difference and power.  What is the standard equation of this law?",
+  "answers": [
+    {"correct":true, "answer":"P = I x V"},
+    {"correct":false, "answer":"P = I x (P/I)"},
+    {"correct":false, "answer":"V = I / P"},
+    {"correct":false, "answer":"I = V / P"}
+  ]
+},
+{
+  "number":5117,
+  "question":"A transmitter drawing 2 amps from a 12 volt supply is consuming how much power?",
+  "answers": [
+    {"correct":false, "answer":"6 watts"},
+    {"correct":false, "answer":"10 watts"},
+    {"correct":false, "answer":"14 watts"},
+    {"correct":true, "answer":"24 watts"}
+  ]
+},
+{
+  "number":5118,
+  "question":"A 12 volt mobile transceiver consumes 10 Watts on receive, and 100 Watts on transmit. Which one of the following fuses is appropriate?",
+  "answers": [
+    {"correct":false, "answer":"100mA"},
+    {"correct":false, "answer":"1A"},
+    {"correct":true, "answer":"10A"},
+    {"correct":false, "answer":"100A"}
+  ]
+},
+{
+  "number":5119,
+  "question":"The unit of power is:",
+  "answers": [
+    {"correct":false, "answer":"The Ohm"},
+    {"correct":true, "answer":"The Watt"},
+    {"correct":false, "answer":"The Wat"},
+    {"correct":false, "answer":"The Farad"}
+  ]
+},
+{
+  "number":5120,
+  "question":"What is the unit of power?",
+  "answers": [
+    {"correct":true, "answer":"Watt"},
+    {"correct":false, "answer":"Volt"},
+    {"correct":false, "answer":"Amp"},
+    {"correct":false, "answer":"Ohm"}
+  ]
+},
+{
+  "number":5121,
+  "question":"What is the current flowing through a 5W bulb in a circuit (rated at 13.8V)?",
+  "answers": [
+    {"correct":true, "answer":"362mA"},
+    {"correct":false, "answer":"362kA"},
+    {"correct":false, "answer":"362A"},
+    {"correct":false, "answer":"362MA"}
+  ]
+},
+{
+  "number":5122,
+  "question":"If you measure 100 volts across a 50O resistor, how much current will be flowing through it?",
+  "answers": [
+    {"correct":false, "answer":"0.5 A"},
+    {"correct":true, "answer":"2 A"},
+    {"correct":false, "answer":"100 A"},
+    {"correct":false, "answer":"5000 A"}
+  ]
+},
+{
+  "number":5123,
+  "question":"The Equation &quot;V= I x R&quot; is known as",
+  "answers": [
+    {"correct":false, "answer":"Murphy's Law"},
+    {"correct":false, "answer":"Boyle's Law"},
+    {"correct":true, "answer":"Ohm's Law"},
+    {"correct":false, "answer":"The Voltage-Current-Resistance Law"}
+  ]
+},
+{
+  "number":5124,
+  "question":"In a DC circuit what is the correct equation for &quot;I&quot;?",
+  "answers": [
+    {"correct":true, "answer":"I = V/R"},
+    {"correct":false, "answer":"I = R/V"},
+    {"correct":false, "answer":"I = VxR"},
+    {"correct":false, "answer":"I = V+R"}
+  ]
+},
+{
+  "number":5125,
+  "question":"If a bulb is passing 2 amps from a 10volt supply, what is its resistance?",
+  "answers": [
+    {"correct":false, "answer":"20 watts"},
+    {"correct":false, "answer":"20 ohms"},
+    {"correct":true, "answer":"5 ohms"},
+    {"correct":false, "answer":"5 watts"}
+  ]
+},
+{
+  "number":5126,
+  "question":"If the voltage is 2.2 (V) and the resistance is 0.5 (R) what is I",
+  "answers": [
+    {"correct":true, "answer":"4.4"},
+    {"correct":false, "answer":"1.1"},
+    {"correct":false, "answer":"0.5"},
+    {"correct":false, "answer":"5"}
+  ]
+},
+{
+  "number":5127,
+  "question":"A soldering iron draws 0.1 amps from the 230 volt mains. Its resistance is",
+  "answers": [
+    {"correct":false, "answer":"23 ohms"},
+    {"correct":false, "answer":"230 ohms"},
+    {"correct":true, "answer":"2300 ohms"},
+    {"correct":false, "answer":"23000 watts"}
+  ]
+},
+{
+  "number":5128,
+  "question":"The algebraic or circuit symbols of electrical pressure, current and resistance are",
+  "answers": [
+    {"correct":true, "answer":"V, I and R"},
+    {"correct":false, "answer":"V, A and R"},
+    {"correct":false, "answer":"W, I and O"},
+    {"correct":false, "answer":"V, A and O"}
+  ]
+},
+{
+  "number":5129,
+  "question":"A Battery provides what at its terminals",
+  "answers": [
+    {"correct":true, "answer":"Potential Difference"},
+    {"correct":false, "answer":"Juice"},
+    {"correct":false, "answer":"An odd number of quarks"},
+    {"correct":false, "answer":"Resistance"}
+  ]
+},
+{
+  "number":5130,
+  "question":"A Complete Circuit is needed to allow:",
+  "answers": [
+    {"correct":false, "answer":"The passage of water molecules"},
+    {"correct":false, "answer":"Transmission of radio waves"},
+    {"correct":true, "answer":"Current to flow"},
+    {"correct":false, "answer":"Your radio to work"}
+  ]
+},
+{
+  "number":5131,
+  "question":"To allow potential difference to flow from a battery you need",
+  "answers": [
+    {"correct":true, "answer":"A Complete Circuit"},
+    {"correct":false, "answer":"A long wire"},
+    {"correct":false, "answer":"2 or more batteries"},
+    {"correct":false, "answer":"a 13A fuse"}
+  ]
+},
+{
+  "number":5132,
+  "question":"In an electrical torch the voltage is produced by:",
+  "answers": [
+    {"correct":true, "answer":"the battery"},
+    {"correct":false, "answer":"the bulb"},
+    {"correct":false, "answer":"the switch"},
+    {"correct":false, "answer":"the connecting wires"}
+  ]
+},
+{
+  "number":5133,
+  "question":"Which one of the following statements is correct?",
+  "answers": [
+    {"correct":false, "answer":"A cell has several batteries and two poles"},
+    {"correct":false, "answer":"A battery has one cell and a north and a south pole"},
+    {"correct":true, "answer":"A battery consists of one or more cells and has a positive and a negative pole"},
+    {"correct":false, "answer":"A cell is a battery, and vice versa"}
+  ]
+},
+{
+  "number":5135,
+  "question":"A circuit is constructed using a 12V battery, 3 wires, a switch and a filament bulb, however when connected the bulb does not light.  The most probable cause is",
+  "answers": [
+    {"correct":true, "answer":"The filament of the bulb is broken, thus it does not provide a complete circuit"},
+    {"correct":false, "answer":"The wires are broken, thus it does provide a complete circuit"},
+    {"correct":false, "answer":"Neither the bulb nor the wires are of a suitable rating for the battery"},
+    {"correct":false, "answer":"The current \"ring\" configuration is not suitable."}
+  ]
+},
+{
+  "number":5136,
+  "question":"A complete circuit is needed in order to",
+  "answers": [
+    {"correct":false, "answer":"Allow water molecules to flow by osmosis"},
+    {"correct":false, "answer":"Allow ions to pass from one area to another"},
+    {"correct":true, "answer":"Allow electrons to flow, thus carrying the current"},
+    {"correct":false, "answer":"Inhibit the passage of quark-gluon plasma"}
+  ]
+},
+{
+  "number":5137,
+  "question":"If a battery is connected the wrong way round, which of the following would still work as expected?",
+  "answers": [
+    {"correct":false, "answer":"a transistor"},
+    {"correct":false, "answer":"a diode"},
+    {"correct":false, "answer":"a polarised capacitor"},
+    {"correct":true, "answer":"a bulb"}
+  ]
+},
+{
+  "number":5138,
+  "question":"Which of the following will work correctly if it is inserted incorrectly into an electronic circuit?",
+  "answers": [
+    {"correct":false, "answer":"Integrated circuit"},
+    {"correct":false, "answer":"Diode"},
+    {"correct":true, "answer":"Fuse"},
+    {"correct":false, "answer":"Electrolytic capacitor"}
+  ]
+},
+{
+  "number":5139,
+  "question":"An electrolytic capacitor was inserted incorrectly into an electronic circuit (with voltage applied). It",
+  "answers": [
+    {"correct":true, "answer":"Will not work, as it is damaged beyond repair"},
+    {"correct":false, "answer":"Will not work at the moment, but will do so after 4 hours have elapsed"},
+    {"correct":false, "answer":"Will work and function as normal without any problems"},
+    {"correct":false, "answer":"Will work but will need replaced sooner than would normally be expected"}
+  ]
+},
+{
+  "number":5140,
+  "question":"Along with a filament bulb, which of the following will work correctly if inserted incorrectly into a circuit?",
+  "answers": [
+    {"correct":false, "answer":"Integrated circuit"},
+    {"correct":false, "answer":"Light Emitting Diode"},
+    {"correct":true, "answer":"Resistor"},
+    {"correct":false, "answer":"Pentode valve"}
+  ]
+},
+{
+  "number":5142,
+  "question":"Which line best describes AC and DC?",
+  "answers": [
+    {"correct":false, "answer":"AC runs in one direction and DC runs in one direction"},
+    {"correct":true, "answer":"AC runs in alternating directions while DC runs in one direction"},
+    {"correct":false, "answer":"AC runs in alternating directions as does DC"},
+    {"correct":false, "answer":"AC runs in one direction and DC runs in Alternating directions"}
+  ]
+},
+{
+  "number":5143,
+  "question":"The Abbreviation DC stands for:",
+  "answers": [
+    {"correct":false, "answer":"Direct Connection"},
+    {"correct":true, "answer":"Direct Current"},
+    {"correct":false, "answer":"District Chief"},
+    {"correct":false, "answer":"Dance Class"}
+  ]
+},
+{
+  "number":5144,
+  "question":"Which of the following terms best describes alternating current?",
+  "answers": [
+    {"correct":false, "answer":"A constant flow in one direction"},
+    {"correct":false, "answer":"A constant flow in two directions"},
+    {"correct":true, "answer":"A flow constantly changing direction"},
+    {"correct":false, "answer":"A flow that switches on and off at 50Hz"}
+  ]
+},
+{
+  "number":5145,
+  "question":"An electrical current which changes polarity at a given frequency is known as:",
+  "answers": [
+    {"correct":false, "answer":"a standing wave"},
+    {"correct":false, "answer":"a direct current"},
+    {"correct":false, "answer":"a voltage"},
+    {"correct":true, "answer":"an alternating current"}
+  ]
+},
+{
+  "number":5146,
+  "question":"Domestic UK Mains Voltage is:",
+  "answers": [
+    {"correct":true, "answer":"230V AC"},
+    {"correct":false, "answer":"110V DC"},
+    {"correct":false, "answer":"230V DC"},
+    {"correct":false, "answer":"110V AC"}
+  ]
+},
+{
+  "number":5147,
+  "question":"An electrical current which flows in one direction only is known as:",
+  "answers": [
+    {"correct":false, "answer":"a standing wave"},
+    {"correct":true, "answer":"a direct current"},
+    {"correct":false, "answer":"a voltage"},
+    {"correct":false, "answer":"an alternating current"}
+  ]
+},
+{
+  "number":5148,
+  "question":"The following diagram shows a the circuit symbol of anIMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"Resistor"},
+    {"correct":true, "answer":"Fuse"},
+    {"correct":false, "answer":"Quartz Crystal"},
+    {"correct":false, "answer":"Capacitor"}
+  ]
+},
+{
+  "number":5149,
+  "question":"Identify the following symbols (in numerical order)n nIMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"Double pole double throw switch, speaker, cell, fuse"},
+    {"correct":false, "answer":"Single pole single throw switch, microphone, cell, resistor"},
+    {"correct":true, "answer":"Single pole single throw switch, speaker, cell, fuse"},
+    {"correct":false, "answer":"Single pole single throw switch, speaker, cell, resistor"}
+  ]
+},
+{
+  "number":5153,
+  "question":"Identify the following circuit symbols 1-4.nIMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"Earth, cell, microphone, speaker"},
+    {"correct":true, "answer":"Earth, battery, speaker, microphone"},
+    {"correct":false, "answer":"Power line, cell, microphone speaker"},
+    {"correct":false, "answer":"Power line, battery, speaker, microphone"}
+  ]
+},
+{
+  "number":5154,
+  "question":"Identify the following symbols in numerical ordernIMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"Aerial (antenna), microphone, lamp, battery"},
+    {"correct":false, "answer":"Aerial (antenna), speaker, LED, cell"},
+    {"correct":true, "answer":"Aerial (antenna), speaker, lamp, cell"},
+    {"correct":false, "answer":"Aerial (antenna), speaker, LED, battery"}
+  ]
+},
+{
+  "number":5156,
+  "question":"What is the minimum bandwidth for audio communications to take place",
+  "answers": [
+    {"correct":true, "answer":"2.7KHz"},
+    {"correct":false, "answer":"2.7Hz"},
+    {"correct":false, "answer":"2,700KHz"},
+    {"correct":false, "answer":"2.7MHz"}
+  ]
+},
+{
+  "number":5157,
+  "question":"Which control on a radio transceiver would you use to set the loudspeaker volume?",
+  "answers": [
+    {"correct":true, "answer":"AF gain"},
+    {"correct":false, "answer":"Squelch"},
+    {"correct":false, "answer":"Mode"},
+    {"correct":false, "answer":"Mic gain"}
+  ]
+},
+{
+  "number":5180,
+  "question":"Who are allocated the 88-107MHz band",
+  "answers": [
+    {"correct":false, "answer":"Police"},
+    {"correct":true, "answer":"Broadcasting"},
+    {"correct":false, "answer":"Amateurs"},
+    {"correct":false, "answer":"Maritime"}
+  ]
+},
+{
+  "number":5158,
+  "question":"AF stands for",
+  "answers": [
+    {"correct":false, "answer":"approximate frequency"},
+    {"correct":false, "answer":"axial frequency"},
+    {"correct":true, "answer":"audio frequency"},
+    {"correct":false, "answer":"annual fading"}
+  ]
+},
+{
+  "number":5159,
+  "question":"Sine waves are produced by",
+  "answers": [
+    {"correct":true, "answer":"oscillators"},
+    {"correct":false, "answer":"Sine writers"},
+    {"correct":false, "answer":"Square wave generators"},
+    {"correct":false, "answer":"Mismatched antennas"}
+  ]
+},
+{
+  "number":5160,
+  "question":"RF stands for:",
+  "answers": [
+    {"correct":false, "answer":"relative frequency"},
+    {"correct":false, "answer":"radiation frequency"},
+    {"correct":false, "answer":"radio fraternity"},
+    {"correct":true, "answer":"radio frequency"}
+  ]
+},
+{
+  "number":5161,
+  "question":"Frequency is measured in",
+  "answers": [
+    {"correct":false, "answer":"quick bursts"},
+    {"correct":true, "answer":"Hertz"},
+    {"correct":false, "answer":"Farads"},
+    {"correct":false, "answer":"Avis"}
+  ]
+},
+{
+  "number":5162,
+  "question":"Which of the following frequency ranges is considered sufficient for speech communication?",
+  "answers": [
+    {"correct":false, "answer":"30 - 300Hz"},
+    {"correct":true, "answer":"300Hz - 3kHz"},
+    {"correct":false, "answer":"3kHz - 30kHz"},
+    {"correct":false, "answer":"30kHz - 300kHz"}
+  ]
+},
+{
+  "number":5163,
+  "question":"Which of the following is the frequency of the range required for speech communication?",
+  "answers": [
+    {"correct":false, "answer":"50Hz"},
+    {"correct":false, "answer":"100Hz-15kHz"},
+    {"correct":true, "answer":"300Hz-3kHz"},
+    {"correct":false, "answer":"3MHz-30MHz"}
+  ]
+},
+{
+  "number":5164,
+  "question":"Which of the following is the frequency of the mains electricity supply?",
+  "answers": [
+    {"correct":true, "answer":"50Hz"},
+    {"correct":false, "answer":"100Hz-15kHz"},
+    {"correct":false, "answer":"300Hz-3kHz"},
+    {"correct":false, "answer":"3MHz-30MHz"}
+  ]
+},
+{
+  "number":5173,
+  "question":"The range required for voice communication is:",
+  "answers": [
+    {"correct":true, "answer":"100Hz - 15kHz"},
+    {"correct":true, "answer":"300Hz - 3kHz"},
+    {"correct":false, "answer":"3MHz - 30MHz"},
+    {"correct":false, "answer":"30MHz - 1GHz"}
+  ]
+},
+{
+  "number":5174,
+  "question":"The range of human hearing is approximately:",
+  "answers": [
+    {"correct":true, "answer":"100Hz   15kHz"},
+    {"correct":false, "answer":"300Hz   3kHz"},
+    {"correct":false, "answer":"73kHz   30MHz"},
+    {"correct":false, "answer":"30MHz   1GHz"}
+  ]
+},
+{
+  "number":5175,
+  "question":"Which of the following frequency ranges is considered sufficient to convey speech?",
+  "answers": [
+    {"correct":false, "answer":"30 - 300Hz."},
+    {"correct":true, "answer":"300Hz - 3kHz."},
+    {"correct":false, "answer":"3kHz - 30kHz."},
+    {"correct":false, "answer":"30kHz - 300kHz"}
+  ]
+},
+{
+  "number":5176,
+  "question":"The HF band range is:",
+  "answers": [
+    {"correct":false, "answer":"100Hz   15kHz"},
+    {"correct":false, "answer":"300Hz   3kHz"},
+    {"correct":true, "answer":"3MHz   30MHz"},
+    {"correct":false, "answer":"30MHz   1GHz"}
+  ]
+},
+{
+  "number":5177,
+  "question":"The VHF frequency band covers",
+  "answers": [
+    {"correct":false, "answer":"300kHz - 3MHz"},
+    {"correct":false, "answer":"3MHz - 30MHz"},
+    {"correct":true, "answer":"30MHz - 300MHz"},
+    {"correct":false, "answer":"300MHz - 3000MHz"}
+  ]
+},
+{
+  "number":5178,
+  "question":"Mains electricity is supplied at",
+  "answers": [
+    {"correct":false, "answer":"110volts AC"},
+    {"correct":false, "answer":"230volts DC"},
+    {"correct":true, "answer":"50Hz"},
+    {"correct":false, "answer":"50MHz"}
+  ]
+},
+{
+  "number":5179,
+  "question":"Different radio users are allocated:",
+  "answers": [
+    {"correct":false, "answer":"precise spot frequencies"},
+    {"correct":true, "answer":"bands of frequencies"},
+    {"correct":false, "answer":"frequencies not used by anyone else"},
+    {"correct":false, "answer":"frequencies that no one else wants"}
+  ]
+},
+{
+  "number":5181,
+  "question":"144-146MHz is the primary allocation for",
+  "answers": [
+    {"correct":true, "answer":"Amateurs"},
+    {"correct":false, "answer":"Local Council"},
+    {"correct":false, "answer":"Broadcasting"},
+    {"correct":false, "answer":"Police"}
+  ]
+},
+{
+  "number":5182,
+  "question":"The bands 156.000-158.525MHz and 160.600-160.975MHz are reserved for",
+  "answers": [
+    {"correct":true, "answer":"Marine communications (ship to shore, ship to ship and emergency/ coastguard communications)"},
+    {"correct":false, "answer":"Advanced licensees who have the permission of Ofcom to operate on tidal waterways"},
+    {"correct":false, "answer":"Ambulance and Fire &amp; Rescue Service communications"},
+    {"correct":false, "answer":"Aeroplane cockpit to Air Traffic Control communications"}
+  ]
+},
+{
+  "number":5185,
+  "question":"On which of the following bands do aeroplane pilots communicate with Air Traffic Control?",
+  "answers": [
+    {"correct":false, "answer":"108.000-117.975 MHz"},
+    {"correct":true, "answer":"117.975-137.000 MHz"},
+    {"correct":false, "answer":"138.000-144.000 MHz"},
+    {"correct":false, "answer":"158.525-160.600 MHz"}
+  ]
+},
+{
+  "number":5186,
+  "question":"On which band is it permitted to transmit music?",
+  "answers": [
+    {"correct":false, "answer":"146.000-149.900MHz"},
+    {"correct":false, "answer":"138.000-144.000MHz"},
+    {"correct":true, "answer":"087.500-108.000MHz"},
+    {"correct":false, "answer":"144.000-145.000MHz"}
+  ]
+},
+{
+  "number":5187,
+  "question":"If the frequency of a wave is increased, its wavelength",
+  "answers": [
+    {"correct":true, "answer":"decreases"},
+    {"correct":false, "answer":"increases"},
+    {"correct":false, "answer":"stays the same"},
+    {"correct":false, "answer":"varies randomly"}
+  ]
+},
+{
+  "number":5188,
+  "question":"Wavelength is represented by which Greek letter?",
+  "answers": [
+    {"correct":false, "answer":"u Mu"},
+    {"correct":false, "answer":"o Omega"},
+    {"correct":true, "answer":"l Lambda"},
+    {"correct":false, "answer":"a Alpha"}
+  ]
+},
+{
+  "number":5189,
+  "question":"If the frequency of a signal goes up, its wavelength",
+  "answers": [
+    {"correct":false, "answer":"goes up"},
+    {"correct":false, "answer":"stays the same"},
+    {"correct":true, "answer":"goes down"},
+    {"correct":false, "answer":"oscillates"}
+  ]
+},
+{
+  "number":5190,
+  "question":"If you're transmitting on 14.250MHz it is classed as",
+  "answers": [
+    {"correct":true, "answer":"20m"},
+    {"correct":false, "answer":"2m"},
+    {"correct":false, "answer":"70cms"},
+    {"correct":false, "answer":"160m"}
+  ]
+},
+{
+  "number":5191,
+  "question":"At VHF and UHF as the frequency increases",
+  "answers": [
+    {"correct":false, "answer":"the range increases"},
+    {"correct":true, "answer":"the range decreases"},
+    {"correct":false, "answer":"the range is the same"},
+    {"correct":false, "answer":"the range is unknown"}
+  ]
+},
+{
+  "number":5192,
+  "question":"A radio wave with a frequency of 300MHz has a wavelength of:",
+  "answers": [
+    {"correct":true, "answer":"1m"},
+    {"correct":false, "answer":"600m"},
+    {"correct":false, "answer":"9000m"},
+    {"correct":false, "answer":"300m/s"}
+  ]
+},
+{
+  "number":5193,
+  "question":"Which frequency band does the 50MHz (6m) Amateur Allocation sit in?",
+  "answers": [
+    {"correct":false, "answer":"LF"},
+    {"correct":false, "answer":"HF"},
+    {"correct":true, "answer":"VHF"},
+    {"correct":false, "answer":"UHF"}
+  ]
+},
+{
+  "number":5194,
+  "question":"What is the wavelength of a radio frequency of 3MHz?",
+  "answers": [
+    {"correct":true, "answer":"100m"},
+    {"correct":false, "answer":"60m"},
+    {"correct":false, "answer":"30m"},
+    {"correct":false, "answer":"5m"}
+  ]
+},
+{
+  "number":5195,
+  "question":"The Amateur 2m Band covers what area in MHz",
+  "answers": [
+    {"correct":true, "answer":"144MHz to 146MHz"},
+    {"correct":false, "answer":"14MHz to 14.345MHz"},
+    {"correct":false, "answer":"7MHz to 7.200MHz"},
+    {"correct":false, "answer":"18MHz"}
+  ]
+},
+{
+  "number":5196,
+  "question":"Use the graph to find the frequency corresponding to wavelength of 15 metres",
+  "answers": [
+    {"correct":false, "answer":"10MHz"},
+    {"correct":false, "answer":"15MHz"},
+    {"correct":true, "answer":"20MHz"},
+    {"correct":false, "answer":"25MHz"}
+  ]
+},
+{
+  "number":969,
+  "question":"A simple transmitter for audio would consist of",
+  "answers": [
+    {"correct":false, "answer":"A modulator and a power amplifier"},
+    {"correct":false, "answer":"an oscillator and a modulator"},
+    {"correct":false, "answer":"an oscillator and a power amplifier"},
+    {"correct":true, "answer":"an oscillator, a modulator and a power amplifier"}
+  ]
+},
+{
+  "number":976,
+  "question":"The power amplifier is normally connected to:",
+  "answers": [
+    {"correct":false, "answer":"the Morse key"},
+    {"correct":true, "answer":"the antenna"},
+    {"correct":false, "answer":"the RF generator"},
+    {"correct":false, "answer":"the mains"}
+  ]
+},
+{
+  "number":165,
+  "question":"Which of the following is the simplest kind of transmitter?",
+  "answers": [
+    {"correct":false, "answer":"SSB"},
+    {"correct":false, "answer":"FM"},
+    {"correct":true, "answer":"CW"},
+    {"correct":false, "answer":"AM"}
+  ]
+},
+{
+  "number":883,
+  "question":"The purpose of a rf oscillator is to:",
+  "answers": [
+    {"correct":false, "answer":"amplify the audio signal from the microphone"},
+    {"correct":false, "answer":"amplify the radio signal for transmission"},
+    {"correct":true, "answer":"generate a radio frequency signal"},
+    {"correct":false, "answer":"to superimpose the audio signal onto the radio frequency signal"}
+  ]
+},
+{
+  "number":942,
+  "question":"The frequency of a simple transmitter is defined by which stage?",
+  "answers": [
+    {"correct":false, "answer":"Audio stage."},
+    {"correct":false, "answer":"Modulator."},
+    {"correct":true, "answer":"Oscillator."},
+    {"correct":false, "answer":"RF Power Amplifier"}
+  ]
+},
+{
+  "number":925,
+  "question":"Which of the following transmitter blocks determines the frequency of the transmission?:",
+  "answers": [
+    {"correct":false, "answer":"Microphone amplifier"},
+    {"correct":true, "answer":"RF Generator/Oscillator"},
+    {"correct":false, "answer":"Modulator"},
+    {"correct":false, "answer":"Power Amplifier"}
+  ]
+},
+{
+  "number":970,
+  "question":"Which part of a transmitter sets its operating frequency:",
+  "answers": [
+    {"correct":true, "answer":"the RF generator"},
+    {"correct":false, "answer":"the buffer amplifier"},
+    {"correct":false, "answer":"the power supply"},
+    {"correct":false, "answer":"the low pass filter"}
+  ]
+},
+{
+  "number":160,
+  "question":"The frequency of a simple transmitter is defined by which stage?",
+  "answers": [
+    {"correct":false, "answer":"Audio stageWrong, the correct answer is \"Oscillator\""},
+    {"correct":false, "answer":"ModulatorWrong, the correct answer is \"Oscillator\""},
+    {"correct":true, "answer":"OscillatorCorrect"},
+    {"correct":false, "answer":"RF Power AmplifierWrong, the correct answer is \"Oscillator\""}
+  ]
+},
+{
+  "number":974,
+  "question":"Which of the following is not a speech mode?",
+  "answers": [
+    {"correct":false, "answer":"AM"},
+    {"correct":false, "answer":"FM"},
+    {"correct":false, "answer":"SSB"},
+    {"correct":true, "answer":"RTTY"}
+  ]
+},
+{
+  "number":973,
+  "question":"A modulator that changes the frequency of the transmission is known as:",
+  "answers": [
+    {"correct":false, "answer":"a balanced modulator"},
+    {"correct":false, "answer":"an amplitude modulator"},
+    {"correct":true, "answer":"a frequency modulator"},
+    {"correct":false, "answer":"an exam moderator"}
+  ]
+},
+{
+  "number":972,
+  "question":"The modulator stage:",
+  "answers": [
+    {"correct":false, "answer":"produces the carrier"},
+    {"correct":false, "answer":"amplifies the carrier"},
+    {"correct":true, "answer":"adds information to the carrier"},
+    {"correct":false, "answer":"cuts out interference"}
+  ]
+},
+{
+  "number":821,
+  "question":"The purpose of a modulator is to:",
+  "answers": [
+    {"correct":false, "answer":"amplify the audio signal from the microphone"},
+    {"correct":false, "answer":"amplify the radio signal for transmission"},
+    {"correct":false, "answer":"generate a radio frequency signal"},
+    {"correct":true, "answer":"to superimpose the audio signal onto the radio frequency signal"}
+  ]
+},
+{
+  "number":879,
+  "question":"The waveform shown above is:",
+  "answers": [
+    {"correct":false, "answer":"am"},
+    {"correct":true, "answer":"fm"},
+    {"correct":false, "answer":"ssb"},
+    {"correct":false, "answer":"cw"}
+  ]
+},
+{
+  "number":975,
+  "question":"The output power of a transmitter is mainly dependant on",
+  "answers": [
+    {"correct":false, "answer":"the frequency amplifier"},
+    {"correct":false, "answer":"the audio amplifier"},
+    {"correct":false, "answer":"the buffer amplifier"},
+    {"correct":true, "answer":"the power amplifier"}
+  ]
+},
+{
+  "number":5332,
+  "question":"The RF Power Amplifier:",
+  "answers": [
+    {"correct":true, "answer":"sets the level of ouput power for the transmitter"},
+    {"correct":false, "answer":"modulates the waves produced within the transmitter"},
+    {"correct":false, "answer":"converts the RF signal into AF signal so it can be heard through the loudspeaker"},
+    {"correct":false, "answer":"changes the impedance of the transmitter to match that of the feeder-antenna system"}
+  ]
+},
+{
+  "number":977,
+  "question":"If the power amplifier does not work into a correctly matched load:",
+  "answers": [
+    {"correct":false, "answer":"it will not work"},
+    {"correct":true, "answer":"it may be damaged"},
+    {"correct":false, "answer":"it will produce harmonics"},
+    {"correct":false, "answer":"it will modulate"}
+  ]
+},
+{
+  "number":5333,
+  "question":"The RF power amplifier can be damaged",
+  "answers": [
+    {"correct":true, "answer":"If the antenna system is not matched correctly to the transceiver"},
+    {"correct":false, "answer":"If the licensee transmits beyond their licence terms and conditions."},
+    {"correct":false, "answer":"If less than 10W are used to transmit"},
+    {"correct":false, "answer":"If a suitably qualified person performs work to reduce carbon emissions from the transceiver"}
+  ]
+},
+{
+  "number":978,
+  "question":"Too much audio (mic) gain will cause a transmitter to:",
+  "answers": [
+    {"correct":false, "answer":"stop working"},
+    {"correct":false, "answer":"cause interference on other bands"},
+    {"correct":true, "answer":"cause interference on adjacent channels"},
+    {"correct":false, "answer":"explode"}
+  ]
+},
+{
+  "number":5334,
+  "question":"Adjacent channels can suffer interference",
+  "answers": [
+    {"correct":true, "answer":"Due to excessive frequency deviation"},
+    {"correct":false, "answer":"Due to precipitation on the feeder-antenna system"},
+    {"correct":false, "answer":"Due to too much background noise in the room in which the transmitter is located"},
+    {"correct":false, "answer":"Due to faulty earthing of the premises"}
+  ]
+},
+{
+  "number":979,
+  "question":"A simple receiver would consist of:",
+  "answers": [
+    {"correct":false, "answer":"a detector"},
+    {"correct":false, "answer":"a detector and an audio amplifier"},
+    {"correct":true, "answer":"a tuned circuit, a detector and an audio amplifier"},
+    {"correct":false, "answer":"an antenna and a pair of headphones"}
+  ]
+},
+{
+  "number":981,
+  "question":"Which receiver stage would normally be connected to the loudspeaker:",
+  "answers": [
+    {"correct":false, "answer":"the tuning stage"},
+    {"correct":false, "answer":"the detector"},
+    {"correct":false, "answer":"the RF amp"},
+    {"correct":true, "answer":"the AF amp"}
+  ]
+},
+{
+  "number":858,
+  "question":"In the receiver shown above tuning and rf amplification occur in which stage? IMG_NEEDED",
+  "answers": [
+    {"correct":true, "answer":"1"},
+    {"correct":false, "answer":"2"},
+    {"correct":false, "answer":"3"},
+    {"correct":false, "answer":"4"}
+  ]
+},
+{
+  "number":173,
+  "question":"Which one of the following would not be found in a receiver?",
+  "answers": [
+    {"correct":false, "answer":"Audio amplifier."},
+    {"correct":false, "answer":"Tuning and RF amplifier."},
+    {"correct":false, "answer":"Detection (demodulation)."},
+    {"correct":true, "answer":"RF Power Amplifier."}
+  ]
+},
+{
+  "number":842,
+  "question":"Setting the mode switch of a receiver will select:",
+  "answers": [
+    {"correct":false, "answer":"the rf tuning circuits"},
+    {"correct":true, "answer":"the type of detector"},
+    {"correct":false, "answer":"the type of audio amplifier"},
+    {"correct":false, "answer":"headphones or loudspeaker"}
+  ]
+},
+{
+  "number":5320,
+  "question":"Where in a receiver is the tuning carried out?nIMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"A"},
+    {"correct":true, "answer":"B"},
+    {"correct":false, "answer":"C"},
+    {"correct":false, "answer":"D"}
+  ]
+},
+{
+  "number":980,
+  "question":"A receiver selects the wanted signal in:",
+  "answers": [
+    {"correct":true, "answer":"the tuning stage"},
+    {"correct":false, "answer":"the detector"},
+    {"correct":false, "answer":"the RF amplifier"},
+    {"correct":false, "answer":"the loudspeaker"}
+  ]
+},
+{
+  "number":166,
+  "question":"Which part of a receiver selects the wanted frequency from all the others available?",
+  "answers": [
+    {"correct":true, "answer":"The RF stage"},
+    {"correct":false, "answer":"The demodulator/detector"},
+    {"correct":false, "answer":"The Audio Frequency (AF) Amplifier"},
+    {"correct":false, "answer":"The Speaker/Headphones"}
+  ]
+},
+{
+  "number":167,
+  "question":"The two most commonly used cables for r.f. signals are:",
+  "answers": [
+    {"correct":false, "answer":"Coaxial and three core mains"},
+    {"correct":true, "answer":"Twin feeder and coaxial"},
+    {"correct":false, "answer":"Twin feeder and three core mains"},
+    {"correct":false, "answer":"Twin feeder and speaker cable"}
+  ]
+},
+{
+  "number":822,
+  "question":"A feeder is used to carry:",
+  "answers": [
+    {"correct":false, "answer":"AF from the mic to the transmitter"},
+    {"correct":false, "answer":"mains voltage to the power supply unit"},
+    {"correct":false, "answer":"DC voltage from the power supply to the transmitter"},
+    {"correct":true, "answer":"RF from the transmitter to the antenna"}
+  ]
+},
+{
+  "number":843,
+  "question":"Coaxial cable prevents radiation of the rf by:",
+  "answers": [
+    {"correct":false, "answer":"being insulated by PVC"},
+    {"correct":true, "answer":"having one conductor inside the other"},
+    {"correct":false, "answer":"being terminated by the correct plug"},
+    {"correct":false, "answer":"being connected to a dipole"}
+  ]
+},
+{
+  "number":982,
+  "question":"Which of the following is the best for connecting RF signals to an antenna:",
+  "answers": [
+    {"correct":false, "answer":"mains cable"},
+    {"correct":false, "answer":"speaker cable"},
+    {"correct":true, "answer":"co-axial cable"},
+    {"correct":false, "answer":"enamelled copper wire"}
+  ]
+},
+{
+  "number":864,
+  "question":"The braid/screen in coaxial cable must be connected to the outer of a PL259 or BNC plug to:",
+  "answers": [
+    {"correct":false, "answer":"keep out moisture"},
+    {"correct":false, "answer":"prevent rf burns"},
+    {"correct":false, "answer":"ensure radiation"},
+    {"correct":true, "answer":"ensure continuous rf screening"}
+  ]
+},
+{
+  "number":983,
+  "question":"The purpose of the antenna is:",
+  "answers": [
+    {"correct":false, "answer":"to convert the RF into AF"},
+    {"correct":false, "answer":"to convert radio waves into electrical signals"},
+    {"correct":false, "answer":"to annoy the neighbours"},
+    {"correct":true, "answer":"to convert radio waves to electrical signals and to convert electrical signals to radio waves"}
+  ]
+},
+{
+  "number":168,
+  "question":"Two characteristics of horizontal half-wave dipoles are:",
+  "answers": [
+    {"correct":false, "answer":"They are omnidirectional and vertically polarised"},
+    {"correct":false, "answer":"They are not omnidirectional and are vertically polarised"},
+    {"correct":false, "answer":"They are omnidirectional and horizontally polarised"},
+    {"correct":true, "answer":"They are not omnidirectional and are horizontally polarised"}
+  ]
+},
+{
+  "number":844,
+  "question":"The antenna shown is a:nIMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"dipole"},
+    {"correct":false, "answer":"1/4 wave groundplane"},
+    {"correct":false, "answer":"5/8 wave vertical"},
+    {"correct":true, "answer":"end-fed long wire"}
+  ]
+},
+{
+  "number":984,
+  "question":"An antenna consisting of a dipole mounted on a boom in between two similar metal rods is",
+  "answers": [
+    {"correct":false, "answer":"never going to work"},
+    {"correct":false, "answer":"a trapped dipole"},
+    {"correct":true, "answer":"a yagi"},
+    {"correct":false, "answer":"a long wire"}
+  ]
+},
+{
+  "number":985,
+  "question":"The best length of a tuned dipole antenna is determined by",
+  "answers": [
+    {"correct":true, "answer":"the wavelength of the frequency in use"},
+    {"correct":false, "answer":"the materials available"},
+    {"correct":false, "answer":"the power being fed into it"},
+    {"correct":false, "answer":"the height above ground"}
+  ]
+},
+{
+  "number":1020,
+  "question":"Which of the following antennas would give best performance:",
+  "answers": [
+    {"correct":false, "answer":"a handheld whip indoors"},
+    {"correct":false, "answer":"a handheld whip outdoors"},
+    {"correct":false, "answer":"an indoor dipole"},
+    {"correct":true, "answer":"an outdoor dipole"}
+  ]
+},
+{
+  "number":5321,
+  "question":"A Vertically mounted half-wave diplole radiates...",
+  "answers": [
+    {"correct":false, "answer":"Polarised"},
+    {"correct":false, "answer":"One single direction"},
+    {"correct":false, "answer":"Isotropically"},
+    {"correct":true, "answer":"Omni-directional"}
+  ]
+},
+{
+  "number":5322,
+  "question":"A Vertically mounted 5/8λ antenna radiates...",
+  "answers": [
+    {"correct":false, "answer":"Isotropically"},
+    {"correct":true, "answer":"Omni-directional"},
+    {"correct":false, "answer":"Polarised"},
+    {"correct":false, "answer":"One single direction"}
+  ]
+},
+{
+  "number":169,
+  "question":"Which one of the following statements is the most accurate?",
+  "answers": [
+    {"correct":true, "answer":"A Yagi antenna receives and transmits signals in a single direction."},
+    {"correct":false, "answer":"A Yagi antenna receives signals from one direction, but is omnidirectional when transmitting."},
+    {"correct":false, "answer":"A Yagi antenna is horizontally polarised."},
+    {"correct":false, "answer":"Another name for a Yagi antenna is a 5/8 antenna."}
+  ]
+},
+{
+  "number":175,
+  "question":"The polarisation of a Yagi antenna:",
+  "answers": [
+    {"correct":false, "answer":"is horizontal"},
+    {"correct":false, "answer":"is vertical"},
+    {"correct":false, "answer":"is omnidirectional"},
+    {"correct":true, "answer":"depends on how it is mounted"}
+  ]
+},
+{
+  "number":187,
+  "question":"What type of antenna is shown? IMG_NEEDED",
+  "answers": [
+    {"correct":true, "answer":"Yagi"},
+    {"correct":false, "answer":"1/2 wave dipole"},
+    {"correct":false, "answer":"1/4 ground plane"},
+    {"correct":false, "answer":"End-fed"}
+  ]
+},
+{
+  "number":986,
+  "question":"Which of the following would not radiate in all directions:",
+  "answers": [
+    {"correct":false, "answer":"a vertical dipole"},
+    {"correct":false, "answer":"a vertical quarter wave"},
+    {"correct":true, "answer":"a vertical yagi"},
+    {"correct":false, "answer":"a vertical 5/8"}
+  ]
+},
+{
+  "number":987,
+  "question":"A Yagi antenna:",
+  "answers": [
+    {"correct":false, "answer":"generates more power in one direction"},
+    {"correct":true, "answer":"focuses power in one direction"},
+    {"correct":false, "answer":"reduces power in one direction"},
+    {"correct":false, "answer":"should not be used by Foundation licence holders"}
+  ]
+},
+{
+  "number":170,
+  "question":"Your antenna has a gain of 2, and you feed it with 6 watts of r.f. power. The e.r.p is:",
+  "answers": [
+    {"correct":false, "answer":"3 Watts"},
+    {"correct":false, "answer":"1/3 Watt"},
+    {"correct":true, "answer":"12 Watts"},
+    {"correct":false, "answer":"8 Watts"}
+  ]
+},
+{
+  "number":988,
+  "question":"The ERP is equal to:",
+  "answers": [
+    {"correct":false, "answer":"the power fed into the coax"},
+    {"correct":false, "answer":"the power arriving at the antenna"},
+    {"correct":true, "answer":"the output power multiplied by the antenna’s gain"},
+    {"correct":false, "answer":"the ratio of the forward and reflected power"}
+  ]
+},
+{
+  "number":926,
+  "question":"All transmitters must be operated into:",
+  "answers": [
+    {"correct":false, "answer":"An antenna tuning unit"},
+    {"correct":true, "answer":"The correct load"},
+    {"correct":false, "answer":"An SWR meter"},
+    {"correct":false, "answer":"An EMC filter"}
+  ]
+},
+{
+  "number":823,
+  "question":"A wire antenna shorter than 1/2 Wavelength will accept power from a transmitter if you use",
+  "answers": [
+    {"correct":false, "answer":"a balun"},
+    {"correct":true, "answer":"an ATU"},
+    {"correct":false, "answer":"PL259"},
+    {"correct":false, "answer":"an antenna insulator"}
+  ]
+},
+{
+  "number":989,
+  "question":"A badly matched antenna will",
+  "answers": [
+    {"correct":false, "answer":"have a high voltage on it"},
+    {"correct":false, "answer":"result in a high voltage on the coax"},
+    {"correct":true, "answer":"cause a significant power reflected back towards the transmitter"},
+    {"correct":false, "answer":"cause a low SWR reading at the transmitter"}
+  ]
+},
+{
+  "number":990,
+  "question":"A high SWR can be solved by:",
+  "answers": [
+    {"correct":true, "answer":"adjusting the ATU"},
+    {"correct":false, "answer":"increasing power"},
+    {"correct":false, "answer":"fitting a low pass filter"},
+    {"correct":false, "answer":"using CW"}
+  ]
+},
+{
+  "number":884,
+  "question":"A balun is used to:",
+  "answers": [
+    {"correct":false, "answer":"insulate the dipole from the mast"},
+    {"correct":false, "answer":"support the dipole"},
+    {"correct":true, "answer":"convert signal inside the coaxial cable to two signals on the dipole"},
+    {"correct":false, "answer":"ensure that rf currents flow back down the feeder"}
+  ]
+},
+{
+  "number":991,
+  "question":"What should be fitted between a balanced antenna, such as a dipole, and unbalance coaxial feeder?",
+  "answers": [
+    {"correct":false, "answer":"a low pass filter"},
+    {"correct":false, "answer":"a high pass filter"},
+    {"correct":false, "answer":"a mains transformer"},
+    {"correct":true, "answer":"a balun transformer"}
+  ]
+},
+{
+  "number":171,
+  "question":"When adjusting your Antenna Tuning Unit (ATU) you should always:",
+  "answers": [
+    {"correct":true, "answer":"Tune for minimum standing wave ratio"},
+    {"correct":false, "answer":"Tune for maximum standing wave ratio"},
+    {"correct":false, "answer":"To be safe, first switch the transmitter off, and unplug it"},
+    {"correct":false, "answer":"Ensure that the antenna is cut for the right wavelength"}
+  ]
+},
+{
+  "number":992,
+  "question":"Before transmitting the SWR meter should show:",
+  "answers": [
+    {"correct":false, "answer":"maximum forward power and maximum reflected power"},
+    {"correct":false, "answer":"minimum forward power and minimum reflected power"},
+    {"correct":false, "answer":"minimum forward power and maximum reflected power"},
+    {"correct":true, "answer":"maximum forward power and minimum reflected power"}
+  ]
+},
+{
+  "number":993,
+  "question":"Which of these would be an acceptable SWR reading:",
+  "answers": [
+    {"correct":true, "answer":"1.5:1"},
+    {"correct":false, "answer":"3:1"},
+    {"correct":false, "answer":"5:1"},
+    {"correct":false, "answer":"15:1"}
+  ]
+},
+{
+  "number":928,
+  "question":"A high SWR reading would indicate:",
+  "answers": [
+    {"correct":false, "answer":"A faulty transmitter"},
+    {"correct":true, "answer":"A fault in the antenna system"},
+    {"correct":false, "answer":"An over modulated transmitter"},
+    {"correct":false, "answer":"A well matched antenna system"}
+  ]
+},
+{
+  "number":172,
+  "question":"A \"dummy load\" is:",
+  "answers": [
+    {"correct":false, "answer":"A large block of concrete or stone used to guy an antenna mast."},
+    {"correct":false, "answer":"A large block of concrete used as a counterbalance when tilting a heavy antenna mast."},
+    {"correct":false, "answer":"The coil in the middle of a 5/8λ antenna"},
+    {"correct":true, "answer":"A screened resistor connected instead of an antenna when making adjustments to a transmitter."}
+  ]
+},
+{
+  "number":994,
+  "question":"Which of the following is not a desirable property of a dummy load:",
+  "answers": [
+    {"correct":true, "answer":"Should radiate a good signal"},
+    {"correct":false, "answer":"Should be the correct impedance"},
+    {"correct":false, "answer":"Should be able to absorb power"},
+    {"correct":false, "answer":"Should be in a screened enclosure"}
+  ]
+},
+{
+  "number":5329,
+  "question":"Radio waves travel in",
+  "answers": [
+    {"correct":true, "answer":"Straight lines unless diffracted or reflected"},
+    {"correct":false, "answer":"Wavy lines unless diffracted or reflected"},
+    {"correct":false, "answer":"Wavy lines"},
+    {"correct":false, "answer":"straight lines in all conditions"}
+  ]
+},
+{
+  "number":5330,
+  "question":"Radio waves",
+  "answers": [
+    {"correct":false, "answer":"Do not travel unless diffracted or reflected."},
+    {"correct":true, "answer":"Travel in straight lines unless diffracted or reflected."},
+    {"correct":false, "answer":"Travel in wavy lines"},
+    {"correct":false, "answer":"Travel in wavy lines when reflected."}
+  ]
+},
+{
+  "number":845,
+  "question":"As a portable receiver is moved further from a transmitting antenna the signals will:",
+  "answers": [
+    {"correct":false, "answer":"become stronger"},
+    {"correct":true, "answer":"become weaker"},
+    {"correct":false, "answer":"stay the same"},
+    {"correct":false, "answer":"change frequency"}
+  ]
+},
+{
+  "number":1016,
+  "question":"The further you are from a transmitter the signals will be:",
+  "answers": [
+    {"correct":false, "answer":"stronger"},
+    {"correct":true, "answer":"weaker"},
+    {"correct":false, "answer":"more polarised"},
+    {"correct":false, "answer":"less polarised"}
+  ]
+},
+{
+  "number":866,
+  "question":"UHF radio waves do not penetrate buildings because:",
+  "answers": [
+    {"correct":false, "answer":"the wavelengths are long compared to the building"},
+    {"correct":true, "answer":"the wavelengths are short compared to the building"},
+    {"correct":false, "answer":"radio waves will not propagate through windows"},
+    {"correct":false, "answer":"the building casts a shadow at sunrise"}
+  ]
+},
+{
+  "number":1017,
+  "question":"VHF and UHF signal will best pass through:",
+  "answers": [
+    {"correct":true, "answer":"glass"},
+    {"correct":false, "answer":"bricks"},
+    {"correct":false, "answer":"concrete"},
+    {"correct":false, "answer":"natural hills"}
+  ]
+},
+{
+  "number":174,
+  "question":"The best place for a v.h.f. antenna is:",
+  "answers": [
+    {"correct":false, "answer":"indoors, protected from the rain, wind and sun."},
+    {"correct":true, "answer":"outdoors, as high as practicable to avoid obstructions."},
+    {"correct":false, "answer":"close to the transmitter so that you can easily trim it to the correct length."},
+    {"correct":false, "answer":"on the roof of your car."}
+  ]
+},
+{
+  "number":824,
+  "question":"The strongest UHF signals will be received when the antenna is located:",
+  "answers": [
+    {"correct":true, "answer":"on the roof"},
+    {"correct":false, "answer":"indoors on the first floor"},
+    {"correct":false, "answer":"indoors in the basement"},
+    {"correct":false, "answer":"on the side of the building away from the transmitter"}
+  ]
+},
+{
+  "number":145,
+  "question":"The range of UHF signals are normally:",
+  "answers": [
+    {"correct":false, "answer":"received via satellites"},
+    {"correct":true, "answer":"typically less than HF signals"},
+    {"correct":false, "answer":"much weaker close to the antenna"},
+    {"correct":false, "answer":"refracted back to Earth via the ionosphere"}
+  ]
+},
+{
+  "number":1018,
+  "question":"Which of the following would not affect the range of a VHF signal:",
+  "answers": [
+    {"correct":false, "answer":"height of the antenna"},
+    {"correct":false, "answer":"power fed to antenna"},
+    {"correct":false, "answer":"hills in the signal path"},
+    {"correct":true, "answer":"using batteries rather than mains"}
+  ]
+},
+{
+  "number":1022,
+  "question":"Whatever the frequency, the range at VHF and UHF is frequently not much beyond",
+  "answers": [
+    {"correct":true, "answer":"the line of sight"},
+    {"correct":false, "answer":"the line of latitude"},
+    {"correct":false, "answer":"the line of longitude"},
+    {"correct":false, "answer":"the line of least resistance"}
+  ]
+},
+{
+  "number":5323,
+  "question":"What is the range that your signals on 144MHz will approxiamatly travel?",
+  "answers": [
+    {"correct":false, "answer":"To the end of your street"},
+    {"correct":true, "answer":"To just beyond Line of sight"},
+    {"correct":false, "answer":"about 100miles"},
+    {"correct":false, "answer":"To the nearest repeater"}
+  ]
+},
+{
+  "number":144,
+  "question":"The ionosphere is:",
+  "answers": [
+    {"correct":false, "answer":"sphere of radiation that surrounds an antenna."},
+    {"correct":false, "answer":"a layer of ionisation located above the Moon."},
+    {"correct":false, "answer":"a cloud of gas that surrounds the Sun."},
+    {"correct":true, "answer":"a layer of gas located between 70 and 400km above the Earth."}
+  ]
+},
+{
+  "number":1023,
+  "question":"The ionosphere is:",
+  "answers": [
+    {"correct":false, "answer":"the air that we breathe"},
+    {"correct":false, "answer":"a layer of particles in the atmosphere"},
+    {"correct":true, "answer":"a layer of conductive gases"},
+    {"correct":false, "answer":"a fear of ions"}
+  ]
+},
+{
+  "number":1289,
+  "question":"The ionosphere is a layer of gas surrounding surrounding the earth and extends to approximately what height?",
+  "answers": [
+    {"correct":false, "answer":"70 kilometers"},
+    {"correct":true, "answer":"400 kilometers"},
+    {"correct":false, "answer":"700 kilometers"},
+    {"correct":false, "answer":"4000 kilometers"}
+  ]
+},
+{
+  "number":1290,
+  "question":"The ionosphere is a layer of gas surrounding surrounding the earth and begins at approximately what height?",
+  "answers": [
+    {"correct":false, "answer":"7 kilometers"},
+    {"correct":false, "answer":"40 kilometers"},
+    {"correct":true, "answer":"70 kilometers"},
+    {"correct":false, "answer":"400 kilometers"}
+  ]
+},
+{
+  "number":825,
+  "question":"Which of the following is the highest frequency likely to be affected by the ionosphere?",
+  "answers": [
+    {"correct":false, "answer":"3.5MHz"},
+    {"correct":false, "answer":"10.1MHz"},
+    {"correct":true, "answer":"30MHz"},
+    {"correct":false, "answer":"433MHz"}
+  ]
+},
+{
+  "number":846,
+  "question":"The ionosphere is affected by:",
+  "answers": [
+    {"correct":true, "answer":"UV light from the sun"},
+    {"correct":false, "answer":"Sunlight reflected from the moon"},
+    {"correct":false, "answer":"The weather"},
+    {"correct":false, "answer":"The height of the antenna above ground level"}
+  ]
+},
+{
+  "number":867,
+  "question":"The main factor affecting HF propagation is:",
+  "answers": [
+    {"correct":false, "answer":"the transmitter power"},
+    {"correct":false, "answer":"the gain of the antenna"},
+    {"correct":false, "answer":"the frequency band"},
+    {"correct":true, "answer":"the state of the ionosphere"}
+  ]
+},
+{
+  "number":930,
+  "question":"HF propagation relies on:",
+  "answers": [
+    {"correct":false, "answer":"The Ozone layer"},
+    {"correct":false, "answer":"Good weather conditions"},
+    {"correct":false, "answer":"The position of the moon"},
+    {"correct":true, "answer":"Ionisation caused by the sun"}
+  ]
+},
+{
+  "number":1024,
+  "question":"International HF radio waves mainly travel:",
+  "answers": [
+    {"correct":false, "answer":"via ground wave"},
+    {"correct":false, "answer":"by reflecting from the atmosphere"},
+    {"correct":true, "answer":"by reflecting from the ionosphere"},
+    {"correct":false, "answer":"via repeaters"}
+  ]
+},
+{
+  "number":1025,
+  "question":"The maximum distance for HF depends on:",
+  "answers": [
+    {"correct":false, "answer":"a clear line of sight"},
+    {"correct":false, "answer":"the resistance of the ground"},
+    {"correct":true, "answer":"how well the ionosphere reflects"},
+    {"correct":false, "answer":"the access tone for the repeater"}
+  ]
+},
+{
+  "number":1026,
+  "question":"HF propagation is NOT affected by:",
+  "answers": [
+    {"correct":false, "answer":"the sun"},
+    {"correct":false, "answer":"the frequency used"},
+    {"correct":false, "answer":"the time of day"},
+    {"correct":true, "answer":"the day of the week"}
+  ]
+},
+{
+  "number":1291,
+  "question":"HF radio waves can propogate world wide by:",
+  "answers": [
+    {"correct":true, "answer":"reflecting off of the ionosphere"},
+    {"correct":false, "answer":"tunneling through conduits in the earth"},
+    {"correct":false, "answer":"using repeaters"},
+    {"correct":false, "answer":"tunneling across the Internet"}
+  ]
+},
+{
+  "number":1292,
+  "question":"At HF frequencies, the ionosphere:",
+  "answers": [
+    {"correct":false, "answer":"emits radio waves"},
+    {"correct":true, "answer":"reflects radio waves"},
+    {"correct":false, "answer":"absorbs radio waves"},
+    {"correct":false, "answer":"amplifies radio waves"}
+  ]
+},
+{
+  "number":5317,
+  "question":"Electromagnetic Compatability is:",
+  "answers": [
+    {"correct":true, "answer":"The avoidance of interference between various pieces of electronic equipment"},
+    {"correct":false, "answer":"The interference between various pieces of electronic equipment."},
+    {"correct":false, "answer":"The avoidance of interference between pieces of electronic equipment which do not bear a CE mark"},
+    {"correct":false, "answer":"The name given to the process of ensuring that Radio Equipment is certified for use in the UK"}
+  ]
+},
+{
+  "number":5331,
+  "question":"What is referred to as 'the avoidance of interference between various pieces of electronic equipment'?",
+  "answers": [
+    {"correct":false, "answer":"Electro-mechanical Compatibility (EMC)"},
+    {"correct":false, "answer":"Electrical Compatibility (EMC)"},
+    {"correct":true, "answer":"Electromagnetic Compatibility (EMC)"},
+    {"correct":false, "answer":"Electronic Compatibility (EMC)"}
+  ]
+},
+{
+  "number":998,
+  "question":"Morse code is:",
+  "answers": [
+    {"correct":true, "answer":"able to maintain contact when other modes fail"},
+    {"correct":false, "answer":"able to maintain contact when there is no propagation"},
+    {"correct":false, "answer":"not used any more"},
+    {"correct":false, "answer":"only used in emergencies"}
+  ]
+},
+{
+  "number":5318,
+  "question":"Your neighbour's new Plasma 50\" TV is wiping out the radio for you during the evening when they're at home. What do you do?",
+  "answers": [
+    {"correct":false, "answer":"Pack radio away as it's not worth hassle now you can't use it"},
+    {"correct":false, "answer":"Phone Ofcom, RSGB, BBC, SkyTV to sort this guy out"},
+    {"correct":true, "answer":"Suggest he contacts the manufacturer of TV as could be issue with the set"},
+    {"correct":false, "answer":"Threaten him with police action"}
+  ]
+},
+{
+  "number":1043,
+  "question":"Before transmitting you should:",
+  "answers": [
+    {"correct":true, "answer":"listen then ask if the frequency is in use"},
+    {"correct":false, "answer":"listen then call CQ"},
+    {"correct":false, "answer":"call CQ twice with your callsign three times"},
+    {"correct":false, "answer":"Shout "}
+  ]
+},
+{
+  "number":1044,
+  "question":"A correct HF CQ call would be:",
+  "answers": [
+    {"correct":false, "answer":"CQ all stations, M3ABC here, over"},
+    {"correct":false, "answer":"CQ CQ CQ this is M3ABC looking for a copy, over"},
+    {"correct":true, "answer":"CQ CQ CQ this is M3ABC, Mike three alpha bravo charlie calling CQ and standing by for any calls"},
+    {"correct":false, "answer":"CQ CQ CQ CQ CQ CQ CQ CQ CQ from M3ABC CQ CQ CQ CQ CQ"}
+  ]
+},
+{
+  "number":853,
+  "question":"The best initial call on VHF FM would be:",
+  "answers": [
+    {"correct":false, "answer":"CQ CQ CQ this is amateur radio station Mike Three Queen Queen Queen over"},
+    {"correct":false, "answer":"CQ CQ CQ CQ CQ CQ from M3QQQ CQ CQ CQ CQ CQ CQ"},
+    {"correct":true, "answer":"CQ CQ CQ this is M3QQQ calling CQ and listening for any calls"},
+    {"correct":false, "answer":"CQ CQ CQ this is M3QQQ M3QQQ calling, CQ CQ CQ from Mike Three Quebec Quebec Quebec calling CQ and standing by"}
+  ]
+},
+{
+  "number":1045,
+  "question":"Once you have contacted another station on a VHF calling channel you should:",
+  "answers": [
+    {"correct":false, "answer":"remain on the frequency until another station wishes to use it"},
+    {"correct":false, "answer":"remain on the frequency as long as the contact takes"},
+    {"correct":false, "answer":"change frequency to the next channel"},
+    {"correct":true, "answer":"change frequency to the next clear channel"}
+  ]
+},
+{
+  "number":893,
+  "question":"Having made contact with another station on the UHF FM calling frequency you should",
+  "answers": [
+    {"correct":false, "answer":"only speak to them for up to 4 minutes"},
+    {"correct":false, "answer":"give your callsign on every over"},
+    {"correct":true, "answer":"change to another channel"},
+    {"correct":false, "answer":"thank them for the contact and ask for a QSL card"}
+  ]
+},
+{
+  "number":999,
+  "question":"The correct phonetic spelling of the word ‘Morse’ would be:",
+  "answers": [
+    {"correct":false, "answer":"Mike Ontario Romeo Sugar Echo"},
+    {"correct":false, "answer":"Mexico Oscar Rome Sierra England"},
+    {"correct":false, "answer":"Mexico Oscar Roger Sierra England"},
+    {"correct":true, "answer":"Mike Oscar Romeo Sierra Echo"}
+  ]
+},
+{
+  "number":5327,
+  "question":"Which of the following is acceptable on Amateur Radio?",
+  "answers": [
+    {"correct":false, "answer":"Threatening language"},
+    {"correct":true, "answer":"Talking about weather"},
+    {"correct":false, "answer":"Offensive language"},
+    {"correct":false, "answer":"Music"}
+  ]
+},
+{
+  "number":1046,
+  "question":"Repeaters are intended:",
+  "answers": [
+    {"correct":false, "answer":"For base stations to increase their range"},
+    {"correct":false, "answer":"to allow local nets"},
+    {"correct":true, "answer":"to help mobile operators maintain contacts"},
+    {"correct":false, "answer":"to pass on traffic reports"}
+  ]
+},
+{
+  "number":1048,
+  "question":"Repeaters receive and transmit on different frequencies because:",
+  "answers": [
+    {"correct":false, "answer":"repeater offset is a legal requirement"},
+    {"correct":false, "answer":"there are plenty of channels spare"},
+    {"correct":true, "answer":"the repeater cannot transmit and receive on the same frequency without causing interference"},
+    {"correct":false, "answer":"all of the above"}
+  ]
+},
+{
+  "number":1047,
+  "question":"To access a repeater you can:",
+  "answers": [
+    {"correct":false, "answer":"send a blank carrier and wait for a bleep "},
+    {"correct":false, "answer":"send a 1750Hz tone"},
+    {"correct":false, "answer":"mix your voice with a sub-audible tone (CTCSS)"},
+    {"correct":true, "answer":"either b or c"}
+  ]
+},
+{
+  "number":934,
+  "question":"Repeaters re-transmit signals they receive:",
+  "answers": [
+    {"correct":false, "answer":"On the same frequency as the received signal (to conserve spectrum usage)."},
+    {"correct":true, "answer":"At a fixed offset frequency from the received signal."},
+    {"correct":false, "answer":"On 1750Hz."},
+    {"correct":false, "answer":"On a frequency between 70 and 250Hz"}
+  ]
+},
+{
+  "number":139,
+  "question":"Use the Schedule / Band Plan to determine any frequency bands between 1MHz and 2MHz where you must not cause interference to other services outside the UK:",
+  "answers": [
+    {"correct":false, "answer":"1.810 - 1.830 MHz"},
+    {"correct":false, "answer":"1.830 - 1.850 MHz"},
+    {"correct":true, "answer":"1.810 - 1.830 MHz and 1.850 - 2.000 MHz"},
+    {"correct":false, "answer":"1.830 - 1.850 MHz and 1.850 - 2.000 MHz"}
+  ]
+},
+{
+  "number":935,
+  "question":"Band plans are:",
+  "answers": [
+    {"correct":false, "answer":"rules on band usage for Foundation Licence holders only."},
+    {"correct":false, "answer":"rules on band usage laid down by the licensing authorities."},
+    {"correct":true, "answer":"gentlemen's agreements on frequency allocation within each amateur band. "},
+    {"correct":false, "answer":"another name for the Schedule."}
+  ]
+},
+{
+  "number":892,
+  "question":"The bandplans used by radio amateurs:",
+  "answers": [
+    {"correct":false, "answer":"are part of the Licence conditions"},
+    {"correct":false, "answer":"are set by the Secretary of State"},
+    {"correct":true, "answer":"allow different modes to share the band"},
+    {"correct":false, "answer":"state which bands are primary and secondary"}
+  ]
+},
+{
+  "number":1049,
+  "question":"Band plans are used:",
+  "answers": [
+    {"correct":false, "answer":"to stop illegal operators"},
+    {"correct":false, "answer":"to ensure best propagation"},
+    {"correct":true, "answer":"to ensure best use of the space available"},
+    {"correct":false, "answer":"to restrict the numbers on any one band"}
+  ]
+},
+{
+  "number":921,
+  "question":"Using the Schedule, determine which of the following bands has Primary amateur status:",
+  "answers": [
+    {"correct":false, "answer":"10MHz"},
+    {"correct":false, "answer":"70MHz"},
+    {"correct":true, "answer":"144MHz"},
+    {"correct":false, "answer":"430MHz"}
+  ]
+},
+{
+  "number":922,
+  "question":"What is the maximum power limit on the 135kHz band?:",
+  "answers": [
+    {"correct":false, "answer":"1W measured at the antenna"},
+    {"correct":true, "answer":"1W effective radiated power"},
+    {"correct":false, "answer":"10W measured at the antenna"},
+    {"correct":false, "answer":"10W effective radiated power"}
+  ]
+},
+{
+  "number":891,
+  "question":"Which mode is NOT permitted between 144MHz and 146MHz?",
+  "answers": [
+    {"correct":false, "answer":"CW"},
+    {"correct":false, "answer":"RTTY"},
+    {"correct":false, "answer":"SSTV"},
+    {"correct":true, "answer":"FSTV"}
+  ]
+},
+{
+  "number":890,
+  "question":"On which frequency does the amateur service have primary use?",
+  "answers": [
+    {"correct":false, "answer":"0.137MHz"},
+    {"correct":true, "answer":"1.840MHz"},
+    {"correct":false, "answer":"10.100MHz"},
+    {"correct":false, "answer":"51.500MHz"}
+  ]
+},
+{
+  "number":873,
+  "question":"What frequency should be used for FM simplex contacts?",
+  "answers": [
+    {"correct":false, "answer":"144.050MHz"},
+    {"correct":false, "answer":"144.300MHz"},
+    {"correct":true, "answer":"145.525MHz"},
+    {"correct":false, "answer":"145.900MHz"}
+  ]
+},
+{
+  "number":861,
+  "question":"Which of the following bands do space researchers use?",
+  "answers": [
+    {"correct":true, "answer":"137-138MHz"},
+    {"correct":false, "answer":"144-146MHz"},
+    {"correct":false, "answer":"149.9-150.05MHz"},
+    {"correct":false, "answer":"150.05-152.00MHz"}
+  ]
+},
+{
+  "number":852,
+  "question":"What frequency should be used for listening for beacons?",
+  "answers": [
+    {"correct":false, "answer":"14.060MHz"},
+    {"correct":true, "answer":"14.100MHz"},
+    {"correct":false, "answer":"14.230MHz"},
+    {"correct":false, "answer":"14.285MHz"}
+  ]
+},
+{
+  "number":851,
+  "question":"Which band is only available to amateurs on the basis of non-interference to other services outside the UK?",
+  "answers": [
+    {"correct":false, "answer":"7MHz"},
+    {"correct":false, "answer":"14MHz"},
+    {"correct":false, "answer":"21MHz"},
+    {"correct":true, "answer":"50MHz"}
+  ]
+},
+{
+  "number":831,
+  "question":"What frequency should be used for QRP CW?",
+  "answers": [
+    {"correct":true, "answer":"14.060MHz"},
+    {"correct":false, "answer":"14.100MHz"},
+    {"correct":false, "answer":"14.230MHz"},
+    {"correct":false, "answer":"14.285MHz"}
+  ]
+},
+{
+  "number":830,
+  "question":"What is the maximum transmitted power permitted on 0.136MHz?",
+  "answers": [
+    {"correct":true, "answer":"1W erp"},
+    {"correct":false, "answer":"1W power fed to the antenna"},
+    {"correct":false, "answer":"10W erp"},
+    {"correct":false, "answer":"10W power fed to the antenna"}
+  ]
+},
+{
+  "number":5319,
+  "question":"Which of the following is not available within 100Km of Charing Cross, London?",
+  "answers": [
+    {"correct":false, "answer":"144-145MHz"},
+    {"correct":true, "answer":"431-432MHz"},
+    {"correct":false, "answer":"145.800-146MHz"},
+    {"correct":false, "answer":"433-434MHz"}
+  ]
+},
+{
+  "number":1050,
+  "question":"Connecting data modems to a transmitter requires:",
+  "answers": [
+    {"correct":false, "answer":"more power"},
+    {"correct":false, "answer":"less power"},
+    {"correct":true, "answer":"correct AF gain setting"},
+    {"correct":false, "answer":"correct RF gain setting"}
+  ]
+},
+{
+  "number":874,
+  "question":"If another amateur tells you that your signals are ‘1 and 9’, that means they are:",
+  "answers": [
+    {"correct":true, "answer":"very strong but unreadable"},
+    {"correct":false, "answer":"very strong and fully readable"},
+    {"correct":false, "answer":"very weak but fully readable"},
+    {"correct":false, "answer":"very weak and unreadable"}
+  ]
+},
+{
+  "number":1051,
+  "question":"High voltages can:",
+  "answers": [
+    {"correct":false, "answer":"reduce the chance of interference"},
+    {"correct":true, "answer":"kill you"},
+    {"correct":false, "answer":"produce better modulation"},
+    {"correct":false, "answer":"be earthed"}
+  ]
+},
+{
+  "number":1052,
+  "question":"High currents can:",
+  "answers": [
+    {"correct":false, "answer":"melt the wire insulation"},
+    {"correct":false, "answer":"blow the fuse"},
+    {"correct":false, "answer":"cause fires"},
+    {"correct":true, "answer":"all the above"}
+  ]
+},
+{
+  "number":877,
+  "question":"Batteries that can supply high current pose a risk of:",
+  "answers": [
+    {"correct":false, "answer":"explosion"},
+    {"correct":false, "answer":"rf burns"},
+    {"correct":true, "answer":"starting fires"},
+    {"correct":false, "answer":"blowing a fuse"}
+  ]
+},
+{
+  "number":1054,
+  "question":"Which earthing system can cause problems for radio amateurs:",
+  "answers": [
+    {"correct":false, "answer":"PMR"},
+    {"correct":true, "answer":"PME"},
+    {"correct":false, "answer":"PMP"},
+    {"correct":false, "answer":"PPP"}
+  ]
+},
+{
+  "number":1053,
+  "question":"Mains power supplies should always be:",
+  "answers": [
+    {"correct":false, "answer":"opened to improve ventilation"},
+    {"correct":true, "answer":"earthed through a mains plug"},
+    {"correct":false, "answer":"submerged in water"},
+    {"correct":false, "answer":"earthed through the RF earth"}
+  ]
+},
+{
+  "number":1055,
+  "question":"The fuse in a mains plug should always be:",
+  "answers": [
+    {"correct":false, "answer":"13amps"},
+    {"correct":false, "answer":"5amps"},
+    {"correct":true, "answer":"selected for the equipment in use"},
+    {"correct":false, "answer":"replaced by a rusty nail"}
+  ]
+},
+{
+  "number":1056,
+  "question":"The best way to work on mains equipment is:",
+  "answers": [
+    {"correct":false, "answer":"to wear cotton socks"},
+    {"correct":false, "answer":"to wear rubber shoes"},
+    {"correct":false, "answer":"to put your hand in your pocket"},
+    {"correct":true, "answer":"to disconnect it from the mains"}
+  ]
+},
+{
+  "number":835,
+  "question":"Who should repair high voltage radio equipment?",
+  "answers": [
+    {"correct":false, "answer":"The owner of the equipment"},
+    {"correct":false, "answer":"the Foundation Licence holder"},
+    {"correct":false, "answer":"a Full Licence holder"},
+    {"correct":true, "answer":"a qualified person"}
+  ]
+},
+{
+  "number":856,
+  "question":"If work needs to be done on mains powered radio equipment you should:",
+  "answers": [
+    {"correct":false, "answer":"wear rubber shoes"},
+    {"correct":false, "answer":"use plastic tools"},
+    {"correct":true, "answer":"switch off the equipment at the mains first"},
+    {"correct":false, "answer":"switch the power off at the fuse box"}
+  ]
+},
+{
+  "number":5324,
+  "question":"The Blue wire going into number 2 is...IMG_NEEDED",
+  "answers": [
+    {"correct":true, "answer":"Neutral"},
+    {"correct":false, "answer":"Live"},
+    {"correct":false, "answer":"Earth"},
+    {"correct":false, "answer":"Fuse"}
+  ]
+},
+{
+  "number":5325,
+  "question":"The Yellow &amp; Green wire going into number 3 is...IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"Neutral"},
+    {"correct":false, "answer":"Live"},
+    {"correct":true, "answer":"Earth"},
+    {"correct":false, "answer":"Fuse"}
+  ]
+},
+{
+  "number":5326,
+  "question":"The Brown wire going into number 4 is...IMG_NEEDED",
+  "answers": [
+    {"correct":false, "answer":"Neutral"},
+    {"correct":true, "answer":"Live"},
+    {"correct":false, "answer":"Earth"},
+    {"correct":false, "answer":"Fuse"}
+  ]
+},
+{
+  "number":1057,
+  "question":"The mains power switch to the radio shack should be:",
+  "answers": [
+    {"correct":false, "answer":"hidden away to prevent tampering"},
+    {"correct":false, "answer":"hidden away to prevent unauthorised use"},
+    {"correct":true, "answer":"in a clearly marked position in case of emergency"},
+    {"correct":false, "answer":"switched off at all times"}
+  ]
+},
+{
+  "number":956,
+  "question":"If you see someone you think is electrocuted and they are still in contact with live apparatus, your first action should be:-",
+  "answers": [
+    {"correct":false, "answer":"Call an Ambulance – 999"},
+    {"correct":false, "answer":"Pull the person clear"},
+    {"correct":true, "answer":"Switch off the power"},
+    {"correct":false, "answer":"Earth them"}
+
+  ]
+},
+{
+  "number":1058,
+  "question":"If you discover someone in contact with live electric mains cables you should first:",
+  "answers": [
+    {"correct":false, "answer":"pour water over them"},
+    {"correct":false, "answer":"pull them away from the wires"},
+    {"correct":true, "answer":"switch off the mains"},
+    {"correct":false, "answer":"call for an ambulance"}
+  ]
+},
+{
+  "number":937,
+  "question":"If you find someone in contact with electric cables your first action should be to:",
+  "answers": [
+    {"correct":false, "answer":"cover the victim with a blanket"},
+    {"correct":true, "answer":"switch off the electricity"},
+    {"correct":false, "answer":"call for an ambulance"},
+    {"correct":false, "answer":"pull them away"}
+  ]
+},
+{
+  "number":857,
+  "question":"If you see smoke and flames coming out of your transceiver you should first:",
+  "answers": [
+    {"correct":false, "answer":"pour water over it"},
+    {"correct":true, "answer":"switch it off"},
+    {"correct":false, "answer":"escape the room"},
+    {"correct":false, "answer":"call for an ambulance"}
+  ]
+},
+{
+  "number":880,
+  "question":"The correct place for long cables is:",
+  "answers": [
+    {"correct":false, "answer":"placed under the carpet"},
+    {"correct":false, "answer":"hung across the shack well off the floor"},
+    {"correct":false, "answer":"securely fixed to the wall with copper nails"},
+    {"correct":true, "answer":"routed along walls and behind furniture"}
+  ]
+},
+{
+  "number":1059,
+  "question":"Station cables should be neatly tucked away to:",
+  "answers": [
+    {"correct":false, "answer":"stop RF leaking out"},
+    {"correct":false, "answer":"stop interference being picked up"},
+    {"correct":false, "answer":"keep details of antennas secret"},
+    {"correct":true, "answer":"avoid tripping over them"}
+  ]
+},
+{
+  "number":1060,
+  "question":"Antenna wires and feeder should be high enough to prevent:",
+  "answers": [
+    {"correct":false, "answer":"RF leaking out"},
+    {"correct":false, "answer":"Interference being picked up"},
+    {"correct":true, "answer":"People walking into them"},
+    {"correct":false, "answer":"Electrocution"}
+  ]
+},
+{
+  "number":1061,
+  "question":"Antennas should not be sited near overhead mains cables because:",
+  "answers": [
+    {"correct":false, "answer":"they will not be efficient"},
+    {"correct":false, "answer":"they will attract lightning"},
+    {"correct":false, "answer":"the antenna could affect the mains"},
+    {"correct":true, "answer":"the antenna could touch the mains cables and kill you"}
+  ]
+},
+{
+  "number":896,
+  "question":"When erecting antennas you should NOT:",
+  "answers": [
+    {"correct":false, "answer":"ensure that the work is supervised by an adult"},
+    {"correct":false, "answer":"wear hard hats"},
+    {"correct":true, "answer":"stand on the top rung of the ladder"},
+    {"correct":false, "answer":"have someone standing at the bottom of the ladder"}
+  ]
+},
+{
+  "number":1062,
+  "question":"Putting antennas up is best done:",
+  "answers": [
+    {"correct":false, "answer":"on your own"},
+    {"correct":false, "answer":"up a ladder"},
+    {"correct":false, "answer":"with  one person"},
+    {"correct":true, "answer":"with a number of helpers, including one adult"}
+  ]
+},
+{
+  "number":1063,
+  "question":"-001 You should not touch an antenna whilst:",
+  "answers": [
+    {"correct":false, "answer":"receiving long distance signals"},
+    {"correct":false, "answer":"standing on a ladder"},
+    {"correct":false, "answer":"holding a screwdriver"},
+    {"correct":true, "answer":"transmitting"}
+  ]
+},
+{
+  "number":1064,
+  "question":"Particularly high antennas should be protected against:",
+  "answers": [
+    {"correct":true, "answer":"lightning"},
+    {"correct":false, "answer":"theft"},
+    {"correct":false, "answer":"fire"},
+    {"correct":false, "answer":"flood"}
+  ]
+},
+{
+  "number":836,
+  "question":"Which of the following is NOT a safety risk from antennas:",
+  "answers": [
+    {"correct":false, "answer":"rf burns caused by touching an antenna whilst transmitting"},
+    {"correct":false, "answer":"vertical antennas coming into contact with overhead power lines"},
+    {"correct":false, "answer":"large antennas being blown down by gales"},
+    {"correct":true, "answer":"fitting appropriate lightning protection to masts"}
+  ]
+},
+{
+  "number":936,
+  "question":"High antennas need protection against:",
+  "answers": [
+    {"correct":false, "answer":"ice build up"},
+    {"correct":false, "answer":"bird strike"},
+    {"correct":true, "answer":"lightning"},
+    {"correct":false, "answer":"aircraft"}
+  ]
+},
+{
+  "number":1065,
+  "question":"Too much volume when using headphones can cause:",
+  "answers": [
+    {"correct":false, "answer":"interference on nearby TV sets"},
+    {"correct":true, "answer":"the wearer to go deaf"},
+    {"correct":false, "answer":"the audio amplifier to burn out"},
+    {"correct":false, "answer":"contacts to be lost"}
+  ]
+},
+{
+  "number":878,
+  "question":"Wearing headphones can damage your hearing if:",
+  "answers": [
+    {"correct":false, "answer":"they are worn during servicing work"},
+    {"correct":false, "answer":"they are not plugged in to the radio "},
+    {"correct":true, "answer":"are used at high volume"},
+    {"correct":false, "answer":"are used in a noisy workshop"}
+  ]
+}
+]

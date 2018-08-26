@@ -1,0 +1,464 @@
+[
+{
+  "number":46,
+  "question":"MM1ABC, decides to sail to Douglas on the Isle Of Man. During the sailing which callsign should he use?",
+  "answers": [
+    {"correct":true, "answer":"MM1ABC/MM"},
+    {"correct":false, "answer":"MD1ABC/MM"},
+    {"correct":false, "answer":"M1ABC/MM"},
+    {"correct":false, "answer":"MM1ABC/M"}
+  ]
+},
+{
+  "number":101,
+  "question":"Which one of the following is not a valid UK callsign?",
+  "answers": [
+    {"correct":false, "answer":"MM1ABC/MM"},
+    {"correct":false, "answer":"2D1ABC/P"},
+    {"correct":false, "answer":"G5AB/M"},
+    {"correct":true, "answer":"M2ABC/MM"}
+  ]
+},
+{
+  "number":105,
+  "question":"Which one of the following is forbidden by the licence?",
+  "answers": [
+    {"correct":false, "answer":"Listening to amateurs on frequencies not allocated to UK amateurs."},
+    {"correct":true, "answer":"Operating whilst in an aircraft."},
+    {"correct":false, "answer":"Operating whilst driving."},
+    {"correct":false, "answer":"Sending messages using codes."}
+  ]
+},
+{
+  "number":1068,
+  "question":"The callsign GI0xxx belongs to an amateur in",
+  "answers": [
+    {"correct":false, "answer":"Wales"},
+    {"correct":false, "answer":"Guernsey"},
+    {"correct":true, "answer":"Northern Ireland"},
+    {"correct":false, "answer":"England"}
+  ]
+},
+{
+  "number":1071,
+  "question":"When operating from a car it is recommended that you use the suffix",
+  "answers": [
+    {"correct":false, "answer":"/P"},
+    {"correct":false, "answer":"/A"},
+    {"correct":true, "answer":"/M"},
+    {"correct":false, "answer":"/MM"}
+
+  ]
+},
+{
+  "number":1168,
+  "question":"When the station is operated from a temporary premises in the same country of the main station the call given on the first page of the licence will be used with",
+  "answers": [
+    {"correct":false, "answer":"No suffix"},
+    {"correct":false, "answer":"The suffix /M"},
+    {"correct":true, "answer":"The suffix /P"},
+    {"correct":false, "answer":"The suffix /MM"}
+  ]
+},
+{
+  "number":1229,
+  "question":"An amateur station may not be established and used",
+  "answers": [
+    {"correct":false, "answer":"In a moving vessel on a canal or a non-tidal waterway"},
+    {"correct":true, "answer":"In an aircraft"},
+    {"correct":false, "answer":"On a public service vehicle with the written permission of the owner of the vehicle"},
+    {"correct":false, "answer":"On the sea, provided it is within territorial waters"}
+  ]
+},
+{
+  "number":1159,
+  "question":"May a member of the UK Police Force operate an established amateur radio station?",
+  "answers": [
+    {"correct":false, "answer":"Yes, for the purpose of passing messages on behalf of the UK Police Force during an operation or excercise coducted by the Police Force"},
+    {"correct":true, "answer":"No, but the Licensee may permit the use of the station in order to pass messages on the Officer's behalf"},
+    {"correct":false, "answer":"No, unless the Officer holds a current United Kingdom Amateur Radio License"},
+    {"correct":false, "answer":"Yes, the Officer may use the amateur radio station to pass any message"}
+  ]
+},
+{
+  "number":1232,
+  "question":"An amateur radio station may be used in times of emergency for sending messages",
+  "answers": [
+    {"correct":true, "answer":"On behalf of User Services services"},
+    {"correct":false, "answer":"For any social occasion"},
+    {"correct":false, "answer":"Relating to the Armed Forces"},
+    {"correct":false, "answer":"On behlaf of the British Red Cross Society"}
+  ]
+},
+{
+  "number":48,
+  "question":"Who may operate, unsupervised, the Station of a Full licence holder?",
+  "answers": [
+    {"correct":true, "answer":"The licensee only."},
+    {"correct":false, "answer":"Any licensed radio amateur from the UK."},
+    {"correct":false, "answer":"Any licensed radio amateur from the UK and any other country."},
+    {"correct":false, "answer":"The licensee, and any representative of a User Service."}
+  ]
+},
+{
+  "number":1231,
+  "question":"Apart from the Licensee, an amateur radio station may be operated by",
+  "answers": [
+    {"correct":false, "answer":"The Emergency County Planning Officer"},
+    {"correct":true, "answer":"A person who holds an Amateur Radio Certificate issued by the Secretary of State"},
+    {"correct":false, "answer":"An officer of the British Red Cross society"},
+    {"correct":false, "answer":"An officer delgated by the local Chief Constable"}
+  ]
+},
+{
+  "number":1171,
+  "question":"operating maritime mobile the use of the radio equipment must cease when instructed by",
+  "answers": [
+    {"correct":false, "answer":"the Coast Guard"},
+    {"correct":false, "answer":"the vessel’s communication officer"},
+    {"correct":true, "answer":"the vessel’s master"},
+    {"correct":false, "answer":"none of the above"}
+  ]
+},
+{
+  "number":102,
+  "question":"Where would you use your UK callsign and the suffix /MM?",
+  "answers": [
+    {"correct":false, "answer":"On board a barge on the Leeds Liverpool canal."},
+    {"correct":true, "answer":"In the middle of the Atlantic Ocean."},
+    {"correct":false, "answer":"On board a ferry on Lake Geneva."},
+    {"correct":false, "answer":"Mobile in Scotland."}
+  ]
+},
+{
+  "number":1156,
+  "question":"On board a ship within coastal waters the suffix to be added to the callsign is",
+  "answers": [
+    {"correct":false, "answer":"/A"},
+    {"correct":false, "answer":"/M"},
+    {"correct":true, "answer":"/MM"},
+    {"correct":false, "answer":"None required "}
+  ]
+},
+{
+  "number":49,
+  "question":"You are operating using your own callsign and appropriate prefix under CEPT licensing in a Region 2 host country. You may:",
+  "answers": [
+    {"correct":false, "answer":"operate only within the frequencies specified in the UK Schedule"},
+    {"correct":false, "answer":"transmit only within the frequencies specified in the UK Schedule, but listen on others permitted in Region 2"},
+    {"correct":true, "answer":"operate within the frequencies allowed to Region 2 licensed amateurs"},
+    {"correct":false, "answer":"only operate under the supervision of a host country licensed amateur"}
+
+  ]
+},
+{
+  "number":1170,
+  "question":"When operating in other countries which have signed CEPT Recommendation T/R 61-01 you must",
+  "answers": [
+    {"correct":false, "answer":"Have a Reciprocal Licence"},
+    {"correct":true, "answer":"Be a temporary visitor and non-resident in the host country"},
+    {"correct":false, "answer":"Have an authorisation document from the host country"},
+    {"correct":false, "answer":"Have a supplementary document issued by your own Licensing Authority"}
+  ]
+},
+{
+  "number":1166,
+  "question":"The Amateur Licence authorises the Licensee to use a station for certain purposes. For which of the following is the licensee NOT authorised",
+  "answers": [
+    {"correct":false, "answer":"Taking part in disaster relief exercises conducted by the British Red Cross"},
+    {"correct":false, "answer":"Taking part in disaster exercises conducted by any United Kingdom Fire and Rescue Service"},
+    {"correct":true, "answer":"Receiving lawful transmissions within the framework of the United Kingdom Frequency Allocation Table which the Amateur is not licensed to receive  "},
+    {"correct":false, "answer":"Publicising the meetings of the local Church Youth Club, which is of interest to both parties11(1) The Licensee shall be permitted to use the Radio Equipment to discuss any topics ofmutual interest with other Amateurs, and to seek to receive and impart any information and any ideas. (The Licensee is also referred to note 7 which stipulates that such messages must not be of a menacing, gross and/or indecent or illegal character) "}
+  ]
+},
+{
+  "number":1160,
+  "question":"Is the holder of an Amateur Radio Licence permitted to use a secret code when communicating with another amateur station?",
+  "answers": [
+    {"correct":false, "answer":"Yes, when helping in disaster relief"},
+    {"correct":true, "answer":"No, only recognised codes may be used and then only if they do not obscure the meaning of the Message"},
+    {"correct":false, "answer":"Yes, providing the callsigns are not sent in code"},
+    {"correct":false, "answer":"Yes, if the details are entered clearly in the log"}
+  ]
+},
+{
+  "number":50,
+  "question":"Without specific authorisation, you may NOT record and retransmit Messages:",
+  "answers": [
+    {"correct":true, "answer":"addressed to you from other amateurs, excluding their callsigns"},
+    {"correct":false, "answer":"addressed to you from other amateurs, including their callsigns"},
+    {"correct":false, "answer":"as part of the intermediate relaying of Messages to other licensed amateurs"},
+    {"correct":false, "answer":"using a mailbox or bulletin board run by you"}
+  ]
+},
+{
+  "number":1172,
+  "question":"A broadcast may be made to amateur stations in general provided that",
+  "answers": [
+    {"correct":true, "answer":"It is an initial call"},
+    {"correct":false, "answer":"Communication is not established with any station"},
+    {"correct":false, "answer":"The information sent is of general interest"},
+    {"correct":false, "answer":"The information is intended for disaster relief purposes"}
+  ]
+},
+{
+  "number":1235,
+  "question":"The recordings which a radio amateur may not transmit include",
+  "answers": [
+    {"correct":true, "answer":"Messages which are grossly indecent, of menacing or illegal character and/or are of pecuniary interest"},
+    {"correct":false, "answer":"Recordings of the station with which the radio amateur is in contact, callsigns having been deleted"},
+    {"correct":false, "answer":"Recordings of messages which are addressed to a specific station by the originating station but from which the originating station callsign has been deleted"},
+    {"correct":false, "answer":"Recordings of communications carried out in disaster relief operations by the authorities"}
+  ]
+},
+{
+  "number":1293,
+  "question":"The language used in messages exchanged between amateur radio stations",
+  "answers": [
+    {"correct":false, "answer":"Must be in the National Language of the licensee"},
+    {"correct":true, "answer":"Must not be offensive, osbscene or indecent in any way"},
+    {"correct":false, "answer":"Can be in cipher, code or secret language provided the General Manager of the Local Post Office area has been notified"},
+    {"correct":false, "answer":"Must be spoken slowly and clearly using the recognised phonetic alphabet"}
+  ]
+},
+{
+  "number":1247,
+  "question":"If a Full Licensee whose callsign is M0QRZ is operating from temporary premises in Wales, it is suggested that at intervals of 15 minutes or more frequently during radio communication the operator should send",
+  "answers": [
+    {"correct":false, "answer":"M0QRZ/A and adhering to the conditions of location as set out in the licence"},
+    {"correct":true, "answer":"MW0QRZ/A and adhering to the conditions of location as set out in the licence"},
+    {"correct":false, "answer":"MW/M0QRZ/P and adhering to the conditions of location as set out in the licence"},
+    {"correct":false, "answer":"M0QRZ/Wales and adhering to the conditions of location as set out in the licence"}
+  ]
+},
+{
+  "number":1236,
+  "question":"An Amateur Station log should be kept, if requested by the UK Licensing Authority. The log should be made available for inspection, at any reasonable time, by a person acting under the authority of",
+  "answers": [
+    {"correct":true, "answer":"Ofcom"},
+    {"correct":false, "answer":"Home Office"},
+    {"correct":false, "answer":"Local Police Constabulary"},
+    {"correct":false, "answer":"Radiocommunications Agency"}
+  ]
+},
+{
+  "number":1165,
+  "question":"Any amateur station can be closed down at any time on the demand of any person acting on behalf of",
+  "answers": [
+    {"correct":false, "answer":"The Police"},
+    {"correct":true, "answer":"The Secretary of State"},
+    {"correct":false, "answer":"Ministry of Defence"},
+    {"correct":false, "answer":"The County or local District Councils"}
+  ]
+},
+{
+  "number":1169,
+  "question":"The radio station established and used by the holder of an amateur radio licence MUST be equipped for reception on",
+  "answers": [
+    {"correct":false, "answer":"The Frequency bands used in the schedule to the licence"},
+    {"correct":true, "answer":"The frequency or frequencies which are currently in use for sending"},
+    {"correct":false, "answer":"Frequencies used in disaster relief by the Red Cross, St John Ambulance Brigade and Police"},
+    {"correct":false, "answer":"At least one band in the frequency band 3 to 30MHz"}
+  ]
+},
+{
+  "number":1180,
+  "question":"If demanded by a person authorised by the Secretary of State to close down or restrict operation the licensee must comply",
+  "answers": [
+    {"correct":true, "answer":"Immediately"},
+    {"correct":false, "answer":"Within 24 hours"},
+    {"correct":false, "answer":"Within 7 days"},
+    {"correct":false, "answer":"Within 28 days"}
+  ]
+},
+{
+  "number":1228,
+  "question":"The period of validity of an amateur transmitting licence is (current answer different from answer given on mark grid)",
+  "answers": [
+    {"correct":false, "answer":"Six months"},
+    {"correct":false, "answer":"One year"},
+    {"correct":true, "answer":"Five years"},
+    {"correct":false, "answer":"Until it is revoked"}
+  ]
+},
+{
+  "number":47,
+  "question":"Which one of the following frequency bands may not be used for international disaster communications?",
+  "answers": [
+    {"correct":true, "answer":"One which is not specifically mentioned (i.e. permitted) on their Licence Certificate/Document"},
+    {"correct":false, "answer":"3.5 to 3.8 MHz."},
+    {"correct":false, "answer":"7.0 to 7.1 MHz."},
+    {"correct":false, "answer":"10.10 to 10.15 MHz."}
+  ]
+},
+{
+  "number":97,
+  "question":"You have a real-time QSO on 2 metres with another Packet station which is out of range. This is made possible through:",
+  "answers": [
+    {"correct":true, "answer":"Digipeating"},
+    {"correct":false, "answer":"Mailboxes"},
+    {"correct":false, "answer":"Bulletin Boards"},
+    {"correct":false, "answer":"Voice Repeater"}
+  ]
+},
+{
+  "number":98,
+  "question":"Under the IARU band plans which one of the following is true?",
+  "answers": [
+    {"correct":false, "answer":"SSB operation is permitted on all HF bands."},
+    {"correct":false, "answer":"Contests are permitted on all HF bands."},
+    {"correct":true, "answer":"Transmissions on satellite frequencies should be avoided for terrestrial contacts."},
+    {"correct":false, "answer":"Transmission on beacon frequencies is permitted during contests."}
+  ]
+},
+{
+  "number":55,
+  "question":"Which one of the following is NOT true?",
+  "answers": [
+    {"correct":true, "answer":"You can get a Special Event Station callsign to celebrate your birthday."},
+    {"correct":false, "answer":"You can get a Special Event Station callsign to celebrate Marconi's birthday."},
+    {"correct":false, "answer":"You could get a Special Event Station callsign to celebrate the 80th anniversary of the RSGB."},
+    {"correct":false, "answer":"Some organisations have permanent Special Event Station callsigns."}
+  ]
+},
+{
+  "number":104,
+  "question":"Which of the following recommends that wideband modes should NOT be used on the 30m band?",
+  "answers": [
+    {"correct":false, "answer":"RSGB"},
+    {"correct":true, "answer":"IARU"},
+    {"correct":false, "answer":"OFCOM"},
+    {"correct":false, "answer":"RAYNET"}
+  ]
+},
+{
+  "number":119,
+  "question":"You wish to experiment listening to PSK31 transmissions on the 20 metre band, but don't have a copy of the band plan handy. Where would you expect to find PSK31 transmissions?",
+  "answers": [
+    {"correct":true, "answer":"In the lower portion of the band."},
+    {"correct":false, "answer":"In the mid-portion of the band."},
+    {"correct":false, "answer":"In the higher portion of the band."},
+    {"correct":false, "answer":"Anywhere within the band."}
+  ]
+},
+{
+  "number":1158,
+  "question":"The frequency stability of a transmitter",
+  "answers": [
+    {"correct":false, "answer":"Must remain within 1% over a period of 1 hour"},
+    {"correct":false, "answer":"Is not specified"},
+    {"correct":false, "answer":"Must remain within 1% over the period the transmitter is operating"},
+    {"correct":true, "answer":"Must be as good as the state of technical radio reasonably permits"}
+  ]
+},
+{
+  "number":1161,
+  "question":"Which of the following frequency bands is allocated to the amateur service on an exclusive basis?",
+  "answers": [
+    {"correct":false, "answer":"1.81-2.0MHz"},
+    {"correct":false, "answer":"3.5-3.8MHz"},
+    {"correct":true, "answer":"28.0-29.7MHz"},
+    {"correct":false, "answer":"70.025-70.5MHz"}
+  ]
+},
+{
+  "number":1181,
+  "question":"The main purpose of the &quot;Q&quot; codes is to",
+  "answers": [
+    {"correct":false, "answer":"Save time on telephony"},
+    {"correct":true, "answer":"Save time on telegraphy"},
+    {"correct":false, "answer":"Use in the station log"},
+    {"correct":false, "answer":"Use on station confirmation cards"}
+  ]
+},
+{
+  "number":1182,
+  "question":"When sending a CQ call in Morse the callsign of the station should be sent at a speed",
+  "answers": [
+    {"correct":true, "answer":"At which the sender is prepared to receive a reply"},
+    {"correct":false, "answer":"Of 20 words per minute"},
+    {"correct":false, "answer":"At which the sender is prepared to receive a reply but not more tan 20 words per minute"},
+    {"correct":false, "answer":"Of 15 words per minute"}
+  ]
+},
+{
+  "number":1183,
+  "question":"The &quot;Q&quot; code to ask &quot;who is calling me?&quot; is",
+  "answers": [
+    {"correct":false, "answer":"QSP"},
+    {"correct":false, "answer":"QRM"},
+    {"correct":false, "answer":"QSL"},
+    {"correct":true, "answer":"QRZ"}
+  ]
+},
+{
+  "number":1184,
+  "question":"The spelling of the word LIBRA using the recommended phonetic alphabet is",
+  "answers": [
+    {"correct":false, "answer":"Love India Baker Roger Alpha"},
+    {"correct":true, "answer":"Lima India Bravo Romeo Alpha"},
+    {"correct":false, "answer":"Love India Bravo Roger Able"},
+    {"correct":false, "answer":"Lima Item Bravo Radio Alpha"}
+  ]
+},
+{
+  "number":1233,
+  "question":"Morse telegraphy by on-off keying without the use of a modulating frequency is designated by the symbols",
+  "answers": [
+    {"correct":true, "answer":"A1A"},
+    {"correct":false, "answer":"F3E"},
+    {"correct":false, "answer":"A2A"},
+    {"correct":false, "answer":"F1A"}
+  ]
+},
+{
+  "number":54,
+  "question":"DX Cluster networks:",
+  "answers": [
+    {"correct":false, "answer":"occur when DX stations group together to make it easier for amateurs to collect multiple rare countries"},
+    {"correct":true, "answer":"is a system using Packet radio (or Internet) for spreading DX information to amateurs who are logged on"},
+    {"correct":false, "answer":"is a system using Packet radio similar to a 'net' on telephony"},
+    {"correct":false, "answer":"are not permitted without a Notice of Variation"}
+  ]
+},
+{
+  "number":106,
+  "question":"The 'offset' of a 2 m repeater is:",
+  "answers": [
+    {"correct":false, "answer":"the distance (in km) your station is from the repeater"},
+    {"correct":false, "answer":"the height (in metres) of the repeater's antenna"},
+    {"correct":true, "answer":"the difference between its transmit and receive frequencies"},
+    {"correct":false, "answer":"the frequency of its CTCSS tone, if any"}
+  ]
+},
+{
+  "number":96,
+  "question":"You are listening to another amateur through a repeater, when the repeater goes silent for a minute or so, but you can still hear the amateur on the input frequency. This is most likely because:",
+  "answers": [
+    {"correct":true, "answer":"the amateur has talked for too long and the repeater has 'timed out'"},
+    {"correct":false, "answer":"the repeater keeper is doing maintenance"},
+    {"correct":false, "answer":"the repeater needs a tone burst"},
+    {"correct":false, "answer":"the repeater needs a CTCSS tone"}
+  ]
+},
+{
+  "number":1248,
+  "question":"The purpose of a 2 metre repeater is to",
+  "answers": [
+    {"correct":false, "answer":"Permit amateur operation without the use of callsigns"},
+    {"correct":false, "answer":"Provide communication for emergency purposes"},
+    {"correct":true, "answer":"Make possible VHF contacts over longer distances"},
+    {"correct":false, "answer":"Experiment with frequency shift techniques"}
+  ]
+},
+{
+  "number":1157,
+  "question":"The holder of an amateur radio licence wishes to make radio contactwith a station in another IARU region who is permitted to transmit on7.25MHz. The licensee is allowed to",
+  "answers": [
+    {"correct":false, "answer":"Transmit and receive on 7.25MHz"},
+    {"correct":false, "answer":"Transmit briefly on 7.25MHz to request the station to move to a permitted part of the band"},
+    {"correct":true, "answer":"Listen to the station on 7.25MHz and transmit only within the permitted band"},
+    {"correct":false, "answer":"Transmit and receive only within the permitted band"}
+  ]
+}
+]
