@@ -83,8 +83,8 @@ func QuizPost(c *gin.Context) {
 				break
 			}
 		}
-		ans, okay := c.GetPostForm("answer")
-		if i, _ := strconv.Atoi(ans); i == correctIndex && okay {
+		ans, _ := c.GetPostForm("answer")
+		if i, _ := strconv.Atoi(ans); i == correctIndex && ans != "" {
 			correct[current] = true
 			fmt.Println(ans)
 			fmt.Println(okay)
