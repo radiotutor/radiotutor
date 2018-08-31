@@ -1,6 +1,7 @@
 package pages
 
 import (
+	"fmt"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
 	"github.com/pe5er/radiotutor/quiz"
@@ -82,9 +83,11 @@ func QuizPost(c *gin.Context) {
 				break
 			}
 		}
-		ans, _ := c.GetPostForm("answer")
-		if i, _ := strconv.Atoi(ans); i == correctIndex {
+		ans, okay := c.GetPostForm("answer")
+		if i, _ := strconv.Atoi(ans); i == correctIndex && okay {
 			correct[current] = true
+			fmt.Println(ans)
+			fmt.Println(okay)
 		} else {
 			correct[current] = false
 		}
