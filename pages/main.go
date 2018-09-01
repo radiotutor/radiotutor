@@ -15,3 +15,10 @@ func LicenceSpec(c *gin.Context) {
 func ExamGen(c *gin.Context) {
 	c.String(200, "Licences %s exam", c.Param("licenceType"))
 }
+
+func Contact(c *gin.Context) {
+	c.HTML(200, "contact.html", nil)
+}
+func Faq(c *gin.Context) {
+	c.HTML(200, "faq.html", nil)
+}
