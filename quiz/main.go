@@ -47,11 +47,11 @@ func QuestionsInit() {
 
 func ReturnQuestion(t string, n int) Question {
 	switch t {
-	case "M0":
+	case "AV":
 		return advanced[n%len(advanced)]
-	case "2E0":
+	case "I":
 		return intermediate[n%len(intermediate)]
-	case "M6":
+	case "F":
 		return foundation[n%len(foundation)]
 	}
 	return Question{}

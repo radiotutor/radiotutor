@@ -5,11 +5,11 @@ import "github.com/gin-gonic/gin"
 func Courses(c *gin.Context) {
 
 	switch c.Param("licenceType") {
-	case "M0":
+	case "AV":
 		c.HTML(200, "advanced.html", nil)
-	case "2E0":
+	case "I":
 		c.HTML(200, "intermediate.html", nil)
-	case "M6":
+	case "F":
 		c.HTML(200, "foundation.html", nil)
 	}
 }

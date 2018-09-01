@@ -7,7 +7,7 @@ func Licences(c *gin.Context) {
 }
 
 func LicenceSpec(c *gin.Context) {
-	if s := c.Param("licenceType"); s != "M0" && s != "2E0" && s != "M6" {
+	if s := c.Param("licenceType"); s != "F" && s != "I" && s != "AV" {
 		c.Redirect(302, "/")
 	}
 }
