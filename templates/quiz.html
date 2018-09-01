@@ -13,13 +13,51 @@
 
 </div>
 
-<form method="post">
+<!-- <form method="post">
 <p>How Many things</p>
 <input type="text" name="number" />
 <input type="submit" value="submit" />
-</form>
+</form> -->
+
+
+<br><br><br><br>
+    <div class="container">
+      <div class="card-deck mb-3 text-center">
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Quick Quiz</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">10 <small class="text-muted"> questions</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Quick quiz to test your skills</li>
+              <li><br></li>
+              <li><br></li>
+              <li><br></li>
+            </ul>
+            <input type="submit" class="btn btn-lg btn-block btn-outline-primary" value="Sounds Good">
+          </div>
+        </div>
+		<div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Mock Exam</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">{{ .NoOfQuestions }}<small class="text-muted"> questions</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Full mock exam</li>
+              <li><br></li>
+              <li><br></li>
+              <li><br></li>
+            </ul>
+            <input type="submit" class="btn btn-lg btn-block btn-outline-primary" value="Sure Thing">
+          </div>
+        </div>
+      </div>
 
 <br><br>
+
+
     
 <!--Embed the footer.html template at this location-->
 {{ template "footer.html" .}}
