@@ -2,6 +2,14 @@ package pages
 
 import "github.com/gin-gonic/gin"
 
+var (
+	licenceCodeToName = map[string]string{
+		"F":  "Foundation",
+		"I":  "Intermediate",
+		"AV": "Advance",
+	}
+)
+
 func Licences(c *gin.Context) {
 	c.String(200, "Licences")
 }

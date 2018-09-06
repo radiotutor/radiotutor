@@ -8,13 +8,21 @@ import (
 	"strconv"
 )
 
+var (
+	fullQuizSize = map[string]int{
+		"F":  26,
+		"I":  45,
+		"AV": 40,
+	}
+)
+
 func QuizGet(c *gin.Context) {
 	session := sessions.Default(c)
 	l := c.Param("licenceType")
 
 	v := session.Get(l + "Started")
 	if v == nil {
-		c.HTML(200, "quiz.html", gin.H{"Licence": l})
+		c.HTML(200, "quiz.html", gin.H{"Licence": licenceCodeToName[l], "NoOfQuestions": fullQuizSize[l]})
 		return
 	}
 
@@ -39,13 +47,20 @@ func QuizPost(c *gin.Context) {
 	l := c.Param("licenceType")
 
 	// Initial stage post
-	if numberOfQuizS, ok := c.GetPostForm("number"); ok {
+	if numberOfQuizS, ok := c.GetPostForm("sel"); ok {
 		numberOfQuiz, err := strconv.Atoi(numberOfQuizS)
-		if err != nil {
+		if err != nil || (numberOfQuiz != 1 && numberOfQuiz != 2) {
 			QuizGet(c)
 			return
 		}
-		session.Set(l+"Started", numberOfQuiz)
+
+		switch numberOfQuiz {
+		case 1:
+			session.Set(l+"Started", 10)
+		case 2:
+			session.Set(l+"Started", fullQuizSize[l])
+
+		}
 		session.Save()
 	}
 
@@ -54,12 +69,6 @@ func QuizPost(c *gin.Context) {
 	// Check Proper Post
 	if session.Get(l+"Started") == nil {
 		QuizGet(c)
-		return
-	}
-	if session.Get(l+"Started").(int) < 0 || session.Get(l+"Started").(int) > 40 {
-		session.Delete(l + "Started")
-		QuizGet(c)
-		session.Save()
 		return
 	}
 	if v == nil {
