@@ -46,3 +46,12 @@ func routes() *gin.Engine {
 
 	return e
 }
+
+func HttpsRedirect() *gin.Engine {
+	e := gin.Default()
+	e.NoRoute(func(c *gin.Context) {
+		c.Redirect(302, "https://radiotutor.uk")
+	})
+
+	return e
+}

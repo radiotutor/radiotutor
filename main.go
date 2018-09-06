@@ -25,6 +25,7 @@ func main() {
 		f, _ := os.Create("gin.log")
 		gin.DefaultWriter = io.MultiWriter(f)
 
+		go HttpsRedirect().Run(":80")
 		autotls.Run(r, "radiotutor.uk")
 	}
 }
