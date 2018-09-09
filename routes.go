@@ -5,7 +5,7 @@ import (
 	"github.com/gin-contrib/cache"
 	"github.com/gin-contrib/cache/persistence"
 	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/memstore"
+	"github.com/gin-contrib/sessions/redis"
 	"github.com/gin-gonic/gin"
 	p "github.com/pe5er/radiotutor/pages"
 	"github.com/pe5er/radiotutor/quiz"
@@ -23,7 +23,7 @@ func routes() *gin.Engine {
 	cacheStore := persistence.NewInMemoryStore(time.Second)
 	gob.Register([]quiz.Question{})
 
-	cookiesSessionStore := memstore.NewStore([]byte("HANGE_IN_PRODUCTION"))
+	cookiesSessionStore, _ := redis.NewStore(10, "tcp", "localhost:6379", "", []byte("secret"))
 
 	// Static Pages
 	e.GET("/", cache.CachePage(cacheStore, time.Hour, p.Home))

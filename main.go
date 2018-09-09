@@ -16,11 +16,12 @@ func main() {
 
 	// Logging to a file.
 	// Listen and Server in https://127.0.0.1:8080
-	if os.Getenv("RADIOTUTOR_DEV") == "true" {
+	if os.Getenv("RTDEV") == "true" {
 		fmt.Printf("hello world")
 		r.Run(":8080")
 	} else {
 
+		fmt.Printf("hello production world")
 		gin.DisableConsoleColor()
 		f, _ := os.Create("gin.log")
 		gin.DefaultWriter = io.MultiWriter(f)
