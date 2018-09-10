@@ -30,3 +30,6 @@ func Contact(c *gin.Context) {
 func Faq(c *gin.Context) {
 	c.HTML(200, "faq.html", nil)
 }
+func Robots(c *gin.Context) {
+	c.HTML(200, "robots.txt", nil)
+}
