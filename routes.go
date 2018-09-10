@@ -29,6 +29,7 @@ func routes() *gin.Engine {
 	e.GET("/", cache.CachePage(cacheStore, time.Hour, p.Home))
 	e.GET("/faq", cache.CachePage(cacheStore, time.Hour, p.Faq))
 	e.GET("/contact", cache.CachePage(cacheStore, time.Hour, p.Contact))
+	e.GET("/robots.txt", cache.CachePage(cacheStore, time.Hour, p.Robots))
 
 	// Licences
 	e.GET("/l", p.Licences)
