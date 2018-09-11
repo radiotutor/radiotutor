@@ -2,10 +2,10 @@ package main
 
 import (
 	"encoding/gob"
-	"github.com/gin-contrib/cache"
-	"github.com/gin-contrib/cache/persistence"
 	"github.com/abaft/sessions"
 	"github.com/abaft/sessions/redis"
+	"github.com/gin-contrib/cache"
+	"github.com/gin-contrib/cache/persistence"
 	"github.com/gin-gonic/gin"
 	p "github.com/pe5er/radiotutor/pages"
 	"github.com/pe5er/radiotutor/quiz"
@@ -52,11 +52,7 @@ func routes() *gin.Engine {
 func HttpsRedirect() *gin.Engine {
 	e := gin.Default()
 	e.NoRoute(func(c *gin.Context) {
-		suffix := "/"
-		for _, p := range c.Params {
-			suffix += p.Value + "/"
-		}
-		c.Redirect(302, "https://radiotutor.uk"+suffix)
+		c.Redirect(302, "https://radiotutor.uk"+c.Request.URL)
 	})
 
 	return e
