@@ -44,11 +44,8 @@ func QuizGet(c *gin.Context) {
 func QuizPost(c *gin.Context) {
 
 	// Get Post Type
-	postType, ok := c.GetPostForm("type")
-	if !ok {
-		QuizGet(c)
-	}
-
+	postType, _ := c.GetPostForm("type")
+	
 	// Post Switch
 	switch postType {
 	case "start_quiz":
@@ -56,7 +53,7 @@ func QuizPost(c *gin.Context) {
 	case "question":
 		questionHandle(c)
 	default:
-		GetQuiz(c)
+		QuizGet(c)
 	}
 }
 
