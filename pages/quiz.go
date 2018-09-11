@@ -2,7 +2,7 @@ package pages
 
 import (
 	"fmt"
-	"github.com/gin-contrib/sessions"
+	"github.com/abaft/sessions"
 	"github.com/gin-gonic/gin"
 	"github.com/pe5er/radiotutor/quiz"
 	"strconv"

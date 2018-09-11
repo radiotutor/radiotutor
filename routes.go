@@ -4,8 +4,8 @@ import (
 	"encoding/gob"
 	"github.com/gin-contrib/cache"
 	"github.com/gin-contrib/cache/persistence"
-	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/redis"
+	"github.com/abaft/sessions"
+	"github.com/abaft/sessions/redis"
 	"github.com/gin-gonic/gin"
 	p "github.com/pe5er/radiotutor/pages"
 	"github.com/pe5er/radiotutor/quiz"
@@ -30,6 +30,7 @@ func routes() *gin.Engine {
 	e.GET("/faq", cache.CachePage(cacheStore, time.Hour, p.Faq))
 	e.GET("/contact", cache.CachePage(cacheStore, time.Hour, p.Contact))
 	e.GET("/robots.txt", cache.CachePage(cacheStore, time.Hour, p.Robots))
+	e.GET("/privacy", cache.CachePage(cacheStore, time.Hour, p.Privacy))
 
 	// Licences
 	e.GET("/l", p.Licences)
