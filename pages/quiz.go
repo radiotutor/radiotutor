@@ -55,6 +55,8 @@ func QuizPost(c *gin.Context) {
 		startQuiz(c)
 	case "question":
 		questionHandle(c)
+	default:
+		GetQuiz(c)
 	}
 }
 
