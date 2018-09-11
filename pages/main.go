@@ -33,3 +33,6 @@ func Faq(c *gin.Context) {
 func Robots(c *gin.Context) {
 	c.HTML(200, "robots.txt", nil)
 }
+func Privacy(c *gin.Context) {
+	c.HTML(200, "privacy.html", nil)
+}
