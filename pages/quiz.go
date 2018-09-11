@@ -10,7 +10,7 @@ import (
 
 var (
 	fullQuizSize = map[string]int{
-		"F":  26,
+		"F":  19,
 		"I":  45,
 		"AV": 40,
 	}
@@ -53,13 +53,14 @@ func QuizPost(c *gin.Context) {
 			QuizGet(c)
 			return
 		}
+		fmt.Println(numberOfQuiz)
 
 		switch numberOfQuiz {
 		case 1:
 			session.Set(l+"Started", 10)
 		case 2:
 			session.Set(l+"Started", fullQuizSize[l])
-
+			fmt.Println()
 		}
 		session.Save()
 	}
@@ -76,6 +77,7 @@ func QuizPost(c *gin.Context) {
 		session.Set(l+"Current", int(0))
 		correct := make([]bool, session.Get(l+"Started").(int))
 		session.Set(l+"Quiz", quiz.ReturnQuiz(l, 1, session.Get(l+"Started").(int)))
+		fmt.Println(session.Get(l + "Quiz").([]quiz.Question))
 		session.Set(l+"QuizCorrect", correct)
 	} else {
 

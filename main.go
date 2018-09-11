@@ -10,6 +10,9 @@ import (
 
 func main() {
 	gin.SetMode(gin.ReleaseMode)
+	gin.DisableConsoleColor()
+	f, _ := os.Create("gin.log")
+	gin.DefaultWriter = io.MultiWriter(f)
 
 	r := routes()
 	r.LoadHTMLGlob("templates/*")
@@ -20,12 +23,7 @@ func main() {
 		fmt.Printf("hello world")
 		r.Run(":8080")
 	} else {
-
-		fmt.Printf("hello production world")
-		gin.DisableConsoleColor()
-		f, _ := os.Create("gin.log")
-		gin.DefaultWriter = io.MultiWriter(f)
-
+		fmt.Println("hello production world")
 		go HttpsRedirect().Run(":80")
 		autotls.Run(r, "radiotutor.uk")
 	}
