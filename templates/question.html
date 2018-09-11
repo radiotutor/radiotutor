@@ -22,6 +22,7 @@
 	
       <div class="panel-heading"><h3 class="panel-title">{{.Question}}</h3></div>
 	  <form method="POST">
+    <input type="hidden" name="type" value="question" />
       <div class="panel-body form-group">
 				<div class="custom-control custom-radio">
   				<input type="radio" value="0" id="answer0" name="answer" class="custom-control-input">
@@ -41,7 +42,10 @@
 				</div>
       </div>
     </div>
-	  <button class="btn btn-primary" type="submit">Submit Answer</button>
+
+<button class="btn btn-primary" type="submit" name="nav" value="previous">Previous</button>
+	  <button class="btn btn-primary" type="submit" name="nav" value="exit">Exit</button>
+	  <button class="btn btn-primary" type="submit" name="nav" value="next">Next</button>
 	</div>
 	
 </div>

@@ -43,95 +43,109 @@ func QuizGet(c *gin.Context) {
 }
 
 func QuizPost(c *gin.Context) {
+
+	// Get Post Type
+	postType, ok := c.GetPostForm("type")
+	if !ok {
+		QuizGet(c)
+	}
+
+	// Post Switch
+	switch postType {
+	case "start_quiz":
+		startQuiz(c)
+	case "question":
+		questionHandle(c)
+	}
+}
+
+func startQuiz(c *gin.Context) {
 	session := sessions.Default(c)
 	l := c.Param("licenceType")
+	defer QuizGet(c)
 
-	// Initial stage post
-	if numberOfQuizS, ok := c.GetPostForm("sel"); ok {
-		numberOfQuiz, err := strconv.Atoi(numberOfQuizS)
-		if err != nil || (numberOfQuiz != 1 && numberOfQuiz != 2) {
-			QuizGet(c)
+	session.Clear()
+
+	// Check Proper Quiz Start Post
+	if sel, ok := c.GetPostForm("sel"); ok {
+		sel, err := strconv.Atoi(sel)
+		if err != nil || (sel != 1 && sel != 2) {
 			return
 		}
-		fmt.Println(numberOfQuiz)
 
-		switch numberOfQuiz {
+		// Set Quiz Size
+		switch sel {
 		case 1:
 			session.Set(l+"Started", 10)
 		case 2:
 			session.Set(l+"Started", fullQuizSize[l])
-			fmt.Println()
 		}
-		session.Save()
 	}
 
-	v := session.Get(l + "Current")
+	// Setup Quiz
+	session.Set(l+"Current", int(0))
+	quiz := quiz.ReturnQuiz(l, 1, session.Get(l+"Started").(int))
+	if quiz == nil {
+		// Session isn't saved so should be fine
+		return
+	}
+	session.Set(l+"Quiz", quiz)
+	answers := make([]byte, session.Get(l+"Started").(int))
+	for i, _ := range answers {
+		answers[i] = 5
+	}
+	session.Set(l+"QuizAnswers", answers)
+	session.Save()
+}
 
-	// Check Proper Post
-	if session.Get(l+"Started") == nil {
+func questionHandle(c *gin.Context) {
+	session := sessions.Default(c)
+	l := c.Param("licenceType")
+
+	// Check Valid Post and Session
+	nav, _ := c.GetPostForm("nav")
+	if session.Get(l+"Started") == nil ||
+		(nav != "next" && nav != "previous" && nav != "exit") {
+		return
+	}
+
+	// Check Exit
+	if nav == "exit" {
+		session.Clear()
+		session.Save()
 		QuizGet(c)
 		return
 	}
-	if v == nil {
-		// Setup
-		session.Set(l+"Current", int(0))
-		correct := make([]bool, session.Get(l+"Started").(int))
-		session.Set(l+"Quiz", quiz.ReturnQuiz(l, 1, session.Get(l+"Started").(int)))
-		fmt.Println(session.Get(l + "Quiz").([]quiz.Question))
-		session.Set(l+"QuizCorrect", correct)
-	} else {
 
-		// Change question
-		q := session.Get(l + "Quiz").([]quiz.Question)
-		len := session.Get(l + "Started").(int)
-		current := v.(int)
-		correctIndex := -1
-		correct := session.Get(l + "QuizCorrect").([]bool)
-
-		for i, ans := range q[current].Answers {
-			if ans.Correct {
-				correctIndex = i
-				break
-			}
-		}
-		ans, okay := c.GetPostForm("answer")
-		if i, _ := strconv.Atoi(ans); i == correctIndex && ans != "" {
-			correct[current] = true
-			fmt.Println(ans)
-			fmt.Println(okay)
-		} else {
-			correct[current] = false
-		}
-
-		session.Set(l+"QuizCorrect", correct)
-
-		if (len - 1) == current {
-			score := int(0)
-			for _, j := range correct {
-				if j {
-					score++
-				}
-			}
-
-			session.Delete(l + "Started")
-			session.Delete(l + "Current")
-			session.Delete(l + "Quiz")
-			session.Delete(l + "QuizCorrect")
-			session.Save()
-			c.HTML(200, "result.html", gin.H{
-				"Licence":       licenceCodeToName[l],
-				"NoOfQuestions": strconv.Itoa(len),
-				"Score":         strconv.Itoa(score),
-			})
-			return
-		} else {
-			current++
-		}
-		session.Set(l+"Current", current)
+	current := session.Get(l + "Current").(int)
+	answers := session.Get(l + "QuizAnswers").([]byte)
+	q := session.Get(l + "Quiz").([]quiz.Question)
+	numberOfQuestions := session.Get(l + "Started").(int)
+	ans, _ := c.GetPostForm("answer")
+	// Record Answer
+	if i, _ := strconv.Atoi(ans); ans != "" && i >= 0 && i < 5 {
+		answers[current] = byte(i)
+	}
+	// Increment Next
+	if nav == "next" {
+		current++
+	} else if nav == "previous" && current != 0 {
+		current--
 	}
 
+	// Check if quiz is over
+	if current == numberOfQuestions {
+		c.HTML(200, "result.html", gin.H{
+			"Licence":       licenceCodeToName[l],
+			"NoOfQuestions": strconv.Itoa(numberOfQuestions),
+			"Score":         strconv.Itoa(quiz.Mark(q, answers)),
+		})
+		session.Clear()
+		session.Save()
+		return
+	}
+	session.Set(l+"Current", current)
+	session.Set(l+"QuizAnswers", answers)
 	session.Save()
 	QuizGet(c)
-
-	//c.JSON(200, gin.H{"number": numberOfQuiz})
 }

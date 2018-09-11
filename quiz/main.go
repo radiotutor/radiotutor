@@ -66,6 +66,8 @@ func ReturnQuiz(t string, n int, num int) []Question {
 
 	source := rand.NewSource(time.Now().UnixNano())
 	r := rand.New(source)
+
+	sanityCounter := 0
 OUTER:
 	for i := 0; i < num; i++ {
 		z := r.Intn(1000)
@@ -73,6 +75,10 @@ OUTER:
 		for _, c := range copy {
 			if q.Number == c {
 				i--
+				// For the sake of this never becoming an infinate loop
+				if sanityCounter++; sanityCounter > 10000 {
+					return nil
+				}
 				continue OUTER
 			}
 		}
@@ -81,4 +87,20 @@ OUTER:
 	}
 	return rtn
 
+}
+
+func Mark(questions []Question, answers []byte) int {
+	score := 0
+	for i, q := range questions {
+		for z, ans := range q.Answers {
+			if ans.Correct {
+				if int(answers[i]) == z {
+					score++
+
+				}
+				break
+			}
+		}
+	}
+	return score
 }
