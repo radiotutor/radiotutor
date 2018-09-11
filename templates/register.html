@@ -3,7 +3,10 @@
 {{ template "header.html" .}}
 
 <div class="container" style="margin-top:30px">
-<h1>Register</h1>
+<h1>Login - Not Available Yet</h1>
+<p>The RadioTutor team are working hard to bring user accounts to the website. They should be available soon</p>
+<br><br><br><br>
+  
 
 <div class="panel panel-default col-sm-6">
   <div class="panel-body">
@@ -14,6 +17,8 @@
     </p>
     {{end}}
     <!--Create a form that POSTs to the `/u/register` route-->
+    
+    <fieldset disabled>
     <form class="form" action="/u/register" method="POST">
       <div class="form-group">
         <label for="username">Username</label>
@@ -25,6 +30,7 @@
       </div>
       <button type="submit" class="btn btn-primary">Register</button>
     </form>
+    </fieldset>
   </div>
 </div>  
 
