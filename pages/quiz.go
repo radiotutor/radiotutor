@@ -118,7 +118,11 @@ func QuizPost(c *gin.Context) {
 			session.Delete(l + "Quiz")
 			session.Delete(l + "QuizCorrect")
 			session.Save()
-			c.String(200, strconv.Itoa(score)+"/"+strconv.Itoa(len))
+			c.HTML(200, "result.html", gin.H{
+				"Licence":       licenceCodeToName[l],
+				"NoOfQuestions": strconv.Itoa(len),
+				"Score":         strconv.Itoa(score),
+			})
 			return
 		} else {
 			current++
