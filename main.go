@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"github.com/gin-gonic/autotls"
 	"github.com/gin-gonic/gin"
+	"html/template"
 	"io"
 	"os"
 )
@@ -15,6 +16,10 @@ func main() {
 	gin.DefaultWriter = io.MultiWriter(f)
 
 	r := routes()
+
+	r.SetFuncMap(template.FuncMap{
+		"inc": tmplInc,
+	})
 	r.LoadHTMLGlob("templates/*")
 
 	// Logging to a file.

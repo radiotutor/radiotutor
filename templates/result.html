@@ -18,6 +18,20 @@
 </div>
 
 
+{{$sub := .Sub}}
+{{range $i, $e := .Questions}}
+<p>
+  {{inc $i}}
+  {{ $e.Question }} <br />
+  {{range $z, $a := $e.Answers}}
+    {{inc $z}}) {{ $a.Answer}}
+    {{if eq $z (index $sub $i)}} XXXX {{end}}
+    {{if $a.Correct}} -- Correct Answer {{end}}
+    <br />
+  {{end}}
+</p>
+{{end}}
+
 <br><br>
 
 

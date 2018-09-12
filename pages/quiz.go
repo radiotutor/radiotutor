@@ -45,7 +45,7 @@ func QuizPost(c *gin.Context) {
 
 	// Get Post Type
 	postType, _ := c.GetPostForm("type")
-	
+
 	// Post Switch
 	switch postType {
 	case "start_quiz":
@@ -104,6 +104,7 @@ func questionHandle(c *gin.Context) {
 	nav, _ := c.GetPostForm("nav")
 	if session.Get(l+"Started") == nil ||
 		(nav != "next" && nav != "previous" && nav != "exit") {
+		QuizGet(c)
 		return
 	}
 
@@ -137,6 +138,8 @@ func questionHandle(c *gin.Context) {
 			"Licence":       licenceCodeToName[l],
 			"NoOfQuestions": strconv.Itoa(numberOfQuestions),
 			"Score":         strconv.Itoa(quiz.Mark(q, answers)),
+			"Questions":     q,
+			"Sub":           answers,
 		})
 		session.Clear()
 		session.Save()
