@@ -2,6 +2,8 @@
 
 
 {{ template "header.html" .}}
+{{ $current := .State.Current }}
+{{ $sub := .State.Sub }}
 
 <div class="container" style="margin-top:30px">
 
@@ -13,39 +15,37 @@
 
 	<div class="col-md-10 column">
 	
-	<p class="lead">{{.Current}}/{{.NumQ}}</p>
+	<p class="lead">{{inc .State.Current}}/{{.State.Length}}</p>
 	
     <div class="progress">
     </div>
 	
     <div class="panel panel-primary">
 	
-      <div class="panel-heading"><h3 class="panel-title">{{.Question}}</h3></div>
+      <div class="panel-heading"><h3 class="panel-title">{{(index .State.Quiz $current).Question}}</h3></div>
 	  <form method="POST">
     <input type="hidden" name="type" value="question" />
       <div class="panel-body form-group">
+{{ range $i, $ans := (index .State.Quiz .State.Current).Answers }}
 				<div class="custom-control custom-radio">
-  				<input type="radio" value="0" id="answer0" name="answer" class="custom-control-input">
-  				<label class="custom-control-label" for="answer0">{{.Answer1}}</label>
+  				<input type="radio" value="{{$i}}" id="answer{{$i}}"{{/*
+          */}} {{if eq $i (index $sub $current)}} checked {{end}} {{/*
+          */}} name="answer" class="custom-control-input">
+  				<label class="custom-control-label" for="answer{{$i}}">{{ $ans.Answer}}</label>
 				</div>
-				<div class="custom-control custom-radio">
-	 				<input type="radio" value="1" id="answer1" name="answer" class="custom-control-input">
-  				<label class="custom-control-label" for="answer1">{{.Answer2}}</label>
-				</div>
-				<div class="custom-control custom-radio">
-  				<input type="radio" value="2" id="answer2" name="answer" class="custom-control-input">
-  				<label class="custom-control-label" for="answer2">{{.Answer3}}</label>
-				</div>
-				<div class="custom-control custom-radio">
-  				<input type="radio" value="3" id="answer3" name="answer" class="custom-control-input">
-  				<label class="custom-control-label" for="answer3">{{.Answer4}}</label>
-				</div>
+{{end}}
       </div>
     </div>
 
-<button class="btn btn-primary" type="submit" name="nav" value="previous">Previous</button>
+{{if ne $current 0 }}
+    <button class="btn btn-primary" type="submit" name="nav" value="previous">Previous</button>
+{{end}}
 	  <button class="btn btn-primary" type="submit" name="nav" value="exit">Exit</button>
+{{if eq (inc $current) .State.Length}}
+	  <button class="btn btn-primary" type="submit" name="nav" value="next">Submit</button>
+{{else}}
 	  <button class="btn btn-primary" type="submit" name="nav" value="next">Next</button>
+{{end}}
 	</div>
 	
 </div>

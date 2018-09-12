@@ -25,17 +25,19 @@ func QuizGet(c *gin.Context) {
 		return
 	}
 
+	type state struct {
+		Quiz    []quiz.Question
+		Current int
+		Length  int
+		Sub     []byte
+	}
 	q := session.Get(l + "Quiz").([]quiz.Question)
 	current := session.Get(l + "Current").(int)
+	answers := session.Get(l + "QuizAnswers").([]byte)
+	currentState := state{Quiz: q, Current: current, Length: v.(int), Sub: answers}
+
 	if len(q) > current {
-		c.HTML(200, "question.html", gin.H{
-			"Current":  strconv.Itoa(current + 1),
-			"NumQ":     strconv.Itoa(v.(int)),
-			"Question": q[current].Question,
-			"Answer1":  q[current].Answers[0].Answer,
-			"Answer2":  q[current].Answers[1].Answer,
-			"Answer3":  q[current].Answers[2].Answer,
-			"Answer4":  q[current].Answers[3].Answer})
+		c.HTML(200, "question.html", gin.H{"State": currentState})
 	}
 
 	//session.Save()
