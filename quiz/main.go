@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"math/rand"
+	"sync"
 	"time"
 )
 
@@ -23,9 +24,12 @@ func check(e error) {
 }
 
 var (
-	foundation   []Question
-	intermediate []Question
-	advanced     []Question
+	foundation        []Question
+	foundationMutex   = &sync.Mutex{}
+	intermediate      []Question
+	intermediateMutex = &sync.Mutex{}
+	advanced          []Question
+	advancedMutex     = &sync.Mutex{}
 )
 
 func QuestionsInit() {
@@ -46,15 +50,22 @@ func QuestionsInit() {
 }
 
 func ReturnQuestion(t string, n int) Question {
+	rtn := Question{}
 	switch t {
 	case "AV":
-		return advanced[n%len(advanced)]
+		advancedMutex.Lock()
+		rtn = advanced[n%len(advanced)]
+		advancedMutex.Unlock()
 	case "I":
-		return intermediate[n%len(intermediate)]
+		intermediateMutex.Lock()
+		rtn = intermediate[n%len(intermediate)]
+		intermediateMutex.Unlock()
 	case "F":
-		return foundation[n%len(foundation)]
+		foundationMutex.Lock()
+		rtn = foundation[n%len(foundation)]
+		foundationMutex.Unlock()
 	}
-	return Question{}
+	return rtn
 }
 
 func ReturnQuiz(t string, n int, num int) []Question {
@@ -96,7 +107,6 @@ func Mark(questions []Question, answers []byte) int {
 			if ans.Correct {
 				if int(answers[i]) == z {
 					score++
-
 				}
 				break
 			}
