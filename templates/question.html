@@ -15,7 +15,7 @@
 
 	<div class="col-md-10 column">
 	
-	<p class="lead">{{inc .State.Current}}/{{.State.Length}}</p>
+	<p class="lead" id="questionJMP">{{inc .State.Current}}/{{.State.Length}}</p>
 	
     <div class="progress">
     </div>
@@ -23,7 +23,7 @@
     <div class="panel panel-primary">
 	
       <div class="panel-heading"><h3 class="panel-title">{{(index .State.Quiz $current).Question}}</h3></div>
-	  <form method="POST">
+	  <form action="#questionJMP" method="POST">
     <input type="hidden" name="type" value="question" />
       <div class="panel-body form-group">
 {{ range $i, $ans := (index .State.Quiz .State.Current).Answers }}
