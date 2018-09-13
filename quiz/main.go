@@ -2,6 +2,7 @@ package quiz
 
 import (
 	"encoding/json"
+	"html/template"
 	"io/ioutil"
 	"math/rand"
 	"sync"
@@ -13,8 +14,8 @@ type Question struct {
 		Answer  string `json:"answer"`
 		Correct bool   `json:"correct"`
 	} `json:"answers"`
-	Number   int64  `json:"number"`
-	Question string `json:"question"`
+	Number   int64         `json:"number"`
+	Question template.HTML `json:"question"`
 }
 
 func check(e error) {
