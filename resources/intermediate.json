@@ -251,7 +251,7 @@
 },
 {
   "number":216,
-  "question":"How much current flows in the following circuit if each of the resistors is 600 ohms <img src='https://cdn.rawgit.com/pe5er/0e5636b25ee91e1ba122e7e16cea27bd/raw/6e6572ca2c4fc6dc4b91692e24fd28d99b7f6d19/i216.svg'>",
+  "question":"How much current flows in the following circuit if each of the resistors is 600 ohms <br><img src='https://cdn.rawgit.com/pe5er/0e5636b25ee91e1ba122e7e16cea27bd/raw/6e6572ca2c4fc6dc4b91692e24fd28d99b7f6d19/i216.svg'>",
   "answers": [
     {"correct":false, "answer":"100 mA"},
     {"correct":true, "answer":"30 mA"},
