@@ -251,7 +251,7 @@
 },
 {
   "number":216,
-  "question":"How much current flows in the following circuit if each of the resistors is 600 ohms <br><img src='https://cdn.rawgit.com/pe5er/0e5636b25ee91e1ba122e7e16cea27bd/raw/6e6572ca2c4fc6dc4b91692e24fd28d99b7f6d19/i216.svg'>",
+  "question":"How much current flows in the following circuit if each of the resistors is 600 ohms <br><br><img  width='40%' src='https://cdn.rawgit.com/pe5er/0e5636b25ee91e1ba122e7e16cea27bd/raw/6e6572ca2c4fc6dc4b91692e24fd28d99b7f6d19/i216.svg'>",
   "answers": [
     {"correct":false, "answer":"100 mA"},
     {"correct":true, "answer":"30 mA"},
@@ -351,7 +351,7 @@
 },
 {
   "number":226,
-  "question":"Which of the following statements best describes this circuit IMG_NEEDED",
+  "question":"Which of the following statements best describes this circuit <br><br><img  width='40%' src='https://cdn.rawgit.com/pe5er/dec949acf1629de144b0a6e1a6070fcf/raw/8212c9c3ea4b86c02d91c34f0f94ca2d90a60c4b/i226.svg'>",
   "answers": [
     {"correct":true, "answer":"the capacitance and inductance together form a parallel tuned circuit"},
     {"correct":false, "answer":"the circuit will not work because the coil of wire will short out the capacitor"},
@@ -431,7 +431,7 @@
 },
 {
   "number":234,
-  "question":"The following oscilloscope trace represents IMG_NEEDED",
+  "question":"The following oscilloscope trace represents <br><br><img width='40%' src='https://cdn.rawgit.com/pe5er/0d7da4414af5ae0ad552bf1b3c67d028/raw/47d412429b28ef947cc945739decc180dc163f2e/i234.svg'>",
   "answers": [
     {"correct":false, "answer":"the output of a crystal oscillator"},
     {"correct":false, "answer":"interference from a car ignition system"},
@@ -441,7 +441,7 @@
 },
 {
   "number":235,
-  "question":"The following wave form shows the effect of IMG_NEEDED",
+  "question":"The following wave form shows the effect of <br><br><img width='40%' src='https://cdn.rawgit.com/pe5er/50269f73789fb5adf747b53cc4d8cb5d/raw/b9c3bf6235d09b6ba4acfa2423f645ca9373f8f5/i235.svg'>",
   "answers": [
     {"correct":false, "answer":"the output of a half wave rectifier but with a resistor placed in series with the diode which delays the drop in voltage "},
     {"correct":true, "answer":"a capacitor placed across the output of a half wave rectifier to provide a smoothing effect"},
@@ -511,22 +511,12 @@
 },
 {
   "number":242,
-  "question":"What is the following circuit IMG_NEEDED",
+  "question":"What is the following circuit  <br><br><img width='40%' src='https://cdn.rawgit.com/pe5er/bdd1673cbe95cadb2004ea3b64f41bee/raw/cf523afc3e0ba11d1af13cd040e6aa28947ee492/i242.svg'>",
   "answers": [
     {"correct":false, "answer":"a variable frequency oscillator"},
     {"correct":true, "answer":"a crystal controlled oscillator"},
     {"correct":false, "answer":"a basic receiver"},
     {"correct":false, "answer":"an LC tuned circuit"}
-  ]
-},
-{
-  "number":243,
-  "question":"Compare the following symbols and their possible descriptions. Which component is NOT drawn?nIMG_NEEDED",
-  "answers": [
-    {"correct":false, "answer":"a transformer"},
-    {"correct":false, "answer":"a crystal"},
-    {"correct":true, "answer":"a variable capacitance diode"},
-    {"correct":false, "answer":"a FET"}
   ]
 },
 {
@@ -570,18 +560,8 @@
   ]
 },
 {
-  "number":248,
-  "question":"You are told that in the following circuit 30 mA flows through R1 and that the voltage across R2 is 2 Volts What is the voltage across R3 and how much current flows through the Light Emitting Diode IMG_NEEDED",
-  "answers": [
-    {"correct":false, "answer":"4 Volts & 10 mA"},
-    {"correct":true, "answer":"2 Volts & 30 mA"},
-    {"correct":false, "answer":"1 Volt  & 20 mA"},
-    {"correct":false, "answer":"4 Volts & 30 mA"}
-  ]
-},
-{
   "number":250,
-  "question":"In the following diagram of a cw transmitter what does the unlabeled block represent IMG_NEEDED",
+  "question":"In the following diagram of a cw transmitter what does the unlabeled block represent <br><br><img width='40%' src='https://cdn.rawgit.com/pe5er/981ae339bdd24c0a04da965fe33acc1d/raw/103c3c9aabae49577809b2cf9d85039bdef2074b/i250.svg'>",
   "answers": [
     {"correct":true, "answer":"an rf oscillator"},
     {"correct":false, "answer":"a balance modulator"},
@@ -741,7 +721,7 @@
 },
 {
   "number":292,
-  "question":"The following diagram represents IMG_NEEDED",
+  "question":"The following diagram represents <br><br><img width='40%' src='https://cdn.rawgit.com/pe5er/b578ade6a39e4184ecf02d6593279c79/raw/42b6a0604048dfa4e2c2411eeb4ebd0153b4d501/i292.svg'>",
   "answers": [
     {"correct":false, "answer":"the response of a high pass filter "},
     {"correct":false, "answer":"the response of a band pass filter"},
@@ -750,18 +730,8 @@
   ]
 },
 {
-  "number":278,
-  "question":"The following diagram shows a carrier wave being modulated as the letter “C” is sent in morse code.  The very fast rise and fall time of the morse signal may cause IMG_NEEDED",
-  "answers": [
-    {"correct":false, "answer":"the wrong letters to be sent"},
-    {"correct":false, "answer":"difficulty in reading the morse"},
-    {"correct":false, "answer":"too fast a transmission"},
-    {"correct":true, "answer":"excessive bandwidth"}
-  ]
-},
-{
   "number":305,
-  "question":"The blank box in the following diagram of a superhet receiver should be labelled IMG_NEEDED",
+  "question":"The blank box in the following diagram of a superhet receiver should be labelled <br><br><img width='40%' src='https://cdn.rawgit.com/pe5er/51213601463af9f1aa6dc06b11bebe6e/raw/db5969e0af0aa979bbeec9a2bac92017aa03ec14/i305.svg'>",
   "answers": [
     {"correct":false, "answer":"RF Amplifier"},
     {"correct":true, "answer":"Demodulator"},
@@ -931,7 +901,7 @@
 },
 {
   "number":290,
-  "question":"The following polar diagram depicts the radiation pattern from a IMG_NEEDED",
+  "question":"The following polar diagram depicts the radiation pattern from a <br><br><img width='40%' src='https://cdn.rawgit.com/pe5er/f25519b21410308e9017f50c9112908d/raw/29ad4198a4b9f18a43f4faad108b482f481e99df/i290.svg'>",
   "answers": [
     {"correct":false, "answer":"yagi antenna"},
     {"correct":false, "answer":"a full wave antenna"},
