@@ -101,6 +101,20 @@ OUTER:
 
 }
 
+func Check(questions []Question, answers []byte, index int) bool {
+
+	for z, ans := range questions[index].Answers {
+		if ans.Correct {
+			if int(answers[index]) == z {
+				return true
+			}
+			break
+		}
+	}
+
+	return false
+}
+
 func Mark(questions []Question, answers []byte) int {
 	score := 0
 	for i, q := range questions {

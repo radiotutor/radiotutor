@@ -12,27 +12,43 @@
 <p>Well done for completing the test. View your score below:</p>
 <br>
 
-    <h2>{{ .Score }} / {{ .NoOfQuestions }}</h2>
     
     
-</div>
 
+<div class="row clearfix">
+	</div>
+
+	<div class="col-md-1 column">
+	</div>
+
+<div class="col-md-10 column"><h2>{{ .Score }} / {{ .NoOfQuestions }}</h2></div>
 
 {{$sub := .Sub}}
-{{range $i, $e := .Questions}}
-<p>
-  {{inc $i}}
-  {{ $e.Question }} <br />
+{{$questions := .Questions}}
+{{range $i, $e := $questions}}
+	<div class="col-md-10 column">
+  <div class="panel panel-primary">
+  <div class="panel-heading"><h3 class="panel-title" {{/*
+  */}}{{if check $questions $sub $i}}style="color:green"{{/*
+  */}}{{else}}style="color:red"{{end}}{{/*
+  */}}>{{inc $i}}) {{ $e.Question }}</h3></div>
+  <div class="panel-body form-group">
   {{range $z, $a := $e.Answers}}
-    {{inc $z}}) {{ $a.Answer}}
-    {{if eq $z (index $sub $i)}} XXXX {{end}}
-    {{if $a.Correct}} -- Correct Answer {{end}}
-    <br />
+				<div class="custom-control custom-radio">
+  				<input type="radio" value="{{$z}}{{$i}}" id="answer{{$z}}{{$i}}"{{/*
+          */}} {{if eq $z (index $sub $i)}} checked {{end}} {{/*
+          */}} name="answer{{$i}}" class="custom-control-input" disabled="true">
+  				<label class="custom-control-label" for="answer{{$z}}{{$i}}">
+          {{ $a.Answer}}{{if $a.Correct}} -- Correct Answer {{end}}
+          </label>
+				</div>
   {{end}}
-</p>
+	</div>
+	</div>
+	</div>
 {{end}}
 
-<br><br>
+</div>
 
 
     

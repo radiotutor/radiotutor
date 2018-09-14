@@ -18,7 +18,8 @@ func main() {
 	r := routes()
 
 	r.SetFuncMap(template.FuncMap{
-		"inc": tmplInc,
+		"inc":   tmplInc,
+		"check": tmplCheck,
 	})
 	r.LoadHTMLGlob("templates/*")
 
