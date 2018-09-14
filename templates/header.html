@@ -24,11 +24,39 @@
   </head>
 	
 <body>
-   
-	<div class="jumbotron text-center" style="margin-bottom:0">
-		<h1>RadioTutor</h1>
-		<p>Your Journey from Zero to MØ</p> 
+        <a href="/" style="text-decoration: none">
+	<div class="header jumbotron text-center" style="margin-bottom:0">
+	<div class="sitetitle"><h1>RadioTutor</h1></div>
+	<div class="sitesub"><p>Your Journey from Zero to MØ</p></div>
 	</div>
+	</a>
+	
+	<style>
+	.header {
+	background-image: url("https://cdn.rawgit.com/pe5er/e6c88db0dfe3e5bc45d7488707f83c55/raw/b0395de9e65269c2508a714e59085c03ecab326c/banner.svg");
+	background-size: cover;
+   	border-radius: 0 !important;
+	}
+	
+	.sitetitle {
+	   -webkit-text-stroke: 2px black;
+	   color: white;
+	}
+	
+	.sitesub {
+	   -webkit-text-stroke: 1px black;
+	   color: white;
+	}
+	
+	.header h1 {
+		   font-size: 400%;
+	}	
+	
+	.header p {
+		   font-size: 250%;
+	}	
+
+	</style>
 
     <!--Embed the menu.html template at this location-->
     {{ template "menu.html" . }}
