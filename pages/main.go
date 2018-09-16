@@ -6,7 +6,7 @@ var (
 	licenceCodeToName = map[string]string{
 		"F":  "Foundation",
 		"I":  "Intermediate",
-		"AV": "Advance",
+		"AV": "Advanced",
 	}
 )
 
