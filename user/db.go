@@ -3,7 +3,7 @@ package user
 /*
    SQL code
     create table users (
-        id int primary key auto increment not null,
+        id int primary key auto_increment not null,
         username varchar(64) not null unique,
         password varchar(128) not null,
         email varchar(128) not null
