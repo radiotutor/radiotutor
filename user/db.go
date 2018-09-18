@@ -1,5 +1,15 @@
 package user
 
+/*
+   SQL code
+    create table users (
+        id int primary key auto increment not null,
+        username varchar(64) not null unique,
+        password varchar(128) not null,
+        email varchar(128) not null
+    );
+*/
+
 import (
 	"database/sql"
 	"errors"
@@ -19,24 +29,6 @@ type User struct {
 	Username string `db:"username"`
 	Password string `db:"password"`
 	Email    string `db:"email"`
-}
-
-func init() {
-	db, err := sql.Open("mysql", sqlUsername+":"+sqlPassword+"@tcp("+serverURL+")/rt")
-	if err != nil {
-		panic(err)
-	}
-	defer db.Close()
-	_, err = db.Exec(`
-if not exists (select * from sysobjects where name='users' and xtype='U')
-    create table users (
-        id int primary key auto increment not null,
-        username varchar(64) not null unique,
-        password varchar(128) not null,
-        email varchar(128) not null
-    )
-go
-`)
 }
 
 func getUser(username string) (User, error) {
