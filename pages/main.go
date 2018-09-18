@@ -36,9 +36,3 @@ func Robots(c *gin.Context) {
 func Privacy(c *gin.Context) {
 	c.HTML(200, "privacy.html", nil)
 }
-func Login(c *gin.Context) {
-	c.HTML(200, "login.html", nil)
-}
-func Register(c *gin.Context) {
-	c.HTML(200, "register.html", nil)
-}
