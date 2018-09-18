@@ -1770,16 +1770,6 @@
   ]
 },
 {
-  "number":879,
-  "question":"The waveform shown above is:",
-  "answers": [
-    {"correct":false, "answer":"am"},
-    {"correct":true, "answer":"fm"},
-    {"correct":false, "answer":"ssb"},
-    {"correct":false, "answer":"cw"}
-  ]
-},
-{
   "number":975,
   "question":"The output power of a transmitter is mainly dependant on",
   "answers": [
