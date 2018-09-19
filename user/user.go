@@ -8,7 +8,6 @@ import (
 
 func AuthAttempt(username, password string) (User, error) {
 	user, err := getUser(username)
-	fmt.Println(user)
 	if err != nil {
 		return User{}, err
 	}
@@ -20,7 +19,7 @@ func AuthAttempt(username, password string) (User, error) {
 	}
 }
 
-func CreateUser(username, password, email string) error {
+func CreateUser(username, password, email string) (User, error) {
 	rawUser := User{
 		Username: username,
 		Password: gp.HashPassword(password),
@@ -28,18 +27,28 @@ func CreateUser(username, password, email string) error {
 	}
 
 	if len(rawUser.Username) > 64 {
-		return errors.New("Username too long")
+		return User{}, errors.New("Username too long")
 	} else if len(rawUser.Email) > 128 {
-		return errors.New("Email too long")
+		return User{}, errors.New("Email too long")
 	}
 
 	err := insertUser(rawUser)
 	if err != nil {
 		if strings.HasPrefix(err.Error(), "Error 1062") {
-			return errors.New("Username Taken")
+			msg := strings.Split(err.Error(), "'")
+			return User{}, errors.New(msg[3] + " already taken")
 		} else {
-			return err
+			return User{}, err
 		}
+	}
+	return rawUser, nil
+}
+
+func DeleteUser(user User) error {
+
+	err := deleteUser(user)
+	if err != nil {
+		return err
 	}
 	return nil
 }

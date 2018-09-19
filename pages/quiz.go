@@ -21,7 +21,10 @@ func QuizGet(c *gin.Context) {
 
 	v := session.Get(l + "Started")
 	if v == nil {
-		c.HTML(200, "quiz.html", gin.H{"Licence": licenceCodeToName[l], "NoOfQuestions": fullQuizSize[l]})
+		c.HTML(200, "quiz.html", gin.H{
+			"Licence":       licenceCodeToName[l],
+			"NoOfQuestions": fullQuizSize[l],
+		})
 		return
 	}
 
@@ -64,7 +67,7 @@ func startQuiz(c *gin.Context) {
 	l := c.Param("licenceType")
 	defer QuizGet(c)
 
-	session.Clear()
+	clearQuizSession(c)
 
 	// Check Proper Quiz Start Post
 	if sel, ok := c.GetPostForm("sel"); ok {
@@ -112,8 +115,7 @@ func questionHandle(c *gin.Context) {
 
 	// Check Exit
 	if nav == "exit" {
-		session.Clear()
-		session.Save()
+		clearQuizSession(c)
 		QuizGet(c)
 		return
 	}
@@ -143,12 +145,22 @@ func questionHandle(c *gin.Context) {
 			"Questions":     q,
 			"Sub":           answers,
 		})
-		session.Clear()
-		session.Save()
+		clearQuizSession(c)
 		return
 	}
 	session.Set(l+"Current", current)
 	session.Set(l+"QuizAnswers", answers)
 	session.Save()
 	QuizGet(c)
+}
+
+func clearQuizSession(c *gin.Context) {
+	session := sessions.Default(c)
+	l := c.Param("licenceType")
+
+	session.Delete(l + "Current")
+	session.Delete(l + "QuizAnswers")
+	session.Delete(l + "Quiz")
+	session.Delete(l + "Started")
+	session.Save()
 }

@@ -6,7 +6,7 @@ package user
         id int primary key auto increment not null,
         username varchar(64) not null unique,
         password varchar(128) not null,
-        email varchar(128) not null
+        email varchar(128) not null unique
     );
 */
 
@@ -41,17 +41,26 @@ func getUser(username string) (User, error) {
 	db, _ := squalor.NewDB(_db)
 	users, err := db.BindModel("users", User{})
 
-	q := users.Select("*").Where(users.C("username").Eq(username))
+	q1 := users.Select("*").Where(users.C("username").Eq(username))
+	q2 := users.Select("*").Where(users.C("email").Eq(username))
 
 	var u []User
-	err = db.Select(&u, q)
+	err = db.Select(&u, q1)
 	if err != nil {
 		return User{}, err
 	}
 	if len(u) == 1 {
 		return u[0], nil
 	}
-	return User{}, errors.New("User Not In DB")
+
+	err = db.Select(&u, q2)
+	if err != nil {
+		return User{}, err
+	}
+	if len(u) == 1 {
+		return u[0], nil
+	}
+	return User{}, errors.New("User not found")
 }
 
 // Ensure you hash passwords befor passing them to this function
@@ -70,6 +79,26 @@ func insertUser(u User) error {
 	}
 
 	err = db.Insert(&u)
+	if err != nil {
+		return err
+	}
+	return nil
+}
+
+func deleteUser(u User) error {
+	_db, err := sql.Open("mysql", sqlUsername+":"+sqlPassword+"@tcp("+serverURL+")/rt")
+	if err != nil {
+		return err
+	}
+	defer _db.Close()
+
+	db, _ := squalor.NewDB(_db)
+	_, err = db.BindModel("users", User{})
+	if err != nil {
+		panic(err)
+	}
+
+	_, err = db.Delete(&u)
 	if err != nil {
 		return err
 	}

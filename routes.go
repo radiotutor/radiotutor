@@ -9,6 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 	p "github.com/pe5er/radiotutor/pages"
 	"github.com/pe5er/radiotutor/quiz"
+	"github.com/pe5er/radiotutor/user"
 	"time"
 )
 
@@ -22,8 +23,10 @@ func routes() *gin.Engine {
 
 	cacheStore := persistence.NewInMemoryStore(time.Second)
 	gob.Register([]quiz.Question{})
+	gob.Register(user.User{})
 
-	cookiesSessionStore, _ := redis.NewStore(10, "tcp", "localhost:6379", "", []byte("secret"))
+	sessionStore, _ := redis.NewStore(10, "tcp", "localhost:6379", "", []byte("secret"))
+	e.Use(sessions.Sessions("radioTutor", sessionStore))
 
 	// Static Pages
 	e.GET("/", cache.CachePage(cacheStore, time.Hour, p.Home))
@@ -31,8 +34,15 @@ func routes() *gin.Engine {
 	e.GET("/contact", cache.CachePage(cacheStore, time.Hour, p.Contact))
 	e.GET("/robots.txt", cache.CachePage(cacheStore, time.Hour, p.Robots))
 	e.GET("/privacy", cache.CachePage(cacheStore, time.Hour, p.Privacy))
-	e.GET("/login", cache.CachePage(cacheStore, time.Hour, p.Login))
-	e.GET("/register", cache.CachePage(cacheStore, time.Hour, p.Register))
+
+	// user pages
+	e.GET("/login", p.LoginGET)
+	e.POST("/login", p.LoginPOST)
+	e.GET("/register", p.RegisterGET)
+	e.POST("/register", p.RegisterPOST)
+	e.Any("/logout", p.Logout)
+	e.Any("/removeuser", p.RemoveUser)
+	//user := e.Group("/u/:username", p.LicenceSpec)
 
 	// Licences
 	e.GET("/l", p.Licences)
@@ -40,8 +50,8 @@ func routes() *gin.Engine {
 	// Denominations
 	licence := e.Group("/l/:licenceType", p.LicenceSpec)
 	{
-		licence.GET("exam", sessions.Sessions("quiz", cookiesSessionStore), p.QuizGet)
-		licence.POST("exam", sessions.Sessions("quiz", cookiesSessionStore), p.QuizPost)
+		licence.GET("exam", p.QuizGet)
+		licence.POST("exam", p.QuizPost)
 		licence.GET("course", cache.CachePage(cacheStore, time.Hour, p.Courses))
 	}
 
