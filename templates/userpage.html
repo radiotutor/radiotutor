@@ -1,0 +1,120 @@
+
+<!--userpage.html-->
+
+{{ template "header.html" .}}
+<br><br>
+
+
+<div class="container">
+
+<h1>My Account</h1><br>
+
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Stats</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Settings</a>
+  </li>
+</ul><br>
+
+<div class="row">
+	<div class="tab-content" id="myTabContent">
+
+		 <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+		<br>
+		<div class="row">
+			<div class="col-12"><h2>Welcome {{ .UserName }}</h2><br><br></div>
+		</div>
+			<div class="row">
+				<div class="col-4"><img width=80% src="https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?d=wavatar&f=y&s=256" alt=""></div>
+				<div class="col-8">
+					<h3>Questions Completed</h3>
+					<span class=" badge badge-success">- Foundation</span>
+					<span class=" badge badge-warning">-- Intermediate</span>
+					<span class=" badge badge-danger">-- Advanced</span>
+					<br><br>
+					<h3>Average Score</h3>
+					<span class=" badge badge-success">--% Foundation</span>
+					<span class=" badge badge-warning">--% Intermediate</span>
+					<span class=" badge badge-danger">--% Advanced</span>
+				</div>
+			</div>
+		</div>
+  
+		<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+
+			<br>
+			<h1>Statistics</h1>
+			<p>Coming Soon: Progres Graphs</p>
+			<br>
+			 <div id="curve_chart" style="width: 1000px; height: 500px;"></div>
+			<br><br><br><br><br><br><br><br>
+		</div>
+  
+		  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+			<br>
+			<h1>Settings - Coming Soon</h1>
+			<p>Here you can change your email address and password, or delete your account</p>
+			<br>
+			
+			<fieldset disabled>
+			<form class="form" action="/u/userarea" method="POST">
+			  <div class="form-group">
+				<p>New Email</p>
+				<input type="password" class="form-control" id="password" name="password" placeholder="xyz@example.com">
+			  </div>
+			  <div class="form-group">
+				<p>Confirm Email</p>
+				<input type="password" class="form-control" id="password" name="password" placeholder="xyz@example.com">
+			  </div>
+			  <button type="submit" class="btn btn-primary">Change Email</button>
+			</form>
+			</fieldset>
+			
+			<br><br>
+			<fieldset disabled>
+			<form class="form" action="/u/userarea" method="POST">
+			  <div class="form-group">
+				<p>New Password</p>
+				<input type="password" class="form-control" id="password" name="password" placeholder="Password">
+			  </div>
+			  <div class="form-group">
+				<p>Confirm Password</p>
+				<input type="password" class="form-control" id="password" name="password" placeholder="Password">
+			  </div>
+			  <button type="submit" class="btn btn-primary">Change Password</button>
+			</form>
+			</fieldset>
+			<br><br>
+			
+			<fieldset disabled>
+			<form class="form" action="/u/userarea" method="POST">
+			<p>Confirm Password</p>
+			  <button type="submit" class="btn btn-danger">Delete Account</button>
+			</form>
+			</fieldset>
+			<br><br><br><br><br><br><br><br><br><br><br><br>
+		</div>
+	</div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+
+
+
+<br>
+
+	
+</div>
+<br><br>
+
+  
+{{ template "footer.html" .}}
+
