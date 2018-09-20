@@ -45,7 +45,7 @@ func routes() *gin.Engine {
 
 	user := e.Group("/u/:username")
 	{
-		user.GET("page", p.UserPage)
+		user.GET("page", p.AccountGET)
 	}
 
 	// Licences
