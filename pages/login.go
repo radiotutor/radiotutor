@@ -64,3 +64,16 @@ func RemoveUser(c *gin.Context) {
 	session.Save()
 	Home(c)
 }
+
+func AccountGET(c *gin.Context) {
+	session := sessions.Default(c)
+
+	v := session.Get("loggedIn")
+
+	if v == nil {
+		c.HTML(200, "login", nil)
+	} else {
+		c.HTML(200, "account.html", gin.H{"User": v.(user.User)})
+	}
+}
+
