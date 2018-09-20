@@ -4,13 +4,10 @@ import (
 	"encoding/gob"
 	"github.com/abaft/sessions"
 	"github.com/abaft/sessions/redis"
-	"github.com/gin-contrib/cache"
-	"github.com/gin-contrib/cache/persistence"
 	"github.com/gin-gonic/gin"
 	p "github.com/pe5er/radiotutor/pages"
 	"github.com/pe5er/radiotutor/quiz"
 	"github.com/pe5er/radiotutor/user"
-	"time"
 )
 
 func routes() *gin.Engine {
@@ -21,7 +18,6 @@ func routes() *gin.Engine {
 
 	quiz.QuestionsInit()
 
-	cacheStore := persistence.NewInMemoryStore(time.Second)
 	gob.Register([]quiz.Question{})
 	gob.Register(user.User{})
 
@@ -29,11 +25,11 @@ func routes() *gin.Engine {
 	e.Use(sessions.Sessions("radioTutor", sessionStore))
 
 	// Static Pages
-	e.GET("/", cache.CachePage(cacheStore, time.Hour, p.Home))
-	e.GET("/faq", cache.CachePage(cacheStore, time.Hour, p.Faq))
-	e.GET("/contact", cache.CachePage(cacheStore, time.Hour, p.Contact))
-	e.GET("/robots.txt", cache.CachePage(cacheStore, time.Hour, p.Robots))
-	e.GET("/privacy", cache.CachePage(cacheStore, time.Hour, p.Privacy))
+	e.GET("/", p.Home)
+	e.GET("/faq", p.Faq)
+	e.GET("/contact", p.Contact)
+	e.GET("/robots.txt", p.Robots)
+	e.GET("/privacy", p.Privacy)
 
 	// user pages
 	e.GET("/login", p.LoginGET)
@@ -56,7 +52,7 @@ func routes() *gin.Engine {
 	{
 		licence.GET("exam", p.QuizGet)
 		licence.POST("exam", p.QuizPost)
-		licence.GET("course", cache.CachePage(cacheStore, time.Hour, p.Courses))
+		licence.GET("course", p.Courses)
 	}
 
 	// Resource loading

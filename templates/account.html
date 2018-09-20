@@ -7,7 +7,7 @@
 
 <div class="container">
 
-<h1>My Account</h1><br>
+<h1>My Account (Coming Soon!!!)</h1><br>
 
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item">
@@ -65,11 +65,7 @@
 			<form class="form" action="/u/userarea" method="POST">
 			  <div class="form-group">
 				<p>New Email</p>
-				<input type="password" class="form-control" id="password" name="password" placeholder="xyz@example.com">
-			  </div>
-			  <div class="form-group">
-				<p>Confirm Email</p>
-				<input type="password" class="form-control" id="password" name="password" placeholder="xyz@example.com">
+				<input type="email" class="form-control" id="email" name="email" placeholder="{{.User.Email}}">
 			  </div>
 			  <button type="submit" class="btn btn-primary">Change Email</button>
 			</form>
@@ -80,11 +76,7 @@
 			<form class="form" action="/u/userarea" method="POST">
 			  <div class="form-group">
 				<p>New Password</p>
-				<input type="password" class="form-control" id="password" name="password" placeholder="Password">
-			  </div>
-			  <div class="form-group">
-				<p>Confirm Password</p>
-				<input type="password" class="form-control" id="password" name="password" placeholder="Password">
+				<input type="password" class="form-control" id="password" name="password" placeholder="Pa55">
 			  </div>
 			  <button type="submit" class="btn btn-primary">Change Password</button>
 			</form>

@@ -36,14 +36,13 @@
 	  
 	<ul class="nav navbar-nav ml-auto justify-content-end">
 	
-	  {{ if not .is_logged_in }}
+	  {{ if .User }}
+	  	<li class="nav-item"><a class="nav-link" href="/u/{{.User.Username}}/page">{{ .User.Username }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
+      {{else}}
+	  
         <li class="nav-item"><a class="nav-link" href="/register">Register</a></li>
         <li class="nav-item"><a class="nav-link" href="/login">Login</a></li>
-      {{end}}
-	  
-      {{ if .is_logged_in }}
-	  	<li class="nav-item"><a class="nav-link" href="/account">My Account</a></li>
-        <li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
       {{end}}
 	  
     </ul>

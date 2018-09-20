@@ -12,9 +12,9 @@ func LoginGET(c *gin.Context) {
 	v := session.Get("loggedIn")
 
 	if v == nil {
-		c.HTML(200, "login.html", nil)
+		sHTML(c, 200, "login.html", nil)
 	} else {
-		c.HTML(200, "login-successful.html", gin.H{"User": v.(user.User)})
+		sHTML(c, 200, "login-successful.html", nil)
 	}
 }
 
@@ -34,7 +34,7 @@ func LoginPOST(c *gin.Context) {
 
 	u, err := user.AuthAttempt(rawUsername, rawPassword)
 	if err != nil {
-		c.HTML(200, "login.html", gin.H{
+		sHTML(c, 200, "login.html", gin.H{
 			"ErrorTitle":   "ERROR",
 			"ErrorMessage": err.Error(),
 		})
@@ -64,16 +64,3 @@ func RemoveUser(c *gin.Context) {
 	session.Save()
 	Home(c)
 }
-
-func AccountGET(c *gin.Context) {
-	session := sessions.Default(c)
-
-	v := session.Get("loggedIn")
-
-	if v == nil {
-		c.HTML(200, "login.html", nil)
-	} else {
-		c.HTML(200, "account.html", gin.H{"User": v.(user.User)})
-	}
-}
-

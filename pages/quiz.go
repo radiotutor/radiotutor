@@ -21,7 +21,7 @@ func QuizGet(c *gin.Context) {
 
 	v := session.Get(l + "Started")
 	if v == nil {
-		c.HTML(200, "quiz.html", gin.H{
+		sHTML(c, 200, "quiz.html", gin.H{
 			"Licence":       licenceCodeToName[l],
 			"NoOfQuestions": fullQuizSize[l],
 		})
@@ -40,7 +40,7 @@ func QuizGet(c *gin.Context) {
 	currentState := state{Quiz: q, Current: current, Length: v.(int), Sub: answers}
 
 	if len(q) > current {
-		c.HTML(200, "question.html", gin.H{"State": currentState})
+		sHTML(c, 200, "question.html", gin.H{"State": currentState})
 	}
 
 	//session.Save()
@@ -138,7 +138,7 @@ func questionHandle(c *gin.Context) {
 
 	// Check if quiz is over
 	if current == numberOfQuestions {
-		c.HTML(200, "result.html", gin.H{
+		sHTML(c, 200, "result.html", gin.H{
 			"Licence":       licenceCodeToName[l],
 			"NoOfQuestions": strconv.Itoa(numberOfQuestions),
 			"Score":         strconv.Itoa(quiz.Mark(q, answers)),

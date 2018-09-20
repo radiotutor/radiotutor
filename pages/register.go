@@ -12,9 +12,9 @@ func RegisterGET(c *gin.Context) {
 	v := session.Get("loggedIn")
 
 	if v == nil {
-		c.HTML(200, "register.html", nil)
+		sHTML(c, 200, "register.html", nil)
 	} else {
-		c.HTML(200, "login-successful.html", gin.H{"User": v.(user.User)})
+		sHTML(c, 200, "login-successful.html", nil)
 	}
 }
 
@@ -23,7 +23,7 @@ func RegisterPOST(c *gin.Context) {
 
 	rawUsername, ok := c.GetPostForm("username")
 	if !ok || rawUsername == "" {
-		c.HTML(200, "register.html", gin.H{
+		sHTML(c, 200, "register.html", gin.H{
 			"ErrorTitle":   "ERROR",
 			"ErrorMessage": "Need Username",
 		})
@@ -33,7 +33,7 @@ func RegisterPOST(c *gin.Context) {
 	rawEmail, ok := c.GetPostForm("email")
 	if !ok || rawEmail == "" {
 		// TODO Proper Email Validation
-		c.HTML(200, "register.html", gin.H{
+		sHTML(c, 200, "register.html", gin.H{
 			"ErrorTitle":   "ERROR",
 			"ErrorMessage": "Need Valid Email",
 		})
@@ -42,7 +42,7 @@ func RegisterPOST(c *gin.Context) {
 	}
 	rawPassword, ok := c.GetPostForm("password")
 	if !ok || len(rawPassword) <= 5 {
-		c.HTML(200, "register.html", gin.H{
+		sHTML(c, 200, "register.html", gin.H{
 			"ErrorTitle":   "ERROR",
 			"ErrorMessage": "Need Password greater than 5 chars",
 		})
@@ -52,7 +52,7 @@ func RegisterPOST(c *gin.Context) {
 
 	u, err := user.CreateUser(rawUsername, rawPassword, rawEmail)
 	if err != nil {
-		c.HTML(200, "register.html", gin.H{
+		sHTML(c, 200, "register.html", gin.H{
 			"ErrorTitle":   "ERROR",
 			"ErrorMessage": err.Error(),
 		})
