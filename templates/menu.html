@@ -2,6 +2,7 @@
 <!-- template responsible for the navbar and not a lot else -->
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+
 	<a class="navbar-brand" href="/">Home</a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
 	<span class="navbar-toggler-icon"></span>
@@ -29,26 +30,22 @@
 		</li>
 	  
 	    <li class="nav-item"><a class="nav-link" href="/news">News</a></li>
-	  {{ if .is_logged_in }}
-		<li class="nav-item"><a class="nav-link" href="/u/progress">My Progress</a></li>
-	  {{end}} 
 		<li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
 		<li class="nav-item"><a class="nav-link" href="/contact">Contact Us</a></li>
     </ul>
 	  
 	<ul class="nav navbar-nav ml-auto justify-content-end">
-		
+	
 	  {{ if not .is_logged_in }}
         <li class="nav-item"><a class="nav-link" href="/register">Register</a></li>
-      {{end}} 
-      {{ if not .is_logged_in }}
         <li class="nav-item"><a class="nav-link" href="/login">Login</a></li>
-      {{end}} 
-      {{ if .is_logged_in }}
-        <li class="nav-item"><a class="nav-link" href="/u/logout">Logout</a></li>
       {{end}}
+	  
+      {{ if .is_logged_in }}
+	  	<li class="nav-item"><a class="nav-link" href="/account">My Account</a></li>
+        <li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
+      {{end}}
+	  
     </ul>
   </div>
 </nav>
-
-<br>
