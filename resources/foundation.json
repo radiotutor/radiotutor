@@ -1061,7 +1061,7 @@
 },
 {
   "number":5122,
-  "question":"If you measure 100 volts across a 50O resistor, how much current will be flowing through it?",
+  "question":"If you measure 100 volts across a 50Ω resistor, how much current will be flowing through it?",
   "answers": [
     {"correct":false, "answer":"0.5 A"},
     {"correct":true, "answer":"2 A"},
