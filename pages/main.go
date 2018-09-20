@@ -37,5 +37,14 @@ func Privacy(c *gin.Context) {
 	c.HTML(200, "privacy.html", nil)
 }
 func AccountGET(c *gin.Context) {
-	c.HTML(200, "userpage.html", nil)
+	session := sessions.Default(c)
+
+	v := session.Get("loggedIn")
+
+	if v == nil {
+		c.HTML(200, "login", nil)
+	} else {
+		c.HTML(200, "account.html", gin.H{"User": v.(user.User)})
+	}
 }
+
