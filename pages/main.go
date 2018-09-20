@@ -36,3 +36,6 @@ func Robots(c *gin.Context) {
 func Privacy(c *gin.Context) {
 	c.HTML(200, "privacy.html", nil)
 }
+func AccountGET(c *gin.Context) {
+	c.HTML(200, "userpage.html", nil)
+}
