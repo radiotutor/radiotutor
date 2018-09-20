@@ -71,7 +71,7 @@ func AccountGET(c *gin.Context) {
 	v := session.Get("loggedIn")
 
 	if v == nil {
-		c.HTML(200, "login", nil)
+		c.HTML(200, "login.html", nil)
 	} else {
 		c.HTML(200, "account.html", gin.H{"User": v.(user.User)})
 	}
