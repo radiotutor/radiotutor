@@ -1,14 +1,16 @@
 <!--login-successful.html-->
 
 {{ template "header.html" .}}
-
+<br><br>
 <div class="container" style="margin-top:30px">
-  <h1>You have successfully logged in</h1>
+  <h1>You have successfully logged in </h1><br>
   {{ if .User}}
-  <p> Welcome {{.User.Username}} </p>
+  <h2> Welcome {{.User.Username}} </h2>
   {{ end}}
-  <a href="/logout">Logout</a>
-  <a href="/removeuser">Remove User</a>
+  <br>
+  <a class="btn btn-success" href="/account">My Profile</a>
+  <a class="btn btn-warning" href="/logout">Logout</a>
+  <a class="btn btn-danger" href="/removeuser">Remove User</a>
 </div>
-
+<br><br><br><br>
 {{ template "footer.html" .}}
