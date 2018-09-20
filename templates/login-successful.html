@@ -8,7 +8,7 @@
   <h2> Welcome {{.User.Username}} </h2>
   {{ end}}
   <br>
-  <a class="btn btn-success" href="/account">My Profile</a>
+  <a class="btn btn-success" href="/u/{{.User.Username}}/page">My Profile</a>
   <a class="btn btn-warning" href="/logout">Logout</a>
   <a class="btn btn-danger" href="/removeuser">Remove User</a>
 </div>
