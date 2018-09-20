@@ -3032,7 +3032,7 @@
 },
 {
   "number":1063,
-  "question":"-001 You should not touch an antenna whilst:",
+  "question":"You should not touch an antenna whilst:",
   "answers": [
     {"correct":false, "answer":"receiving long distance signals"},
     {"correct":false, "answer":"standing on a ladder"},
