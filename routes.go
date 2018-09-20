@@ -42,6 +42,7 @@ func routes() *gin.Engine {
 	e.POST("/register", p.RegisterPOST)
 	e.Any("/logout", p.Logout)
 	e.Any("/removeuser", p.RemoveUser)
+	e.GET("/account", p.AccountGET)
 	//user := e.Group("/u/:username", p.LicenceSpec)
 
 	// Licences
