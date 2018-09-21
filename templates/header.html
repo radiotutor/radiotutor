@@ -14,10 +14,15 @@
 	</script>
 	  
 	  
-    	<title>Radio Tutor{{ .title }}</title>
+    	<title>Radio Tutor - For UK amateur radio cources and exams</title>
 	<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+{{ if .Description }}
+<meta name="description" content="{{ .Description }}">
+{{ else }}
+<meta name="description" content="Radio Tutor offers free mock exams and courses for all 3 of the UK amateur licence exams">
+{{ end }}
 	  
 	<link rel="shortcut icon" href="https://i.imgur.com/pA4pnuq.png" />
 
