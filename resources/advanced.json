@@ -460,5 +460,205 @@
     {"correct":true, "answer":"Listen to the station on 7.25MHz and transmit only within the permitted band"},
     {"correct":false, "answer":"Transmit and receive only within the permitted band"}
   ]
+},
+{
+  "number":000001,
+  "question":"What is a Regional Secondary Identifier?",
+  "answers": [
+    {"correct":false, "answer":"A postfix to a callsign which identifies the country of origin"},
+    {"correct":false, "answer":"The suffix which shows where the operator is located"},
+    {"correct":true, "answer":"A letter in a UK callsign which designates the region of operation"},
+    {"correct":false, "answer":"An ofcom official responsible for checking amateur radio callsigns"}
+  ]
+},
+{
+  "number":000002,
+  "question":"During an international disaster, which statement is true?",
+  "answers": [
+    {"correct":true, "answer":"All UK licencees may pass messages to other amateurs"},
+    {"correct":false, "answer":"Radio silence should be observed to make way for emergency communications"},
+    {"correct":false, "answer":"Full licencees only may pass messages to other amateurs"},
+    {"correct":false, "answer":"All UK licencees may use non-amateur frequencies if called by a station involved in an emergency"}
+  ]
+},
+{
+  "number":000003,
+  "question":"A full licencee is permitted to:",
+  "answers": [
+    {"correct":false, "answer":"Authorise a trainee to use their equipment unsupervised"},
+    {"correct":false, "answer":"Use the callsign belonging to the owner of the equipment they are usign"},
+    {"correct":false, "answer":"Use 1500 watts of output power, provided they are taking part in a contest"},
+    {"correct":true, "answer":"Allow the operation of their station by a foreign (non-uk) licenced amateur"}
+  ]
+},
+{
+  "number":000004,
+  "question":"The frequencies you should use when operating in international waters are set out in the:",
+  "answers": [
+    {"correct":true, "answer":"Radio Regulations of the International Telecommunications Union (ITU)"},
+    {"correct":false, "answer":"UK Amateur Licence Schedule"},
+    {"correct":false, "answer":"Amateur Licence Schedule of the closest country to your location"},
+    {"correct":false, "answer":"International Schedule of the Radio Society of Great Britain (RSGB)"}
+  ]
+},
+{
+  "number":000005,
+  "question":"A UK Full licencee should use the following callsign if on holiday in South Africa:",
+  "answers": [
+    {"correct":false, "answer":"A temporary callsign issued by the South African licensing authority"},
+    {"correct":false, "answer":"Their own callsign with the postfix /ZS"},
+    {"correct":true, "answer":"Their own callsign with the prefix ZS/"},
+    {"correct":false, "answer":"Their own callsign, with the postfix /A"}
+  ]
+},
+{
+  "number":000006,
+  "question":"Transmitting a message that is of an indecent, obscene or menacing character is in breach of:",
+  "answers": [
+    {"correct":false, "answer":"UK Civil Law"},
+    {"correct":true, "answer":"The Amateur Radio Licence"},
+    {"correct":false, "answer":"The International Telecommunications Union (ITU) Regulations"},
+    {"correct":false, "answer":"The Wireless Telegraphy act 2006"}
+  ]
+},
+{
+  "number":000007,
+  "question":"A Full licencee may operate their station by remote control provided that:",
+  "answers": [
+    {"correct":true, "answer":"There is a failsafe in place to prevent unintended transmissions"},
+    {"correct":false, "answer":"SSL Encryption is used if the station is controlled over the internet"},
+    {"correct":false, "answer":"The remote control system has been purchased from a licenced manufacturer"},
+    {"correct":false, "answer":"Any communication links are less than the maximum power level of 500 mW pep e.r.p."}
+  ]
+},
+{
+  "question":"A Full licencee has replied to a CQ call on the 70cm band and moved to a working frequency. Whilst they are talking to the other amateur, they should give their callsign:",
+  "number":000008,
+  "answers": [
+    {"correct":false, "answer":"Every 5 minutes"},
+    {"correct":false, "answer":"At the beginning of every over"},
+    {"correct":true, "answer":"As often as is practicable"},
+    {"correct":false, "answer":"At the end of every over"}
+  ]
+},
+{
+  "number":000009,
+  "question":"How often must update your licence details with Ofcom?",
+  "answers": [
+    {"correct":true, "answer":"At least every five years"},
+    {"correct":false, "answer":"Every year"},
+    {"correct":false, "answer":"Only when you move address"},
+    {"correct":false, "answer":"At least every three years"}
+  ]
+},
+{
+  "number":000010,
+  "question":"Which of the following frequencies is a Full licencee allowed to use, on a non-interference basis?",
+  "answers": [
+    {"correct":false, "answer":"2.4GHz"},
+    {"correct":false, "answer":"7.15MHz"},
+    {"correct":true, "answer":"51.5MHz"},
+    {"correct":false, "answer":"431MHz"}
+  ]
+},
+{
+  "number":000011,
+  "question":"A 13.8V transmitter is being powerd from a battery pack. On transmission, it is noticed that the battery voltage drops several volts below its nominal voltage. This is caused by:",
+  "answers": [
+    {"correct":false, "answer":"Faulty coaxial cable"},
+    {"correct":false, "answer":"A poorly matched antenna"},
+    {"correct":false, "answer":"The voltage drop of the supply cable"},
+    {"correct":true, "answer":"The internal resistance of the battery"}
+  ]
+},
+{
+  "number":000012,
+  "question":"The diagram shows an RC circuit and a graph. The graph is showing a plot of: <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/4ee4bf55e1fd95ed77db2b9b36202367/raw/654632eff763022753564742f960a86750d5edd3/av000012.svg'>",
+  "answers": [
+    {"correct":false, "answer":"Capacitor charge"},
+    {"correct":false, "answer":"Capacitor voltage"},
+    {"correct":false, "answer":"Circuit resistance"},
+    {"correct":true, "answer":"Voltage accross the resistor"}
+  ]
+},
+{
+  "number":000013,
+  "question":"Which of the below factors will have the biggest influence on the inductance of a coil of wire?",
+  "answers": [
+    {"correct":true, "answer":"Increasing the diameter of the coil"},
+    {"correct":false, "answer":"Inserting a glass insulator inside the coil"},
+    {"correct":false, "answer":"Using a smaller diameter wire"},
+    {"correct":false, "answer":"Increasing the current passed through the coil"}
+  ]
+},
+{
+  "number":000014,
+  "question":"Which arrow on the graph shows the RMS value of the sine wave? <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/aa6d4d727795e291ceabc942373c5cd7/raw/eb1e5bb5ad793b453318c9fdd8d9d2fee2dcfbab/av000014.svg'>",
+  "answers": [
+    {"correct":false, "answer":"A"},
+    {"correct":false, "answer":"B"},
+    {"correct":true, "answer":"C"},
+    {"correct":false, "answer":"None of the above"}
+  ]
+},
+{
+  "number":000015,
+  "question":"A 1:1 balun uses two coils of wire to provide a balanced output from unbalanced coaxial cable. The RF power is transfered to the output coil because of:",
+  "answers": [
+    {"correct":false, "answer":"Electromagnetic induction"},
+    {"correct":false, "answer":"Impedance match"},
+    {"correct":false, "answer":"Turn ratio"},
+    {"correct":true, "answer":"Mutual inductance"}
+  ]
+},
+{
+  "number":000016,
+  "question":"A 100W RF power amplifier has a gain of 13dB. In order to get the full output power, what should the input power be?",
+  "answers": [
+    {"correct":false, "answer":"1W"},
+    {"correct":false, "answer":"2.5W"},
+    {"correct":true, "answer":"5W"},
+    {"correct":false, "answer":"10"}
+  ]
+},
+{
+  "number":000017,
+  "question":"Which of the following circuits will provide a stable DC output, even with a variable load? <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/804d604fc8446f6dee5329d6c94590d3/raw/5e7c28c16100811fd27fd47d8fb3007b6c10abd4/av000017.svg'>",
+  "answers": [
+    {"correct":true, "answer":"A"},
+    {"correct":false, "answer":"B"},
+    {"correct":false, "answer":"C"},
+    {"correct":false, "answer":"D"}
+  ]
+},
+{
+  "number":000018,
+  "question":"Which transistor amplifier configuration results in a voltage gain but not a current gain",
+  "answers": [
+    {"correct":false, "answer":"Emitter follower"},
+    {"correct":false, "answer":"Common collector"},
+    {"correct":false, "answer":"Common emitter"},
+    {"correct":true, "answer":"Common base"}
+  ]
+},
+{
+  "number":000019,
+  "question":"A mains transformer has a secondary winding which produces a 11v RMS output. The output goes into a half wave rectifier circuit with a single diode and a smoothing capcaitor. What is the maximum voltage across the diode on the non-conducting half-cycles? ",
+  "answers": [
+    {"correct":false, "answer":"15V"},
+    {"correct":true, "answer":"27V"},
+    {"correct":false, "answer":"31V"},
+    {"correct":false, "answer":"41V"}
+  ]
+},
+{
+  "number":000020,
+  "question":"What type of frequency source works by using an error voltage to correct the frequency of the oscillator?",
+  "answers": [
+    {"correct":false, "answer":"A beat frequency oscillator"},
+    {"correct":false, "answer":"A Direct Digital Synthesiser (DDS)"},
+    {"correct":false, "answer":"A crystal oscillator"},
+    {"correct":true, "answer":"A frequency synthesiser"}
+  ]
 }
 ]
