@@ -13,7 +13,7 @@ import (
 func routes() *gin.Engine {
 	e := gin.Default()
 	e.NoRoute(func(c *gin.Context) {
-		c.Redirect(302, "/")
+		c.Redirect(301, "/")
 	})
 
 	quiz.QuestionsInit()
@@ -65,7 +65,7 @@ func routes() *gin.Engine {
 func HttpsRedirect() *gin.Engine {
 	e := gin.Default()
 	e.NoRoute(func(c *gin.Context) {
-		c.Redirect(302, "https://radiotutor.uk"+c.Request.URL.Path)
+		c.Redirect(301, "https://radiotutor.uk"+c.Request.URL.Path)
 	})
 
 	return e
