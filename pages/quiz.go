@@ -9,9 +9,9 @@ import (
 
 var (
 	fullQuizSize = map[string]int{
-		"F":  19,
+		"F":  26,
 		"I":  45,
-		"AV": 40,
+		"AV": 62,
 	}
 )
 
