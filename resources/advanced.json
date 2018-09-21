@@ -462,7 +462,7 @@
   ]
 },
 {
-  "number":000001,
+  "number":1,
   "question":"What is a Regional Secondary Identifier?",
   "answers": [
     {"correct":false, "answer":"A postfix to a callsign which identifies the country of origin"},
@@ -472,7 +472,7 @@
   ]
 },
 {
-  "number":000002,
+  "number":2,
   "question":"During an international disaster, which statement is true?",
   "answers": [
     {"correct":true, "answer":"All UK licencees may pass messages to other amateurs"},
@@ -482,7 +482,7 @@
   ]
 },
 {
-  "number":000003,
+  "number":3,
   "question":"A full licencee is permitted to:",
   "answers": [
     {"correct":false, "answer":"Authorise a trainee to use their equipment unsupervised"},
@@ -492,7 +492,7 @@
   ]
 },
 {
-  "number":000004,
+  "number":4,
   "question":"The frequencies you should use when operating in international waters are set out in the:",
   "answers": [
     {"correct":true, "answer":"Radio Regulations of the International Telecommunications Union (ITU)"},
@@ -502,7 +502,7 @@
   ]
 },
 {
-  "number":000005,
+  "number":5,
   "question":"A UK Full licencee should use the following callsign if on holiday in South Africa:",
   "answers": [
     {"correct":false, "answer":"A temporary callsign issued by the South African licensing authority"},
@@ -512,7 +512,7 @@
   ]
 },
 {
-  "number":000006,
+  "number":6,
   "question":"Transmitting a message that is of an indecent, obscene or menacing character is in breach of:",
   "answers": [
     {"correct":false, "answer":"UK Civil Law"},
@@ -522,7 +522,7 @@
   ]
 },
 {
-  "number":000007,
+  "number":7,
   "question":"A Full licencee may operate their station by remote control provided that:",
   "answers": [
     {"correct":true, "answer":"There is a failsafe in place to prevent unintended transmissions"},
@@ -533,7 +533,7 @@
 },
 {
   "question":"A Full licencee has replied to a CQ call on the 70cm band and moved to a working frequency. Whilst they are talking to the other amateur, they should give their callsign:",
-  "number":000008,
+  "number":8,
   "answers": [
     {"correct":false, "answer":"Every 5 minutes"},
     {"correct":false, "answer":"At the beginning of every over"},
@@ -542,7 +542,7 @@
   ]
 },
 {
-  "number":000009,
+  "number":9,
   "question":"How often must update your licence details with Ofcom?",
   "answers": [
     {"correct":true, "answer":"At least every five years"},
@@ -552,7 +552,7 @@
   ]
 },
 {
-  "number":000010,
+  "number":10,
   "question":"Which of the following frequencies is a Full licencee allowed to use, on a non-interference basis?",
   "answers": [
     {"correct":false, "answer":"2.4GHz"},
@@ -562,7 +562,7 @@
   ]
 },
 {
-  "number":000011,
+  "number":11,
   "question":"A 13.8V transmitter is being powerd from a battery pack. On transmission, it is noticed that the battery voltage drops several volts below its nominal voltage. This is caused by:",
   "answers": [
     {"correct":false, "answer":"Faulty coaxial cable"},
@@ -572,7 +572,7 @@
   ]
 },
 {
-  "number":000012,
+  "number":12,
   "question":"The diagram shows an RC circuit and a graph. The graph is showing a plot of: <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/4ee4bf55e1fd95ed77db2b9b36202367/raw/654632eff763022753564742f960a86750d5edd3/av000012.svg'>",
   "answers": [
     {"correct":false, "answer":"Capacitor charge"},
@@ -582,7 +582,7 @@
   ]
 },
 {
-  "number":000013,
+  "number":13,
   "question":"Which of the below factors will have the biggest influence on the inductance of a coil of wire?",
   "answers": [
     {"correct":true, "answer":"Increasing the diameter of the coil"},
@@ -592,7 +592,7 @@
   ]
 },
 {
-  "number":000014,
+  "number":14,
   "question":"Which arrow on the graph shows the RMS value of the sine wave? <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/aa6d4d727795e291ceabc942373c5cd7/raw/eb1e5bb5ad793b453318c9fdd8d9d2fee2dcfbab/av000014.svg'>",
   "answers": [
     {"correct":false, "answer":"A"},
@@ -602,7 +602,7 @@
   ]
 },
 {
-  "number":000015,
+  "number":15,
   "question":"A 1:1 balun uses two coils of wire to provide a balanced output from unbalanced coaxial cable. The RF power is transfered to the output coil because of:",
   "answers": [
     {"correct":false, "answer":"Electromagnetic induction"},
@@ -612,7 +612,7 @@
   ]
 },
 {
-  "number":000016,
+  "number":16,
   "question":"A 100W RF power amplifier has a gain of 13dB. In order to get the full output power, what should the input power be?",
   "answers": [
     {"correct":false, "answer":"1W"},
@@ -632,7 +632,7 @@
   ]
 },
 {
-  "number":000018,
+  "number":18,
   "question":"Which transistor amplifier configuration results in a voltage gain but not a current gain",
   "answers": [
     {"correct":false, "answer":"Emitter follower"},
@@ -642,7 +642,7 @@
   ]
 },
 {
-  "number":000019,
+  "number":19,
   "question":"A mains transformer has a secondary winding which produces a 11v RMS output. The output goes into a half wave rectifier circuit with a single diode and a smoothing capcaitor. What is the maximum voltage across the diode on the non-conducting half-cycles? ",
   "answers": [
     {"correct":false, "answer":"15V"},
@@ -652,7 +652,7 @@
   ]
 },
 {
-  "number":000020,
+  "number":20,
   "question":"What type of frequency source works by using an error voltage to correct the frequency of the oscillator?",
   "answers": [
     {"correct":false, "answer":"A beat frequency oscillator"},
