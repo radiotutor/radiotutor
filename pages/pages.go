@@ -58,5 +58,5 @@ func Privacy(c *gin.Context) {
 	sHTML(c, 200, "privacy.html", nil)
 }
 func News(c *gin.Context) {
-	sHTML(c, 200, "news-static.html", nil)
+	sHTML(c, 200, "newsstatic.html", nil)
 }
