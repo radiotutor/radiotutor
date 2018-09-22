@@ -38,7 +38,7 @@ func routes() *gin.Engine {
 	e.GET("/register", p.RegisterGET)
 	e.POST("/register", p.RegisterPOST)
 	e.Any("/logout", p.Logout)
-	e.Any("/removeuser", p.RemoveUser)
+	// e.Any("/removeuser", p.RemoveUser) Removed due to concer over open sessions
 
 	user := e.Group("/u/:username")
 	{
