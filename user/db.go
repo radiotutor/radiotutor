@@ -31,76 +31,100 @@ type User struct {
 	Email    string `db:"email"`
 }
 
-func getUser(username string) (User, error) {
+func dbExe(ex func(*squalor.DB) interface{}) interface{} {
 	_db, err := sql.Open("mysql", sqlUsername+":"+sqlPassword+"@tcp("+serverURL+")/rt")
 	if err != nil {
-		return User{}, err
+		panic(err)
 	}
 	defer _db.Close()
 
 	db, _ := squalor.NewDB(_db)
-	users, err := db.BindModel("users", User{})
-
-	q1 := users.Select("*").Where(users.C("username").Eq(username))
-	q2 := users.Select("*").Where(users.C("email").Eq(username))
-
-	var u []User
-	err = db.Select(&u, q1)
 	if err != nil {
-		return User{}, err
-	}
-	if len(u) == 1 {
-		return u[0], nil
+		panic(err)
 	}
 
-	err = db.Select(&u, q2)
-	if err != nil {
-		return User{}, err
+	rtn := ex(db)
+	return rtn
+}
+
+func getUser(username string) (User, error) {
+
+	type funcRtn struct {
+		user User
+		err  error
 	}
-	if len(u) == 1 {
-		return u[0], nil
-	}
-	return User{}, errors.New("User not found")
+
+	userData := dbExe(func(db *squalor.DB) interface{} {
+
+		users, err := db.BindModel("users", User{})
+		if err != nil {
+			panic(err)
+		}
+		q1 := users.Select("*").Where(users.C("username").Eq(username))
+		q2 := users.Select("*").Where(users.C("email").Eq(username))
+
+		var u []User
+		err = db.Select(&u, q1)
+		if err != nil {
+			return funcRtn{User{}, err}
+		}
+		if len(u) == 1 {
+			return funcRtn{u[0], nil}
+		}
+
+		err = db.Select(&u, q2)
+		if err != nil {
+			return funcRtn{User{}, err}
+		}
+		if len(u) == 1 {
+			return funcRtn{u[0], nil}
+		}
+		return funcRtn{User{}, errors.New("User not found")}
+	})
+	return userData.(funcRtn).user, userData.(funcRtn).err
 }
 
 // Ensure you hash passwords befor passing them to this function
 // Also, only pass valid users
 func insertUser(u User) error {
-	_db, err := sql.Open("mysql", sqlUsername+":"+sqlPassword+"@tcp("+serverURL+")/rt")
-	if err != nil {
-		return err
-	}
-	defer _db.Close()
 
-	db, _ := squalor.NewDB(_db)
-	_, err = db.BindModel("users", User{})
-	if err != nil {
-		panic(err)
-	}
+	err := dbExe(func(db *squalor.DB) interface{} {
 
-	err = db.Insert(&u)
+		_, err := db.BindModel("users", User{})
+		if err != nil {
+			panic(err)
+		}
+
+		err = db.Insert(&u)
+		if err != nil {
+			return err
+		}
+		return nil
+	})
 	if err != nil {
-		return err
+		return err.(error)
 	}
 	return nil
 }
 
 func deleteUser(u User) error {
-	_db, err := sql.Open("mysql", sqlUsername+":"+sqlPassword+"@tcp("+serverURL+")/rt")
-	if err != nil {
-		return err
-	}
-	defer _db.Close()
 
-	db, _ := squalor.NewDB(_db)
-	_, err = db.BindModel("users", User{})
-	if err != nil {
-		panic(err)
-	}
+	err := dbExe(func(db *squalor.DB) interface{} {
 
-	_, err = db.Delete(&u)
+		_, err := db.BindModel("users", User{})
+		if err != nil {
+			panic(err)
+		}
+
+		_, err = db.Delete(&u)
+		if err != nil {
+			return err
+		}
+		return nil
+	})
+
 	if err != nil {
-		return err
+		return err.(error)
 	}
 	return nil
 }
