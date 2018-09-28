@@ -60,3 +60,7 @@ func Privacy(c *gin.Context) {
 func News(c *gin.Context) {
 	sHTML(c, 200, "newsstatic.html", nil)
 }
+func Donate(c *gin.Context) {
+	sHTML(c, 200, "donate.html", nil)
+}
+
