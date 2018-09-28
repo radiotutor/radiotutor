@@ -31,6 +31,7 @@ func routes() *gin.Engine {
 	e.GET("/robots.txt", p.Robots)
 	e.GET("/privacy", p.Privacy)
 	e.GET("/news", p.News)
+	e.GET("/donate", p.Donate)
 
 	// user pages
 	e.GET("/login", p.LoginGET)
