@@ -2,7 +2,6 @@ package quiz
 
 import (
 	"database/sql"
-	"errors"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/square/squalor"
 	"os"
