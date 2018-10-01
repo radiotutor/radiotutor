@@ -3,28 +3,33 @@
 <!doctype html>
 <html lang="en">
   <head>
-	  
-	<!-- Global site tag (gtag.js) - Google Analytics -->
+
+	<!-- Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125578647-1"></script>
 	<script>
   		window.dataLayer = window.dataLayer || [];
   		function gtag(){dataLayer.push(arguments);}
   		gtag('js', new Date());
   		gtag('config', 'UA-125578647-1');
-	</script>
-	  
+	</script>  
 	  
     	<title>Radio Tutor - amateur radio cources and exams</title>
+
 	<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-{{ if .Description }}
-<meta name="description" content="{{ .Description }}">
-{{ else }}
-<meta name="description" content="Radio Tutor offers free mock exams and courses for all 3 of the UK amateur licence exams">
-<meta name="keywords" content="amateur radio,full licence,foundation licence,intermediate licence,radio licence,radio exams,radio exam,radio exam help,tutoring,radio,radios">
-{{ end }}
-	  
+	
+	{{ if .Description }}
+	<meta name="description" content="{{ .Description }}">
+	{{ else }}
+	<meta name="description" content="Radio Tutor offers free mock exams and courses for all 3 of the UK amateur licence exams">
+	<meta name="keywords" content="amateur radio,full licence,foundation licence,intermediate licence,radio licence,radio exams,radio exam,radio exam help,tutoring,radio,radios">
+	{{ end }}
+	
+	<!-- favicon -->  
 	<link rel="shortcut icon" href="https://i.imgur.com/pA4pnuq.png" />
 
   </head>
