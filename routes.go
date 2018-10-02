@@ -32,6 +32,7 @@ func routes() *gin.Engine {
 	e.GET("/privacy", p.Privacy)
 	e.GET("/news", p.News)
 	e.GET("/donate", p.Donate)
+	e.GET("/fcourse", p.FCourse)
 
 	// user pages
 	e.GET("/login", p.LoginGET)

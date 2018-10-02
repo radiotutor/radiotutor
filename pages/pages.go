@@ -63,4 +63,7 @@ func News(c *gin.Context) {
 func Donate(c *gin.Context) {
 	sHTML(c, 200, "donate.html", nil)
 }
+func FCourse(c *gin.Context) {
+        sHTML(c, 200, "foundation-course.html", nil)
+}
 
