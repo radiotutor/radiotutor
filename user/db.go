@@ -11,17 +11,9 @@ package user
 */
 
 import (
-	"database/sql"
 	"errors"
-	_ "github.com/go-sql-driver/mysql"
+	"github.com/pe5er/radiotutor/dbutils"
 	"github.com/square/squalor"
-	"os"
-)
-
-var (
-	serverURL   = os.Getenv("SQL_URL")
-	sqlPassword = os.Getenv("SQL_PASSWORD")
-	sqlUsername = os.Getenv("SQL_USERNAME")
 )
 
 type User struct {
@@ -31,22 +23,6 @@ type User struct {
 	Email    string `db:"email"`
 }
 
-func dbExe(ex func(*squalor.DB) interface{}) interface{} {
-	_db, err := sql.Open("mysql", sqlUsername+":"+sqlPassword+"@tcp("+serverURL+")/rt")
-	if err != nil {
-		panic(err)
-	}
-	defer _db.Close()
-
-	db, _ := squalor.NewDB(_db)
-	if err != nil {
-		panic(err)
-	}
-
-	rtn := ex(db)
-	return rtn
-}
-
 func getUser(username string) (User, error) {
 
 	type funcRtn struct {
@@ -54,7 +30,7 @@ func getUser(username string) (User, error) {
 		err  error
 	}
 
-	userData := dbExe(func(db *squalor.DB) interface{} {
+	userData := dbutils.DB(func(db *squalor.DB) interface{} {
 
 		users, err := db.BindModel("users", User{})
 		if err != nil {
@@ -88,7 +64,7 @@ func getUser(username string) (User, error) {
 // Also, only pass valid users
 func insertUser(u User) error {
 
-	err := dbExe(func(db *squalor.DB) interface{} {
+	err := dbutils.DB(func(db *squalor.DB) interface{} {
 
 		_, err := db.BindModel("users", User{})
 		if err != nil {
@@ -109,7 +85,7 @@ func insertUser(u User) error {
 
 func deleteUser(u User) error {
 
-	err := dbExe(func(db *squalor.DB) interface{} {
+	err := dbutils.DB(func(db *squalor.DB) interface{} {
 
 		_, err := db.BindModel("users", User{})
 		if err != nil {
