@@ -1723,10 +1723,10 @@
   "number":160,
   "question":"The frequency of a simple transmitter is defined by which stage?",
   "answers": [
-    {"correct":false, "answer":"Audio stageWrong, the correct answer is \"Oscillator\""},
-    {"correct":false, "answer":"ModulatorWrong, the correct answer is \"Oscillator\""},
-    {"correct":true, "answer":"OscillatorCorrect"},
-    {"correct":false, "answer":"RF Power AmplifierWrong, the correct answer is \"Oscillator\""}
+    {"correct":false, "answer":"Audio stage"},
+    {"correct":false, "answer":"Modulator"},
+    {"correct":true, "answer":"Oscillator"},
+    {"correct":false, "answer":"RF Power Amplifier"}
   ]
 },
 {
