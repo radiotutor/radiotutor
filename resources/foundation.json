@@ -1443,7 +1443,7 @@
   "number":5173,
   "question":"The range required for voice communication is:",
   "answers": [
-    {"correct":true, "answer":"100Hz - 15kHz"},
+    {"correct":false, "answer":"100Hz - 15kHz"},
     {"correct":true, "answer":"300Hz - 3kHz"},
     {"correct":false, "answer":"3MHz - 30MHz"},
     {"correct":false, "answer":"30MHz - 1GHz"}
