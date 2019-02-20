@@ -365,7 +365,7 @@
   "answers": [
     {"correct":false, "answer":"The particular rate is known as the resonant frequency "},
     {"correct":false, "answer":"the rate depends on the values of the capacitor and the inductor  "},
-    {"correct":true, "answer":"in order to resonate the value of the capacitor (in Farads) has to equal the value of the inductor (in Henry’s)    "},
+    {"correct":true, "answer":"in order to resonate the value of the capacitor (in Farads) has to equal the value of the inductor (in Henrys)    "},
     {"correct":false, "answer":"the reactance of the inductor equals that of the capacitor "}
   ]
 },
