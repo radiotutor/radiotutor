@@ -734,8 +734,8 @@
   "question":"Whilst scanning the 144-146MHz band, you hear a foreign station on 144.8375MHz. This is probably due to",
   "answers": [
     {"correct":true, "answer":"An Internet Gateway operating on this frequency"},
-    {"correct":false, "answer":"Tropospheric Propagation occuring"},
-    {"correct":false, "answer":"F-layer propagation occuring"},
+    {"correct":false, "answer":"Tropospheric Propagation occurring"},
+    {"correct":false, "answer":"F-layer propagation occurring"},
     {"correct":false, "answer":"The foreign station transmitting in close proximity to your station"}
   ]
 },
@@ -1783,7 +1783,7 @@
   "number":5332,
   "question":"The RF Power Amplifier:",
   "answers": [
-    {"correct":true, "answer":"sets the level of ouput power for the transmitter"},
+    {"correct":true, "answer":"sets the level of output power for the transmitter"},
     {"correct":false, "answer":"modulates the waves produced within the transmitter"},
     {"correct":false, "answer":"converts the RF signal into AF signal so it can be heard through the loudspeaker"},
     {"correct":false, "answer":"changes the impedance of the transmitter to match that of the feeder-antenna system"}
@@ -2021,7 +2021,7 @@
 },
 {
   "number":5321,
-  "question":"A Vertically mounted half-wave diplole radiates...",
+  "question":"A Vertically mounted half-wave dipole radiates...",
   "answers": [
     {"correct":false, "answer":"Polarised"},
     {"correct":false, "answer":"One single direction"},
@@ -2341,7 +2341,7 @@
 },
 {
   "number":5323,
-  "question":"What is the range that your signals on 144MHz will approxiamatly travel?",
+  "question":"What is the range that your signals on 144MHz will approximately travel?",
   "answers": [
     {"correct":false, "answer":"To the end of your street"},
     {"correct":true, "answer":"To just beyond Line of sight"},
@@ -2461,7 +2461,7 @@
 },
 {
   "number":1291,
-  "question":"HF radio waves can propogate world wide by:",
+  "question":"HF radio waves can propagate world wide by:",
   "answers": [
     {"correct":true, "answer":"reflecting off of the ionosphere"},
     {"correct":false, "answer":"tunneling through conduits in the earth"},
@@ -2481,7 +2481,7 @@
 },
 {
   "number":5317,
-  "question":"Electromagnetic Compatability is:",
+  "question":"Electromagnetic Compatibility is:",
   "answers": [
     {"correct":true, "answer":"The avoidance of interference between various pieces of electronic equipment"},
     {"correct":false, "answer":"The interference between various pieces of electronic equipment."},
