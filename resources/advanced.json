@@ -74,7 +74,7 @@
   "number":1159,
   "question":"May a member of the UK Police Force operate an established amateur radio station?",
   "answers": [
-    {"correct":false, "answer":"Yes, for the purpose of passing messages on behalf of the UK Police Force during an operation or excercise coducted by the Police Force"},
+    {"correct":false, "answer":"Yes, for the purpose of passing messages on behalf of the UK Police Force during an operation or exercise conducted by the Police Force"},
     {"correct":true, "answer":"No, but the Licensee may permit the use of the station in order to pass messages on the Officer's behalf"},
     {"correct":false, "answer":"No, unless the Officer holds a current United Kingdom Amateur Radio License"},
     {"correct":false, "answer":"Yes, the Officer may use the amateur radio station to pass any message"}
@@ -87,7 +87,7 @@
     {"correct":true, "answer":"On behalf of User Services services"},
     {"correct":false, "answer":"For any social occasion"},
     {"correct":false, "answer":"Relating to the Armed Forces"},
-    {"correct":false, "answer":"On behlaf of the British Red Cross Society"}
+    {"correct":false, "answer":"On behalf of the British Red Cross Society"}
   ]
 },
 {
@@ -107,7 +107,7 @@
     {"correct":false, "answer":"The Emergency County Planning Officer"},
     {"correct":true, "answer":"A person who holds an Amateur Radio Certificate issued by the Secretary of State"},
     {"correct":false, "answer":"An officer of the British Red Cross society"},
-    {"correct":false, "answer":"An officer delgated by the local Chief Constable"}
+    {"correct":false, "answer":"An officer delegated by the local Chief Constable"}
   ]
 },
 {
@@ -168,7 +168,7 @@
     {"correct":false, "answer":"Taking part in disaster relief exercises conducted by the British Red Cross"},
     {"correct":false, "answer":"Taking part in disaster exercises conducted by any United Kingdom Fire and Rescue Service"},
     {"correct":true, "answer":"Receiving lawful transmissions within the framework of the United Kingdom Frequency Allocation Table which the Amateur is not licensed to receive  "},
-    {"correct":false, "answer":"Publicising the meetings of the local Church Youth Club, which is of interest to both parties11(1) The Licensee shall be permitted to use the Radio Equipment to discuss any topics ofmutual interest with other Amateurs, and to seek to receive and impart any information and any ideas. (The Licensee is also referred to note 7 which stipulates that such messages must not be of a menacing, gross and/or indecent or illegal character) "}
+    {"correct":false, "answer":"Publicising the meetings of the local Church Youth Club, which is of interest to both parties11(1) The Licensee shall be permitted to use the Radio Equipment to discuss any topics of mutual interest with other Amateurs, and to seek to receive and impart any information and any ideas. (The Licensee is also referred to note 7 which stipulates that such messages must not be of a menacing, gross and/or indecent or illegal character) "}
   ]
 },
 {
@@ -216,7 +216,7 @@
   "question":"The language used in messages exchanged between amateur radio stations",
   "answers": [
     {"correct":false, "answer":"Must be in the National Language of the licensee"},
-    {"correct":true, "answer":"Must not be offensive, osbscene or indecent in any way"},
+    {"correct":true, "answer":"Must not be offensive, obscene or indecent in any way"},
     {"correct":false, "answer":"Can be in cipher, code or secret language provided the General Manager of the Local Post Office area has been notified"},
     {"correct":false, "answer":"Must be spoken slowly and clearly using the recognised phonetic alphabet"}
   ]
@@ -453,7 +453,7 @@
 },
 {
   "number":1157,
-  "question":"The holder of an amateur radio licence wishes to make radio contactwith a station in another IARU region who is permitted to transmit on7.25MHz. The licensee is allowed to",
+  "question":"The holder of an amateur radio licence wishes to make radio contact with a station in another IARU region who is permitted to transmit on7.25MHz. The licensee is allowed to",
   "answers": [
     {"correct":false, "answer":"Transmit and receive on 7.25MHz"},
     {"correct":false, "answer":"Transmit briefly on 7.25MHz to request the station to move to a permitted part of the band"},
@@ -468,7 +468,7 @@
     {"correct":false, "answer":"A postfix to a callsign which identifies the country of origin"},
     {"correct":false, "answer":"The suffix which shows where the operator is located"},
     {"correct":true, "answer":"A letter in a UK callsign which designates the region of operation"},
-    {"correct":false, "answer":"An ofcom official responsible for checking amateur radio callsigns"}
+    {"correct":false, "answer":"An Ofcom official responsible for checking amateur radio callsigns"}
   ]
 },
 {
@@ -483,12 +483,12 @@
 },
 {
   "number":3,
-  "question":"A full licencee is permitted to:",
+  "question":"A full licensee is permitted to:",
   "answers": [
     {"correct":false, "answer":"Authorise a trainee to use their equipment unsupervised"},
-    {"correct":false, "answer":"Use the callsign belonging to the owner of the equipment they are usign"},
+    {"correct":false, "answer":"Use the callsign belonging to the owner of the equipment they are using"},
     {"correct":false, "answer":"Use 1500 watts of output power, provided they are taking part in a contest"},
-    {"correct":true, "answer":"Allow the operation of their station by a foreign (non-uk) licenced amateur"}
+    {"correct":true, "answer":"Allow the operation of their station by a foreign (non-uk) licensed amateur"}
   ]
 },
 {
@@ -503,7 +503,7 @@
 },
 {
   "number":5,
-  "question":"A UK Full licencee should use the following callsign if on holiday in South Africa:",
+  "question":"A UK Full licensee should use the following callsign if on holiday in South Africa:",
   "answers": [
     {"correct":false, "answer":"A temporary callsign issued by the South African licensing authority"},
     {"correct":false, "answer":"Their own callsign with the postfix /ZS"},
@@ -523,7 +523,7 @@
 },
 {
   "number":7,
-  "question":"A Full licencee may operate their station by remote control provided that:",
+  "question":"A Full licensee may operate their station by remote control provided that:",
   "answers": [
     {"correct":true, "answer":"There is a failsafe in place to prevent unintended transmissions"},
     {"correct":false, "answer":"SSL Encryption is used if the station is controlled over the internet"},
@@ -532,7 +532,7 @@
   ]
 },
 {
-  "question":"A Full licencee has replied to a CQ call on the 70cm band and moved to a working frequency. Whilst they are talking to the other amateur, they should give their callsign:",
+  "question":"A Full licensee has replied to a CQ call on the 70cm band and moved to a working frequency. Whilst they are talking to the other amateur, they should give their callsign:",
   "number":8,
   "answers": [
     {"correct":false, "answer":"Every 5 minutes"},
@@ -553,7 +553,7 @@
 },
 {
   "number":10,
-  "question":"Which of the following frequencies is a Full licencee allowed to use, on a non-interference basis?",
+  "question":"Which of the following frequencies is a Full licensee allowed to use, on a non-interference basis?",
   "answers": [
     {"correct":false, "answer":"2.4GHz"},
     {"correct":false, "answer":"7.15MHz"},
@@ -563,7 +563,7 @@
 },
 {
   "number":11,
-  "question":"A 13.8V transmitter is being powerd from a battery pack. On transmission, it is noticed that the battery voltage drops several volts below its nominal voltage. This is caused by:",
+  "question":"A 13.8V transmitter is being powered from a battery pack. On transmission, it is noticed that the battery voltage drops several volts below its nominal voltage. This is caused by:",
   "answers": [
     {"correct":false, "answer":"Faulty coaxial cable"},
     {"correct":false, "answer":"A poorly matched antenna"},
@@ -578,7 +578,7 @@
     {"correct":false, "answer":"Capacitor charge"},
     {"correct":false, "answer":"Capacitor voltage"},
     {"correct":false, "answer":"Circuit resistance"},
-    {"correct":true, "answer":"Voltage accross the resistor"}
+    {"correct":true, "answer":"Voltage across the resistor"}
   ]
 },
 {
@@ -603,7 +603,7 @@
 },
 {
   "number":15,
-  "question":"A 1:1 balun uses two coils of wire to provide a balanced output from unbalanced coaxial cable. The RF power is transfered to the output coil because of:",
+  "question":"A 1:1 balun uses two coils of wire to provide a balanced output from unbalanced coaxial cable. The RF power is transferred to the output coil because of:",
   "answers": [
     {"correct":false, "answer":"Electromagnetic induction"},
     {"correct":false, "answer":"Impedance match"},
@@ -643,7 +643,7 @@
 },
 {
   "number":19,
-  "question":"A mains transformer has a secondary winding which produces a 11v RMS output. The output goes into a half wave rectifier circuit with a single diode and a smoothing capcaitor. What is the maximum voltage across the diode on the non-conducting half-cycles? ",
+  "question":"A mains transformer has a secondary winding which produces a 11v RMS output. The output goes into a half wave rectifier circuit with a single diode and a smoothing capacitor. What is the maximum voltage across the diode on the non-conducting half-cycles? ",
   "answers": [
     {"correct":false, "answer":"15V"},
     {"correct":true, "answer":"27V"},
