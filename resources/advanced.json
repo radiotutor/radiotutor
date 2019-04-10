@@ -646,8 +646,8 @@
   "question":"A mains transformer has a secondary winding which produces a 11v RMS output. The output goes into a half wave rectifier circuit with a single diode and a smoothing capacitor. What is the maximum voltage across the diode on the non-conducting half-cycles? ",
   "answers": [
     {"correct":false, "answer":"15V"},
-    {"correct":true, "answer":"27V"},
-    {"correct":false, "answer":"31V"},
+    {"correct":false, "answer":"27V"},
+    {"correct":true, "answer":"31V"},
     {"correct":false, "answer":"41V"}
   ]
 },
