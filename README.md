@@ -38,7 +38,7 @@ RadioTutor provides free, online mock tests to help students prepare for UK Amat
 We strive to ensure that Radiotutor is as safe as possible. To do this, we use HTTPS as standard, and hash and salt user passwords using industry standard methods.
 
 # Requirements
-Linux box with LAMP. Our release instance is running on Amazon Linux AMI. For development, check out [Vagrant](https://www.vagrantup.com/)
+Linux box with Go environment installed. Our release instance is running on Amazon Linux AMI. For development, check out [Vagrant](https://www.vagrantup.com/)
 
 # Roadmap
 
@@ -50,7 +50,7 @@ Linux box with LAMP. Our release instance is running on Amazon Linux AMI. For de
 
 # Development Environment
 
-- Setup a linux box with [LAMP](https://howtoubuntu.org/how-to-install-lamp-on-ubuntu)
+- Setup a linux box with Go environment setup
 
 - Set up a Go environment using your OS of choice (https://golang.org/doc/install#install)
 
