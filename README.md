@@ -9,7 +9,7 @@
 	- [Is it safe?](https://github.com/radiotutor/radiotutor/#is-it-safe)
 - [Requirements](https://github.com/radiotutor/radiotutor/#requirements)
 - [Roadmap](https://github.com/radiotutor/radiotutor/#roadmap)
-- [Installation](https://github.com/radiotutor/radiotutor/#installation)
+- [Installation](https://github.com/radiotutor/radiotutor/#development-environment)
 
 # Introduction
 
