@@ -1301,7 +1301,7 @@
 },
 {
   "number":5148,
-  "question":"The following diagram shows a the circuit symbol of a <br><br><img  width='40%' src='https://cdn.rawgit.com/pe5er/30ff4a6b9a6a79a902f8cce6bdd22433/raw/810bb16ac36490e990108b909519079fb8a00971/f5148.svg'>",
+  "question":"The following diagram shows a the circuit symbol of a <br><br><img  width='40%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/foundation/f5148.svg'>",
   "answers": [
     {"correct":false, "answer":"Resistor"},
     {"correct":true, "answer":"Fuse"},
@@ -1311,7 +1311,7 @@
 },
 {
   "number":5149,
-  "question":"Identify the following symbols (in numerical order) <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/59938c7511b1707981be5dac33f06aad/raw/f2ee8745f210b9d051d39cabe85fba54c6ca1dd5/f5149.svg'>",
+  "question":"Identify the following symbols (in numerical order) <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/foundation/f5149.svg'>",
   "answers": [
     {"correct":false, "answer":"Double pole double throw switch, speaker, cell, fuse"},
     {"correct":false, "answer":"Single pole single throw switch, microphone, cell, resistor"},
@@ -1321,7 +1321,7 @@
 },
 {
   "number":5153,
-  "question":"Identify the following circuit symbols (in numerical order) <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/885624e65a30c348ac3b0cf0925e7eeb/raw/82ab35932f69972adbecf746469a3d41513e1171/f5153.svg'>",
+  "question":"Identify the following circuit symbols (in numerical order) <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/foundation/f5153.svg'>",
   "answers": [
     {"correct":false, "answer":"Earth, cell, microphone, speaker"},
     {"correct":true, "answer":"Earth, battery, speaker, microphone"},
@@ -1331,7 +1331,7 @@
 },
 {
   "number":5154,
-  "question":"Identify the following circuit symbols (in numerical order) <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/0b8976ba4f4648a452ea1924f2d18771/raw/2bc04b87ea2321ad1381bc18917dbeaebef6fccd/f5154.svg'>",	
+  "question":"Identify the following circuit symbols (in numerical order) <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/foundation/f5154.svg'>",
   "answers": [
     {"correct":false, "answer":"Antenna, microphone, lamp, battery"},
     {"correct":false, "answer":"Antenna, speaker, LED, cell"},
@@ -1851,7 +1851,7 @@
 },
 {
   "number":858,
-  "question":"In the receiver shown above tuning and rf amplification occur in which stage? <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/0da373bb7b02a8b7b8b2ccbcb80c580b/raw/c79a70f5816ab76cf3ccdcdfe52cdd6f9eef9fca/f858.svg'>",
+  "question":"In the receiver shown above tuning and rf amplification occur in which stage? <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/foundation/f858.svg'>",
   "answers": [
     {"correct":true, "answer":"1"},
     {"correct":false, "answer":"2"},
@@ -1881,7 +1881,7 @@
 },
 {
   "number":5320,
-  "question":"Where in a receiver is the tuning carried out? <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/0da373bb7b02a8b7b8b2ccbcb80c580b/raw/c79a70f5816ab76cf3ccdcdfe52cdd6f9eef9fca/f858.svg'>",
+  "question":"Where in a receiver is the tuning carried out? <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/foundation/f858.svg'>",
   "answers": [
     {"correct":true, "answer":"1"},
     {"correct":false, "answer":"1 and 2"},
@@ -1981,7 +1981,7 @@
 },
 {
   "number":844,
-  "question":"The antenna shown is a:  <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/79623d8686bbf9ae160f14fea194cb5f/raw/3deb07f5b72c0e3a0d9875a52067deeaf524b4d8/f844.svg'>",
+  "question":"The antenna shown is a:  <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/foundation/f844.svg'>",
   "answers": [
     {"correct":false, "answer":"dipole"},
     {"correct":false, "answer":"1/4 wave groundplane"},
@@ -2061,7 +2061,7 @@
 },
 {
   "number":187,
-  "question":"What type of antenna is shown? <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/dfd48a78ff9f5d2567e3005571a29d59/raw/58f73cd1adff1d109b78231f547e340ad2b0d0ac/f187.svg'>",
+  "question":"What type of antenna is shown? <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/foundation/f187.svg'>",
   "answers": [
     {"correct":true, "answer":"Yagi"},
     {"correct":false, "answer":"1/2 wave dipole"},
