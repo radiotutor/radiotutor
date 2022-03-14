@@ -43,7 +43,11 @@ Linux box with Go environment installed. Our release instance is running on Amaz
 # Roadmap
 
 - ~~Mock Test Functionality~~
-- User Accounts
+- ~~User Accounts~~
+- New Quiz API
+- Integration of 2019 syllabus questions
+- Rework frontend
+- Additional user account functionality
 - Course Structure
 - [Feature Requests](https://github.com/radiotutor/radiotutor/issues)
 
@@ -56,7 +60,7 @@ Linux box with Go environment installed. Our release instance is running on Amaz
 
 - Clone the RadioTutor repo: 
 ```
-go get github.com/pe5er/radiotutor
+go get github.com/radiotutor/radiotutor
 ```
 
 - Install the Redis package, https://redis.io/, either through your distro's package manager or by building from source
