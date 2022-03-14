@@ -1,6 +1,7 @@
 package main
 
 import (
+	"log"
 	"fmt"
 	"github.com/gin-gonic/autotls"
 	"github.com/gin-gonic/gin"
@@ -31,6 +32,6 @@ func main() {
 	} else {
 		fmt.Println("hello production world")
 		go HttpsRedirect().Run(":80")
-		autotls.Run(r, "radiotutor.uk")
+		log.Fatal(autotls.Run(r, "radiotutor.uk"))
 	}
 }
