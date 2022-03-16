@@ -573,7 +573,7 @@
 },
 {
   "number":12,
-  "question":"The diagram shows an RC circuit and a graph. The graph is showing a plot of: <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/4ee4bf55e1fd95ed77db2b9b36202367/raw/654632eff763022753564742f960a86750d5edd3/av000012.svg'>",
+  "question":"The diagram shows an RC circuit and a graph. The graph is showing a plot of: <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/advanced/av000012.svg'>",
   "answers": [
     {"correct":false, "answer":"Capacitor charge"},
     {"correct":false, "answer":"Capacitor voltage"},
@@ -593,7 +593,7 @@
 },
 {
   "number":14,
-  "question":"Which arrow on the graph shows the RMS value of the sine wave? <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/aa6d4d727795e291ceabc942373c5cd7/raw/eb1e5bb5ad793b453318c9fdd8d9d2fee2dcfbab/av000014.svg'>",
+  "question":"Which arrow on the graph shows the RMS value of the sine wave? <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/advanced/av000014.svg'>",
   "answers": [
     {"correct":false, "answer":"A"},
     {"correct":false, "answer":"B"},
@@ -623,7 +623,7 @@
 },
 {
   "number":17,
-  "question":"Which of the following circuits will provide a stable DC output, even with a variable load? <br><br><img  width='80%' src='https://cdn.rawgit.com/pe5er/804d604fc8446f6dee5329d6c94590d3/raw/5e7c28c16100811fd27fd47d8fb3007b6c10abd4/av000017.svg'>",
+  "question":"Which of the following circuits will provide a stable DC output, even with a variable load? <br><br><img  width='80%' src='https://radiotutor-assets.s3.eu-west-2.amazonaws.com/advanced/av000017.svg'>",
   "answers": [
     {"correct":true, "answer":"A"},
     {"correct":false, "answer":"B"},
